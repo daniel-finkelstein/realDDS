@@ -1,0 +1,3718 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 83
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Manticore HP:385/385 MP:172/172
+C-Lailah HP:212/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Gurulu HP:371/371 MP:166/166
+C-Tiamat HP:305/305 MP:296/296
+D-Lorelei HP:291/291 MP:283/283
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Manticore
+3-Nahobino
+4-Lailah
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:1136/1136 MP:413/413
+2-Gurulu HP:371/371 MP:166/166
+3-Tiamat HP:305/305 MP:296/296
+4-Lorelei HP:291/291 MP:283/283
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Vetala ataca a Tiamat
+Tiamat recibe 61 de daño
+Tiamat termina con HP:244/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Manticore HP:385/385 MP:172/172
+C-Lailah HP:212/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Gurulu HP:371/371 MP:166/166
+C-Tiamat HP:244/305 MP:296/296
+D-Lorelei HP:291/291 MP:283/283
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Nahobino
+3-Lailah
+4-Vetala
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:1136/1136 MP:413/413
+2-Gurulu HP:371/371 MP:166/166
+3-Tiamat HP:244/305 MP:296/296
+4-Lorelei HP:291/291 MP:283/283
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Manticore ataca a Lorelei
+Lorelei recibe 31 de daño
+Lorelei termina con HP:260/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Manticore HP:385/385 MP:172/172
+C-Lailah HP:212/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Gurulu HP:371/371 MP:166/166
+C-Tiamat HP:244/305 MP:296/296
+D-Lorelei HP:260/291 MP:283/283
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lailah
+3-Vetala
+4-Manticore
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1136/1136 MP:413/413
+2-Gurulu HP:371/371 MP:166/166
+3-Tiamat HP:244/305 MP:296/296
+4-Lorelei HP:260/291 MP:283/283
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Tiamat
+Tiamat recibe 29 de daño
+Tiamat termina con HP:215/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Manticore HP:385/385 MP:172/172
+C-Lailah HP:212/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Gurulu HP:371/371 MP:166/166
+C-Tiamat HP:215/305 MP:296/296
+D-Lorelei HP:260/291 MP:283/283
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Vetala
+3-Manticore
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Itsuki HP:1136/1136 MP:413/413
+2-Gurulu HP:371/371 MP:166/166
+3-Tiamat HP:215/305 MP:296/296
+4-Lorelei HP:260/291 MP:283/283
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Itsuki HP:1136/1136 MP:413/413
+2-Gurulu HP:371/371 MP:166/166
+3-Tiamat HP:215/305 MP:296/296
+4-Lorelei HP:260/291 MP:283/283
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Lailah ataca a Tiamat
+Tiamat recibe 22 de daño
+Tiamat termina con HP:193/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Manticore HP:385/385 MP:172/172
+C-Lailah HP:212/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Gurulu HP:371/371 MP:166/166
+C-Tiamat HP:193/305 MP:296/296
+D-Lorelei HP:260/291 MP:283/283
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Gurulu
+3-Tiamat
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:453/453 MP:389/389
+2-Manticore HP:385/385 MP:172/172
+3-Lailah HP:212/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Nahobino
+Nahobino recibe 45 de daño
+Nahobino termina con HP:408/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:408/453 MP:389/389
+B-Manticore HP:385/385 MP:172/172
+C-Lailah HP:212/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Gurulu HP:371/371 MP:166/166
+C-Tiamat HP:193/305 MP:296/296
+D-Lorelei HP:260/291 MP:283/283
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Tiamat
+3-Lorelei
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Nahobino HP:408/453 MP:389/389
+2-Manticore HP:385/385 MP:172/172
+3-Lailah HP:212/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Gurulu ataca a Lailah
+Lailah recibe 30 de daño
+Lailah termina con HP:182/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:408/453 MP:389/389
+B-Manticore HP:385/385 MP:172/172
+C-Lailah HP:182/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Gurulu HP:371/371 MP:166/166
+C-Tiamat HP:193/305 MP:296/296
+D-Lorelei HP:260/291 MP:283/283
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Lorelei
+3-Itsuki
+4-Gurulu
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Nahobino HP:408/453 MP:389/389
+2-Manticore HP:385/385 MP:172/172
+3-Lailah HP:182/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tiamat ataca a Manticore
+Manticore recibe 32 de daño
+Manticore termina con HP:353/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:408/453 MP:389/389
+B-Manticore HP:353/385 MP:172/172
+C-Lailah HP:182/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Gurulu HP:371/371 MP:166/166
+C-Tiamat HP:193/305 MP:296/296
+D-Lorelei HP:260/291 MP:283/283
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Itsuki
+3-Gurulu
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Nahobino HP:408/453 MP:389/389
+2-Manticore HP:353/385 MP:172/172
+3-Lailah HP:182/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Lorelei ataca a Nahobino
+Nahobino recibe 30 de daño
+Nahobino termina con HP:378/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Manticore HP:353/385 MP:172/172
+C-Lailah HP:182/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Gurulu HP:371/371 MP:166/166
+C-Tiamat HP:193/305 MP:296/296
+D-Lorelei HP:260/291 MP:283/283
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Manticore
+3-Nahobino
+4-Lailah
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:1136/1136 MP:413/413
+2-Gurulu HP:371/371 MP:166/166
+3-Tiamat HP:193/305 MP:296/296
+4-Lorelei HP:260/291 MP:283/283
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Vetala ataca a Tiamat
+Tiamat recibe 61 de daño
+Tiamat termina con HP:132/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Manticore HP:353/385 MP:172/172
+C-Lailah HP:182/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Gurulu HP:371/371 MP:166/166
+C-Tiamat HP:132/305 MP:296/296
+D-Lorelei HP:260/291 MP:283/283
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Nahobino
+3-Lailah
+4-Vetala
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:1136/1136 MP:413/413
+2-Gurulu HP:371/371 MP:166/166
+3-Tiamat HP:132/305 MP:296/296
+4-Lorelei HP:260/291 MP:283/283
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:1105/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Manticore HP:353/385 MP:172/172
+C-Lailah HP:182/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Gurulu HP:371/371 MP:166/166
+C-Tiamat HP:132/305 MP:296/296
+D-Lorelei HP:260/291 MP:283/283
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lailah
+3-Vetala
+4-Manticore
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1105/1136 MP:413/413
+2-Gurulu HP:371/371 MP:166/166
+3-Tiamat HP:132/305 MP:296/296
+4-Lorelei HP:260/291 MP:283/283
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Gurulu
+Gurulu recibe 83 de daño
+Gurulu termina con HP:288/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Manticore HP:353/385 MP:172/172
+C-Lailah HP:182/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Gurulu HP:288/371 MP:166/166
+C-Tiamat HP:132/305 MP:296/296
+D-Lorelei HP:260/291 MP:283/283
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Vetala
+3-Manticore
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Itsuki HP:1105/1136 MP:413/413
+2-Gurulu HP:288/371 MP:166/166
+3-Tiamat HP:132/305 MP:296/296
+4-Lorelei HP:260/291 MP:283/283
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Itsuki HP:1105/1136 MP:413/413
+2-Gurulu HP:288/371 MP:166/166
+3-Tiamat HP:132/305 MP:296/296
+4-Lorelei HP:260/291 MP:283/283
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Lailah ataca a Lorelei
+Lorelei recibe 22 de daño
+Lorelei termina con HP:238/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Manticore HP:353/385 MP:172/172
+C-Lailah HP:182/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Gurulu HP:288/371 MP:166/166
+C-Tiamat HP:132/305 MP:296/296
+D-Lorelei HP:238/291 MP:283/283
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Gurulu
+3-Tiamat
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:378/453 MP:389/389
+2-Manticore HP:353/385 MP:172/172
+3-Lailah HP:182/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Nahobino
+Nahobino recibe 45 de daño
+Nahobino termina con HP:333/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:333/453 MP:389/389
+B-Manticore HP:353/385 MP:172/172
+C-Lailah HP:182/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Gurulu HP:288/371 MP:166/166
+C-Tiamat HP:132/305 MP:296/296
+D-Lorelei HP:238/291 MP:283/283
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Tiamat
+3-Lorelei
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Nahobino HP:333/453 MP:389/389
+2-Manticore HP:353/385 MP:172/172
+3-Lailah HP:182/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Gurulu ataca a Manticore
+Manticore recibe 30 de daño
+Manticore termina con HP:323/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:333/453 MP:389/389
+B-Manticore HP:323/385 MP:172/172
+C-Lailah HP:182/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Gurulu HP:288/371 MP:166/166
+C-Tiamat HP:132/305 MP:296/296
+D-Lorelei HP:238/291 MP:283/283
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Lorelei
+3-Itsuki
+4-Gurulu
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Nahobino HP:333/453 MP:389/389
+2-Manticore HP:323/385 MP:172/172
+3-Lailah HP:182/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tiamat ataca a Lailah
+Lailah recibe 32 de daño
+Lailah termina con HP:150/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:333/453 MP:389/389
+B-Manticore HP:323/385 MP:172/172
+C-Lailah HP:150/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Gurulu HP:288/371 MP:166/166
+C-Tiamat HP:132/305 MP:296/296
+D-Lorelei HP:238/291 MP:283/283
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Itsuki
+3-Gurulu
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Nahobino HP:333/453 MP:389/389
+2-Manticore HP:323/385 MP:172/172
+3-Lailah HP:150/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Lorelei ataca a Lailah
+Lailah recibe 30 de daño
+Lailah termina con HP:120/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:333/453 MP:389/389
+B-Manticore HP:323/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Gurulu HP:288/371 MP:166/166
+C-Tiamat HP:132/305 MP:296/296
+D-Lorelei HP:238/291 MP:283/283
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Manticore
+3-Nahobino
+4-Lailah
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:1105/1136 MP:413/413
+2-Gurulu HP:288/371 MP:166/166
+3-Tiamat HP:132/305 MP:296/296
+4-Lorelei HP:238/291 MP:283/283
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:1105/1136 MP:413/413
+2-Gurulu HP:288/371 MP:166/166
+3-Tiamat HP:132/305 MP:296/296
+4-Lorelei HP:238/291 MP:283/283
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Vetala ataca a Tiamat
+Tiamat recibe 61 de daño
+Tiamat termina con HP:71/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:333/453 MP:389/389
+B-Manticore HP:323/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Gurulu HP:288/371 MP:166/166
+C-Tiamat HP:71/305 MP:296/296
+D-Lorelei HP:238/291 MP:283/283
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Nahobino
+3-Lailah
+4-Vetala
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:1105/1136 MP:413/413
+2-Gurulu HP:288/371 MP:166/166
+3-Tiamat HP:71/305 MP:296/296
+4-Lorelei HP:238/291 MP:283/283
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Manticore ataca a Gurulu
+Gurulu recibe 31 de daño
+Gurulu termina con HP:257/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:333/453 MP:389/389
+B-Manticore HP:323/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Gurulu HP:257/371 MP:166/166
+C-Tiamat HP:71/305 MP:296/296
+D-Lorelei HP:238/291 MP:283/283
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lailah
+3-Vetala
+4-Manticore
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1105/1136 MP:413/413
+2-Gurulu HP:257/371 MP:166/166
+3-Tiamat HP:71/305 MP:296/296
+4-Lorelei HP:238/291 MP:283/283
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1105/1136 MP:413/413
+2-Gurulu HP:257/371 MP:166/166
+3-Tiamat HP:71/305 MP:296/296
+4-Lorelei HP:238/291 MP:283/283
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino dispara a Tiamat
+Tiamat recibe 83 de daño
+Tiamat termina con HP:0/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:333/453 MP:389/389
+B-Manticore HP:323/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Gurulu HP:257/371 MP:166/166
+C-
+D-Lorelei HP:238/291 MP:283/283
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Vetala
+3-Manticore
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Itsuki HP:1105/1136 MP:413/413
+2-Gurulu HP:257/371 MP:166/166
+3-Lorelei HP:238/291 MP:283/283
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Itsuki HP:1105/1136 MP:413/413
+2-Gurulu HP:257/371 MP:166/166
+3-Lorelei HP:238/291 MP:283/283
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Lailah ataca a Gurulu
+Gurulu recibe 22 de daño
+Gurulu termina con HP:235/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:333/453 MP:389/389
+B-Manticore HP:323/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Gurulu HP:235/371 MP:166/166
+C-
+D-Lorelei HP:238/291 MP:283/283
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Gurulu
+3-Lorelei
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:333/453 MP:389/389
+2-Manticore HP:323/385 MP:172/172
+3-Lailah HP:120/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Manticore
+Manticore recibe 61 de daño
+Manticore termina con HP:262/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:333/453 MP:389/389
+B-Manticore HP:262/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Gurulu HP:235/371 MP:166/166
+C-
+D-Lorelei HP:238/291 MP:283/283
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Lorelei
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Nahobino HP:333/453 MP:389/389
+2-Manticore HP:262/385 MP:172/172
+3-Lailah HP:120/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Gurulu ataca a Manticore
+Manticore recibe 30 de daño
+Manticore termina con HP:232/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:333/453 MP:389/389
+B-Manticore HP:232/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Gurulu HP:235/371 MP:166/166
+C-
+D-Lorelei HP:238/291 MP:283/283
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Itsuki
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Nahobino HP:333/453 MP:389/389
+2-Manticore HP:232/385 MP:172/172
+3-Lailah HP:120/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Nahobino HP:333/453 MP:389/389
+2-Manticore HP:232/385 MP:172/172
+3-Lailah HP:120/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Lorelei ataca a Manticore
+Manticore recibe 30 de daño
+Manticore termina con HP:202/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:333/453 MP:389/389
+B-Manticore HP:202/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Gurulu HP:235/371 MP:166/166
+C-
+D-Lorelei HP:238/291 MP:283/283
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Manticore
+3-Nahobino
+4-Lailah
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:1105/1136 MP:413/413
+2-Gurulu HP:235/371 MP:166/166
+3-Lorelei HP:238/291 MP:283/283
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:1105/1136 MP:413/413
+2-Gurulu HP:235/371 MP:166/166
+3-Lorelei HP:238/291 MP:283/283
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:1044/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:333/453 MP:389/389
+B-Manticore HP:202/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1044/1136 MP:413/413
+B-Gurulu HP:235/371 MP:166/166
+C-
+D-Lorelei HP:238/291 MP:283/283
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Nahobino
+3-Lailah
+4-Vetala
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:1044/1136 MP:413/413
+2-Gurulu HP:235/371 MP:166/166
+3-Lorelei HP:238/291 MP:283/283
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Manticore ataca a Lorelei
+Lorelei recibe 31 de daño
+Lorelei termina con HP:207/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:333/453 MP:389/389
+B-Manticore HP:202/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1044/1136 MP:413/413
+B-Gurulu HP:235/371 MP:166/166
+C-
+D-Lorelei HP:207/291 MP:283/283
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lailah
+3-Vetala
+4-Manticore
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1044/1136 MP:413/413
+2-Gurulu HP:235/371 MP:166/166
+3-Lorelei HP:207/291 MP:283/283
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:961/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:333/453 MP:389/389
+B-Manticore HP:202/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:961/1136 MP:413/413
+B-Gurulu HP:235/371 MP:166/166
+C-
+D-Lorelei HP:207/291 MP:283/283
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Vetala
+3-Manticore
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Itsuki HP:961/1136 MP:413/413
+2-Gurulu HP:235/371 MP:166/166
+3-Lorelei HP:207/291 MP:283/283
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lailah ataca a Lorelei
+Lorelei recibe 22 de daño
+Lorelei termina con HP:185/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:333/453 MP:389/389
+B-Manticore HP:202/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:961/1136 MP:413/413
+B-Gurulu HP:235/371 MP:166/166
+C-
+D-Lorelei HP:185/291 MP:283/283
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Gurulu
+3-Lorelei
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:333/453 MP:389/389
+2-Manticore HP:202/385 MP:172/172
+3-Lailah HP:120/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Manticore
+Manticore recibe 61 de daño
+Manticore termina con HP:141/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:333/453 MP:389/389
+B-Manticore HP:141/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:961/1136 MP:413/413
+B-Gurulu HP:235/371 MP:166/166
+C-
+D-Lorelei HP:185/291 MP:283/283
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Lorelei
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Nahobino HP:333/453 MP:389/389
+2-Manticore HP:141/385 MP:172/172
+3-Lailah HP:120/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Gurulu ataca a Nahobino
+Nahobino recibe 30 de daño
+Nahobino termina con HP:303/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Manticore HP:141/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:961/1136 MP:413/413
+B-Gurulu HP:235/371 MP:166/166
+C-
+D-Lorelei HP:185/291 MP:283/283
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Itsuki
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Nahobino HP:303/453 MP:389/389
+2-Manticore HP:141/385 MP:172/172
+3-Lailah HP:120/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Lorelei ataca a Manticore
+Manticore recibe 30 de daño
+Manticore termina con HP:111/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Manticore HP:111/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:961/1136 MP:413/413
+B-Gurulu HP:235/371 MP:166/166
+C-
+D-Lorelei HP:185/291 MP:283/283
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Manticore
+3-Nahobino
+4-Lailah
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:961/1136 MP:413/413
+2-Gurulu HP:235/371 MP:166/166
+3-Lorelei HP:185/291 MP:283/283
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Vetala ataca a Gurulu
+Gurulu recibe 61 de daño
+Gurulu termina con HP:174/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Manticore HP:111/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:961/1136 MP:413/413
+B-Gurulu HP:174/371 MP:166/166
+C-
+D-Lorelei HP:185/291 MP:283/283
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Nahobino
+3-Lailah
+4-Vetala
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:961/1136 MP:413/413
+2-Gurulu HP:174/371 MP:166/166
+3-Lorelei HP:185/291 MP:283/283
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Manticore ataca a Gurulu
+Gurulu recibe 31 de daño
+Gurulu termina con HP:143/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Manticore HP:111/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:961/1136 MP:413/413
+B-Gurulu HP:143/371 MP:166/166
+C-
+D-Lorelei HP:185/291 MP:283/283
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lailah
+3-Vetala
+4-Manticore
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:961/1136 MP:413/413
+2-Gurulu HP:143/371 MP:166/166
+3-Lorelei HP:185/291 MP:283/283
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:878/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Manticore HP:111/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:878/1136 MP:413/413
+B-Gurulu HP:143/371 MP:166/166
+C-
+D-Lorelei HP:185/291 MP:283/283
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Vetala
+3-Manticore
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Itsuki HP:878/1136 MP:413/413
+2-Gurulu HP:143/371 MP:166/166
+3-Lorelei HP:185/291 MP:283/283
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Lailah ataca a Itsuki
+Itsuki recibe 22 de daño
+Itsuki termina con HP:856/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Manticore HP:111/385 MP:172/172
+C-Lailah HP:120/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:856/1136 MP:413/413
+B-Gurulu HP:143/371 MP:166/166
+C-
+D-Lorelei HP:185/291 MP:283/283
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Gurulu
+3-Lorelei
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:303/453 MP:389/389
+2-Manticore HP:111/385 MP:172/172
+3-Lailah HP:120/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Lailah
+Lailah recibe 45 de daño
+Lailah termina con HP:75/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Manticore HP:111/385 MP:172/172
+C-Lailah HP:75/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:856/1136 MP:413/413
+B-Gurulu HP:143/371 MP:166/166
+C-
+D-Lorelei HP:185/291 MP:283/283
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Lorelei
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Nahobino HP:303/453 MP:389/389
+2-Manticore HP:111/385 MP:172/172
+3-Lailah HP:75/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Nahobino HP:303/453 MP:389/389
+2-Manticore HP:111/385 MP:172/172
+3-Lailah HP:75/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Gurulu ataca a Manticore
+Manticore recibe 30 de daño
+Manticore termina con HP:81/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Manticore HP:81/385 MP:172/172
+C-Lailah HP:75/212 MP:205/205
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:856/1136 MP:413/413
+B-Gurulu HP:143/371 MP:166/166
+C-
+D-Lorelei HP:185/291 MP:283/283
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Itsuki
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Nahobino HP:303/453 MP:389/389
+2-Manticore HP:81/385 MP:172/172
+3-Lailah HP:75/212 MP:205/205
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Lorelei ataca a Vetala
+Vetala recibe 30 de daño
+Vetala termina con HP:764/794
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Manticore HP:81/385 MP:172/172
+C-Lailah HP:75/212 MP:205/205
+D-Vetala HP:764/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:856/1136 MP:413/413
+B-Gurulu HP:143/371 MP:166/166
+C-
+D-Lorelei HP:185/291 MP:283/283
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Manticore
+3-Nahobino
+4-Lailah
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:856/1136 MP:413/413
+2-Gurulu HP:143/371 MP:166/166
+3-Lorelei HP:185/291 MP:283/283
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Vetala ataca a Gurulu
+Gurulu recibe 61 de daño
+Gurulu termina con HP:82/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Manticore HP:81/385 MP:172/172
+C-Lailah HP:75/212 MP:205/205
+D-Vetala HP:764/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:856/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-Lorelei HP:185/291 MP:283/283
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Nahobino
+3-Lailah
+4-Vetala
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:856/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:185/291 MP:283/283
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:856/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:185/291 MP:283/283
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Manticore ataca a Lorelei
+Lorelei recibe 31 de daño
+Lorelei termina con HP:154/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Manticore HP:81/385 MP:172/172
+C-Lailah HP:75/212 MP:205/205
+D-Vetala HP:764/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:856/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-Lorelei HP:154/291 MP:283/283
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lailah
+3-Vetala
+4-Manticore
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:856/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:154/291 MP:283/283
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:856/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:154/291 MP:283/283
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:856/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:154/291 MP:283/283
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:856/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:154/291 MP:283/283
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:856/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:154/291 MP:283/283
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:827/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Manticore HP:81/385 MP:172/172
+C-Lailah HP:75/212 MP:205/205
+D-Vetala HP:764/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:827/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-Lorelei HP:154/291 MP:283/283
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Vetala
+3-Manticore
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Itsuki HP:827/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:154/291 MP:283/283
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Itsuki HP:827/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:154/291 MP:283/283
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Lailah ataca a Itsuki
+Itsuki recibe 22 de daño
+Itsuki termina con HP:805/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Manticore HP:81/385 MP:172/172
+C-Lailah HP:75/212 MP:205/205
+D-Vetala HP:764/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:805/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-Lorelei HP:154/291 MP:283/283
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Gurulu
+3-Lorelei
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:303/453 MP:389/389
+2-Manticore HP:81/385 MP:172/172
+3-Lailah HP:75/212 MP:205/205
+4-Vetala HP:764/794 MP:157/157
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Lailah
+Lailah recibe 61 de daño
+Lailah termina con HP:14/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Manticore HP:81/385 MP:172/172
+C-Lailah HP:14/212 MP:205/205
+D-Vetala HP:764/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:805/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-Lorelei HP:154/291 MP:283/283
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Lorelei
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Nahobino HP:303/453 MP:389/389
+2-Manticore HP:81/385 MP:172/172
+3-Lailah HP:14/212 MP:205/205
+4-Vetala HP:764/794 MP:157/157
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Gurulu ataca a Nahobino
+Nahobino recibe 30 de daño
+Nahobino termina con HP:273/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:273/453 MP:389/389
+B-Manticore HP:81/385 MP:172/172
+C-Lailah HP:14/212 MP:205/205
+D-Vetala HP:764/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:805/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-Lorelei HP:154/291 MP:283/283
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Itsuki
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Nahobino HP:273/453 MP:389/389
+2-Manticore HP:81/385 MP:172/172
+3-Lailah HP:14/212 MP:205/205
+4-Vetala HP:764/794 MP:157/157
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Lorelei ataca a Manticore
+Manticore recibe 30 de daño
+Manticore termina con HP:51/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:273/453 MP:389/389
+B-Manticore HP:51/385 MP:172/172
+C-Lailah HP:14/212 MP:205/205
+D-Vetala HP:764/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:805/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-Lorelei HP:154/291 MP:283/283
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Manticore
+3-Nahobino
+4-Lailah
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:805/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:154/291 MP:283/283
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:805/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:154/291 MP:283/283
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Vetala ataca a Lorelei
+Lorelei recibe 61 de daño
+Lorelei termina con HP:93/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:273/453 MP:389/389
+B-Manticore HP:51/385 MP:172/172
+C-Lailah HP:14/212 MP:205/205
+D-Vetala HP:764/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:805/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-Lorelei HP:93/291 MP:283/283
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Nahobino
+3-Lailah
+4-Vetala
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:805/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:93/291 MP:283/283
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:774/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:273/453 MP:389/389
+B-Manticore HP:51/385 MP:172/172
+C-Lailah HP:14/212 MP:205/205
+D-Vetala HP:764/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:774/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-Lorelei HP:93/291 MP:283/283
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lailah
+3-Vetala
+4-Manticore
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:774/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:93/291 MP:283/283
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:774/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:93/291 MP:283/283
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:745/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:273/453 MP:389/389
+B-Manticore HP:51/385 MP:172/172
+C-Lailah HP:14/212 MP:205/205
+D-Vetala HP:764/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:745/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-Lorelei HP:93/291 MP:283/283
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Vetala
+3-Manticore
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Itsuki HP:745/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:93/291 MP:283/283
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lailah ataca a Lorelei
+Lorelei recibe 22 de daño
+Lorelei termina con HP:71/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:273/453 MP:389/389
+B-Manticore HP:51/385 MP:172/172
+C-Lailah HP:14/212 MP:205/205
+D-Vetala HP:764/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:745/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-Lorelei HP:71/291 MP:283/283
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Gurulu
+3-Lorelei
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:273/453 MP:389/389
+2-Manticore HP:51/385 MP:172/172
+3-Lailah HP:14/212 MP:205/205
+4-Vetala HP:764/794 MP:157/157
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Lailah
+Lailah recibe 61 de daño
+Lailah termina con HP:0/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:273/453 MP:389/389
+B-Manticore HP:51/385 MP:172/172
+C-
+D-Vetala HP:764/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:745/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-Lorelei HP:71/291 MP:283/283
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Lorelei
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Nahobino HP:273/453 MP:389/389
+2-Manticore HP:51/385 MP:172/172
+3-Vetala HP:764/794 MP:157/157
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Gurulu ataca a Nahobino
+Nahobino recibe 30 de daño
+Nahobino termina con HP:243/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:243/453 MP:389/389
+B-Manticore HP:51/385 MP:172/172
+C-
+D-Vetala HP:764/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:745/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-Lorelei HP:71/291 MP:283/283
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Itsuki
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Nahobino HP:243/453 MP:389/389
+2-Manticore HP:51/385 MP:172/172
+3-Vetala HP:764/794 MP:157/157
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Nahobino HP:243/453 MP:389/389
+2-Manticore HP:51/385 MP:172/172
+3-Vetala HP:764/794 MP:157/157
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lorelei ataca a Vetala
+Vetala recibe 30 de daño
+Vetala termina con HP:734/794
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:243/453 MP:389/389
+B-Manticore HP:51/385 MP:172/172
+C-
+D-Vetala HP:734/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:745/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-Lorelei HP:71/291 MP:283/283
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Manticore
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:745/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:71/291 MP:283/283
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:684/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:243/453 MP:389/389
+B-Manticore HP:51/385 MP:172/172
+C-
+D-Vetala HP:734/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:684/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-Lorelei HP:71/291 MP:283/283
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Nahobino
+3-Vetala
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:684/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:71/291 MP:283/283
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:684/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:71/291 MP:283/283
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:653/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:243/453 MP:389/389
+B-Manticore HP:51/385 MP:172/172
+C-
+D-Vetala HP:734/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:653/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-Lorelei HP:71/291 MP:283/283
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Vetala
+3-Manticore
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:653/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Lorelei HP:71/291 MP:283/283
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino dispara a Lorelei
+Lorelei recibe 83 de daño
+Lorelei termina con HP:0/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:243/453 MP:389/389
+B-Manticore HP:51/385 MP:172/172
+C-
+D-Vetala HP:734/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:653/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Gurulu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:243/453 MP:389/389
+2-Manticore HP:51/385 MP:172/172
+3-Vetala HP:734/794 MP:157/157
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Vetala
+Vetala recibe 61 de daño
+Vetala termina con HP:673/794
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:243/453 MP:389/389
+B-Manticore HP:51/385 MP:172/172
+C-
+D-Vetala HP:673/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:653/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Nahobino HP:243/453 MP:389/389
+2-Manticore HP:51/385 MP:172/172
+3-Vetala HP:673/794 MP:157/157
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Gurulu ataca a Vetala
+Vetala recibe 30 de daño
+Vetala termina con HP:643/794
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:243/453 MP:389/389
+B-Manticore HP:51/385 MP:172/172
+C-
+D-Vetala HP:643/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:653/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Manticore
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:653/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:592/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:243/453 MP:389/389
+B-Manticore HP:51/385 MP:172/172
+C-
+D-Vetala HP:643/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:592/1136 MP:413/413
+B-Gurulu HP:82/371 MP:166/166
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Nahobino
+3-Vetala
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:592/1136 MP:413/413
+2-Gurulu HP:82/371 MP:166/166
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Manticore ataca a Gurulu
+Gurulu recibe 31 de daño
+Gurulu termina con HP:51/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:243/453 MP:389/389
+B-Manticore HP:51/385 MP:172/172
+C-
+D-Vetala HP:643/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:592/1136 MP:413/413
+B-Gurulu HP:51/371 MP:166/166
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Vetala
+3-Manticore
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:592/1136 MP:413/413
+2-Gurulu HP:51/371 MP:166/166
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:592/1136 MP:413/413
+2-Gurulu HP:51/371 MP:166/166
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:592/1136 MP:413/413
+2-Gurulu HP:51/371 MP:166/166
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:592/1136 MP:413/413
+2-Gurulu HP:51/371 MP:166/166
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:592/1136 MP:413/413
+2-Gurulu HP:51/371 MP:166/166
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:592/1136 MP:413/413
+2-Gurulu HP:51/371 MP:166/166
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca a Gurulu
+Gurulu recibe 29 de daño
+Gurulu termina con HP:22/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:243/453 MP:389/389
+B-Manticore HP:51/385 MP:172/172
+C-
+D-Vetala HP:643/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:592/1136 MP:413/413
+B-Gurulu HP:22/371 MP:166/166
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Gurulu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:243/453 MP:389/389
+2-Manticore HP:51/385 MP:172/172
+3-Vetala HP:643/794 MP:157/157
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Manticore
+Manticore recibe 45 de daño
+Manticore termina con HP:6/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:243/453 MP:389/389
+B-Manticore HP:6/385 MP:172/172
+C-
+D-Vetala HP:643/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:592/1136 MP:413/413
+B-Gurulu HP:22/371 MP:166/166
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Nahobino HP:243/453 MP:389/389
+2-Manticore HP:6/385 MP:172/172
+3-Vetala HP:643/794 MP:157/157
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Gurulu ataca a Vetala
+Vetala recibe 30 de daño
+Vetala termina con HP:613/794
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:243/453 MP:389/389
+B-Manticore HP:6/385 MP:172/172
+C-
+D-Vetala HP:613/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:592/1136 MP:413/413
+B-Gurulu HP:22/371 MP:166/166
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Manticore
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:592/1136 MP:413/413
+2-Gurulu HP:22/371 MP:166/166
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:531/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:243/453 MP:389/389
+B-Manticore HP:6/385 MP:172/172
+C-
+D-Vetala HP:613/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:531/1136 MP:413/413
+B-Gurulu HP:22/371 MP:166/166
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Nahobino
+3-Vetala
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:531/1136 MP:413/413
+2-Gurulu HP:22/371 MP:166/166
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:500/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:243/453 MP:389/389
+B-Manticore HP:6/385 MP:172/172
+C-
+D-Vetala HP:613/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:500/1136 MP:413/413
+B-Gurulu HP:22/371 MP:166/166
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Vetala
+3-Manticore
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:500/1136 MP:413/413
+2-Gurulu HP:22/371 MP:166/166
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Gurulu
+Gurulu recibe 83 de daño
+Gurulu termina con HP:0/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:243/453 MP:389/389
+B-Manticore HP:6/385 MP:172/172
+C-
+D-Vetala HP:613/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:500/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:243/453 MP:389/389
+2-Manticore HP:6/385 MP:172/172
+3-Vetala HP:613/794 MP:157/157
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:243/453 MP:389/389
+2-Manticore HP:6/385 MP:172/172
+3-Vetala HP:613/794 MP:157/157
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Nahobino
+Nahobino recibe 61 de daño
+Nahobino termina con HP:182/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:182/453 MP:389/389
+B-Manticore HP:6/385 MP:172/172
+C-
+D-Vetala HP:613/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:500/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Manticore
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:500/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:439/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:182/453 MP:389/389
+B-Manticore HP:6/385 MP:172/172
+C-
+D-Vetala HP:613/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:439/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Nahobino
+3-Vetala
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:439/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:408/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:182/453 MP:389/389
+B-Manticore HP:6/385 MP:172/172
+C-
+D-Vetala HP:613/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:408/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Vetala
+3-Manticore
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:408/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:325/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:182/453 MP:389/389
+B-Manticore HP:6/385 MP:172/172
+C-
+D-Vetala HP:613/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:325/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:182/453 MP:389/389
+2-Manticore HP:6/385 MP:172/172
+3-Vetala HP:613/794 MP:157/157
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Manticore
+Manticore recibe 61 de daño
+Manticore termina con HP:0/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:182/453 MP:389/389
+B-
+C-
+D-Vetala HP:613/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:325/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:325/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:264/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:182/453 MP:389/389
+B-
+C-
+D-Vetala HP:613/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:264/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Vetala
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:264/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:181/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:182/453 MP:389/389
+B-
+C-
+D-Vetala HP:613/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:181/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:182/453 MP:389/389
+2-Vetala HP:613/794 MP:157/157
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:182/453 MP:389/389
+2-Vetala HP:613/794 MP:157/157
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Nahobino
+Nahobino recibe 45 de daño
+Nahobino termina con HP:137/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:137/453 MP:389/389
+B-
+C-
+D-Vetala HP:613/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:181/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:181/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:120/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:137/453 MP:389/389
+B-
+C-
+D-Vetala HP:613/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:120/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Vetala
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:120/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:91/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:137/453 MP:389/389
+B-
+C-
+D-Vetala HP:613/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:91/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:137/453 MP:389/389
+2-Vetala HP:613/794 MP:157/157
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Vetala
+Vetala recibe 61 de daño
+Vetala termina con HP:552/794
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:137/453 MP:389/389
+B-
+C-
+D-Vetala HP:552/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:91/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:91/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:91/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:30/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:137/453 MP:389/389
+B-
+C-
+D-Vetala HP:552/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:30/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Vetala
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:30/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:30/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:0/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Nahobino (J1)

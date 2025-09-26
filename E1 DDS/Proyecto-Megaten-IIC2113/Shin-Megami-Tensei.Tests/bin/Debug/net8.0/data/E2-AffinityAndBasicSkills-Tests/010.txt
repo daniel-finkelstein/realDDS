@@ -1,0 +1,415 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 9
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Goblin HP:322/322 MP:63/63
+C-Koumokuten HP:378/378 MP:170/170
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Alciel HP:719/719 MP:143/143
+C-Girimekhala HP:653/653 MP:130/130
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Tadano
+3-Goblin
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Koumokuten use
+1-Megaton Press MP:17
+2-Ziodyne MP:14
+3-Mortal Jihad MP:13
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Alciel HP:719/719 MP:143/143
+3-Girimekhala HP:653/653 MP:130/130
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Koumokuten ataca a Girimekhala
+Girimekhala devuelve 109 daño a Koumokuten
+Koumokuten termina con HP:269/378
+----------------------------------------
+Se han consumido 4 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Goblin HP:322/322 MP:63/63
+C-Koumokuten HP:269/378 MP:157/170
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Alciel HP:719/719 MP:143/143
+C-Girimekhala HP:653/653 MP:130/130
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Alciel
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Goblin HP:322/322 MP:63/63
+C-Koumokuten HP:269/378 MP:157/170
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Alciel HP:719/719 MP:143/143
+C-Girimekhala HP:653/653 MP:130/130
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alciel
+2-Girimekhala
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Alciel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Goblin HP:322/322 MP:63/63
+C-Koumokuten HP:269/378 MP:157/170
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Alciel HP:719/719 MP:143/143
+C-Girimekhala HP:653/653 MP:130/130
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Demi-Fiend
+3-Alciel
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Goblin HP:322/322 MP:63/63
+C-Koumokuten HP:269/378 MP:157/170
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Alciel HP:719/719 MP:143/143
+C-Girimekhala HP:653/653 MP:130/130
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Alciel
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Goblin HP:322/322 MP:63/63
+C-Koumokuten HP:269/378 MP:157/170
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Alciel HP:719/719 MP:143/143
+C-Girimekhala HP:653/653 MP:130/130
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alciel
+2-Girimekhala
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Alciel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Goblin HP:322/322 MP:63/63
+C-Koumokuten HP:269/378 MP:157/170
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Alciel HP:719/719 MP:143/143
+C-Girimekhala HP:653/653 MP:130/130
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Demi-Fiend
+3-Alciel
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Goblin HP:322/322 MP:63/63
+C-Koumokuten HP:269/378 MP:157/170
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Alciel HP:719/719 MP:143/143
+C-Girimekhala HP:653/653 MP:130/130
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Tadano
+3-Goblin
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Koumokuten use
+1-Megaton Press MP:17
+2-Ziodyne MP:14
+3-Mortal Jihad MP:13
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Alciel HP:719/719 MP:143/143
+3-Girimekhala HP:653/653 MP:130/130
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Koumokuten ataca a Alciel
+Alciel es débil contra el ataque de Koumokuten
+Alciel recibe 164 de daño
+Alciel termina con HP:555/719
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Goblin HP:322/322 MP:63/63
+C-Koumokuten HP:269/378 MP:144/170
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Alciel HP:555/719 MP:143/143
+C-Girimekhala HP:653/653 MP:130/130
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Goblin
+3-Tam Lin
+4-Koumokuten
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Lunge MP:6
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Alciel HP:555/719 MP:143/143
+3-Girimekhala HP:653/653 MP:130/130
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tadano ataca a Girimekhala
+Girimekhala devuelve 49 daño a Tadano
+Tadano termina con HP:339/388
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:339/388 MP:187/193
+B-Goblin HP:322/322 MP:63/63
+C-Koumokuten HP:269/378 MP:144/170
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Alciel HP:555/719 MP:143/143
+C-Girimekhala HP:653/653 MP:130/130
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Alciel
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Demi-Fiend (J2) se rinde
+----------------------------------------
+Ganador: Tadano (J1)

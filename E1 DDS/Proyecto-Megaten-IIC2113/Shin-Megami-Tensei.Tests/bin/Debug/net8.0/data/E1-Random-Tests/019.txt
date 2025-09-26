@@ -1,0 +1,3016 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 18
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:277/277 MP:269/269
+C-Yurlungur HP:202/202 MP:196/196
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Tam Lin HP:218/218 MP:43/43
+C-Ometeotl HP:324/324 MP:315/315
+D-Koppa Tengu HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Inugami
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:140/140 MP:411/411
+2-Tam Lin HP:218/218 MP:43/43
+3-Ometeotl HP:324/324 MP:315/315
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Nanashi
+Nanashi recibe 39 de daño
+Nanashi termina con HP:101/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:277/277 MP:269/269
+C-Yurlungur HP:202/202 MP:196/196
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:101/140 MP:411/411
+B-Tam Lin HP:218/218 MP:43/43
+C-Ometeotl HP:324/324 MP:315/315
+D-Koppa Tengu HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Yurlungur
+4-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Nanashi HP:101/140 MP:411/411
+2-Tam Lin HP:218/218 MP:43/43
+3-Ometeotl HP:324/324 MP:315/315
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Nanashi
+Nanashi recibe 29 de daño
+Nanashi termina con HP:72/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:277/277 MP:269/269
+C-Yurlungur HP:202/202 MP:196/196
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:72/140 MP:411/411
+B-Tam Lin HP:218/218 MP:43/43
+C-Ometeotl HP:324/324 MP:315/315
+D-Koppa Tengu HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Yurlungur
+3-Joker
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Nanashi HP:72/140 MP:411/411
+2-Tam Lin HP:218/218 MP:43/43
+3-Ometeotl HP:324/324 MP:315/315
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Nanashi
+Nanashi recibe 17 de daño
+Nanashi termina con HP:55/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:277/277 MP:269/269
+C-Yurlungur HP:202/202 MP:196/196
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:55/140 MP:411/411
+B-Tam Lin HP:218/218 MP:43/43
+C-Ometeotl HP:324/324 MP:315/315
+D-Koppa Tengu HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Joker
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Nanashi HP:55/140 MP:411/411
+2-Tam Lin HP:218/218 MP:43/43
+3-Ometeotl HP:324/324 MP:315/315
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yurlungur ataca a Tam Lin
+Tam Lin recibe 20 de daño
+Tam Lin termina con HP:198/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:277/277 MP:269/269
+C-Yurlungur HP:202/202 MP:196/196
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:55/140 MP:411/411
+B-Tam Lin HP:198/218 MP:43/43
+C-Ometeotl HP:324/324 MP:315/315
+D-Koppa Tengu HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Nanashi
+3-Koppa Tengu
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:597/597 MP:347/347
+2-Dormarth HP:277/277 MP:269/269
+3-Yurlungur HP:202/202 MP:196/196
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:597/597 MP:347/347
+2-Dormarth HP:277/277 MP:269/269
+3-Yurlungur HP:202/202 MP:196/196
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:597/597 MP:347/347
+2-Dormarth HP:277/277 MP:269/269
+3-Yurlungur HP:202/202 MP:196/196
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ometeotl ataca a Yurlungur
+Yurlungur recibe 34 de daño
+Yurlungur termina con HP:168/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:277/277 MP:269/269
+C-Yurlungur HP:168/202 MP:196/196
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:55/140 MP:411/411
+B-Tam Lin HP:198/218 MP:43/43
+C-Ometeotl HP:324/324 MP:315/315
+D-Koppa Tengu HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Koppa Tengu
+3-Tam Lin
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:597/597 MP:347/347
+2-Dormarth HP:277/277 MP:269/269
+3-Yurlungur HP:168/202 MP:196/196
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nanashi ataca a Inugami
+Inugami recibe 92 de daño
+Inugami termina con HP:122/214
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:277/277 MP:269/269
+C-Yurlungur HP:168/202 MP:196/196
+D-Inugami HP:122/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:55/140 MP:411/411
+B-Tam Lin HP:198/218 MP:43/43
+C-Ometeotl HP:324/324 MP:315/315
+D-Koppa Tengu HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Tam Lin
+3-Ometeotl
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Joker HP:597/597 MP:347/347
+2-Dormarth HP:277/277 MP:269/269
+3-Yurlungur HP:168/202 MP:196/196
+4-Inugami HP:122/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Koppa Tengu ataca a Dormarth
+Dormarth recibe 14 de daño
+Dormarth termina con HP:263/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:263/277 MP:269/269
+C-Yurlungur HP:168/202 MP:196/196
+D-Inugami HP:122/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:55/140 MP:411/411
+B-Tam Lin HP:198/218 MP:43/43
+C-Ometeotl HP:324/324 MP:315/315
+D-Koppa Tengu HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Ometeotl
+3-Nanashi
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:597/597 MP:347/347
+2-Dormarth HP:263/277 MP:269/269
+3-Yurlungur HP:168/202 MP:196/196
+4-Inugami HP:122/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tam Lin ataca a Dormarth
+Dormarth recibe 14 de daño
+Dormarth termina con HP:249/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:249/277 MP:269/269
+C-Yurlungur HP:168/202 MP:196/196
+D-Inugami HP:122/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:55/140 MP:411/411
+B-Tam Lin HP:198/218 MP:43/43
+C-Ometeotl HP:324/324 MP:315/315
+D-Koppa Tengu HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Inugami
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:55/140 MP:411/411
+2-Tam Lin HP:198/218 MP:43/43
+3-Ometeotl HP:324/324 MP:315/315
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker ataca a Koppa Tengu
+Koppa Tengu recibe 28 de daño
+Koppa Tengu termina con HP:168/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:249/277 MP:269/269
+C-Yurlungur HP:168/202 MP:196/196
+D-Inugami HP:122/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:55/140 MP:411/411
+B-Tam Lin HP:198/218 MP:43/43
+C-Ometeotl HP:324/324 MP:315/315
+D-Koppa Tengu HP:168/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Yurlungur
+4-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Nanashi HP:55/140 MP:411/411
+2-Tam Lin HP:198/218 MP:43/43
+3-Ometeotl HP:324/324 MP:315/315
+4-Koppa Tengu HP:168/196 MP:88/88
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Nanashi HP:55/140 MP:411/411
+2-Tam Lin HP:198/218 MP:43/43
+3-Ometeotl HP:324/324 MP:315/315
+4-Koppa Tengu HP:168/196 MP:88/88
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Dormarth ataca a Tam Lin
+Tam Lin recibe 29 de daño
+Tam Lin termina con HP:169/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:249/277 MP:269/269
+C-Yurlungur HP:168/202 MP:196/196
+D-Inugami HP:122/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:55/140 MP:411/411
+B-Tam Lin HP:169/218 MP:43/43
+C-Ometeotl HP:324/324 MP:315/315
+D-Koppa Tengu HP:168/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Yurlungur
+3-Joker
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Nanashi HP:55/140 MP:411/411
+2-Tam Lin HP:169/218 MP:43/43
+3-Ometeotl HP:324/324 MP:315/315
+4-Koppa Tengu HP:168/196 MP:88/88
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Inugami ataca a Koppa Tengu
+Koppa Tengu recibe 17 de daño
+Koppa Tengu termina con HP:151/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:249/277 MP:269/269
+C-Yurlungur HP:168/202 MP:196/196
+D-Inugami HP:122/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:55/140 MP:411/411
+B-Tam Lin HP:169/218 MP:43/43
+C-Ometeotl HP:324/324 MP:315/315
+D-Koppa Tengu HP:151/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Joker
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Nanashi HP:55/140 MP:411/411
+2-Tam Lin HP:169/218 MP:43/43
+3-Ometeotl HP:324/324 MP:315/315
+4-Koppa Tengu HP:151/196 MP:88/88
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yurlungur ataca a Ometeotl
+Ometeotl recibe 20 de daño
+Ometeotl termina con HP:304/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:249/277 MP:269/269
+C-Yurlungur HP:168/202 MP:196/196
+D-Inugami HP:122/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:55/140 MP:411/411
+B-Tam Lin HP:169/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:151/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Nanashi
+3-Koppa Tengu
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:597/597 MP:347/347
+2-Dormarth HP:249/277 MP:269/269
+3-Yurlungur HP:168/202 MP:196/196
+4-Inugami HP:122/214 MP:109/109
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:597/597 MP:347/347
+2-Dormarth HP:249/277 MP:269/269
+3-Yurlungur HP:168/202 MP:196/196
+4-Inugami HP:122/214 MP:109/109
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ometeotl ataca a Inugami
+Inugami recibe 34 de daño
+Inugami termina con HP:88/214
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:249/277 MP:269/269
+C-Yurlungur HP:168/202 MP:196/196
+D-Inugami HP:88/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:55/140 MP:411/411
+B-Tam Lin HP:169/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:151/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Koppa Tengu
+3-Tam Lin
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:597/597 MP:347/347
+2-Dormarth HP:249/277 MP:269/269
+3-Yurlungur HP:168/202 MP:196/196
+4-Inugami HP:88/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi dispara a Dormarth
+Dormarth recibe 31 de daño
+Dormarth termina con HP:218/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:218/277 MP:269/269
+C-Yurlungur HP:168/202 MP:196/196
+D-Inugami HP:88/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:55/140 MP:411/411
+B-Tam Lin HP:169/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:151/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Tam Lin
+3-Ometeotl
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Joker HP:597/597 MP:347/347
+2-Dormarth HP:218/277 MP:269/269
+3-Yurlungur HP:168/202 MP:196/196
+4-Inugami HP:88/214 MP:109/109
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Koppa Tengu ataca a Inugami
+Inugami recibe 14 de daño
+Inugami termina con HP:74/214
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:218/277 MP:269/269
+C-Yurlungur HP:168/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:55/140 MP:411/411
+B-Tam Lin HP:169/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:151/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Ometeotl
+3-Nanashi
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:597/597 MP:347/347
+2-Dormarth HP:218/277 MP:269/269
+3-Yurlungur HP:168/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tam Lin ataca a Dormarth
+Dormarth recibe 14 de daño
+Dormarth termina con HP:204/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:204/277 MP:269/269
+C-Yurlungur HP:168/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:55/140 MP:411/411
+B-Tam Lin HP:169/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:151/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Inugami
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:55/140 MP:411/411
+2-Tam Lin HP:169/218 MP:43/43
+3-Ometeotl HP:304/324 MP:315/315
+4-Koppa Tengu HP:151/196 MP:88/88
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Tam Lin
+Tam Lin recibe 28 de daño
+Tam Lin termina con HP:141/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:204/277 MP:269/269
+C-Yurlungur HP:168/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:55/140 MP:411/411
+B-Tam Lin HP:141/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:151/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Yurlungur
+4-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Nanashi HP:55/140 MP:411/411
+2-Tam Lin HP:141/218 MP:43/43
+3-Ometeotl HP:304/324 MP:315/315
+4-Koppa Tengu HP:151/196 MP:88/88
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Nanashi
+Nanashi recibe 29 de daño
+Nanashi termina con HP:26/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:204/277 MP:269/269
+C-Yurlungur HP:168/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:26/140 MP:411/411
+B-Tam Lin HP:141/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:151/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Yurlungur
+3-Joker
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Nanashi HP:26/140 MP:411/411
+2-Tam Lin HP:141/218 MP:43/43
+3-Ometeotl HP:304/324 MP:315/315
+4-Koppa Tengu HP:151/196 MP:88/88
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Nanashi HP:26/140 MP:411/411
+2-Tam Lin HP:141/218 MP:43/43
+3-Ometeotl HP:304/324 MP:315/315
+4-Koppa Tengu HP:151/196 MP:88/88
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Inugami ataca a Koppa Tengu
+Koppa Tengu recibe 17 de daño
+Koppa Tengu termina con HP:134/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:204/277 MP:269/269
+C-Yurlungur HP:168/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:26/140 MP:411/411
+B-Tam Lin HP:141/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:134/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Joker
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Nanashi HP:26/140 MP:411/411
+2-Tam Lin HP:141/218 MP:43/43
+3-Ometeotl HP:304/324 MP:315/315
+4-Koppa Tengu HP:134/196 MP:88/88
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yurlungur ataca a Tam Lin
+Tam Lin recibe 20 de daño
+Tam Lin termina con HP:121/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:204/277 MP:269/269
+C-Yurlungur HP:168/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:26/140 MP:411/411
+B-Tam Lin HP:121/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:134/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Nanashi
+3-Koppa Tengu
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:597/597 MP:347/347
+2-Dormarth HP:204/277 MP:269/269
+3-Yurlungur HP:168/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ometeotl ataca a Dormarth
+Dormarth recibe 34 de daño
+Dormarth termina con HP:170/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:170/277 MP:269/269
+C-Yurlungur HP:168/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:26/140 MP:411/411
+B-Tam Lin HP:121/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:134/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Koppa Tengu
+3-Tam Lin
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:597/597 MP:347/347
+2-Dormarth HP:170/277 MP:269/269
+3-Yurlungur HP:168/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi ataca a Yurlungur
+Yurlungur recibe 92 de daño
+Yurlungur termina con HP:76/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Dormarth HP:170/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:26/140 MP:411/411
+B-Tam Lin HP:121/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:134/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Tam Lin
+3-Ometeotl
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Joker HP:597/597 MP:347/347
+2-Dormarth HP:170/277 MP:269/269
+3-Yurlungur HP:76/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Joker HP:597/597 MP:347/347
+2-Dormarth HP:170/277 MP:269/269
+3-Yurlungur HP:76/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Koppa Tengu ataca a Joker
+Joker recibe 14 de daño
+Joker termina con HP:583/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:583/597 MP:347/347
+B-Dormarth HP:170/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:26/140 MP:411/411
+B-Tam Lin HP:121/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:134/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Ometeotl
+3-Nanashi
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:583/597 MP:347/347
+2-Dormarth HP:170/277 MP:269/269
+3-Yurlungur HP:76/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tam Lin ataca a Dormarth
+Dormarth recibe 14 de daño
+Dormarth termina con HP:156/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:583/597 MP:347/347
+B-Dormarth HP:156/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:26/140 MP:411/411
+B-Tam Lin HP:121/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:134/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Inugami
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:26/140 MP:411/411
+2-Tam Lin HP:121/218 MP:43/43
+3-Ometeotl HP:304/324 MP:315/315
+4-Koppa Tengu HP:134/196 MP:88/88
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker dispara a Koppa Tengu
+Koppa Tengu recibe 39 de daño
+Koppa Tengu termina con HP:95/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:583/597 MP:347/347
+B-Dormarth HP:156/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:26/140 MP:411/411
+B-Tam Lin HP:121/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:95/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Yurlungur
+4-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Nanashi HP:26/140 MP:411/411
+2-Tam Lin HP:121/218 MP:43/43
+3-Ometeotl HP:304/324 MP:315/315
+4-Koppa Tengu HP:95/196 MP:88/88
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Dormarth ataca a Tam Lin
+Tam Lin recibe 29 de daño
+Tam Lin termina con HP:92/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:583/597 MP:347/347
+B-Dormarth HP:156/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:26/140 MP:411/411
+B-Tam Lin HP:92/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:95/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Yurlungur
+3-Joker
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Nanashi HP:26/140 MP:411/411
+2-Tam Lin HP:92/218 MP:43/43
+3-Ometeotl HP:304/324 MP:315/315
+4-Koppa Tengu HP:95/196 MP:88/88
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Inugami ataca a Koppa Tengu
+Koppa Tengu recibe 17 de daño
+Koppa Tengu termina con HP:78/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:583/597 MP:347/347
+B-Dormarth HP:156/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:26/140 MP:411/411
+B-Tam Lin HP:92/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:78/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Joker
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Nanashi HP:26/140 MP:411/411
+2-Tam Lin HP:92/218 MP:43/43
+3-Ometeotl HP:304/324 MP:315/315
+4-Koppa Tengu HP:78/196 MP:88/88
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Nanashi HP:26/140 MP:411/411
+2-Tam Lin HP:92/218 MP:43/43
+3-Ometeotl HP:304/324 MP:315/315
+4-Koppa Tengu HP:78/196 MP:88/88
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yurlungur ataca a Nanashi
+Nanashi recibe 20 de daño
+Nanashi termina con HP:6/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:583/597 MP:347/347
+B-Dormarth HP:156/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:6/140 MP:411/411
+B-Tam Lin HP:92/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:78/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Nanashi
+3-Koppa Tengu
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:583/597 MP:347/347
+2-Dormarth HP:156/277 MP:269/269
+3-Yurlungur HP:76/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:583/597 MP:347/347
+2-Dormarth HP:156/277 MP:269/269
+3-Yurlungur HP:76/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ometeotl ataca a Joker
+Joker recibe 34 de daño
+Joker termina con HP:549/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:549/597 MP:347/347
+B-Dormarth HP:156/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:6/140 MP:411/411
+B-Tam Lin HP:92/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:78/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Koppa Tengu
+3-Tam Lin
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:549/597 MP:347/347
+2-Dormarth HP:156/277 MP:269/269
+3-Yurlungur HP:76/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Joker
+Joker recibe 31 de daño
+Joker termina con HP:518/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:518/597 MP:347/347
+B-Dormarth HP:156/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:6/140 MP:411/411
+B-Tam Lin HP:92/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:78/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Tam Lin
+3-Ometeotl
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Joker HP:518/597 MP:347/347
+2-Dormarth HP:156/277 MP:269/269
+3-Yurlungur HP:76/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Koppa Tengu ataca a Dormarth
+Dormarth recibe 14 de daño
+Dormarth termina con HP:142/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:518/597 MP:347/347
+B-Dormarth HP:142/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:6/140 MP:411/411
+B-Tam Lin HP:92/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:78/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Ometeotl
+3-Nanashi
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:518/597 MP:347/347
+2-Dormarth HP:142/277 MP:269/269
+3-Yurlungur HP:76/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tam Lin ataca a Dormarth
+Dormarth recibe 14 de daño
+Dormarth termina con HP:128/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:518/597 MP:347/347
+B-Dormarth HP:128/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:6/140 MP:411/411
+B-Tam Lin HP:92/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:78/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Inugami
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:6/140 MP:411/411
+2-Tam Lin HP:92/218 MP:43/43
+3-Ometeotl HP:304/324 MP:315/315
+4-Koppa Tengu HP:78/196 MP:88/88
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nanashi
+Nanashi recibe 28 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:518/597 MP:347/347
+B-Dormarth HP:128/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:92/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:78/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Yurlungur
+4-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Tam Lin HP:92/218 MP:43/43
+2-Ometeotl HP:304/324 MP:315/315
+3-Koppa Tengu HP:78/196 MP:88/88
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Dormarth ataca a Koppa Tengu
+Koppa Tengu recibe 29 de daño
+Koppa Tengu termina con HP:49/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:518/597 MP:347/347
+B-Dormarth HP:128/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:92/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:49/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Yurlungur
+3-Joker
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Tam Lin HP:92/218 MP:43/43
+2-Ometeotl HP:304/324 MP:315/315
+3-Koppa Tengu HP:49/196 MP:88/88
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Tam Lin
+Tam Lin recibe 17 de daño
+Tam Lin termina con HP:75/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:518/597 MP:347/347
+B-Dormarth HP:128/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:75/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:49/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Joker
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Tam Lin HP:75/218 MP:43/43
+2-Ometeotl HP:304/324 MP:315/315
+3-Koppa Tengu HP:49/196 MP:88/88
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yurlungur ataca a Tam Lin
+Tam Lin recibe 20 de daño
+Tam Lin termina con HP:55/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:518/597 MP:347/347
+B-Dormarth HP:128/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:55/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:49/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Koppa Tengu
+3-Tam Lin
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:518/597 MP:347/347
+2-Dormarth HP:128/277 MP:269/269
+3-Yurlungur HP:76/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ometeotl ataca a Dormarth
+Dormarth recibe 34 de daño
+Dormarth termina con HP:94/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:518/597 MP:347/347
+B-Dormarth HP:94/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:55/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:49/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Tam Lin
+3-Ometeotl
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Joker HP:518/597 MP:347/347
+2-Dormarth HP:94/277 MP:269/269
+3-Yurlungur HP:76/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Koppa Tengu ataca a Dormarth
+Dormarth recibe 14 de daño
+Dormarth termina con HP:80/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:518/597 MP:347/347
+B-Dormarth HP:80/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:55/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:49/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Ometeotl
+3-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:518/597 MP:347/347
+2-Dormarth HP:80/277 MP:269/269
+3-Yurlungur HP:76/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tam Lin ataca a Dormarth
+Dormarth recibe 14 de daño
+Dormarth termina con HP:66/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:518/597 MP:347/347
+B-Dormarth HP:66/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:55/218 MP:43/43
+C-Ometeotl HP:304/324 MP:315/315
+D-Koppa Tengu HP:49/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Inugami
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tam Lin HP:55/218 MP:43/43
+2-Ometeotl HP:304/324 MP:315/315
+3-Koppa Tengu HP:49/196 MP:88/88
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Ometeotl
+Ometeotl recibe 28 de daño
+Ometeotl termina con HP:276/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:518/597 MP:347/347
+B-Dormarth HP:66/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:55/218 MP:43/43
+C-Ometeotl HP:276/324 MP:315/315
+D-Koppa Tengu HP:49/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Yurlungur
+4-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Tam Lin HP:55/218 MP:43/43
+2-Ometeotl HP:276/324 MP:315/315
+3-Koppa Tengu HP:49/196 MP:88/88
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Dormarth ataca a Koppa Tengu
+Koppa Tengu recibe 29 de daño
+Koppa Tengu termina con HP:20/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:518/597 MP:347/347
+B-Dormarth HP:66/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:55/218 MP:43/43
+C-Ometeotl HP:276/324 MP:315/315
+D-Koppa Tengu HP:20/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Yurlungur
+3-Joker
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Tam Lin HP:55/218 MP:43/43
+2-Ometeotl HP:276/324 MP:315/315
+3-Koppa Tengu HP:20/196 MP:88/88
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Inugami ataca a Ometeotl
+Ometeotl recibe 17 de daño
+Ometeotl termina con HP:259/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:518/597 MP:347/347
+B-Dormarth HP:66/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:55/218 MP:43/43
+C-Ometeotl HP:259/324 MP:315/315
+D-Koppa Tengu HP:20/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Joker
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Tam Lin HP:55/218 MP:43/43
+2-Ometeotl HP:259/324 MP:315/315
+3-Koppa Tengu HP:20/196 MP:88/88
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Yurlungur ataca a Ometeotl
+Ometeotl recibe 20 de daño
+Ometeotl termina con HP:239/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:518/597 MP:347/347
+B-Dormarth HP:66/277 MP:269/269
+C-Yurlungur HP:76/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:55/218 MP:43/43
+C-Ometeotl HP:239/324 MP:315/315
+D-Koppa Tengu HP:20/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Koppa Tengu
+3-Tam Lin
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:518/597 MP:347/347
+2-Dormarth HP:66/277 MP:269/269
+3-Yurlungur HP:76/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ometeotl ataca a Yurlungur
+Yurlungur recibe 34 de daño
+Yurlungur termina con HP:42/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:518/597 MP:347/347
+B-Dormarth HP:66/277 MP:269/269
+C-Yurlungur HP:42/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:55/218 MP:43/43
+C-Ometeotl HP:239/324 MP:315/315
+D-Koppa Tengu HP:20/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Tam Lin
+3-Ometeotl
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Joker HP:518/597 MP:347/347
+2-Dormarth HP:66/277 MP:269/269
+3-Yurlungur HP:42/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Koppa Tengu ataca a Joker
+Joker recibe 14 de daño
+Joker termina con HP:504/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:504/597 MP:347/347
+B-Dormarth HP:66/277 MP:269/269
+C-Yurlungur HP:42/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:55/218 MP:43/43
+C-Ometeotl HP:239/324 MP:315/315
+D-Koppa Tengu HP:20/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Ometeotl
+3-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:504/597 MP:347/347
+2-Dormarth HP:66/277 MP:269/269
+3-Yurlungur HP:42/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:504/597 MP:347/347
+2-Dormarth HP:66/277 MP:269/269
+3-Yurlungur HP:42/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:504/597 MP:347/347
+2-Dormarth HP:66/277 MP:269/269
+3-Yurlungur HP:42/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tam Lin ataca a Dormarth
+Dormarth recibe 14 de daño
+Dormarth termina con HP:52/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:504/597 MP:347/347
+B-Dormarth HP:52/277 MP:269/269
+C-Yurlungur HP:42/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:55/218 MP:43/43
+C-Ometeotl HP:239/324 MP:315/315
+D-Koppa Tengu HP:20/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Inugami
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tam Lin HP:55/218 MP:43/43
+2-Ometeotl HP:239/324 MP:315/315
+3-Koppa Tengu HP:20/196 MP:88/88
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Tam Lin
+Tam Lin recibe 28 de daño
+Tam Lin termina con HP:27/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:504/597 MP:347/347
+B-Dormarth HP:52/277 MP:269/269
+C-Yurlungur HP:42/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:27/218 MP:43/43
+C-Ometeotl HP:239/324 MP:315/315
+D-Koppa Tengu HP:20/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Yurlungur
+4-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Tam Lin HP:27/218 MP:43/43
+2-Ometeotl HP:239/324 MP:315/315
+3-Koppa Tengu HP:20/196 MP:88/88
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Dormarth ataca a Ometeotl
+Ometeotl recibe 29 de daño
+Ometeotl termina con HP:210/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:504/597 MP:347/347
+B-Dormarth HP:52/277 MP:269/269
+C-Yurlungur HP:42/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:27/218 MP:43/43
+C-Ometeotl HP:210/324 MP:315/315
+D-Koppa Tengu HP:20/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Yurlungur
+3-Joker
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Tam Lin HP:27/218 MP:43/43
+2-Ometeotl HP:210/324 MP:315/315
+3-Koppa Tengu HP:20/196 MP:88/88
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Inugami ataca a Ometeotl
+Ometeotl recibe 17 de daño
+Ometeotl termina con HP:193/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:504/597 MP:347/347
+B-Dormarth HP:52/277 MP:269/269
+C-Yurlungur HP:42/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:27/218 MP:43/43
+C-Ometeotl HP:193/324 MP:315/315
+D-Koppa Tengu HP:20/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Joker
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Tam Lin HP:27/218 MP:43/43
+2-Ometeotl HP:193/324 MP:315/315
+3-Koppa Tengu HP:20/196 MP:88/88
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Tam Lin HP:27/218 MP:43/43
+2-Ometeotl HP:193/324 MP:315/315
+3-Koppa Tengu HP:20/196 MP:88/88
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yurlungur ataca a Koppa Tengu
+Koppa Tengu recibe 20 de daño
+Koppa Tengu termina con HP:0/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:504/597 MP:347/347
+B-Dormarth HP:52/277 MP:269/269
+C-Yurlungur HP:42/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:27/218 MP:43/43
+C-Ometeotl HP:193/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Tam Lin
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:504/597 MP:347/347
+2-Dormarth HP:52/277 MP:269/269
+3-Yurlungur HP:42/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ometeotl ataca a Yurlungur
+Yurlungur recibe 34 de daño
+Yurlungur termina con HP:8/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:504/597 MP:347/347
+B-Dormarth HP:52/277 MP:269/269
+C-Yurlungur HP:8/202 MP:196/196
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:27/218 MP:43/43
+C-Ometeotl HP:193/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Ometeotl
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:504/597 MP:347/347
+2-Dormarth HP:52/277 MP:269/269
+3-Yurlungur HP:8/202 MP:196/196
+4-Inugami HP:74/214 MP:109/109
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tam Lin ataca a Yurlungur
+Yurlungur recibe 14 de daño
+Yurlungur termina con HP:0/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:504/597 MP:347/347
+B-Dormarth HP:52/277 MP:269/269
+C-
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:27/218 MP:43/43
+C-Ometeotl HP:193/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Inugami
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tam Lin HP:27/218 MP:43/43
+2-Ometeotl HP:193/324 MP:315/315
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Tam Lin
+Tam Lin recibe 39 de daño
+Tam Lin termina con HP:0/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:504/597 MP:347/347
+B-Dormarth HP:52/277 MP:269/269
+C-
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:193/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Ometeotl HP:193/324 MP:315/315
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Ometeotl HP:193/324 MP:315/315
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Ometeotl HP:193/324 MP:315/315
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Ometeotl
+Ometeotl recibe 29 de daño
+Ometeotl termina con HP:164/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:504/597 MP:347/347
+B-Dormarth HP:52/277 MP:269/269
+C-
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:164/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Joker
+3-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Ometeotl HP:164/324 MP:315/315
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Ometeotl
+Ometeotl recibe 17 de daño
+Ometeotl termina con HP:147/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:504/597 MP:347/347
+B-Dormarth HP:52/277 MP:269/269
+C-
+D-Inugami HP:74/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:147/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:504/597 MP:347/347
+2-Dormarth HP:52/277 MP:269/269
+3-Inugami HP:74/214 MP:109/109
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ometeotl ataca a Inugami
+Inugami recibe 34 de daño
+Inugami termina con HP:40/214
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:504/597 MP:347/347
+B-Dormarth HP:52/277 MP:269/269
+C-
+D-Inugami HP:40/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:147/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Inugami
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Ometeotl HP:147/324 MP:315/315
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Ometeotl
+Ometeotl recibe 28 de daño
+Ometeotl termina con HP:119/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:504/597 MP:347/347
+B-Dormarth HP:52/277 MP:269/269
+C-
+D-Inugami HP:40/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:119/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Ometeotl HP:119/324 MP:315/315
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Ometeotl
+Ometeotl recibe 29 de daño
+Ometeotl termina con HP:90/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:504/597 MP:347/347
+B-Dormarth HP:52/277 MP:269/269
+C-
+D-Inugami HP:40/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:90/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Joker
+3-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Ometeotl HP:90/324 MP:315/315
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Ometeotl HP:90/324 MP:315/315
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Ometeotl
+Ometeotl recibe 17 de daño
+Ometeotl termina con HP:73/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:504/597 MP:347/347
+B-Dormarth HP:52/277 MP:269/269
+C-
+D-Inugami HP:40/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:73/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:504/597 MP:347/347
+2-Dormarth HP:52/277 MP:269/269
+3-Inugami HP:40/214 MP:109/109
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:504/597 MP:347/347
+2-Dormarth HP:52/277 MP:269/269
+3-Inugami HP:40/214 MP:109/109
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:504/597 MP:347/347
+2-Dormarth HP:52/277 MP:269/269
+3-Inugami HP:40/214 MP:109/109
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ometeotl ataca a Dormarth
+Dormarth recibe 34 de daño
+Dormarth termina con HP:18/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:504/597 MP:347/347
+B-Dormarth HP:18/277 MP:269/269
+C-
+D-Inugami HP:40/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:73/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Inugami
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Ometeotl HP:73/324 MP:315/315
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Ometeotl
+Ometeotl recibe 39 de daño
+Ometeotl termina con HP:34/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:504/597 MP:347/347
+B-Dormarth HP:18/277 MP:269/269
+C-
+D-Inugami HP:40/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:34/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Ometeotl HP:34/324 MP:315/315
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Ometeotl
+Ometeotl recibe 29 de daño
+Ometeotl termina con HP:5/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:504/597 MP:347/347
+B-Dormarth HP:18/277 MP:269/269
+C-
+D-Inugami HP:40/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:5/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Joker
+3-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Ometeotl HP:5/324 MP:315/315
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Ometeotl HP:5/324 MP:315/315
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Ometeotl HP:5/324 MP:315/315
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Ometeotl HP:5/324 MP:315/315
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Ometeotl
+Ometeotl recibe 17 de daño
+Ometeotl termina con HP:0/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Joker (J1)

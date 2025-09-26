@@ -1,0 +1,3837 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 14
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Hachiman HP:851/851 MP:170/170
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Senri HP:165/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Astaroth HP:406/406 MP:181/181
+D-Itsumade HP:231/231 MP:103/103
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Itsuki
+3-Xi Wangmu
+4-Senri
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:1136/1136 MP:413/413
+2-Xi Wangmu HP:418/418 MP:405/405
+3-Astaroth HP:406/406 MP:181/181
+4-Itsumade HP:231/231 MP:103/103
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Itsuki
+Itsuki recibe 65 de daño
+Itsuki termina con HP:1071/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Hachiman HP:851/851 MP:170/170
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Senri HP:165/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:1071/1136 MP:413/413
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Astaroth HP:406/406 MP:181/181
+D-Itsumade HP:231/231 MP:103/103
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Senri
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:1071/1136 MP:413/413
+2-Xi Wangmu HP:418/418 MP:405/405
+3-Astaroth HP:406/406 MP:181/181
+4-Itsumade HP:231/231 MP:103/103
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Itsumade
+Itsumade recibe 61 de daño
+Itsumade termina con HP:170/231
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Hachiman HP:851/851 MP:170/170
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Senri HP:165/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:1071/1136 MP:413/413
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Astaroth HP:406/406 MP:181/181
+D-Itsumade HP:170/231 MP:103/103
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Senri
+3-Hachiman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:1071/1136 MP:413/413
+2-Xi Wangmu HP:418/418 MP:405/405
+3-Astaroth HP:406/406 MP:181/181
+4-Itsumade HP:170/231 MP:103/103
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Xi Wangmu ataca a Xi Wangmu
+Xi Wangmu recibe 44 de daño
+Xi Wangmu termina con HP:374/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Hachiman HP:851/851 MP:170/170
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Senri HP:165/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:1071/1136 MP:413/413
+B-Xi Wangmu HP:374/418 MP:405/405
+C-Astaroth HP:406/406 MP:181/181
+D-Itsumade HP:170/231 MP:103/103
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Hachiman
+3-Itsuki
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Itsuki HP:1071/1136 MP:413/413
+2-Xi Wangmu HP:374/418 MP:405/405
+3-Astaroth HP:406/406 MP:181/181
+4-Itsumade HP:170/231 MP:103/103
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Senri ataca a Itsuki
+Itsuki recibe 16 de daño
+Itsuki termina con HP:1055/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Hachiman HP:851/851 MP:170/170
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Senri HP:165/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:1055/1136 MP:413/413
+B-Xi Wangmu HP:374/418 MP:405/405
+C-Astaroth HP:406/406 MP:181/181
+D-Itsumade HP:170/231 MP:103/103
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Astaroth
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:1136/1136 MP:413/413
+2-Hachiman HP:851/851 MP:170/170
+3-Xi Wangmu HP:418/418 MP:405/405
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Itsuki
+Itsuki recibe 45 de daño
+Itsuki termina con HP:1091/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1091/1136 MP:413/413
+B-Hachiman HP:851/851 MP:170/170
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Senri HP:165/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:1055/1136 MP:413/413
+B-Xi Wangmu HP:374/418 MP:405/405
+C-Astaroth HP:406/406 MP:181/181
+D-Itsumade HP:170/231 MP:103/103
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Astaroth
+3-Itsumade
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:1091/1136 MP:413/413
+2-Hachiman HP:851/851 MP:170/170
+3-Xi Wangmu HP:418/418 MP:405/405
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ataca a Itsuki
+Itsuki recibe 44 de daño
+Itsuki termina con HP:1047/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1047/1136 MP:413/413
+B-Hachiman HP:851/851 MP:170/170
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Senri HP:165/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:1055/1136 MP:413/413
+B-Xi Wangmu HP:374/418 MP:405/405
+C-Astaroth HP:406/406 MP:181/181
+D-Itsumade HP:170/231 MP:103/103
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Itsumade
+3-Itsuki
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:1047/1136 MP:413/413
+2-Hachiman HP:851/851 MP:170/170
+3-Xi Wangmu HP:418/418 MP:405/405
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Astaroth ataca a Hachiman
+Hachiman recibe 33 de daño
+Hachiman termina con HP:818/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1047/1136 MP:413/413
+B-Hachiman HP:818/851 MP:170/170
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Senri HP:165/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:1055/1136 MP:413/413
+B-Xi Wangmu HP:374/418 MP:405/405
+C-Astaroth HP:406/406 MP:181/181
+D-Itsumade HP:170/231 MP:103/103
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Itsuki
+3-Xi Wangmu
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Itsuki HP:1047/1136 MP:413/413
+2-Hachiman HP:818/851 MP:170/170
+3-Xi Wangmu HP:418/418 MP:405/405
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsumade ataca a Itsuki
+Itsuki recibe 17 de daño
+Itsuki termina con HP:1030/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1030/1136 MP:413/413
+B-Hachiman HP:818/851 MP:170/170
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Senri HP:165/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:1055/1136 MP:413/413
+B-Xi Wangmu HP:374/418 MP:405/405
+C-Astaroth HP:406/406 MP:181/181
+D-Itsumade HP:170/231 MP:103/103
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Itsuki
+3-Xi Wangmu
+4-Senri
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:1055/1136 MP:413/413
+2-Xi Wangmu HP:374/418 MP:405/405
+3-Astaroth HP:406/406 MP:181/181
+4-Itsumade HP:170/231 MP:103/103
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hachiman ataca a Xi Wangmu
+Xi Wangmu recibe 65 de daño
+Xi Wangmu termina con HP:309/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1030/1136 MP:413/413
+B-Hachiman HP:818/851 MP:170/170
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Senri HP:165/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:1055/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:406/406 MP:181/181
+D-Itsumade HP:170/231 MP:103/103
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Senri
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:1055/1136 MP:413/413
+2-Xi Wangmu HP:309/418 MP:405/405
+3-Astaroth HP:406/406 MP:181/181
+4-Itsumade HP:170/231 MP:103/103
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Astaroth
+Astaroth recibe 45 de daño
+Astaroth termina con HP:361/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1030/1136 MP:413/413
+B-Hachiman HP:818/851 MP:170/170
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Senri HP:165/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:1055/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:361/406 MP:181/181
+D-Itsumade HP:170/231 MP:103/103
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Senri
+3-Hachiman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:1055/1136 MP:413/413
+2-Xi Wangmu HP:309/418 MP:405/405
+3-Astaroth HP:361/406 MP:181/181
+4-Itsumade HP:170/231 MP:103/103
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ataca a Itsuki
+Itsuki recibe 44 de daño
+Itsuki termina con HP:1011/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1030/1136 MP:413/413
+B-Hachiman HP:818/851 MP:170/170
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Senri HP:165/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:1011/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:361/406 MP:181/181
+D-Itsumade HP:170/231 MP:103/103
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Hachiman
+3-Itsuki
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Itsuki HP:1011/1136 MP:413/413
+2-Xi Wangmu HP:309/418 MP:405/405
+3-Astaroth HP:361/406 MP:181/181
+4-Itsumade HP:170/231 MP:103/103
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Itsuki HP:1011/1136 MP:413/413
+2-Xi Wangmu HP:309/418 MP:405/405
+3-Astaroth HP:361/406 MP:181/181
+4-Itsumade HP:170/231 MP:103/103
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Itsuki HP:1011/1136 MP:413/413
+2-Xi Wangmu HP:309/418 MP:405/405
+3-Astaroth HP:361/406 MP:181/181
+4-Itsumade HP:170/231 MP:103/103
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Senri ataca a Itsuki
+Itsuki recibe 16 de daño
+Itsuki termina con HP:995/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1030/1136 MP:413/413
+B-Hachiman HP:818/851 MP:170/170
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Senri HP:165/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:995/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:361/406 MP:181/181
+D-Itsumade HP:170/231 MP:103/103
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Astaroth
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:1030/1136 MP:413/413
+2-Hachiman HP:818/851 MP:170/170
+3-Xi Wangmu HP:418/418 MP:405/405
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:1030/1136 MP:413/413
+2-Hachiman HP:818/851 MP:170/170
+3-Xi Wangmu HP:418/418 MP:405/405
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Xi Wangmu
+Xi Wangmu recibe 45 de daño
+Xi Wangmu termina con HP:373/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1030/1136 MP:413/413
+B-Hachiman HP:818/851 MP:170/170
+C-Xi Wangmu HP:373/418 MP:405/405
+D-Senri HP:165/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:995/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:361/406 MP:181/181
+D-Itsumade HP:170/231 MP:103/103
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Astaroth
+3-Itsumade
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:1030/1136 MP:413/413
+2-Hachiman HP:818/851 MP:170/170
+3-Xi Wangmu HP:373/418 MP:405/405
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ataca a Itsuki
+Itsuki recibe 44 de daño
+Itsuki termina con HP:986/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:986/1136 MP:413/413
+B-Hachiman HP:818/851 MP:170/170
+C-Xi Wangmu HP:373/418 MP:405/405
+D-Senri HP:165/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:995/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:361/406 MP:181/181
+D-Itsumade HP:170/231 MP:103/103
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Itsumade
+3-Itsuki
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:986/1136 MP:413/413
+2-Hachiman HP:818/851 MP:170/170
+3-Xi Wangmu HP:373/418 MP:405/405
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Astaroth ataca a Senri
+Senri recibe 33 de daño
+Senri termina con HP:132/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:986/1136 MP:413/413
+B-Hachiman HP:818/851 MP:170/170
+C-Xi Wangmu HP:373/418 MP:405/405
+D-Senri HP:132/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:995/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:361/406 MP:181/181
+D-Itsumade HP:170/231 MP:103/103
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Itsuki
+3-Xi Wangmu
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Itsuki HP:986/1136 MP:413/413
+2-Hachiman HP:818/851 MP:170/170
+3-Xi Wangmu HP:373/418 MP:405/405
+4-Senri HP:132/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsumade ataca a Senri
+Senri recibe 17 de daño
+Senri termina con HP:115/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:986/1136 MP:413/413
+B-Hachiman HP:818/851 MP:170/170
+C-Xi Wangmu HP:373/418 MP:405/405
+D-Senri HP:115/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:995/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:361/406 MP:181/181
+D-Itsumade HP:170/231 MP:103/103
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Itsuki
+3-Xi Wangmu
+4-Senri
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:995/1136 MP:413/413
+2-Xi Wangmu HP:309/418 MP:405/405
+3-Astaroth HP:361/406 MP:181/181
+4-Itsumade HP:170/231 MP:103/103
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Hachiman ataca a Astaroth
+Astaroth recibe 65 de daño
+Astaroth termina con HP:296/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:986/1136 MP:413/413
+B-Hachiman HP:818/851 MP:170/170
+C-Xi Wangmu HP:373/418 MP:405/405
+D-Senri HP:115/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:995/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:296/406 MP:181/181
+D-Itsumade HP:170/231 MP:103/103
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Senri
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:995/1136 MP:413/413
+2-Xi Wangmu HP:309/418 MP:405/405
+3-Astaroth HP:296/406 MP:181/181
+4-Itsumade HP:170/231 MP:103/103
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Itsumade
+Itsumade recibe 61 de daño
+Itsumade termina con HP:109/231
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:986/1136 MP:413/413
+B-Hachiman HP:818/851 MP:170/170
+C-Xi Wangmu HP:373/418 MP:405/405
+D-Senri HP:115/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:995/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:296/406 MP:181/181
+D-Itsumade HP:109/231 MP:103/103
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Senri
+3-Hachiman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:995/1136 MP:413/413
+2-Xi Wangmu HP:309/418 MP:405/405
+3-Astaroth HP:296/406 MP:181/181
+4-Itsumade HP:109/231 MP:103/103
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:995/1136 MP:413/413
+2-Xi Wangmu HP:309/418 MP:405/405
+3-Astaroth HP:296/406 MP:181/181
+4-Itsumade HP:109/231 MP:103/103
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Xi Wangmu ataca a Astaroth
+Astaroth recibe 44 de daño
+Astaroth termina con HP:252/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:986/1136 MP:413/413
+B-Hachiman HP:818/851 MP:170/170
+C-Xi Wangmu HP:373/418 MP:405/405
+D-Senri HP:115/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:995/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:252/406 MP:181/181
+D-Itsumade HP:109/231 MP:103/103
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Hachiman
+3-Itsuki
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Itsuki HP:995/1136 MP:413/413
+2-Xi Wangmu HP:309/418 MP:405/405
+3-Astaroth HP:252/406 MP:181/181
+4-Itsumade HP:109/231 MP:103/103
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Senri ataca a Itsuki
+Itsuki recibe 16 de daño
+Itsuki termina con HP:979/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:986/1136 MP:413/413
+B-Hachiman HP:818/851 MP:170/170
+C-Xi Wangmu HP:373/418 MP:405/405
+D-Senri HP:115/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:979/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:252/406 MP:181/181
+D-Itsumade HP:109/231 MP:103/103
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Astaroth
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:986/1136 MP:413/413
+2-Hachiman HP:818/851 MP:170/170
+3-Xi Wangmu HP:373/418 MP:405/405
+4-Senri HP:115/165 MP:158/158
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Xi Wangmu
+Xi Wangmu recibe 45 de daño
+Xi Wangmu termina con HP:328/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:986/1136 MP:413/413
+B-Hachiman HP:818/851 MP:170/170
+C-Xi Wangmu HP:328/418 MP:405/405
+D-Senri HP:115/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:979/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:252/406 MP:181/181
+D-Itsumade HP:109/231 MP:103/103
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Astaroth
+3-Itsumade
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:986/1136 MP:413/413
+2-Hachiman HP:818/851 MP:170/170
+3-Xi Wangmu HP:328/418 MP:405/405
+4-Senri HP:115/165 MP:158/158
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Xi Wangmu ataca a Hachiman
+Hachiman recibe 44 de daño
+Hachiman termina con HP:774/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:986/1136 MP:413/413
+B-Hachiman HP:774/851 MP:170/170
+C-Xi Wangmu HP:328/418 MP:405/405
+D-Senri HP:115/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:979/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:252/406 MP:181/181
+D-Itsumade HP:109/231 MP:103/103
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Itsumade
+3-Itsuki
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:986/1136 MP:413/413
+2-Hachiman HP:774/851 MP:170/170
+3-Xi Wangmu HP:328/418 MP:405/405
+4-Senri HP:115/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:986/1136 MP:413/413
+2-Hachiman HP:774/851 MP:170/170
+3-Xi Wangmu HP:328/418 MP:405/405
+4-Senri HP:115/165 MP:158/158
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Astaroth ataca a Itsuki
+Itsuki recibe 33 de daño
+Itsuki termina con HP:953/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:953/1136 MP:413/413
+B-Hachiman HP:774/851 MP:170/170
+C-Xi Wangmu HP:328/418 MP:405/405
+D-Senri HP:115/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:979/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:252/406 MP:181/181
+D-Itsumade HP:109/231 MP:103/103
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Itsuki
+3-Xi Wangmu
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Itsuki HP:953/1136 MP:413/413
+2-Hachiman HP:774/851 MP:170/170
+3-Xi Wangmu HP:328/418 MP:405/405
+4-Senri HP:115/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsumade ataca a Senri
+Senri recibe 17 de daño
+Senri termina con HP:98/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:953/1136 MP:413/413
+B-Hachiman HP:774/851 MP:170/170
+C-Xi Wangmu HP:328/418 MP:405/405
+D-Senri HP:98/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:979/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:252/406 MP:181/181
+D-Itsumade HP:109/231 MP:103/103
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Itsuki
+3-Xi Wangmu
+4-Senri
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:979/1136 MP:413/413
+2-Xi Wangmu HP:309/418 MP:405/405
+3-Astaroth HP:252/406 MP:181/181
+4-Itsumade HP:109/231 MP:103/103
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:979/1136 MP:413/413
+2-Xi Wangmu HP:309/418 MP:405/405
+3-Astaroth HP:252/406 MP:181/181
+4-Itsumade HP:109/231 MP:103/103
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:979/1136 MP:413/413
+2-Xi Wangmu HP:309/418 MP:405/405
+3-Astaroth HP:252/406 MP:181/181
+4-Itsumade HP:109/231 MP:103/103
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Hachiman ataca a Itsumade
+Itsumade recibe 65 de daño
+Itsumade termina con HP:44/231
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:953/1136 MP:413/413
+B-Hachiman HP:774/851 MP:170/170
+C-Xi Wangmu HP:328/418 MP:405/405
+D-Senri HP:98/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:979/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:252/406 MP:181/181
+D-Itsumade HP:44/231 MP:103/103
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Senri
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:979/1136 MP:413/413
+2-Xi Wangmu HP:309/418 MP:405/405
+3-Astaroth HP:252/406 MP:181/181
+4-Itsumade HP:44/231 MP:103/103
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Astaroth
+Astaroth recibe 45 de daño
+Astaroth termina con HP:207/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:953/1136 MP:413/413
+B-Hachiman HP:774/851 MP:170/170
+C-Xi Wangmu HP:328/418 MP:405/405
+D-Senri HP:98/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:979/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:207/406 MP:181/181
+D-Itsumade HP:44/231 MP:103/103
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Senri
+3-Hachiman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:979/1136 MP:413/413
+2-Xi Wangmu HP:309/418 MP:405/405
+3-Astaroth HP:207/406 MP:181/181
+4-Itsumade HP:44/231 MP:103/103
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ataca a Itsuki
+Itsuki recibe 44 de daño
+Itsuki termina con HP:935/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:953/1136 MP:413/413
+B-Hachiman HP:774/851 MP:170/170
+C-Xi Wangmu HP:328/418 MP:405/405
+D-Senri HP:98/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:935/1136 MP:413/413
+B-Xi Wangmu HP:309/418 MP:405/405
+C-Astaroth HP:207/406 MP:181/181
+D-Itsumade HP:44/231 MP:103/103
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Hachiman
+3-Itsuki
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Itsuki HP:935/1136 MP:413/413
+2-Xi Wangmu HP:309/418 MP:405/405
+3-Astaroth HP:207/406 MP:181/181
+4-Itsumade HP:44/231 MP:103/103
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Senri ataca a Xi Wangmu
+Xi Wangmu recibe 16 de daño
+Xi Wangmu termina con HP:293/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:953/1136 MP:413/413
+B-Hachiman HP:774/851 MP:170/170
+C-Xi Wangmu HP:328/418 MP:405/405
+D-Senri HP:98/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:935/1136 MP:413/413
+B-Xi Wangmu HP:293/418 MP:405/405
+C-Astaroth HP:207/406 MP:181/181
+D-Itsumade HP:44/231 MP:103/103
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Astaroth
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:953/1136 MP:413/413
+2-Hachiman HP:774/851 MP:170/170
+3-Xi Wangmu HP:328/418 MP:405/405
+4-Senri HP:98/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki ataca a Senri
+Senri recibe 45 de daño
+Senri termina con HP:53/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:953/1136 MP:413/413
+B-Hachiman HP:774/851 MP:170/170
+C-Xi Wangmu HP:328/418 MP:405/405
+D-Senri HP:53/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:935/1136 MP:413/413
+B-Xi Wangmu HP:293/418 MP:405/405
+C-Astaroth HP:207/406 MP:181/181
+D-Itsumade HP:44/231 MP:103/103
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Astaroth
+3-Itsumade
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:953/1136 MP:413/413
+2-Hachiman HP:774/851 MP:170/170
+3-Xi Wangmu HP:328/418 MP:405/405
+4-Senri HP:53/165 MP:158/158
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Xi Wangmu ataca a Hachiman
+Hachiman recibe 44 de daño
+Hachiman termina con HP:730/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:953/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:328/418 MP:405/405
+D-Senri HP:53/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:935/1136 MP:413/413
+B-Xi Wangmu HP:293/418 MP:405/405
+C-Astaroth HP:207/406 MP:181/181
+D-Itsumade HP:44/231 MP:103/103
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Itsumade
+3-Itsuki
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:953/1136 MP:413/413
+2-Hachiman HP:730/851 MP:170/170
+3-Xi Wangmu HP:328/418 MP:405/405
+4-Senri HP:53/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:953/1136 MP:413/413
+2-Hachiman HP:730/851 MP:170/170
+3-Xi Wangmu HP:328/418 MP:405/405
+4-Senri HP:53/165 MP:158/158
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Astaroth ataca a Xi Wangmu
+Xi Wangmu recibe 33 de daño
+Xi Wangmu termina con HP:295/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:953/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:295/418 MP:405/405
+D-Senri HP:53/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:935/1136 MP:413/413
+B-Xi Wangmu HP:293/418 MP:405/405
+C-Astaroth HP:207/406 MP:181/181
+D-Itsumade HP:44/231 MP:103/103
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Itsuki
+3-Xi Wangmu
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Itsuki HP:953/1136 MP:413/413
+2-Hachiman HP:730/851 MP:170/170
+3-Xi Wangmu HP:295/418 MP:405/405
+4-Senri HP:53/165 MP:158/158
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsumade ataca a Itsuki
+Itsuki recibe 17 de daño
+Itsuki termina con HP:936/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:936/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:295/418 MP:405/405
+D-Senri HP:53/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:935/1136 MP:413/413
+B-Xi Wangmu HP:293/418 MP:405/405
+C-Astaroth HP:207/406 MP:181/181
+D-Itsumade HP:44/231 MP:103/103
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Itsuki
+3-Xi Wangmu
+4-Senri
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:935/1136 MP:413/413
+2-Xi Wangmu HP:293/418 MP:405/405
+3-Astaroth HP:207/406 MP:181/181
+4-Itsumade HP:44/231 MP:103/103
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:935/1136 MP:413/413
+2-Xi Wangmu HP:293/418 MP:405/405
+3-Astaroth HP:207/406 MP:181/181
+4-Itsumade HP:44/231 MP:103/103
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Itsuki
+Itsuki recibe 65 de daño
+Itsuki termina con HP:870/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:936/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:295/418 MP:405/405
+D-Senri HP:53/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:870/1136 MP:413/413
+B-Xi Wangmu HP:293/418 MP:405/405
+C-Astaroth HP:207/406 MP:181/181
+D-Itsumade HP:44/231 MP:103/103
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Senri
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:870/1136 MP:413/413
+2-Xi Wangmu HP:293/418 MP:405/405
+3-Astaroth HP:207/406 MP:181/181
+4-Itsumade HP:44/231 MP:103/103
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Xi Wangmu
+Xi Wangmu recibe 61 de daño
+Xi Wangmu termina con HP:232/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:936/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:295/418 MP:405/405
+D-Senri HP:53/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:870/1136 MP:413/413
+B-Xi Wangmu HP:232/418 MP:405/405
+C-Astaroth HP:207/406 MP:181/181
+D-Itsumade HP:44/231 MP:103/103
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Senri
+3-Hachiman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:870/1136 MP:413/413
+2-Xi Wangmu HP:232/418 MP:405/405
+3-Astaroth HP:207/406 MP:181/181
+4-Itsumade HP:44/231 MP:103/103
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Xi Wangmu ataca a Xi Wangmu
+Xi Wangmu recibe 44 de daño
+Xi Wangmu termina con HP:188/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:936/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:295/418 MP:405/405
+D-Senri HP:53/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:870/1136 MP:413/413
+B-Xi Wangmu HP:188/418 MP:405/405
+C-Astaroth HP:207/406 MP:181/181
+D-Itsumade HP:44/231 MP:103/103
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Hachiman
+3-Itsuki
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Itsuki HP:870/1136 MP:413/413
+2-Xi Wangmu HP:188/418 MP:405/405
+3-Astaroth HP:207/406 MP:181/181
+4-Itsumade HP:44/231 MP:103/103
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Senri ataca a Xi Wangmu
+Xi Wangmu recibe 16 de daño
+Xi Wangmu termina con HP:172/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:936/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:295/418 MP:405/405
+D-Senri HP:53/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:870/1136 MP:413/413
+B-Xi Wangmu HP:172/418 MP:405/405
+C-Astaroth HP:207/406 MP:181/181
+D-Itsumade HP:44/231 MP:103/103
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Astaroth
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:936/1136 MP:413/413
+2-Hachiman HP:730/851 MP:170/170
+3-Xi Wangmu HP:295/418 MP:405/405
+4-Senri HP:53/165 MP:158/158
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:875/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:875/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:295/418 MP:405/405
+D-Senri HP:53/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:870/1136 MP:413/413
+B-Xi Wangmu HP:172/418 MP:405/405
+C-Astaroth HP:207/406 MP:181/181
+D-Itsumade HP:44/231 MP:103/103
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Astaroth
+3-Itsumade
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:875/1136 MP:413/413
+2-Hachiman HP:730/851 MP:170/170
+3-Xi Wangmu HP:295/418 MP:405/405
+4-Senri HP:53/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:875/1136 MP:413/413
+2-Hachiman HP:730/851 MP:170/170
+3-Xi Wangmu HP:295/418 MP:405/405
+4-Senri HP:53/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Xi Wangmu ataca a Senri
+Senri recibe 44 de daño
+Senri termina con HP:9/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:875/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:295/418 MP:405/405
+D-Senri HP:9/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:870/1136 MP:413/413
+B-Xi Wangmu HP:172/418 MP:405/405
+C-Astaroth HP:207/406 MP:181/181
+D-Itsumade HP:44/231 MP:103/103
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Itsumade
+3-Itsuki
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:875/1136 MP:413/413
+2-Hachiman HP:730/851 MP:170/170
+3-Xi Wangmu HP:295/418 MP:405/405
+4-Senri HP:9/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:875/1136 MP:413/413
+2-Hachiman HP:730/851 MP:170/170
+3-Xi Wangmu HP:295/418 MP:405/405
+4-Senri HP:9/165 MP:158/158
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Astaroth ataca a Itsuki
+Itsuki recibe 33 de daño
+Itsuki termina con HP:842/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:842/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:295/418 MP:405/405
+D-Senri HP:9/165 MP:158/158
+Equipo de Itsuki (J2)
+A-Itsuki HP:870/1136 MP:413/413
+B-Xi Wangmu HP:172/418 MP:405/405
+C-Astaroth HP:207/406 MP:181/181
+D-Itsumade HP:44/231 MP:103/103
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Itsuki
+3-Xi Wangmu
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Itsuki HP:842/1136 MP:413/413
+2-Hachiman HP:730/851 MP:170/170
+3-Xi Wangmu HP:295/418 MP:405/405
+4-Senri HP:9/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsumade ataca a Senri
+Senri recibe 17 de daño
+Senri termina con HP:0/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:842/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:295/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:870/1136 MP:413/413
+B-Xi Wangmu HP:172/418 MP:405/405
+C-Astaroth HP:207/406 MP:181/181
+D-Itsumade HP:44/231 MP:103/103
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Itsuki
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:870/1136 MP:413/413
+2-Xi Wangmu HP:172/418 MP:405/405
+3-Astaroth HP:207/406 MP:181/181
+4-Itsumade HP:44/231 MP:103/103
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Hachiman ataca a Astaroth
+Astaroth recibe 65 de daño
+Astaroth termina con HP:142/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:842/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:295/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:870/1136 MP:413/413
+B-Xi Wangmu HP:172/418 MP:405/405
+C-Astaroth HP:142/406 MP:181/181
+D-Itsumade HP:44/231 MP:103/103
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:870/1136 MP:413/413
+2-Xi Wangmu HP:172/418 MP:405/405
+3-Astaroth HP:142/406 MP:181/181
+4-Itsumade HP:44/231 MP:103/103
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Itsuki
+Itsuki recibe 45 de daño
+Itsuki termina con HP:825/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:842/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:295/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:825/1136 MP:413/413
+B-Xi Wangmu HP:172/418 MP:405/405
+C-Astaroth HP:142/406 MP:181/181
+D-Itsumade HP:44/231 MP:103/103
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Hachiman
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:825/1136 MP:413/413
+2-Xi Wangmu HP:172/418 MP:405/405
+3-Astaroth HP:142/406 MP:181/181
+4-Itsumade HP:44/231 MP:103/103
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Xi Wangmu ataca a Itsumade
+Itsumade recibe 44 de daño
+Itsumade termina con HP:0/231
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:842/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:295/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:825/1136 MP:413/413
+B-Xi Wangmu HP:172/418 MP:405/405
+C-Astaroth HP:142/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Astaroth
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:842/1136 MP:413/413
+2-Hachiman HP:730/851 MP:170/170
+3-Xi Wangmu HP:295/418 MP:405/405
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Xi Wangmu
+Xi Wangmu recibe 61 de daño
+Xi Wangmu termina con HP:234/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:842/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:234/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:825/1136 MP:413/413
+B-Xi Wangmu HP:172/418 MP:405/405
+C-Astaroth HP:142/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Astaroth
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:842/1136 MP:413/413
+2-Hachiman HP:730/851 MP:170/170
+3-Xi Wangmu HP:234/418 MP:405/405
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:842/1136 MP:413/413
+2-Hachiman HP:730/851 MP:170/170
+3-Xi Wangmu HP:234/418 MP:405/405
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ataca a Itsuki
+Itsuki recibe 44 de daño
+Itsuki termina con HP:798/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:798/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:234/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:825/1136 MP:413/413
+B-Xi Wangmu HP:172/418 MP:405/405
+C-Astaroth HP:142/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Itsuki
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:798/1136 MP:413/413
+2-Hachiman HP:730/851 MP:170/170
+3-Xi Wangmu HP:234/418 MP:405/405
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Astaroth ataca a Xi Wangmu
+Xi Wangmu recibe 33 de daño
+Xi Wangmu termina con HP:201/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:798/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:201/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:825/1136 MP:413/413
+B-Xi Wangmu HP:172/418 MP:405/405
+C-Astaroth HP:142/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Itsuki
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:825/1136 MP:413/413
+2-Xi Wangmu HP:172/418 MP:405/405
+3-Astaroth HP:142/406 MP:181/181
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Itsuki
+Itsuki recibe 65 de daño
+Itsuki termina con HP:760/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:798/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:201/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:760/1136 MP:413/413
+B-Xi Wangmu HP:172/418 MP:405/405
+C-Astaroth HP:142/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:760/1136 MP:413/413
+2-Xi Wangmu HP:172/418 MP:405/405
+3-Astaroth HP:142/406 MP:181/181
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Astaroth
+Astaroth recibe 45 de daño
+Astaroth termina con HP:97/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:798/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:201/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:760/1136 MP:413/413
+B-Xi Wangmu HP:172/418 MP:405/405
+C-Astaroth HP:97/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Hachiman
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:760/1136 MP:413/413
+2-Xi Wangmu HP:172/418 MP:405/405
+3-Astaroth HP:97/406 MP:181/181
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:760/1136 MP:413/413
+2-Xi Wangmu HP:172/418 MP:405/405
+3-Astaroth HP:97/406 MP:181/181
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Xi Wangmu ataca a Astaroth
+Astaroth recibe 44 de daño
+Astaroth termina con HP:53/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:798/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:201/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:760/1136 MP:413/413
+B-Xi Wangmu HP:172/418 MP:405/405
+C-Astaroth HP:53/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Astaroth
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:798/1136 MP:413/413
+2-Hachiman HP:730/851 MP:170/170
+3-Xi Wangmu HP:201/418 MP:405/405
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:798/1136 MP:413/413
+2-Hachiman HP:730/851 MP:170/170
+3-Xi Wangmu HP:201/418 MP:405/405
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:798/1136 MP:413/413
+2-Hachiman HP:730/851 MP:170/170
+3-Xi Wangmu HP:201/418 MP:405/405
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Xi Wangmu
+Xi Wangmu recibe 45 de daño
+Xi Wangmu termina con HP:156/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:798/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:156/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:760/1136 MP:413/413
+B-Xi Wangmu HP:172/418 MP:405/405
+C-Astaroth HP:53/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Astaroth
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:798/1136 MP:413/413
+2-Hachiman HP:730/851 MP:170/170
+3-Xi Wangmu HP:156/418 MP:405/405
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Xi Wangmu ataca a Xi Wangmu
+Xi Wangmu recibe 44 de daño
+Xi Wangmu termina con HP:112/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:798/1136 MP:413/413
+B-Hachiman HP:730/851 MP:170/170
+C-Xi Wangmu HP:112/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:760/1136 MP:413/413
+B-Xi Wangmu HP:172/418 MP:405/405
+C-Astaroth HP:53/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Itsuki
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:798/1136 MP:413/413
+2-Hachiman HP:730/851 MP:170/170
+3-Xi Wangmu HP:112/418 MP:405/405
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Astaroth ataca a Hachiman
+Hachiman recibe 33 de daño
+Hachiman termina con HP:697/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:798/1136 MP:413/413
+B-Hachiman HP:697/851 MP:170/170
+C-Xi Wangmu HP:112/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:760/1136 MP:413/413
+B-Xi Wangmu HP:172/418 MP:405/405
+C-Astaroth HP:53/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Itsuki
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:760/1136 MP:413/413
+2-Xi Wangmu HP:172/418 MP:405/405
+3-Astaroth HP:53/406 MP:181/181
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hachiman ataca a Xi Wangmu
+Xi Wangmu recibe 65 de daño
+Xi Wangmu termina con HP:107/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:798/1136 MP:413/413
+B-Hachiman HP:697/851 MP:170/170
+C-Xi Wangmu HP:112/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:760/1136 MP:413/413
+B-Xi Wangmu HP:107/418 MP:405/405
+C-Astaroth HP:53/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:760/1136 MP:413/413
+2-Xi Wangmu HP:107/418 MP:405/405
+3-Astaroth HP:53/406 MP:181/181
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Itsuki
+Itsuki recibe 45 de daño
+Itsuki termina con HP:715/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:798/1136 MP:413/413
+B-Hachiman HP:697/851 MP:170/170
+C-Xi Wangmu HP:112/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:715/1136 MP:413/413
+B-Xi Wangmu HP:107/418 MP:405/405
+C-Astaroth HP:53/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Hachiman
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:715/1136 MP:413/413
+2-Xi Wangmu HP:107/418 MP:405/405
+3-Astaroth HP:53/406 MP:181/181
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ataca a Itsuki
+Itsuki recibe 44 de daño
+Itsuki termina con HP:671/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:798/1136 MP:413/413
+B-Hachiman HP:697/851 MP:170/170
+C-Xi Wangmu HP:112/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:671/1136 MP:413/413
+B-Xi Wangmu HP:107/418 MP:405/405
+C-Astaroth HP:53/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Astaroth
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:798/1136 MP:413/413
+2-Hachiman HP:697/851 MP:170/170
+3-Xi Wangmu HP:112/418 MP:405/405
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Hachiman
+Hachiman recibe 45 de daño
+Hachiman termina con HP:652/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:798/1136 MP:413/413
+B-Hachiman HP:652/851 MP:170/170
+C-Xi Wangmu HP:112/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:671/1136 MP:413/413
+B-Xi Wangmu HP:107/418 MP:405/405
+C-Astaroth HP:53/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Astaroth
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:798/1136 MP:413/413
+2-Hachiman HP:652/851 MP:170/170
+3-Xi Wangmu HP:112/418 MP:405/405
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Xi Wangmu ataca a Hachiman
+Hachiman recibe 44 de daño
+Hachiman termina con HP:608/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:798/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:112/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:671/1136 MP:413/413
+B-Xi Wangmu HP:107/418 MP:405/405
+C-Astaroth HP:53/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Itsuki
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:798/1136 MP:413/413
+2-Hachiman HP:608/851 MP:170/170
+3-Xi Wangmu HP:112/418 MP:405/405
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Astaroth ataca a Itsuki
+Itsuki recibe 33 de daño
+Itsuki termina con HP:765/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:765/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:112/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:671/1136 MP:413/413
+B-Xi Wangmu HP:107/418 MP:405/405
+C-Astaroth HP:53/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Itsuki
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:671/1136 MP:413/413
+2-Xi Wangmu HP:107/418 MP:405/405
+3-Astaroth HP:53/406 MP:181/181
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hachiman ataca a Xi Wangmu
+Xi Wangmu recibe 65 de daño
+Xi Wangmu termina con HP:42/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:765/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:112/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:671/1136 MP:413/413
+B-Xi Wangmu HP:42/418 MP:405/405
+C-Astaroth HP:53/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:671/1136 MP:413/413
+2-Xi Wangmu HP:42/418 MP:405/405
+3-Astaroth HP:53/406 MP:181/181
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Xi Wangmu
+Xi Wangmu recibe 45 de daño
+Xi Wangmu termina con HP:0/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:765/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:112/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:671/1136 MP:413/413
+B-
+C-Astaroth HP:53/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Hachiman
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:671/1136 MP:413/413
+2-Astaroth HP:53/406 MP:181/181
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Xi Wangmu ataca a Astaroth
+Astaroth recibe 44 de daño
+Astaroth termina con HP:9/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:765/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:112/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:671/1136 MP:413/413
+B-
+C-Astaroth HP:9/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Astaroth
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:765/1136 MP:413/413
+2-Hachiman HP:608/851 MP:170/170
+3-Xi Wangmu HP:112/418 MP:405/405
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:765/1136 MP:413/413
+2-Hachiman HP:608/851 MP:170/170
+3-Xi Wangmu HP:112/418 MP:405/405
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Itsuki
+Itsuki recibe 45 de daño
+Itsuki termina con HP:720/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:720/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:112/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:671/1136 MP:413/413
+B-
+C-Astaroth HP:9/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:720/1136 MP:413/413
+2-Hachiman HP:608/851 MP:170/170
+3-Xi Wangmu HP:112/418 MP:405/405
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:720/1136 MP:413/413
+2-Hachiman HP:608/851 MP:170/170
+3-Xi Wangmu HP:112/418 MP:405/405
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Astaroth ataca a Xi Wangmu
+Xi Wangmu recibe 33 de daño
+Xi Wangmu termina con HP:79/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:720/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:79/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:671/1136 MP:413/413
+B-
+C-Astaroth HP:9/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Itsuki
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:671/1136 MP:413/413
+2-Astaroth HP:9/406 MP:181/181
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Itsuki
+Itsuki recibe 65 de daño
+Itsuki termina con HP:606/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:720/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:79/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:606/1136 MP:413/413
+B-
+C-Astaroth HP:9/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:606/1136 MP:413/413
+2-Astaroth HP:9/406 MP:181/181
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Astaroth
+Astaroth recibe 45 de daño
+Astaroth termina con HP:0/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:720/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:79/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:606/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Hachiman
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:606/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ataca a Itsuki
+Itsuki recibe 44 de daño
+Itsuki termina con HP:562/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:720/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:79/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:562/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:720/1136 MP:413/413
+2-Hachiman HP:608/851 MP:170/170
+3-Xi Wangmu HP:79/418 MP:405/405
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Xi Wangmu
+Xi Wangmu recibe 61 de daño
+Xi Wangmu termina con HP:18/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:720/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:18/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:562/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Itsuki
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:562/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:562/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Itsuki
+Itsuki recibe 65 de daño
+Itsuki termina con HP:497/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:720/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:18/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:497/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:497/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:497/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Itsuki
+Itsuki recibe 45 de daño
+Itsuki termina con HP:452/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:720/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:18/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:452/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Hachiman
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:452/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:452/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ataca a Itsuki
+Itsuki recibe 44 de daño
+Itsuki termina con HP:408/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:720/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:18/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:408/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:720/1136 MP:413/413
+2-Hachiman HP:608/851 MP:170/170
+3-Xi Wangmu HP:18/418 MP:405/405
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:659/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:659/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:18/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:408/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Itsuki
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:408/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Itsuki
+Itsuki recibe 65 de daño
+Itsuki termina con HP:343/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:659/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:18/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:343/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:343/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:343/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:282/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:659/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:18/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:282/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Hachiman
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:282/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ataca a Itsuki
+Itsuki recibe 44 de daño
+Itsuki termina con HP:238/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:659/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:18/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:238/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:659/1136 MP:413/413
+2-Hachiman HP:608/851 MP:170/170
+3-Xi Wangmu HP:18/418 MP:405/405
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:598/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:598/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:18/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:238/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Itsuki
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:238/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Itsuki
+Itsuki recibe 65 de daño
+Itsuki termina con HP:173/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:598/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:18/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:173/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:173/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:173/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Itsuki
+Itsuki recibe 45 de daño
+Itsuki termina con HP:128/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:598/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:18/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:128/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Hachiman
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:128/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ataca a Itsuki
+Itsuki recibe 44 de daño
+Itsuki termina con HP:84/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:598/1136 MP:413/413
+B-Hachiman HP:608/851 MP:170/170
+C-Xi Wangmu HP:18/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:84/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:598/1136 MP:413/413
+2-Hachiman HP:608/851 MP:170/170
+3-Xi Wangmu HP:18/418 MP:405/405
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:598/1136 MP:413/413
+2-Hachiman HP:608/851 MP:170/170
+3-Xi Wangmu HP:18/418 MP:405/405
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Hachiman
+Hachiman recibe 61 de daño
+Hachiman termina con HP:547/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:598/1136 MP:413/413
+B-Hachiman HP:547/851 MP:170/170
+C-Xi Wangmu HP:18/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:84/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Itsuki
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:84/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Itsuki
+Itsuki recibe 65 de daño
+Itsuki termina con HP:19/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:598/1136 MP:413/413
+B-Hachiman HP:547/851 MP:170/170
+C-Xi Wangmu HP:18/418 MP:405/405
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:19/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:19/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:0/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Itsuki (J1)

@@ -1,0 +1,2884 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 11
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:331/331 MP:66/66
+C-Ammut HP:709/709 MP:140/140
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Nergal HP:644/644 MP:288/288
+C-Senri HP:165/165 MP:158/158
+D-Obariyon HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nahobino
+3-Wendigo
+4-Senri
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nanashi HP:140/140 MP:411/411
+2-Nergal HP:644/644 MP:288/288
+3-Senri HP:165/165 MP:158/158
+4-Obariyon HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Nanashi
+Nanashi recibe 54 de daño
+Nanashi termina con HP:86/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:331/331 MP:66/66
+C-Ammut HP:709/709 MP:140/140
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Nergal HP:644/644 MP:288/288
+C-Senri HP:165/165 MP:158/158
+D-Obariyon HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Wendigo
+3-Senri
+4-Ammut
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:86/140 MP:411/411
+2-Nergal HP:644/644 MP:288/288
+3-Senri HP:165/165 MP:158/158
+4-Obariyon HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Senri
+Senri recibe 29 de daño
+Senri termina con HP:136/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:331/331 MP:66/66
+C-Ammut HP:709/709 MP:140/140
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Nergal HP:644/644 MP:288/288
+C-Senri HP:136/165 MP:158/158
+D-Obariyon HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Senri
+3-Ammut
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nanashi HP:86/140 MP:411/411
+2-Nergal HP:644/644 MP:288/288
+3-Senri HP:136/165 MP:158/158
+4-Obariyon HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Wendigo ataca a Senri
+Senri recibe 23 de daño
+Senri termina con HP:113/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:331/331 MP:66/66
+C-Ammut HP:709/709 MP:140/140
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Nergal HP:644/644 MP:288/288
+C-Senri HP:113/165 MP:158/158
+D-Obariyon HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Ammut
+3-Nahobino
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nanashi HP:86/140 MP:411/411
+2-Nergal HP:644/644 MP:288/288
+3-Senri HP:113/165 MP:158/158
+4-Obariyon HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nanashi HP:86/140 MP:411/411
+2-Nergal HP:644/644 MP:288/288
+3-Senri HP:113/165 MP:158/158
+4-Obariyon HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nanashi HP:86/140 MP:411/411
+2-Nergal HP:644/644 MP:288/288
+3-Senri HP:113/165 MP:158/158
+4-Obariyon HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nanashi HP:86/140 MP:411/411
+2-Nergal HP:644/644 MP:288/288
+3-Senri HP:113/165 MP:158/158
+4-Obariyon HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Senri ataca a Senri
+Senri recibe 16 de daño
+Senri termina con HP:97/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:331/331 MP:66/66
+C-Ammut HP:709/709 MP:140/140
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Nergal HP:644/644 MP:288/288
+C-Senri HP:97/165 MP:158/158
+D-Obariyon HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nanashi
+3-Obariyon
+4-Senri
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nahobino HP:453/453 MP:389/389
+2-Wendigo HP:331/331 MP:66/66
+3-Ammut HP:709/709 MP:140/140
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nergal ataca a Ammut
+Ammut recibe 54 de daño
+Ammut termina con HP:655/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:331/331 MP:66/66
+C-Ammut HP:655/709 MP:140/140
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Nergal HP:644/644 MP:288/288
+C-Senri HP:97/165 MP:158/158
+D-Obariyon HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Obariyon
+3-Senri
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Nahobino HP:453/453 MP:389/389
+2-Wendigo HP:331/331 MP:66/66
+3-Ammut HP:655/709 MP:140/140
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Nahobino HP:453/453 MP:389/389
+2-Wendigo HP:331/331 MP:66/66
+3-Ammut HP:655/709 MP:140/140
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi dispara a Wendigo
+Wendigo recibe 31 de daño
+Wendigo termina con HP:300/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:300/331 MP:66/66
+C-Ammut HP:655/709 MP:140/140
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Nergal HP:644/644 MP:288/288
+C-Senri HP:97/165 MP:158/158
+D-Obariyon HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Obariyon
+2-Senri
+3-Nergal
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Obariyon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Obariyon
+1-Nahobino HP:453/453 MP:389/389
+2-Wendigo HP:300/331 MP:66/66
+3-Ammut HP:655/709 MP:140/140
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Obariyon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Obariyon
+1-Nahobino HP:453/453 MP:389/389
+2-Wendigo HP:300/331 MP:66/66
+3-Ammut HP:655/709 MP:140/140
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Obariyon ataca a Senri
+Senri recibe 14 de daño
+Senri termina con HP:151/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:300/331 MP:66/66
+C-Ammut HP:655/709 MP:140/140
+D-Senri HP:151/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Nergal HP:644/644 MP:288/288
+C-Senri HP:97/165 MP:158/158
+D-Obariyon HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Nergal
+3-Nanashi
+4-Obariyon
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nahobino HP:453/453 MP:389/389
+2-Wendigo HP:300/331 MP:66/66
+3-Ammut HP:655/709 MP:140/140
+4-Senri HP:151/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Senri ataca a Senri
+Senri recibe 16 de daño
+Senri termina con HP:135/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:300/331 MP:66/66
+C-Ammut HP:655/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Nergal HP:644/644 MP:288/288
+C-Senri HP:97/165 MP:158/158
+D-Obariyon HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nahobino
+3-Wendigo
+4-Senri
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nanashi HP:86/140 MP:411/411
+2-Nergal HP:644/644 MP:288/288
+3-Senri HP:97/165 MP:158/158
+4-Obariyon HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nanashi HP:86/140 MP:411/411
+2-Nergal HP:644/644 MP:288/288
+3-Senri HP:97/165 MP:158/158
+4-Obariyon HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nanashi HP:86/140 MP:411/411
+2-Nergal HP:644/644 MP:288/288
+3-Senri HP:97/165 MP:158/158
+4-Obariyon HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nanashi HP:86/140 MP:411/411
+2-Nergal HP:644/644 MP:288/288
+3-Senri HP:97/165 MP:158/158
+4-Obariyon HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nanashi HP:86/140 MP:411/411
+2-Nergal HP:644/644 MP:288/288
+3-Senri HP:97/165 MP:158/158
+4-Obariyon HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Nanashi
+Nanashi recibe 54 de daño
+Nanashi termina con HP:32/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:300/331 MP:66/66
+C-Ammut HP:655/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:32/140 MP:411/411
+B-Nergal HP:644/644 MP:288/288
+C-Senri HP:97/165 MP:158/158
+D-Obariyon HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Wendigo
+3-Senri
+4-Ammut
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:32/140 MP:411/411
+2-Nergal HP:644/644 MP:288/288
+3-Senri HP:97/165 MP:158/158
+4-Obariyon HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Nanashi
+Nanashi recibe 83 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:300/331 MP:66/66
+C-Ammut HP:655/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:644/644 MP:288/288
+C-Senri HP:97/165 MP:158/158
+D-Obariyon HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Senri
+3-Ammut
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nergal HP:644/644 MP:288/288
+2-Senri HP:97/165 MP:158/158
+3-Obariyon HP:196/196 MP:88/88
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nergal HP:644/644 MP:288/288
+2-Senri HP:97/165 MP:158/158
+3-Obariyon HP:196/196 MP:88/88
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Nergal
+Nergal recibe 23 de daño
+Nergal termina con HP:621/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:300/331 MP:66/66
+C-Ammut HP:655/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:621/644 MP:288/288
+C-Senri HP:97/165 MP:158/158
+D-Obariyon HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Ammut
+3-Nahobino
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nergal HP:621/644 MP:288/288
+2-Senri HP:97/165 MP:158/158
+3-Obariyon HP:196/196 MP:88/88
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Senri ataca a Senri
+Senri recibe 16 de daño
+Senri termina con HP:81/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:300/331 MP:66/66
+C-Ammut HP:655/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:621/644 MP:288/288
+C-Senri HP:81/165 MP:158/158
+D-Obariyon HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Obariyon
+3-Senri
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nahobino HP:453/453 MP:389/389
+2-Wendigo HP:300/331 MP:66/66
+3-Ammut HP:655/709 MP:140/140
+4-Senri HP:135/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nahobino HP:453/453 MP:389/389
+2-Wendigo HP:300/331 MP:66/66
+3-Ammut HP:655/709 MP:140/140
+4-Senri HP:135/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nahobino HP:453/453 MP:389/389
+2-Wendigo HP:300/331 MP:66/66
+3-Ammut HP:655/709 MP:140/140
+4-Senri HP:135/165 MP:158/158
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nergal ataca a Ammut
+Ammut recibe 54 de daño
+Ammut termina con HP:601/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:300/331 MP:66/66
+C-Ammut HP:601/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:621/644 MP:288/288
+C-Senri HP:81/165 MP:158/158
+D-Obariyon HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Obariyon
+2-Senri
+3-Nergal
+----------------------------------------
+Seleccione una acción para Obariyon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Obariyon
+1-Nahobino HP:453/453 MP:389/389
+2-Wendigo HP:300/331 MP:66/66
+3-Ammut HP:601/709 MP:140/140
+4-Senri HP:135/165 MP:158/158
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Obariyon ataca a Wendigo
+Wendigo recibe 14 de daño
+Wendigo termina con HP:286/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:286/331 MP:66/66
+C-Ammut HP:601/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:621/644 MP:288/288
+C-Senri HP:81/165 MP:158/158
+D-Obariyon HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Nergal
+3-Obariyon
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nahobino HP:453/453 MP:389/389
+2-Wendigo HP:286/331 MP:66/66
+3-Ammut HP:601/709 MP:140/140
+4-Senri HP:135/165 MP:158/158
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Senri ataca a Wendigo
+Wendigo recibe 16 de daño
+Wendigo termina con HP:270/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:270/331 MP:66/66
+C-Ammut HP:601/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:621/644 MP:288/288
+C-Senri HP:81/165 MP:158/158
+D-Obariyon HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nahobino
+3-Wendigo
+4-Senri
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:621/644 MP:288/288
+2-Senri HP:81/165 MP:158/158
+3-Obariyon HP:196/196 MP:88/88
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Nergal
+Nergal recibe 54 de daño
+Nergal termina con HP:567/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:270/331 MP:66/66
+C-Ammut HP:601/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:567/644 MP:288/288
+C-Senri HP:81/165 MP:158/158
+D-Obariyon HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Wendigo
+3-Senri
+4-Ammut
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nergal HP:567/644 MP:288/288
+2-Senri HP:81/165 MP:158/158
+3-Obariyon HP:196/196 MP:88/88
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Nergal
+Nergal recibe 83 de daño
+Nergal termina con HP:484/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:270/331 MP:66/66
+C-Ammut HP:601/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-Senri HP:81/165 MP:158/158
+D-Obariyon HP:196/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Senri
+3-Ammut
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nergal HP:484/644 MP:288/288
+2-Senri HP:81/165 MP:158/158
+3-Obariyon HP:196/196 MP:88/88
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Wendigo ataca a Obariyon
+Obariyon recibe 23 de daño
+Obariyon termina con HP:173/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:270/331 MP:66/66
+C-Ammut HP:601/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-Senri HP:81/165 MP:158/158
+D-Obariyon HP:173/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Ammut
+3-Nahobino
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nergal HP:484/644 MP:288/288
+2-Senri HP:81/165 MP:158/158
+3-Obariyon HP:173/196 MP:88/88
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nergal HP:484/644 MP:288/288
+2-Senri HP:81/165 MP:158/158
+3-Obariyon HP:173/196 MP:88/88
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Senri ataca a Obariyon
+Obariyon recibe 16 de daño
+Obariyon termina con HP:157/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:270/331 MP:66/66
+C-Ammut HP:601/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-Senri HP:81/165 MP:158/158
+D-Obariyon HP:157/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Obariyon
+3-Senri
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nahobino HP:453/453 MP:389/389
+2-Wendigo HP:270/331 MP:66/66
+3-Ammut HP:601/709 MP:140/140
+4-Senri HP:135/165 MP:158/158
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nergal ataca a Ammut
+Ammut recibe 54 de daño
+Ammut termina con HP:547/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Wendigo HP:270/331 MP:66/66
+C-Ammut HP:547/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-Senri HP:81/165 MP:158/158
+D-Obariyon HP:157/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Obariyon
+2-Senri
+3-Nergal
+----------------------------------------
+Seleccione una acción para Obariyon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Obariyon
+1-Nahobino HP:453/453 MP:389/389
+2-Wendigo HP:270/331 MP:66/66
+3-Ammut HP:547/709 MP:140/140
+4-Senri HP:135/165 MP:158/158
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Obariyon ataca a Nahobino
+Nahobino recibe 14 de daño
+Nahobino termina con HP:439/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:439/453 MP:389/389
+B-Wendigo HP:270/331 MP:66/66
+C-Ammut HP:547/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-Senri HP:81/165 MP:158/158
+D-Obariyon HP:157/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Nergal
+3-Obariyon
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nahobino HP:439/453 MP:389/389
+2-Wendigo HP:270/331 MP:66/66
+3-Ammut HP:547/709 MP:140/140
+4-Senri HP:135/165 MP:158/158
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Senri ataca a Nahobino
+Nahobino recibe 16 de daño
+Nahobino termina con HP:423/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:270/331 MP:66/66
+C-Ammut HP:547/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-Senri HP:81/165 MP:158/158
+D-Obariyon HP:157/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nahobino
+3-Wendigo
+4-Senri
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:484/644 MP:288/288
+2-Senri HP:81/165 MP:158/158
+3-Obariyon HP:157/196 MP:88/88
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ammut ataca a Obariyon
+Obariyon recibe 54 de daño
+Obariyon termina con HP:103/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:270/331 MP:66/66
+C-Ammut HP:547/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-Senri HP:81/165 MP:158/158
+D-Obariyon HP:103/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Wendigo
+3-Senri
+4-Ammut
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nergal HP:484/644 MP:288/288
+2-Senri HP:81/165 MP:158/158
+3-Obariyon HP:103/196 MP:88/88
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nergal HP:484/644 MP:288/288
+2-Senri HP:81/165 MP:158/158
+3-Obariyon HP:103/196 MP:88/88
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Obariyon
+Obariyon recibe 29 de daño
+Obariyon termina con HP:74/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:270/331 MP:66/66
+C-Ammut HP:547/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-Senri HP:81/165 MP:158/158
+D-Obariyon HP:74/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Senri
+3-Ammut
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nergal HP:484/644 MP:288/288
+2-Senri HP:81/165 MP:158/158
+3-Obariyon HP:74/196 MP:88/88
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Wendigo ataca a Senri
+Senri recibe 23 de daño
+Senri termina con HP:58/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:270/331 MP:66/66
+C-Ammut HP:547/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-Senri HP:58/165 MP:158/158
+D-Obariyon HP:74/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Ammut
+3-Nahobino
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nergal HP:484/644 MP:288/288
+2-Senri HP:58/165 MP:158/158
+3-Obariyon HP:74/196 MP:88/88
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Senri ataca a Obariyon
+Obariyon recibe 16 de daño
+Obariyon termina con HP:58/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:270/331 MP:66/66
+C-Ammut HP:547/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-Senri HP:58/165 MP:158/158
+D-Obariyon HP:58/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Obariyon
+3-Senri
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nahobino HP:423/453 MP:389/389
+2-Wendigo HP:270/331 MP:66/66
+3-Ammut HP:547/709 MP:140/140
+4-Senri HP:135/165 MP:158/158
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nergal ataca a Wendigo
+Wendigo recibe 54 de daño
+Wendigo termina con HP:216/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:216/331 MP:66/66
+C-Ammut HP:547/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-Senri HP:58/165 MP:158/158
+D-Obariyon HP:58/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Obariyon
+2-Senri
+3-Nergal
+----------------------------------------
+Seleccione una acción para Obariyon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Obariyon
+1-Nahobino HP:423/453 MP:389/389
+2-Wendigo HP:216/331 MP:66/66
+3-Ammut HP:547/709 MP:140/140
+4-Senri HP:135/165 MP:158/158
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Obariyon ataca a Ammut
+Ammut recibe 14 de daño
+Ammut termina con HP:533/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:216/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-Senri HP:58/165 MP:158/158
+D-Obariyon HP:58/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Nergal
+3-Obariyon
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nahobino HP:423/453 MP:389/389
+2-Wendigo HP:216/331 MP:66/66
+3-Ammut HP:533/709 MP:140/140
+4-Senri HP:135/165 MP:158/158
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Senri ataca a Wendigo
+Wendigo recibe 16 de daño
+Wendigo termina con HP:200/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:200/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-Senri HP:58/165 MP:158/158
+D-Obariyon HP:58/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nahobino
+3-Wendigo
+4-Senri
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:484/644 MP:288/288
+2-Senri HP:58/165 MP:158/158
+3-Obariyon HP:58/196 MP:88/88
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ammut ataca a Senri
+Senri recibe 54 de daño
+Senri termina con HP:4/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:200/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-Senri HP:4/165 MP:158/158
+D-Obariyon HP:58/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Wendigo
+3-Senri
+4-Ammut
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nergal HP:484/644 MP:288/288
+2-Senri HP:4/165 MP:158/158
+3-Obariyon HP:58/196 MP:88/88
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Senri
+Senri recibe 83 de daño
+Senri termina con HP:0/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:200/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-
+D-Obariyon HP:58/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Senri
+3-Ammut
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nergal HP:484/644 MP:288/288
+2-Obariyon HP:58/196 MP:88/88
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Wendigo ataca a Obariyon
+Obariyon recibe 23 de daño
+Obariyon termina con HP:35/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:200/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-
+D-Obariyon HP:35/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Ammut
+3-Nahobino
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nergal HP:484/644 MP:288/288
+2-Obariyon HP:35/196 MP:88/88
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Senri ataca a Obariyon
+Obariyon recibe 16 de daño
+Obariyon termina con HP:19/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:200/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-
+D-Obariyon HP:19/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Obariyon
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nahobino HP:423/453 MP:389/389
+2-Wendigo HP:200/331 MP:66/66
+3-Ammut HP:533/709 MP:140/140
+4-Senri HP:135/165 MP:158/158
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nergal ataca a Wendigo
+Wendigo recibe 54 de daño
+Wendigo termina con HP:146/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:146/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:135/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-
+D-Obariyon HP:19/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Obariyon
+2-Nergal
+----------------------------------------
+Seleccione una acción para Obariyon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Obariyon
+1-Nahobino HP:423/453 MP:389/389
+2-Wendigo HP:146/331 MP:66/66
+3-Ammut HP:533/709 MP:140/140
+4-Senri HP:135/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Obariyon ataca a Senri
+Senri recibe 14 de daño
+Senri termina con HP:121/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:146/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:121/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:484/644 MP:288/288
+C-
+D-Obariyon HP:19/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nahobino
+3-Wendigo
+4-Senri
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:484/644 MP:288/288
+2-Obariyon HP:19/196 MP:88/88
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Nergal
+Nergal recibe 54 de daño
+Nergal termina con HP:430/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:146/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:121/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:430/644 MP:288/288
+C-
+D-Obariyon HP:19/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Wendigo
+3-Senri
+4-Ammut
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nergal HP:430/644 MP:288/288
+2-Obariyon HP:19/196 MP:88/88
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Nergal
+Nergal recibe 29 de daño
+Nergal termina con HP:401/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:146/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:121/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:401/644 MP:288/288
+C-
+D-Obariyon HP:19/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Senri
+3-Ammut
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nergal HP:401/644 MP:288/288
+2-Obariyon HP:19/196 MP:88/88
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Nergal
+Nergal recibe 23 de daño
+Nergal termina con HP:378/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:146/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:121/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:378/644 MP:288/288
+C-
+D-Obariyon HP:19/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Ammut
+3-Nahobino
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nergal HP:378/644 MP:288/288
+2-Obariyon HP:19/196 MP:88/88
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Senri ataca a Obariyon
+Obariyon recibe 16 de daño
+Obariyon termina con HP:3/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:146/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:121/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:378/644 MP:288/288
+C-
+D-Obariyon HP:3/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Obariyon
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nahobino HP:423/453 MP:389/389
+2-Wendigo HP:146/331 MP:66/66
+3-Ammut HP:533/709 MP:140/140
+4-Senri HP:121/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nahobino HP:423/453 MP:389/389
+2-Wendigo HP:146/331 MP:66/66
+3-Ammut HP:533/709 MP:140/140
+4-Senri HP:121/165 MP:158/158
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nergal ataca a Wendigo
+Wendigo recibe 54 de daño
+Wendigo termina con HP:92/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:92/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:121/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:378/644 MP:288/288
+C-
+D-Obariyon HP:3/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Obariyon
+2-Nergal
+----------------------------------------
+Seleccione una acción para Obariyon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Obariyon
+1-Nahobino HP:423/453 MP:389/389
+2-Wendigo HP:92/331 MP:66/66
+3-Ammut HP:533/709 MP:140/140
+4-Senri HP:121/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Obariyon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Obariyon
+1-Nahobino HP:423/453 MP:389/389
+2-Wendigo HP:92/331 MP:66/66
+3-Ammut HP:533/709 MP:140/140
+4-Senri HP:121/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Obariyon ataca a Senri
+Senri recibe 14 de daño
+Senri termina con HP:107/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:92/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:107/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:378/644 MP:288/288
+C-
+D-Obariyon HP:3/196 MP:88/88
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nahobino
+3-Wendigo
+4-Senri
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:378/644 MP:288/288
+2-Obariyon HP:3/196 MP:88/88
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:378/644 MP:288/288
+2-Obariyon HP:3/196 MP:88/88
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:378/644 MP:288/288
+2-Obariyon HP:3/196 MP:88/88
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:378/644 MP:288/288
+2-Obariyon HP:3/196 MP:88/88
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Nergal
+Nergal recibe 54 de daño
+Nergal termina con HP:324/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:92/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:107/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:324/644 MP:288/288
+C-
+D-Obariyon HP:3/196 MP:88/88
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Wendigo
+3-Senri
+4-Ammut
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nergal HP:324/644 MP:288/288
+2-Obariyon HP:3/196 MP:88/88
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Nergal
+Nergal recibe 29 de daño
+Nergal termina con HP:295/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:92/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:107/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:295/644 MP:288/288
+C-
+D-Obariyon HP:3/196 MP:88/88
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Senri
+3-Ammut
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nergal HP:295/644 MP:288/288
+2-Obariyon HP:3/196 MP:88/88
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Nergal
+Nergal recibe 23 de daño
+Nergal termina con HP:272/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:92/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:107/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:272/644 MP:288/288
+C-
+D-Obariyon HP:3/196 MP:88/88
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Ammut
+3-Nahobino
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nergal HP:272/644 MP:288/288
+2-Obariyon HP:3/196 MP:88/88
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nergal HP:272/644 MP:288/288
+2-Obariyon HP:3/196 MP:88/88
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Senri ataca a Obariyon
+Obariyon recibe 16 de daño
+Obariyon termina con HP:0/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:423/453 MP:389/389
+B-Wendigo HP:92/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:107/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:272/644 MP:288/288
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nahobino HP:423/453 MP:389/389
+2-Wendigo HP:92/331 MP:66/66
+3-Ammut HP:533/709 MP:140/140
+4-Senri HP:107/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nahobino HP:423/453 MP:389/389
+2-Wendigo HP:92/331 MP:66/66
+3-Ammut HP:533/709 MP:140/140
+4-Senri HP:107/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nahobino HP:423/453 MP:389/389
+2-Wendigo HP:92/331 MP:66/66
+3-Ammut HP:533/709 MP:140/140
+4-Senri HP:107/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nahobino HP:423/453 MP:389/389
+2-Wendigo HP:92/331 MP:66/66
+3-Ammut HP:533/709 MP:140/140
+4-Senri HP:107/165 MP:158/158
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Nahobino
+Nahobino recibe 54 de daño
+Nahobino termina con HP:369/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:369/453 MP:389/389
+B-Wendigo HP:92/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:107/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:272/644 MP:288/288
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nahobino
+3-Wendigo
+4-Senri
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:272/644 MP:288/288
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:272/644 MP:288/288
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:272/644 MP:288/288
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:272/644 MP:288/288
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:272/644 MP:288/288
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:272/644 MP:288/288
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:272/644 MP:288/288
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:272/644 MP:288/288
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:272/644 MP:288/288
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Nergal
+Nergal recibe 54 de daño
+Nergal termina con HP:218/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:369/453 MP:389/389
+B-Wendigo HP:92/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:107/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:218/644 MP:288/288
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Wendigo
+3-Senri
+4-Ammut
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nergal HP:218/644 MP:288/288
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nergal HP:218/644 MP:288/288
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Nergal
+Nergal recibe 29 de daño
+Nergal termina con HP:189/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:369/453 MP:389/389
+B-Wendigo HP:92/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:107/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:189/644 MP:288/288
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Senri
+3-Ammut
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nergal HP:189/644 MP:288/288
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nergal HP:189/644 MP:288/288
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nergal HP:189/644 MP:288/288
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Nergal
+Nergal recibe 23 de daño
+Nergal termina con HP:166/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:369/453 MP:389/389
+B-Wendigo HP:92/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:107/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:166/644 MP:288/288
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Ammut
+3-Nahobino
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nergal HP:166/644 MP:288/288
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Senri ataca a Nergal
+Nergal recibe 16 de daño
+Nergal termina con HP:150/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:369/453 MP:389/389
+B-Wendigo HP:92/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:107/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:150/644 MP:288/288
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nahobino HP:369/453 MP:389/389
+2-Wendigo HP:92/331 MP:66/66
+3-Ammut HP:533/709 MP:140/140
+4-Senri HP:107/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nergal ataca a Senri
+Senri recibe 54 de daño
+Senri termina con HP:53/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:369/453 MP:389/389
+B-Wendigo HP:92/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:53/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:150/644 MP:288/288
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nahobino
+3-Wendigo
+4-Senri
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:150/644 MP:288/288
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:150/644 MP:288/288
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:150/644 MP:288/288
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nergal HP:150/644 MP:288/288
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Nergal
+Nergal recibe 54 de daño
+Nergal termina con HP:96/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:369/453 MP:389/389
+B-Wendigo HP:92/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:53/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:96/644 MP:288/288
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Wendigo
+3-Senri
+4-Ammut
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nergal HP:96/644 MP:288/288
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nergal HP:96/644 MP:288/288
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Nergal
+Nergal recibe 83 de daño
+Nergal termina con HP:13/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:369/453 MP:389/389
+B-Wendigo HP:92/331 MP:66/66
+C-Ammut HP:533/709 MP:140/140
+D-Senri HP:53/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nergal HP:13/644 MP:288/288
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Senri
+3-Ammut
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nergal HP:13/644 MP:288/288
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nergal HP:13/644 MP:288/288
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Nergal
+Nergal recibe 23 de daño
+Nergal termina con HP:0/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Nahobino (J1)

@@ -1,0 +1,2767 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 12
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Master Therion HP:497/497 MP:223/223
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Virtue HP:240/240 MP:232/232
+D-Senri HP:165/165 MP:158/158
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Master Therion
+3-Hel
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kyouji HP:999/999 MP:0/0
+2-Enku HP:235/235 MP:228/228
+3-Virtue HP:240/240 MP:232/232
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Virtue
+Virtue recibe 88 de daño
+Virtue termina con HP:152/240
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Master Therion HP:497/497 MP:223/223
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Virtue HP:152/240 MP:232/232
+D-Senri HP:165/165 MP:158/158
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Master Therion
+2-Hel
+3-Patrimpas
+4-Flynn
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Master Therion use
+1-Pandemic Bomb MP:11
+2-Agidyne MP:14
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:418/418 MP:405/405
+2-Archangel HP:265/265 MP:52/52
+3-Angel HP:61/61 MP:58/58
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Angel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Angel HP:61/61 MP:58/58
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Virtue HP:152/240 MP:232/232
+D-Senri HP:165/165 MP:158/158
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Patrimpas
+3-Flynn
+4-Angel
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Kyouji HP:999/999 MP:0/0
+2-Enku HP:235/235 MP:228/228
+3-Virtue HP:152/240 MP:232/232
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ataca a Kyouji
+Kyouji recibe 26 de daño
+Kyouji termina con HP:973/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Angel HP:61/61 MP:58/58
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Virtue HP:152/240 MP:232/232
+D-Senri HP:165/165 MP:158/158
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patrimpas
+2-Flynn
+3-Angel
+4-Hel
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Master Therion HP:497/497 MP:223/223
+2-Xi Wangmu HP:418/418 MP:405/405
+3-Archangel HP:265/265 MP:52/52
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Angel HP:61/61 MP:58/58
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Virtue HP:152/240 MP:232/232
+D-Senri HP:165/165 MP:158/158
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Angel
+3-Hel
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kyouji HP:973/999 MP:0/0
+2-Enku HP:235/235 MP:228/228
+3-Virtue HP:152/240 MP:232/232
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Flynn ataca a Senri
+Senri recibe 88 de daño
+Senri termina con HP:77/165
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Angel HP:61/61 MP:58/58
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Virtue HP:152/240 MP:232/232
+D-Senri HP:77/165 MP:158/158
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Angel
+2-Hel
+3-Mushussu
+4-Flynn
+----------------------------------------
+Seleccione una acción para Angel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Angel
+1-Kyouji HP:973/999 MP:0/0
+2-Enku HP:235/235 MP:228/228
+3-Virtue HP:152/240 MP:232/232
+4-Senri HP:77/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Angel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Master Therion HP:497/497 MP:223/223
+2-Patrimpas HP:155/155 MP:149/149
+3-Xi Wangmu HP:418/418 MP:405/405
+4-Archangel HP:265/265 MP:52/52
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Master Therion ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Master Therion HP:497/497 MP:223/223
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Virtue HP:152/240 MP:232/232
+D-Senri HP:77/165 MP:158/158
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Mushussu
+3-Flynn
+4-Master Therion
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Kyouji HP:973/999 MP:0/0
+2-Enku HP:235/235 MP:228/228
+3-Virtue HP:152/240 MP:232/232
+4-Senri HP:77/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Hel ataca a Senri
+Senri recibe 26 de daño
+Senri termina con HP:51/165
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Master Therion HP:497/497 MP:223/223
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Virtue HP:152/240 MP:232/232
+D-Senri HP:51/165 MP:158/158
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Virtue
+2-Enku
+3-Kyouji
+4-Senri
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Strix HP:189/189 MP:85/85
+2-Lord Nan Dou HP:549/549 MP:108/108
+3-Manticore HP:385/385 MP:172/172
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Manticore ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Master Therion HP:497/497 MP:223/223
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Manticore HP:385/385 MP:172/172
+D-Senri HP:51/165 MP:158/158
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Enku
+2-Kyouji
+3-Senri
+4-Manticore
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Flynn HP:971/971 MP:527/527
+2-Hel HP:254/254 MP:246/246
+3-Master Therion HP:497/497 MP:223/223
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Enku ataca a Master Therion
+Master Therion recibe 24 de daño
+Master Therion termina con HP:473/497
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Master Therion HP:473/497 MP:223/223
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Manticore HP:385/385 MP:172/172
+D-Senri HP:51/165 MP:158/158
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Senri
+3-Manticore
+4-Enku
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Master Therion HP:473/497 MP:223/223
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Manticore HP:385/385 MP:172/172
+D-Senri HP:51/165 MP:158/158
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Senri
+2-Manticore
+3-Enku
+4-Kyouji
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Master Therion HP:473/497 MP:223/223
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Manticore HP:385/385 MP:172/172
+D-Senri HP:51/165 MP:158/158
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Enku
+3-Kyouji
+4-Senri
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Master Therion HP:473/497 MP:223/223
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Manticore HP:385/385 MP:172/172
+D-Senri HP:51/165 MP:158/158
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Enku
+2-Kyouji
+3-Senri
+4-Manticore
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Master Therion HP:473/497 MP:223/223
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Manticore HP:385/385 MP:172/172
+D-Senri HP:51/165 MP:158/158
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Senri
+3-Manticore
+4-Enku
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Flynn HP:971/971 MP:527/527
+2-Hel HP:254/254 MP:246/246
+3-Master Therion HP:473/497 MP:223/223
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kyouji dispara a Hel
+Hel recibe 911 de daño
+Hel termina con HP:0/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-Master Therion HP:473/497 MP:223/223
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Manticore HP:385/385 MP:172/172
+D-Senri HP:51/165 MP:158/158
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Master Therion
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Patrimpas HP:155/155 MP:149/149
+2-Xi Wangmu HP:418/418 MP:405/405
+3-Archangel HP:265/265 MP:52/52
+4-Angel HP:61/61 MP:58/58
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Master Therion HP:473/497 MP:223/223 (Puesto 3)
+3-Mushussu HP:399/399 MP:179/179 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kyouji HP:973/999 MP:0/0
+2-Enku HP:235/235 MP:228/228
+3-Manticore HP:385/385 MP:172/172
+4-Senri HP:51/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Flynn dispara a Senri
+Senri recibe 110 de daño
+Senri termina con HP:0/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-Master Therion HP:473/497 MP:223/223
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Manticore HP:385/385 MP:172/172
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Master Therion
+2-Mushussu
+3-Flynn
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Patrimpas HP:155/155 MP:149/149
+2-Xi Wangmu HP:418/418 MP:405/405
+3-Archangel HP:265/265 MP:52/52
+4-Angel HP:61/61 MP:58/58
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Xi Wangmu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Manticore HP:385/385 MP:172/172
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Flynn
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Kyouji HP:973/999 MP:0/0
+2-Enku HP:235/235 MP:228/228
+3-Manticore HP:385/385 MP:172/172
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Master Therion HP:473/497 MP:223/223
+2-Patrimpas HP:155/155 MP:149/149
+3-Archangel HP:265/265 MP:52/52
+4-Angel HP:61/61 MP:58/58
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Archangel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Archangel HP:265/265 MP:52/52
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Manticore HP:385/385 MP:172/172
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Xi Wangmu
+3-Archangel
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Archangel HP:265/265 MP:52/52
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Manticore HP:385/385 MP:172/172
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Archangel
+3-Flynn
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Master Therion HP:473/497 MP:223/223
+2-Patrimpas HP:155/155 MP:149/149
+3-Angel HP:61/61 MP:58/58
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Archangel HP:265/265 MP:52/52
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Manticore HP:385/385 MP:172/172
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Enku
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Flynn HP:971/971 MP:527/527
+2-Xi Wangmu HP:418/418 MP:405/405
+3-Archangel HP:265/265 MP:52/52
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Manticore ataca a Xi Wangmu
+Xi Wangmu recibe 84 de daño
+Xi Wangmu termina con HP:334/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-Xi Wangmu HP:334/418 MP:405/405
+D-Archangel HP:265/265 MP:52/52
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Manticore HP:385/385 MP:165/172
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Kyouji
+3-Manticore
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Virtue HP:152/240 MP:232/232
+2-Strix HP:189/189 MP:85/85
+3-Lord Nan Dou HP:549/549 MP:108/108
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-Xi Wangmu HP:334/418 MP:405/405
+D-Archangel HP:265/265 MP:52/52
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Manticore HP:385/385 MP:165/172
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+2-Manticore
+3-Enku
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Flynn HP:971/971 MP:527/527
+2-Xi Wangmu HP:334/418 MP:405/405
+3-Archangel HP:265/265 MP:52/52
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kyouji ataca a Archangel
+Archangel recibe 614 de daño
+Archangel termina con HP:0/265
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-Xi Wangmu HP:334/418 MP:405/405
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Manticore HP:385/385 MP:165/172
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Enku
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Flynn HP:971/971 MP:527/527
+2-Xi Wangmu HP:334/418 MP:405/405
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Virtue HP:152/240 MP:232/232
+2-Strix HP:189/189 MP:85/85
+3-Lord Nan Dou HP:549/549 MP:108/108
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lord Nan Dou ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-Xi Wangmu HP:334/418 MP:405/405
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:228/228
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Enku
+2-Kyouji
+3-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Flynn HP:971/971 MP:527/527
+2-Xi Wangmu HP:334/418 MP:405/405
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Enku ataca a Xi Wangmu
+Xi Wangmu recibe 74 de daño
+Enku ataca a Xi Wangmu
+Xi Wangmu recibe 74 de daño
+Xi Wangmu termina con HP:186/418
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-Xi Wangmu HP:186/418 MP:405/405
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:221/228
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Master Therion HP:473/497 MP:223/223
+2-Patrimpas HP:155/155 MP:149/149
+3-Angel HP:61/61 MP:58/58
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Xi Wangmu HP:186/418 MP:405/405 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Hamaon MP:10
+2-Zionga MP:8
+3-Sabbatma MP:20
+4-Zanma MP:8
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Master Therion HP:473/497 MP:223/223
+2-Patrimpas HP:155/155 MP:149/149
+3-Angel HP:61/61 MP:58/58
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Xi Wangmu HP:186/418 MP:405/405 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-Xi Wangmu HP:186/418 MP:405/405
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:973/999 MP:0/0
+B-Enku HP:235/235 MP:221/228
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Flynn
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Kyouji HP:973/999 MP:0/0
+2-Enku HP:235/235 MP:221/228
+3-Lord Nan Dou HP:549/549 MP:108/108
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ataca a Kyouji
+Kyouji recibe 44 de daño
+Kyouji termina con HP:929/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-Xi Wangmu HP:186/418 MP:405/405
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:929/999 MP:0/0
+B-Enku HP:235/235 MP:221/228
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Hamaon MP:10
+2-Zionga MP:8
+3-Sabbatma MP:20
+4-Zanma MP:8
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kyouji HP:929/999 MP:0/0
+2-Enku HP:235/235 MP:221/228
+3-Lord Nan Dou HP:549/549 MP:108/108
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca con luz a Kyouji
+Kyouji bloquea el ataque de Flynn
+Kyouji termina con HP:929/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Xi Wangmu HP:186/418 MP:405/405
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:929/999 MP:0/0
+B-Enku HP:235/235 MP:221/228
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Enku
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Flynn HP:971/971 MP:517/527
+2-Xi Wangmu HP:186/418 MP:405/405
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Lord Nan Dou ataca a Xi Wangmu
+Xi Wangmu recibe 41 de daño
+Xi Wangmu termina con HP:145/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Xi Wangmu HP:145/418 MP:405/405
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:929/999 MP:0/0
+B-Enku HP:235/235 MP:221/228
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Kyouji
+3-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Virtue HP:152/240 MP:232/232
+2-Strix HP:189/189 MP:85/85
+3-Manticore HP:385/385 MP:165/172
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Manticore ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Xi Wangmu HP:145/418 MP:405/405
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:929/999 MP:0/0
+B-Manticore HP:385/385 MP:165/172
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+2-Lord Nan Dou
+3-Manticore
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:221/228
+2-Virtue HP:152/240 MP:232/232
+3-Strix HP:189/189 MP:85/85
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Manticore HP:385/385 MP:165/172 (Puesto 2)
+2-Lord Nan Dou HP:549/549 MP:108/108 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Xi Wangmu HP:145/418 MP:405/405
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:929/999 MP:0/0
+B-Manticore HP:385/385 MP:165/172
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Manticore
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Xi Wangmu HP:145/418 MP:405/405
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:929/999 MP:0/0
+B-Manticore HP:385/385 MP:165/172
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Kyouji
+3-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Xi Wangmu HP:145/418 MP:405/405
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:929/999 MP:0/0
+B-Manticore HP:385/385 MP:165/172
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kyouji HP:929/999 MP:0/0
+2-Manticore HP:385/385 MP:165/172
+3-Lord Nan Dou HP:549/549 MP:108/108
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Lord Nan Dou
+Lord Nan Dou recibe 88 de daño
+Lord Nan Dou termina con HP:461/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Xi Wangmu HP:145/418 MP:405/405
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:929/999 MP:0/0
+B-Manticore HP:385/385 MP:165/172
+C-Lord Nan Dou HP:461/549 MP:108/108
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Flynn
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Master Therion HP:473/497 MP:223/223
+2-Patrimpas HP:155/155 MP:149/149
+3-Angel HP:61/61 MP:58/58
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Angel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Angel HP:61/61 MP:58/58
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:929/999 MP:0/0
+B-Manticore HP:385/385 MP:165/172
+C-Lord Nan Dou HP:461/549 MP:108/108
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Angel
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kyouji HP:929/999 MP:0/0
+2-Manticore HP:385/385 MP:165/172
+3-Lord Nan Dou HP:461/549 MP:108/108
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Lord Nan Dou
+Lord Nan Dou recibe 88 de daño
+Lord Nan Dou termina con HP:373/549
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Angel HP:61/61 MP:58/58
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:929/999 MP:0/0
+B-Manticore HP:385/385 MP:165/172
+C-Lord Nan Dou HP:373/549 MP:108/108
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Lord Nan Dou
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:221/228
+2-Virtue HP:152/240 MP:232/232
+3-Strix HP:189/189 MP:85/85
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Virtue ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Angel HP:61/61 MP:58/58
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:929/999 MP:0/0
+B-Virtue HP:152/240 MP:232/232
+C-Lord Nan Dou HP:373/549 MP:108/108
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Kyouji
+3-Virtue
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Flynn HP:971/971 MP:517/527
+2-Angel HP:61/61 MP:58/58
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Lord Nan Dou ataca a Angel
+Angel recibe 41 de daño
+Angel termina con HP:20/61
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Angel HP:20/61 MP:58/58
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:929/999 MP:0/0
+B-Virtue HP:152/240 MP:232/232
+C-Lord Nan Dou HP:373/549 MP:108/108
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Virtue
+3-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:221/228
+2-Strix HP:189/189 MP:85/85
+3-Manticore HP:385/385 MP:165/172
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Flynn HP:971/971 MP:517/527
+2-Angel HP:20/61 MP:58/58
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Angel HP:20/61 MP:58/58
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:929/999 MP:0/0
+B-Virtue HP:152/240 MP:232/232
+C-Lord Nan Dou HP:373/549 MP:108/108
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Virtue
+2-Lord Nan Dou
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Angel HP:20/61 MP:58/58
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:929/999 MP:0/0
+B-Virtue HP:152/240 MP:232/232
+C-Lord Nan Dou HP:373/549 MP:108/108
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Kyouji
+3-Virtue
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Senri HP:0/165 MP:158/158
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou revive a Senri
+Senri recibe 165 de HP
+Senri termina con HP:165/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Angel HP:20/61 MP:58/58
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:929/999 MP:0/0
+B-Virtue HP:152/240 MP:232/232
+C-Lord Nan Dou HP:373/549 MP:68/108
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Angel
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kyouji HP:929/999 MP:0/0
+2-Virtue HP:152/240 MP:232/232
+3-Lord Nan Dou HP:373/549 MP:68/108
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Kyouji
+Kyouji recibe 88 de daño
+Kyouji termina con HP:841/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Angel HP:20/61 MP:58/58
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:841/999 MP:0/0
+B-Virtue HP:152/240 MP:232/232
+C-Lord Nan Dou HP:373/549 MP:68/108
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Angel
+2-Flynn
+----------------------------------------
+Seleccione una acción para Angel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Angel use
+1-Dia MP:5
+2-Patra MP:5
+3-Rakukaja MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Angel
+1-Flynn HP:971/971 MP:517/527
+2-Angel HP:20/61 MP:58/58
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Angel cura a Flynn
+Flynn recibe 242 de HP
+Flynn termina con HP:971/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Angel HP:20/61 MP:53/58
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:841/999 MP:0/0
+B-Virtue HP:152/240 MP:232/232
+C-Lord Nan Dou HP:373/549 MP:68/108
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Virtue
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Flynn HP:971/971 MP:517/527
+2-Angel HP:20/61 MP:53/58
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:221/228
+2-Senri HP:165/165 MP:158/158
+3-Strix HP:189/189 MP:85/85
+4-Manticore HP:385/385 MP:165/172
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Angel HP:20/61 MP:53/58
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:841/999 MP:0/0
+B-Virtue HP:152/240 MP:232/232
+C-Enku HP:235/235 MP:221/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Virtue
+2-Kyouji
+3-Enku
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Angel HP:20/61 MP:53/58
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:841/999 MP:0/0
+B-Virtue HP:152/240 MP:232/232
+C-Enku HP:235/235 MP:221/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Enku
+3-Virtue
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Angel HP:20/61 MP:53/58
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:841/999 MP:0/0
+B-Virtue HP:152/240 MP:232/232
+C-Enku HP:235/235 MP:221/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Enku
+2-Virtue
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Senri HP:165/165 MP:158/158
+2-Strix HP:189/189 MP:85/85
+3-Lord Nan Dou HP:373/549 MP:68/108
+4-Manticore HP:385/385 MP:165/172
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Manticore ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-Angel HP:20/61 MP:53/58
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:841/999 MP:0/0
+B-Virtue HP:152/240 MP:232/232
+C-Manticore HP:385/385 MP:165/172
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Virtue
+2-Kyouji
+3-Manticore
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Flynn HP:971/971 MP:517/527
+2-Angel HP:20/61 MP:53/58
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Flynn HP:971/971 MP:517/527
+2-Angel HP:20/61 MP:53/58
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Virtue ataca a Angel
+Angel recibe 25 de daño
+Angel termina con HP:0/61
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:841/999 MP:0/0
+B-Virtue HP:152/240 MP:232/232
+C-Manticore HP:385/385 MP:165/172
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kyouji HP:841/999 MP:0/0
+2-Virtue HP:152/240 MP:232/232
+3-Manticore HP:385/385 MP:165/172
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Kyouji
+Kyouji bloquea el ataque de Flynn
+Kyouji termina con HP:841/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:841/999 MP:0/0
+B-Virtue HP:152/240 MP:232/232
+C-Manticore HP:385/385 MP:165/172
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Virtue
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Flynn HP:971/971 MP:517/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Flynn
+Flynn recibe 31 de daño
+Flynn termina con HP:940/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:940/971 MP:517/527
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:841/999 MP:0/0
+B-Virtue HP:152/240 MP:232/232
+C-Manticore HP:385/385 MP:165/172
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Virtue
+2-Kyouji
+3-Manticore
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:940/971 MP:517/527
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:841/999 MP:0/0
+B-Virtue HP:152/240 MP:232/232
+C-Manticore HP:385/385 MP:165/172
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+2-Manticore
+3-Virtue
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Flynn HP:940/971 MP:517/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:221/228
+2-Senri HP:165/165 MP:158/158
+3-Strix HP:189/189 MP:85/85
+4-Lord Nan Dou HP:373/549 MP:68/108
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Virtue HP:152/240 MP:232/232 (Puesto 2)
+2-Manticore HP:385/385 MP:165/172 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:940/971 MP:517/527
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:841/999 MP:0/0
+B-Virtue HP:152/240 MP:232/232
+C-Manticore HP:385/385 MP:165/172
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Virtue
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Flynn HP:940/971 MP:517/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Flynn HP:940/971 MP:517/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Flynn
+Flynn recibe 84 de daño
+Flynn termina con HP:856/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:856/971 MP:517/527
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:841/999 MP:0/0
+B-Virtue HP:152/240 MP:232/232
+C-Manticore HP:385/385 MP:158/172
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kyouji HP:841/999 MP:0/0
+2-Virtue HP:152/240 MP:232/232
+3-Manticore HP:385/385 MP:158/172
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Virtue
+Virtue recibe 88 de daño
+Virtue termina con HP:64/240
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:856/971 MP:517/527
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:841/999 MP:0/0
+B-Virtue HP:64/240 MP:232/232
+C-Manticore HP:385/385 MP:158/172
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Virtue
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Flynn HP:856/971 MP:517/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:856/971 MP:517/527
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:841/999 MP:0/0
+B-Virtue HP:64/240 MP:232/232
+C-Manticore HP:385/385 MP:158/172
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Virtue
+2-Kyouji
+3-Manticore
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Flynn HP:856/971 MP:517/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:221/228
+2-Senri HP:165/165 MP:158/158
+3-Strix HP:189/189 MP:85/85
+4-Lord Nan Dou HP:373/549 MP:68/108
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Strix ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:856/971 MP:517/527
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:841/999 MP:0/0
+B-Strix HP:189/189 MP:85/85
+C-Manticore HP:385/385 MP:158/172
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Manticore
+3-Strix
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:221/228
+2-Virtue HP:64/240 MP:232/232
+3-Senri HP:165/165 MP:158/158
+4-Lord Nan Dou HP:373/549 MP:68/108
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Strix HP:189/189 MP:85/85 (Puesto 2)
+2-Manticore HP:385/385 MP:158/172 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Virtue ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:856/971 MP:517/527
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:841/999 MP:0/0
+B-Strix HP:189/189 MP:85/85
+C-Virtue HP:64/240 MP:232/232
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Virtue
+2-Strix
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:856/971 MP:517/527
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:841/999 MP:0/0
+B-Strix HP:189/189 MP:85/85
+C-Virtue HP:64/240 MP:232/232
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Strix
+2-Kyouji
+3-Virtue
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:221/228
+2-Senri HP:165/165 MP:158/158
+3-Lord Nan Dou HP:373/549 MP:68/108
+4-Manticore HP:385/385 MP:158/172
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Manticore ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:856/971 MP:517/527
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:841/999 MP:0/0
+B-Manticore HP:385/385 MP:158/172
+C-Virtue HP:64/240 MP:232/232
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+2-Virtue
+3-Manticore
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Flynn HP:856/971 MP:517/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Flynn HP:856/971 MP:517/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji dispara a Flynn
+Flynn recibe 911 de daño
+Flynn termina con HP:0/971
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Kyouji (J2)

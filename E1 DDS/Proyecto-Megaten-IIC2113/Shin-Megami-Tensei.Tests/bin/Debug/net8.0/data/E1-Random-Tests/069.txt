@@ -1,0 +1,3188 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 68
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Anzu HP:596/596 MP:118/118
+C-Nergal HP:644/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Aniel HP:567/567 MP:255/255
+C-Zouchouten HP:221/221 MP:214/214
+D-Dantalion HP:197/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Itsuki
+3-Anzu
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:597/597 MP:347/347
+2-Aniel HP:567/567 MP:255/255
+3-Zouchouten HP:221/221 MP:214/214
+4-Dantalion HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nergal ataca a Zouchouten
+Zouchouten recibe 54 de daño
+Zouchouten termina con HP:167/221
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Anzu HP:596/596 MP:118/118
+C-Nergal HP:644/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Aniel HP:567/567 MP:255/255
+C-Zouchouten HP:167/221 MP:214/214
+D-Dantalion HP:197/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Nergal
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:597/597 MP:347/347
+2-Aniel HP:567/567 MP:255/255
+3-Zouchouten HP:167/221 MP:214/214
+4-Dantalion HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Joker
+Joker recibe 45 de daño
+Joker termina con HP:552/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Anzu HP:596/596 MP:118/118
+C-Nergal HP:644/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:552/597 MP:347/347
+B-Aniel HP:567/567 MP:255/255
+C-Zouchouten HP:167/221 MP:214/214
+D-Dantalion HP:197/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Nergal
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Joker HP:552/597 MP:347/347
+2-Aniel HP:567/567 MP:255/255
+3-Zouchouten HP:167/221 MP:214/214
+4-Dantalion HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Joker HP:552/597 MP:347/347
+2-Aniel HP:567/567 MP:255/255
+3-Zouchouten HP:167/221 MP:214/214
+4-Dantalion HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Joker HP:552/597 MP:347/347
+2-Aniel HP:567/567 MP:255/255
+3-Zouchouten HP:167/221 MP:214/214
+4-Dantalion HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Anzu ataca a Zouchouten
+Zouchouten recibe 44 de daño
+Zouchouten termina con HP:123/221
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Anzu HP:596/596 MP:118/118
+C-Nergal HP:644/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:552/597 MP:347/347
+B-Aniel HP:567/567 MP:255/255
+C-Zouchouten HP:123/221 MP:214/214
+D-Dantalion HP:197/197 MP:190/190
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Joker
+3-Zouchouten
+4-Dantalion
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Itsuki HP:1136/1136 MP:413/413
+2-Anzu HP:596/596 MP:118/118
+3-Nergal HP:644/644 MP:288/288
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Aniel ataca a Nergal
+Nergal recibe 47 de daño
+Nergal termina con HP:597/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Anzu HP:596/596 MP:118/118
+C-Nergal HP:597/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:552/597 MP:347/347
+B-Aniel HP:567/567 MP:255/255
+C-Zouchouten HP:123/221 MP:214/214
+D-Dantalion HP:197/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zouchouten
+3-Dantalion
+4-Aniel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:1136/1136 MP:413/413
+2-Anzu HP:596/596 MP:118/118
+3-Nergal HP:597/644 MP:288/288
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Nergal
+Nergal recibe 39 de daño
+Nergal termina con HP:558/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Anzu HP:596/596 MP:118/118
+C-Nergal HP:558/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:552/597 MP:347/347
+B-Aniel HP:567/567 MP:255/255
+C-Zouchouten HP:123/221 MP:214/214
+D-Dantalion HP:197/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Dantalion
+3-Aniel
+4-Joker
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zouchouten
+1-Itsuki HP:1136/1136 MP:413/413
+2-Anzu HP:596/596 MP:118/118
+3-Nergal HP:558/644 MP:288/288
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Zouchouten ataca a Anzu
+Anzu recibe 22 de daño
+Anzu termina con HP:574/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Anzu HP:574/596 MP:118/118
+C-Nergal HP:558/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:552/597 MP:347/347
+B-Aniel HP:567/567 MP:255/255
+C-Zouchouten HP:123/221 MP:214/214
+D-Dantalion HP:197/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dantalion
+2-Aniel
+3-Joker
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Dantalion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dantalion
+1-Itsuki HP:1136/1136 MP:413/413
+2-Anzu HP:574/596 MP:118/118
+3-Nergal HP:558/644 MP:288/288
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Dantalion ataca a Itsuki
+Itsuki recibe 20 de daño
+Itsuki termina con HP:1116/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1116/1136 MP:413/413
+B-Anzu HP:574/596 MP:118/118
+C-Nergal HP:558/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:552/597 MP:347/347
+B-Aniel HP:567/567 MP:255/255
+C-Zouchouten HP:123/221 MP:214/214
+D-Dantalion HP:197/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Itsuki
+3-Anzu
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:552/597 MP:347/347
+2-Aniel HP:567/567 MP:255/255
+3-Zouchouten HP:123/221 MP:214/214
+4-Dantalion HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nergal ataca a Aniel
+Aniel recibe 54 de daño
+Aniel termina con HP:513/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1116/1136 MP:413/413
+B-Anzu HP:574/596 MP:118/118
+C-Nergal HP:558/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:552/597 MP:347/347
+B-Aniel HP:513/567 MP:255/255
+C-Zouchouten HP:123/221 MP:214/214
+D-Dantalion HP:197/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Nergal
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:552/597 MP:347/347
+2-Aniel HP:513/567 MP:255/255
+3-Zouchouten HP:123/221 MP:214/214
+4-Dantalion HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:552/597 MP:347/347
+2-Aniel HP:513/567 MP:255/255
+3-Zouchouten HP:123/221 MP:214/214
+4-Dantalion HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Aniel
+Aniel recibe 45 de daño
+Aniel termina con HP:468/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1116/1136 MP:413/413
+B-Anzu HP:574/596 MP:118/118
+C-Nergal HP:558/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:552/597 MP:347/347
+B-Aniel HP:468/567 MP:255/255
+C-Zouchouten HP:123/221 MP:214/214
+D-Dantalion HP:197/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Nergal
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Joker HP:552/597 MP:347/347
+2-Aniel HP:468/567 MP:255/255
+3-Zouchouten HP:123/221 MP:214/214
+4-Dantalion HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Anzu ataca a Dantalion
+Dantalion recibe 44 de daño
+Dantalion termina con HP:153/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1116/1136 MP:413/413
+B-Anzu HP:574/596 MP:118/118
+C-Nergal HP:558/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:552/597 MP:347/347
+B-Aniel HP:468/567 MP:255/255
+C-Zouchouten HP:123/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Joker
+3-Zouchouten
+4-Dantalion
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Itsuki HP:1116/1136 MP:413/413
+2-Anzu HP:574/596 MP:118/118
+3-Nergal HP:558/644 MP:288/288
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Aniel ataca a Anzu
+Anzu recibe 47 de daño
+Anzu termina con HP:527/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1116/1136 MP:413/413
+B-Anzu HP:527/596 MP:118/118
+C-Nergal HP:558/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:552/597 MP:347/347
+B-Aniel HP:468/567 MP:255/255
+C-Zouchouten HP:123/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zouchouten
+3-Dantalion
+4-Aniel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:1116/1136 MP:413/413
+2-Anzu HP:527/596 MP:118/118
+3-Nergal HP:558/644 MP:288/288
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Itsuki
+Itsuki recibe 28 de daño
+Itsuki termina con HP:1088/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1088/1136 MP:413/413
+B-Anzu HP:527/596 MP:118/118
+C-Nergal HP:558/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:552/597 MP:347/347
+B-Aniel HP:468/567 MP:255/255
+C-Zouchouten HP:123/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Dantalion
+3-Aniel
+4-Joker
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zouchouten
+1-Itsuki HP:1088/1136 MP:413/413
+2-Anzu HP:527/596 MP:118/118
+3-Nergal HP:558/644 MP:288/288
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Zouchouten ataca a Nergal
+Nergal recibe 22 de daño
+Nergal termina con HP:536/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1088/1136 MP:413/413
+B-Anzu HP:527/596 MP:118/118
+C-Nergal HP:536/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:552/597 MP:347/347
+B-Aniel HP:468/567 MP:255/255
+C-Zouchouten HP:123/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dantalion
+2-Aniel
+3-Joker
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Dantalion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dantalion
+1-Itsuki HP:1088/1136 MP:413/413
+2-Anzu HP:527/596 MP:118/118
+3-Nergal HP:536/644 MP:288/288
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Dantalion ataca a Itsuki
+Itsuki recibe 20 de daño
+Itsuki termina con HP:1068/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1068/1136 MP:413/413
+B-Anzu HP:527/596 MP:118/118
+C-Nergal HP:536/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:552/597 MP:347/347
+B-Aniel HP:468/567 MP:255/255
+C-Zouchouten HP:123/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Itsuki
+3-Anzu
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:552/597 MP:347/347
+2-Aniel HP:468/567 MP:255/255
+3-Zouchouten HP:123/221 MP:214/214
+4-Dantalion HP:153/197 MP:190/190
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nergal ataca a Zouchouten
+Zouchouten recibe 54 de daño
+Zouchouten termina con HP:69/221
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1068/1136 MP:413/413
+B-Anzu HP:527/596 MP:118/118
+C-Nergal HP:536/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:552/597 MP:347/347
+B-Aniel HP:468/567 MP:255/255
+C-Zouchouten HP:69/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Nergal
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:552/597 MP:347/347
+2-Aniel HP:468/567 MP:255/255
+3-Zouchouten HP:69/221 MP:214/214
+4-Dantalion HP:153/197 MP:190/190
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Joker
+Joker recibe 45 de daño
+Joker termina con HP:507/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1068/1136 MP:413/413
+B-Anzu HP:527/596 MP:118/118
+C-Nergal HP:536/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:507/597 MP:347/347
+B-Aniel HP:468/567 MP:255/255
+C-Zouchouten HP:69/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Nergal
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Joker HP:507/597 MP:347/347
+2-Aniel HP:468/567 MP:255/255
+3-Zouchouten HP:69/221 MP:214/214
+4-Dantalion HP:153/197 MP:190/190
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Anzu ataca a Aniel
+Aniel recibe 44 de daño
+Aniel termina con HP:424/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1068/1136 MP:413/413
+B-Anzu HP:527/596 MP:118/118
+C-Nergal HP:536/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:507/597 MP:347/347
+B-Aniel HP:424/567 MP:255/255
+C-Zouchouten HP:69/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Joker
+3-Zouchouten
+4-Dantalion
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Itsuki HP:1068/1136 MP:413/413
+2-Anzu HP:527/596 MP:118/118
+3-Nergal HP:536/644 MP:288/288
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Aniel ataca a Anzu
+Anzu recibe 47 de daño
+Anzu termina con HP:480/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1068/1136 MP:413/413
+B-Anzu HP:480/596 MP:118/118
+C-Nergal HP:536/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:507/597 MP:347/347
+B-Aniel HP:424/567 MP:255/255
+C-Zouchouten HP:69/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zouchouten
+3-Dantalion
+4-Aniel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:1068/1136 MP:413/413
+2-Anzu HP:480/596 MP:118/118
+3-Nergal HP:536/644 MP:288/288
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca a Nergal
+Nergal recibe 28 de daño
+Nergal termina con HP:508/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1068/1136 MP:413/413
+B-Anzu HP:480/596 MP:118/118
+C-Nergal HP:508/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:507/597 MP:347/347
+B-Aniel HP:424/567 MP:255/255
+C-Zouchouten HP:69/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Dantalion
+3-Aniel
+4-Joker
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zouchouten
+1-Itsuki HP:1068/1136 MP:413/413
+2-Anzu HP:480/596 MP:118/118
+3-Nergal HP:508/644 MP:288/288
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zouchouten
+1-Itsuki HP:1068/1136 MP:413/413
+2-Anzu HP:480/596 MP:118/118
+3-Nergal HP:508/644 MP:288/288
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zouchouten
+1-Itsuki HP:1068/1136 MP:413/413
+2-Anzu HP:480/596 MP:118/118
+3-Nergal HP:508/644 MP:288/288
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zouchouten
+1-Itsuki HP:1068/1136 MP:413/413
+2-Anzu HP:480/596 MP:118/118
+3-Nergal HP:508/644 MP:288/288
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Zouchouten ataca a Itsuki
+Itsuki recibe 22 de daño
+Itsuki termina con HP:1046/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Anzu HP:480/596 MP:118/118
+C-Nergal HP:508/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:507/597 MP:347/347
+B-Aniel HP:424/567 MP:255/255
+C-Zouchouten HP:69/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dantalion
+2-Aniel
+3-Joker
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Dantalion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dantalion
+1-Itsuki HP:1046/1136 MP:413/413
+2-Anzu HP:480/596 MP:118/118
+3-Nergal HP:508/644 MP:288/288
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Dantalion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dantalion
+1-Itsuki HP:1046/1136 MP:413/413
+2-Anzu HP:480/596 MP:118/118
+3-Nergal HP:508/644 MP:288/288
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Dantalion ataca a Nergal
+Nergal recibe 20 de daño
+Nergal termina con HP:488/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Anzu HP:480/596 MP:118/118
+C-Nergal HP:488/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:507/597 MP:347/347
+B-Aniel HP:424/567 MP:255/255
+C-Zouchouten HP:69/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Itsuki
+3-Anzu
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:507/597 MP:347/347
+2-Aniel HP:424/567 MP:255/255
+3-Zouchouten HP:69/221 MP:214/214
+4-Dantalion HP:153/197 MP:190/190
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nergal ataca a Zouchouten
+Zouchouten recibe 54 de daño
+Zouchouten termina con HP:15/221
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Anzu HP:480/596 MP:118/118
+C-Nergal HP:488/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:507/597 MP:347/347
+B-Aniel HP:424/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Nergal
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:507/597 MP:347/347
+2-Aniel HP:424/567 MP:255/255
+3-Zouchouten HP:15/221 MP:214/214
+4-Dantalion HP:153/197 MP:190/190
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Aniel
+Aniel recibe 61 de daño
+Aniel termina con HP:363/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Anzu HP:480/596 MP:118/118
+C-Nergal HP:488/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:507/597 MP:347/347
+B-Aniel HP:363/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Nergal
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Joker HP:507/597 MP:347/347
+2-Aniel HP:363/567 MP:255/255
+3-Zouchouten HP:15/221 MP:214/214
+4-Dantalion HP:153/197 MP:190/190
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Anzu ataca a Joker
+Joker recibe 44 de daño
+Joker termina con HP:463/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Anzu HP:480/596 MP:118/118
+C-Nergal HP:488/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:463/597 MP:347/347
+B-Aniel HP:363/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Joker
+3-Zouchouten
+4-Dantalion
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Itsuki HP:1046/1136 MP:413/413
+2-Anzu HP:480/596 MP:118/118
+3-Nergal HP:488/644 MP:288/288
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Itsuki
+Itsuki recibe 47 de daño
+Itsuki termina con HP:999/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:999/1136 MP:413/413
+B-Anzu HP:480/596 MP:118/118
+C-Nergal HP:488/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:463/597 MP:347/347
+B-Aniel HP:363/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zouchouten
+3-Dantalion
+4-Aniel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:999/1136 MP:413/413
+2-Anzu HP:480/596 MP:118/118
+3-Nergal HP:488/644 MP:288/288
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Itsuki
+Itsuki recibe 39 de daño
+Itsuki termina con HP:960/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:960/1136 MP:413/413
+B-Anzu HP:480/596 MP:118/118
+C-Nergal HP:488/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:463/597 MP:347/347
+B-Aniel HP:363/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Dantalion
+3-Aniel
+4-Joker
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zouchouten
+1-Itsuki HP:960/1136 MP:413/413
+2-Anzu HP:480/596 MP:118/118
+3-Nergal HP:488/644 MP:288/288
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Zouchouten ataca a Nergal
+Nergal recibe 22 de daño
+Nergal termina con HP:466/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:960/1136 MP:413/413
+B-Anzu HP:480/596 MP:118/118
+C-Nergal HP:466/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:463/597 MP:347/347
+B-Aniel HP:363/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dantalion
+2-Aniel
+3-Joker
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Dantalion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dantalion
+1-Itsuki HP:960/1136 MP:413/413
+2-Anzu HP:480/596 MP:118/118
+3-Nergal HP:466/644 MP:288/288
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Dantalion ataca a Anzu
+Anzu recibe 20 de daño
+Anzu termina con HP:460/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:960/1136 MP:413/413
+B-Anzu HP:460/596 MP:118/118
+C-Nergal HP:466/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:463/597 MP:347/347
+B-Aniel HP:363/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Itsuki
+3-Anzu
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:463/597 MP:347/347
+2-Aniel HP:363/567 MP:255/255
+3-Zouchouten HP:15/221 MP:214/214
+4-Dantalion HP:153/197 MP:190/190
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:409/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:960/1136 MP:413/413
+B-Anzu HP:460/596 MP:118/118
+C-Nergal HP:466/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:363/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Nergal
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:409/597 MP:347/347
+2-Aniel HP:363/567 MP:255/255
+3-Zouchouten HP:15/221 MP:214/214
+4-Dantalion HP:153/197 MP:190/190
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Aniel
+Aniel recibe 45 de daño
+Aniel termina con HP:318/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:960/1136 MP:413/413
+B-Anzu HP:460/596 MP:118/118
+C-Nergal HP:466/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:318/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:153/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Nergal
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Joker HP:409/597 MP:347/347
+2-Aniel HP:318/567 MP:255/255
+3-Zouchouten HP:15/221 MP:214/214
+4-Dantalion HP:153/197 MP:190/190
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Joker HP:409/597 MP:347/347
+2-Aniel HP:318/567 MP:255/255
+3-Zouchouten HP:15/221 MP:214/214
+4-Dantalion HP:153/197 MP:190/190
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Anzu ataca a Dantalion
+Dantalion recibe 44 de daño
+Dantalion termina con HP:109/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:960/1136 MP:413/413
+B-Anzu HP:460/596 MP:118/118
+C-Nergal HP:466/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:318/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:109/197 MP:190/190
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Joker
+3-Zouchouten
+4-Dantalion
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Itsuki HP:960/1136 MP:413/413
+2-Anzu HP:460/596 MP:118/118
+3-Nergal HP:466/644 MP:288/288
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Itsuki HP:960/1136 MP:413/413
+2-Anzu HP:460/596 MP:118/118
+3-Nergal HP:466/644 MP:288/288
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Itsuki
+Itsuki recibe 47 de daño
+Itsuki termina con HP:913/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:913/1136 MP:413/413
+B-Anzu HP:460/596 MP:118/118
+C-Nergal HP:466/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:318/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:109/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zouchouten
+3-Dantalion
+4-Aniel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:913/1136 MP:413/413
+2-Anzu HP:460/596 MP:118/118
+3-Nergal HP:466/644 MP:288/288
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Nergal
+Nergal recibe 39 de daño
+Nergal termina con HP:427/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:913/1136 MP:413/413
+B-Anzu HP:460/596 MP:118/118
+C-Nergal HP:427/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:318/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:109/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Dantalion
+3-Aniel
+4-Joker
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zouchouten
+1-Itsuki HP:913/1136 MP:413/413
+2-Anzu HP:460/596 MP:118/118
+3-Nergal HP:427/644 MP:288/288
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Zouchouten ataca a Nergal
+Nergal recibe 22 de daño
+Nergal termina con HP:405/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:913/1136 MP:413/413
+B-Anzu HP:460/596 MP:118/118
+C-Nergal HP:405/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:318/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:109/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dantalion
+2-Aniel
+3-Joker
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Dantalion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dantalion
+1-Itsuki HP:913/1136 MP:413/413
+2-Anzu HP:460/596 MP:118/118
+3-Nergal HP:405/644 MP:288/288
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Dantalion ataca a Anzu
+Anzu recibe 20 de daño
+Anzu termina con HP:440/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:913/1136 MP:413/413
+B-Anzu HP:440/596 MP:118/118
+C-Nergal HP:405/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:318/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:109/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Itsuki
+3-Anzu
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:409/597 MP:347/347
+2-Aniel HP:318/567 MP:255/255
+3-Zouchouten HP:15/221 MP:214/214
+4-Dantalion HP:109/197 MP:190/190
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nergal ataca a Dantalion
+Dantalion recibe 54 de daño
+Dantalion termina con HP:55/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:913/1136 MP:413/413
+B-Anzu HP:440/596 MP:118/118
+C-Nergal HP:405/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:318/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:55/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Nergal
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:409/597 MP:347/347
+2-Aniel HP:318/567 MP:255/255
+3-Zouchouten HP:15/221 MP:214/214
+4-Dantalion HP:55/197 MP:190/190
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:409/597 MP:347/347
+2-Aniel HP:318/567 MP:255/255
+3-Zouchouten HP:15/221 MP:214/214
+4-Dantalion HP:55/197 MP:190/190
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Aniel
+Aniel recibe 61 de daño
+Aniel termina con HP:257/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:913/1136 MP:413/413
+B-Anzu HP:440/596 MP:118/118
+C-Nergal HP:405/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:257/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:55/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Nergal
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Joker HP:409/597 MP:347/347
+2-Aniel HP:257/567 MP:255/255
+3-Zouchouten HP:15/221 MP:214/214
+4-Dantalion HP:55/197 MP:190/190
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Joker HP:409/597 MP:347/347
+2-Aniel HP:257/567 MP:255/255
+3-Zouchouten HP:15/221 MP:214/214
+4-Dantalion HP:55/197 MP:190/190
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Anzu ataca a Dantalion
+Dantalion recibe 44 de daño
+Dantalion termina con HP:11/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:913/1136 MP:413/413
+B-Anzu HP:440/596 MP:118/118
+C-Nergal HP:405/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:257/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:11/197 MP:190/190
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Joker
+3-Zouchouten
+4-Dantalion
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Itsuki HP:913/1136 MP:413/413
+2-Anzu HP:440/596 MP:118/118
+3-Nergal HP:405/644 MP:288/288
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Aniel ataca a Anzu
+Anzu recibe 47 de daño
+Anzu termina con HP:393/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:913/1136 MP:413/413
+B-Anzu HP:393/596 MP:118/118
+C-Nergal HP:405/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:257/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:11/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zouchouten
+3-Dantalion
+4-Aniel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:913/1136 MP:413/413
+2-Anzu HP:393/596 MP:118/118
+3-Nergal HP:405/644 MP:288/288
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Nergal
+Nergal recibe 39 de daño
+Nergal termina con HP:366/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:913/1136 MP:413/413
+B-Anzu HP:393/596 MP:118/118
+C-Nergal HP:366/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:257/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:11/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Dantalion
+3-Aniel
+4-Joker
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zouchouten
+1-Itsuki HP:913/1136 MP:413/413
+2-Anzu HP:393/596 MP:118/118
+3-Nergal HP:366/644 MP:288/288
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Zouchouten ataca a Nergal
+Nergal recibe 22 de daño
+Nergal termina con HP:344/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:913/1136 MP:413/413
+B-Anzu HP:393/596 MP:118/118
+C-Nergal HP:344/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:257/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:11/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dantalion
+2-Aniel
+3-Joker
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Dantalion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dantalion
+1-Itsuki HP:913/1136 MP:413/413
+2-Anzu HP:393/596 MP:118/118
+3-Nergal HP:344/644 MP:288/288
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Dantalion ataca a Nergal
+Nergal recibe 20 de daño
+Nergal termina con HP:324/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:913/1136 MP:413/413
+B-Anzu HP:393/596 MP:118/118
+C-Nergal HP:324/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:257/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:11/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Itsuki
+3-Anzu
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:409/597 MP:347/347
+2-Aniel HP:257/567 MP:255/255
+3-Zouchouten HP:15/221 MP:214/214
+4-Dantalion HP:11/197 MP:190/190
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nergal ataca a Aniel
+Aniel recibe 54 de daño
+Aniel termina con HP:203/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:913/1136 MP:413/413
+B-Anzu HP:393/596 MP:118/118
+C-Nergal HP:324/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:203/567 MP:255/255
+C-Zouchouten HP:15/221 MP:214/214
+D-Dantalion HP:11/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Nergal
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:409/597 MP:347/347
+2-Aniel HP:203/567 MP:255/255
+3-Zouchouten HP:15/221 MP:214/214
+4-Dantalion HP:11/197 MP:190/190
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:409/597 MP:347/347
+2-Aniel HP:203/567 MP:255/255
+3-Zouchouten HP:15/221 MP:214/214
+4-Dantalion HP:11/197 MP:190/190
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Zouchouten
+Zouchouten recibe 61 de daño
+Zouchouten termina con HP:0/221
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:913/1136 MP:413/413
+B-Anzu HP:393/596 MP:118/118
+C-Nergal HP:324/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:203/567 MP:255/255
+C-
+D-Dantalion HP:11/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Nergal
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Joker HP:409/597 MP:347/347
+2-Aniel HP:203/567 MP:255/255
+3-Dantalion HP:11/197 MP:190/190
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Anzu ataca a Aniel
+Aniel recibe 44 de daño
+Aniel termina con HP:159/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:913/1136 MP:413/413
+B-Anzu HP:393/596 MP:118/118
+C-Nergal HP:324/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:159/567 MP:255/255
+C-
+D-Dantalion HP:11/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Joker
+3-Dantalion
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Itsuki HP:913/1136 MP:413/413
+2-Anzu HP:393/596 MP:118/118
+3-Nergal HP:324/644 MP:288/288
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Itsuki
+Itsuki recibe 47 de daño
+Itsuki termina con HP:866/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:866/1136 MP:413/413
+B-Anzu HP:393/596 MP:118/118
+C-Nergal HP:324/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:159/567 MP:255/255
+C-
+D-Dantalion HP:11/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dantalion
+3-Aniel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:866/1136 MP:413/413
+2-Anzu HP:393/596 MP:118/118
+3-Nergal HP:324/644 MP:288/288
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Anzu
+Anzu recibe 39 de daño
+Anzu termina con HP:354/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:866/1136 MP:413/413
+B-Anzu HP:354/596 MP:118/118
+C-Nergal HP:324/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:159/567 MP:255/255
+C-
+D-Dantalion HP:11/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dantalion
+2-Aniel
+3-Joker
+----------------------------------------
+Seleccione una acción para Dantalion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dantalion
+1-Itsuki HP:866/1136 MP:413/413
+2-Anzu HP:354/596 MP:118/118
+3-Nergal HP:324/644 MP:288/288
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Dantalion ataca a Nergal
+Nergal recibe 20 de daño
+Nergal termina con HP:304/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:866/1136 MP:413/413
+B-Anzu HP:354/596 MP:118/118
+C-Nergal HP:304/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:159/567 MP:255/255
+C-
+D-Dantalion HP:11/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Itsuki
+3-Anzu
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:409/597 MP:347/347
+2-Aniel HP:159/567 MP:255/255
+3-Dantalion HP:11/197 MP:190/190
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nergal ataca a Dantalion
+Dantalion recibe 54 de daño
+Dantalion termina con HP:0/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:866/1136 MP:413/413
+B-Anzu HP:354/596 MP:118/118
+C-Nergal HP:304/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:409/597 MP:347/347
+B-Aniel HP:159/567 MP:255/255
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Nergal
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:409/597 MP:347/347
+2-Aniel HP:159/567 MP:255/255
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Joker
+Joker recibe 61 de daño
+Joker termina con HP:348/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:866/1136 MP:413/413
+B-Anzu HP:354/596 MP:118/118
+C-Nergal HP:304/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:348/597 MP:347/347
+B-Aniel HP:159/567 MP:255/255
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Nergal
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Joker HP:348/597 MP:347/347
+2-Aniel HP:159/567 MP:255/255
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Anzu ataca a Joker
+Joker recibe 44 de daño
+Joker termina con HP:304/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:866/1136 MP:413/413
+B-Anzu HP:354/596 MP:118/118
+C-Nergal HP:304/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:304/597 MP:347/347
+B-Aniel HP:159/567 MP:255/255
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Joker
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Itsuki HP:866/1136 MP:413/413
+2-Anzu HP:354/596 MP:118/118
+3-Nergal HP:304/644 MP:288/288
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Aniel ataca a Nergal
+Nergal recibe 47 de daño
+Nergal termina con HP:257/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:866/1136 MP:413/413
+B-Anzu HP:354/596 MP:118/118
+C-Nergal HP:257/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:304/597 MP:347/347
+B-Aniel HP:159/567 MP:255/255
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Aniel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:866/1136 MP:413/413
+2-Anzu HP:354/596 MP:118/118
+3-Nergal HP:257/644 MP:288/288
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:866/1136 MP:413/413
+2-Anzu HP:354/596 MP:118/118
+3-Nergal HP:257/644 MP:288/288
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:866/1136 MP:413/413
+2-Anzu HP:354/596 MP:118/118
+3-Nergal HP:257/644 MP:288/288
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Itsuki
+Itsuki recibe 28 de daño
+Itsuki termina con HP:838/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:838/1136 MP:413/413
+B-Anzu HP:354/596 MP:118/118
+C-Nergal HP:257/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:304/597 MP:347/347
+B-Aniel HP:159/567 MP:255/255
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Itsuki
+3-Anzu
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:304/597 MP:347/347
+2-Aniel HP:159/567 MP:255/255
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:250/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:838/1136 MP:413/413
+B-Anzu HP:354/596 MP:118/118
+C-Nergal HP:257/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:250/597 MP:347/347
+B-Aniel HP:159/567 MP:255/255
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Nergal
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:250/597 MP:347/347
+2-Aniel HP:159/567 MP:255/255
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Joker
+Joker recibe 45 de daño
+Joker termina con HP:205/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:838/1136 MP:413/413
+B-Anzu HP:354/596 MP:118/118
+C-Nergal HP:257/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:205/597 MP:347/347
+B-Aniel HP:159/567 MP:255/255
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Nergal
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Joker HP:205/597 MP:347/347
+2-Aniel HP:159/567 MP:255/255
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Anzu ataca a Aniel
+Aniel recibe 44 de daño
+Aniel termina con HP:115/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:838/1136 MP:413/413
+B-Anzu HP:354/596 MP:118/118
+C-Nergal HP:257/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:205/597 MP:347/347
+B-Aniel HP:115/567 MP:255/255
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Joker
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Itsuki HP:838/1136 MP:413/413
+2-Anzu HP:354/596 MP:118/118
+3-Nergal HP:257/644 MP:288/288
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Aniel ataca a Anzu
+Anzu recibe 47 de daño
+Anzu termina con HP:307/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:838/1136 MP:413/413
+B-Anzu HP:307/596 MP:118/118
+C-Nergal HP:257/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:205/597 MP:347/347
+B-Aniel HP:115/567 MP:255/255
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Aniel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:838/1136 MP:413/413
+2-Anzu HP:307/596 MP:118/118
+3-Nergal HP:257/644 MP:288/288
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:838/1136 MP:413/413
+2-Anzu HP:307/596 MP:118/118
+3-Nergal HP:257/644 MP:288/288
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Anzu
+Anzu recibe 28 de daño
+Anzu termina con HP:279/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:838/1136 MP:413/413
+B-Anzu HP:279/596 MP:118/118
+C-Nergal HP:257/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:205/597 MP:347/347
+B-Aniel HP:115/567 MP:255/255
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Itsuki
+3-Anzu
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:205/597 MP:347/347
+2-Aniel HP:115/567 MP:255/255
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nergal ataca a Aniel
+Aniel recibe 54 de daño
+Aniel termina con HP:61/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:838/1136 MP:413/413
+B-Anzu HP:279/596 MP:118/118
+C-Nergal HP:257/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:205/597 MP:347/347
+B-Aniel HP:61/567 MP:255/255
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Nergal
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:205/597 MP:347/347
+2-Aniel HP:61/567 MP:255/255
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Aniel
+Aniel recibe 61 de daño
+Aniel termina con HP:0/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:838/1136 MP:413/413
+B-Anzu HP:279/596 MP:118/118
+C-Nergal HP:257/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:205/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Nergal
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Joker HP:205/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Anzu ataca a Joker
+Joker recibe 44 de daño
+Joker termina con HP:161/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:838/1136 MP:413/413
+B-Anzu HP:279/596 MP:118/118
+C-Nergal HP:257/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:161/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:838/1136 MP:413/413
+2-Anzu HP:279/596 MP:118/118
+3-Nergal HP:257/644 MP:288/288
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:838/1136 MP:413/413
+2-Anzu HP:279/596 MP:118/118
+3-Nergal HP:257/644 MP:288/288
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Anzu
+Anzu recibe 28 de daño
+Anzu termina con HP:251/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:838/1136 MP:413/413
+B-Anzu HP:251/596 MP:118/118
+C-Nergal HP:257/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:161/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Itsuki
+3-Anzu
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:161/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:161/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:161/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:107/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:838/1136 MP:413/413
+B-Anzu HP:251/596 MP:118/118
+C-Nergal HP:257/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:107/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Nergal
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:107/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:107/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Joker
+Joker recibe 61 de daño
+Joker termina con HP:46/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:838/1136 MP:413/413
+B-Anzu HP:251/596 MP:118/118
+C-Nergal HP:257/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:46/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Nergal
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Joker HP:46/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Anzu ataca a Joker
+Joker recibe 44 de daño
+Joker termina con HP:2/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:838/1136 MP:413/413
+B-Anzu HP:251/596 MP:118/118
+C-Nergal HP:257/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:2/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:838/1136 MP:413/413
+2-Anzu HP:251/596 MP:118/118
+3-Nergal HP:257/644 MP:288/288
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Itsuki
+Itsuki recibe 39 de daño
+Itsuki termina con HP:799/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:799/1136 MP:413/413
+B-Anzu HP:251/596 MP:118/118
+C-Nergal HP:257/644 MP:288/288
+D-
+Equipo de Joker (J2)
+A-Joker HP:2/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Itsuki
+3-Anzu
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:2/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:2/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Itsuki (J1)

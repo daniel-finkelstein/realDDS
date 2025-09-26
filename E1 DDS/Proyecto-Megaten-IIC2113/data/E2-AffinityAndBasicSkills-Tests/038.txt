@@ -1,0 +1,850 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 37
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Mushussu HP:399/399 MP:179/179
+C-Tuofei HP:239/239 MP:121/121
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Ziodyne MP:14
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nahobino HP:453/453 MP:389/389
+2-Mushussu HP:399/399 MP:179/179
+3-Tuofei HP:239/239 MP:121/121
+4-Taown HP:709/709 MP:140/140
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu lanza electricidad a Mushussu
+Mushussu devuelve 129 daño a Yu
+Yu termina con HP:468/597
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:468/597 MP:333/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Mushussu HP:399/399 MP:179/179
+C-Tuofei HP:239/239 MP:121/121
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Mushussu
+3-Nahobino
+4-Tuofei
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Yu HP:468/597 MP:333/347
+2-Hamsa HP:91/91 MP:40/40
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Yu
+Yu es resistente el ataque de Taown
+Yu recibe 27 de daño
+Yu termina con HP:441/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:441/597 MP:333/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Mushussu HP:399/399 MP:179/179
+C-Tuofei HP:239/239 MP:121/121
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Nahobino
+3-Tuofei
+4-Taown
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Yu HP:441/597 MP:333/347
+2-Hamsa HP:91/91 MP:40/40
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Yu
+Yu es resistente el ataque de Mushussu
+Yu recibe 16 de daño
+Yu termina con HP:425/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:425/597 MP:333/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Mushussu HP:399/399 MP:179/179
+C-Tuofei HP:239/239 MP:121/121
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Tuofei
+3-Taown
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Yu HP:425/597 MP:333/347
+2-Hamsa HP:91/91 MP:40/40
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Yu
+Yu es resistente el ataque de Nahobino
+Yu recibe 14 de daño
+Yu termina con HP:411/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:411/597 MP:333/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Mushussu HP:399/399 MP:179/179
+C-Tuofei HP:239/239 MP:121/121
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tuofei
+2-Taown
+3-Mushussu
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Tuofei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tuofei
+1-Yu HP:411/597 MP:333/347
+2-Hamsa HP:91/91 MP:40/40
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tuofei ataca a Yu
+Yu es resistente el ataque de Tuofei
+Yu recibe 9 de daño
+Yu termina con HP:402/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:402/597 MP:333/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Mushussu HP:399/399 MP:179/179
+C-Tuofei HP:239/239 MP:121/121
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Ziodyne MP:14
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nahobino HP:453/453 MP:389/389
+2-Mushussu HP:399/399 MP:179/179
+3-Tuofei HP:239/239 MP:121/121
+4-Taown HP:709/709 MP:140/140
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza electricidad a Nahobino
+Nahobino es débil contra el ataque de Yu
+Nahobino recibe 194 de daño
+Nahobino termina con HP:259/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:402/597 MP:319/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Mushussu HP:399/399 MP:179/179
+C-Tuofei HP:239/239 MP:121/121
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Hamsa
+3-Yu
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bai Suzhen use
+1-Zionga MP:8
+2-Binding Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Nahobino HP:259/453 MP:389/389
+2-Mushussu HP:399/399 MP:179/179
+3-Tuofei HP:239/239 MP:121/121
+4-Taown HP:709/709 MP:140/140
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Bai Suzhen lanza electricidad a Tuofei
+Tuofei devuelve 70 daño a Bai Suzhen
+Bai Suzhen termina con HP:85/155
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:402/597 MP:319/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:85/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Mushussu HP:399/399 MP:179/179
+C-Tuofei HP:239/239 MP:121/121
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Mushussu
+3-Nahobino
+4-Tuofei
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Yu HP:402/597 MP:319/347
+2-Hamsa HP:91/91 MP:40/40
+3-Bai Suzhen HP:85/155 MP:141/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Yu
+Yu es resistente el ataque de Taown
+Yu recibe 27 de daño
+Yu termina con HP:375/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:375/597 MP:319/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:85/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Mushussu HP:399/399 MP:179/179
+C-Tuofei HP:239/239 MP:121/121
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Nahobino
+3-Tuofei
+4-Taown
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Yu HP:375/597 MP:319/347
+2-Hamsa HP:91/91 MP:40/40
+3-Bai Suzhen HP:85/155 MP:141/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Yu
+Yu es resistente el ataque de Mushussu
+Yu recibe 16 de daño
+Yu termina con HP:359/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:359/597 MP:319/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:85/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Mushussu HP:399/399 MP:179/179
+C-Tuofei HP:239/239 MP:121/121
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Tuofei
+3-Taown
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Yu HP:359/597 MP:319/347
+2-Hamsa HP:91/91 MP:40/40
+3-Bai Suzhen HP:85/155 MP:141/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Yu
+Yu es resistente el ataque de Nahobino
+Yu recibe 14 de daño
+Yu termina con HP:345/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:345/597 MP:319/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:85/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Mushussu HP:399/399 MP:179/179
+C-Tuofei HP:239/239 MP:121/121
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tuofei
+2-Taown
+3-Mushussu
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Tuofei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tuofei
+1-Yu HP:345/597 MP:319/347
+2-Hamsa HP:91/91 MP:40/40
+3-Bai Suzhen HP:85/155 MP:141/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tuofei ataca a Yu
+Yu es resistente el ataque de Tuofei
+Yu recibe 9 de daño
+Yu termina con HP:336/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:336/597 MP:319/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:85/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Mushussu HP:399/399 MP:179/179
+C-Tuofei HP:239/239 MP:121/121
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Ziodyne MP:14
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nahobino HP:259/453 MP:389/389
+2-Mushussu HP:399/399 MP:179/179
+3-Tuofei HP:239/239 MP:121/121
+4-Taown HP:709/709 MP:140/140
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza electricidad a Nahobino
+Nahobino es débil contra el ataque de Yu
+Nahobino recibe 194 de daño
+Nahobino termina con HP:65/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:336/597 MP:305/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:85/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:65/453 MP:389/389
+B-Mushussu HP:399/399 MP:179/179
+C-Tuofei HP:239/239 MP:121/121
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Hamsa
+3-Yu
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bai Suzhen use
+1-Zionga MP:8
+2-Binding Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Nahobino HP:65/453 MP:389/389
+2-Mushussu HP:399/399 MP:179/179
+3-Tuofei HP:239/239 MP:121/121
+4-Taown HP:709/709 MP:140/140
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Bai Suzhen lanza electricidad a Nahobino
+Nahobino es débil contra el ataque de Bai Suzhen
+Nahobino recibe 106 de daño
+Nahobino termina con HP:0/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:336/597 MP:305/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:85/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Mushussu HP:399/399 MP:179/179
+C-Tuofei HP:239/239 MP:121/121
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Hamsa
+2-Yu
+3-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hamsa use
+1-Zio MP:5
+2-Dia MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hamsa
+1-Mushussu HP:399/399 MP:179/179
+2-Tuofei HP:239/239 MP:121/121
+3-Taown HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hamsa lanza electricidad a Taown
+Taown devuelve 26 daño a Hamsa
+Hamsa termina con HP:65/91
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 2 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:336/597 MP:305/347
+B-Hamsa HP:65/91 MP:35/40
+C-Bai Suzhen HP:85/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Mushussu HP:399/399 MP:179/179
+C-Tuofei HP:239/239 MP:121/121
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Mushussu
+3-Tuofei
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Yu HP:336/597 MP:305/347
+2-Hamsa HP:65/91 MP:35/40
+3-Bai Suzhen HP:85/155 MP:133/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Yu
+Yu es resistente el ataque de Taown
+Yu recibe 27 de daño
+Yu termina con HP:309/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:309/597 MP:305/347
+B-Hamsa HP:65/91 MP:35/40
+C-Bai Suzhen HP:85/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Mushussu HP:399/399 MP:179/179
+C-Tuofei HP:239/239 MP:121/121
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Tuofei
+3-Taown
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Yu HP:309/597 MP:305/347
+2-Hamsa HP:65/91 MP:35/40
+3-Bai Suzhen HP:85/155 MP:133/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Yu
+Yu es resistente el ataque de Mushussu
+Yu recibe 16 de daño
+Yu termina con HP:293/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:293/597 MP:305/347
+B-Hamsa HP:65/91 MP:35/40
+C-Bai Suzhen HP:85/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Mushussu HP:399/399 MP:179/179
+C-Tuofei HP:239/239 MP:121/121
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tuofei
+2-Taown
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Tuofei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tuofei
+1-Yu HP:293/597 MP:305/347
+2-Hamsa HP:65/91 MP:35/40
+3-Bai Suzhen HP:85/155 MP:133/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tuofei ataca a Yu
+Yu es resistente el ataque de Tuofei
+Yu recibe 9 de daño
+Yu termina con HP:284/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:284/597 MP:305/347
+B-Hamsa HP:65/91 MP:35/40
+C-Bai Suzhen HP:85/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Mushussu HP:399/399 MP:179/179
+C-Tuofei HP:239/239 MP:121/121
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Yu (J1) se rinde
+----------------------------------------
+Ganador: Nahobino (J2)

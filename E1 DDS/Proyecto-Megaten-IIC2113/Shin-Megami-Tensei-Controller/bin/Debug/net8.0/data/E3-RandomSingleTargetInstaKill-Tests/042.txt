@@ -1,0 +1,2814 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 41
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Persephone HP:315/315 MP:306/306
+C-Sarasvati HP:273/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:121/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tadano HP:388/388 MP:193/193
+2-Persephone HP:315/315 MP:306/306
+3-Sarasvati HP:273/273 MP:264/264
+4-Okiku-Mushi HP:273/273 MP:121/121
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Shujinko dispara a Okiku-Mushi
+Okiku-Mushi bloquea el ataque de Shujinko
+Okiku-Mushi termina con HP:273/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Persephone HP:315/315 MP:306/306
+C-Sarasvati HP:273/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:121/121
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Sarasvati
+3-Okiku-Mushi
+4-Tadano
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Shujinko HP:1317/1317 MP:625/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone lanza hielo a Shujinko
+Shujinko recibe 112 de daño
+Shujinko termina con HP:1205/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1205/1317 MP:625/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Persephone HP:315/315 MP:292/306
+C-Sarasvati HP:273/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:121/121
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Okiku-Mushi
+3-Tadano
+4-Persephone
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Shujinko HP:1205/1317 MP:625/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Shujinko HP:1205/1317 MP:625/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1205/1317 MP:625/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Persephone HP:315/315 MP:292/306
+C-Sarasvati HP:273/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:121/121
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Tadano
+3-Persephone
+4-Sarasvati
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Okiku-Mushi use
+1-Poisma MP:4
+2-Tathlum Shot MP:7
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Okiku-Mushi
+1-Shujinko HP:1205/1317 MP:625/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1205/1317 MP:625/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Persephone HP:315/315 MP:292/306
+C-Sarasvati HP:273/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:121/121
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Persephone
+3-Sarasvati
+4-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Shujinko HP:1205/1317 MP:625/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Shujinko
+Shujinko es resistente el ataque de Tadano
+Shujinko recibe 8 de daño
+Shujinko termina con HP:1197/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1197/1317 MP:625/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Persephone HP:315/315 MP:292/306
+C-Sarasvati HP:273/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:121/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Sarasvati
+3-Okiku-Mushi
+4-Tadano
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Shujinko HP:1197/1317 MP:625/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Shujinko
+Shujinko es resistente el ataque de Persephone
+Shujinko recibe 16 de daño
+Shujinko termina con HP:1181/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1181/1317 MP:625/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Persephone HP:315/315 MP:292/306
+C-Sarasvati HP:273/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:121/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tadano HP:388/388 MP:193/193
+2-Persephone HP:315/315 MP:292/306
+3-Sarasvati HP:273/273 MP:264/264
+4-Okiku-Mushi HP:273/273 MP:121/121
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Shujinko ataca a Sarasvati
+Sarasvati recibe 187 de daño
+Sarasvati termina con HP:86/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1181/1317 MP:625/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Persephone HP:315/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:121/121
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Sarasvati
+3-Okiku-Mushi
+4-Tadano
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1181/1317 MP:625/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Persephone HP:315/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:121/121
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Okiku-Mushi
+3-Tadano
+4-Persephone
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Shujinko HP:1181/1317 MP:625/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1181/1317 MP:625/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Persephone HP:315/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:121/121
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Tadano
+3-Persephone
+4-Sarasvati
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Okiku-Mushi use
+1-Poisma MP:4
+2-Tathlum Shot MP:7
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Okiku-Mushi use
+1-Poisma MP:4
+2-Tathlum Shot MP:7
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Okiku-Mushi
+1-Shujinko HP:1181/1317 MP:625/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Okiku-Mushi dispara a Shujinko
+Shujinko es resistente el ataque de Okiku-Mushi
+Shujinko recibe 34 de daño
+Shujinko termina con HP:1147/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1147/1317 MP:625/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Persephone HP:315/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:114/121
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Persephone
+3-Sarasvati
+4-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Hama MP:6
+2-Stigma Attack MP:20
+3-Lunge MP:6
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Shujinko HP:1147/1317 MP:625/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca con luz a Shujinko
+Shujinko bloquea el ataque de Tadano
+Shujinko termina con HP:1147/1317
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1147/1317 MP:625/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:187/193
+B-Persephone HP:315/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:114/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Hama MP:6
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tadano HP:388/388 MP:187/193
+2-Persephone HP:315/315 MP:292/306
+3-Sarasvati HP:86/273 MP:264/264
+4-Okiku-Mushi HP:273/273 MP:114/121
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Hama MP:6
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tadano HP:388/388 MP:187/193
+2-Persephone HP:315/315 MP:292/306
+3-Sarasvati HP:86/273 MP:264/264
+4-Okiku-Mushi HP:273/273 MP:114/121
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca con luz a Tadano
+Tadano bloquea el ataque de Shujinko
+Tadano termina con HP:388/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1147/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:187/193
+B-Persephone HP:315/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:114/121
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Sarasvati
+3-Okiku-Mushi
+4-Tadano
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1147/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:187/193
+B-Persephone HP:315/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:114/121
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Okiku-Mushi
+3-Tadano
+4-Persephone
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1147/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:187/193
+B-Persephone HP:315/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:114/121
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Tadano
+3-Persephone
+4-Sarasvati
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Okiku-Mushi use
+1-Poisma MP:4
+2-Tathlum Shot MP:7
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Okiku-Mushi
+1-Shujinko HP:1147/1317 MP:619/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Okiku-Mushi ataca con oscuridad a Shujinko
+Shujinko bloquea el ataque de Okiku-Mushi
+Shujinko termina con HP:1147/1317
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1147/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:187/193
+B-Persephone HP:315/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:104/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Persephone
+3-Sarasvati
+4-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Shujinko HP:1147/1317 MP:619/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano dispara a Shujinko
+Shujinko es resistente el ataque de Tadano
+Shujinko recibe 10 de daño
+Shujinko termina con HP:1137/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1137/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:187/193
+B-Persephone HP:315/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:104/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tadano HP:388/388 MP:187/193
+2-Persephone HP:315/315 MP:292/306
+3-Sarasvati HP:86/273 MP:264/264
+4-Okiku-Mushi HP:273/273 MP:104/121
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko dispara a Persephone
+Persephone recibe 228 de daño
+Persephone termina con HP:87/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1137/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:104/121
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Sarasvati
+3-Okiku-Mushi
+4-Tadano
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Shujinko HP:1137/1317 MP:619/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Shujinko
+Shujinko es resistente el ataque de Persephone
+Shujinko recibe 16 de daño
+Shujinko termina con HP:1121/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1121/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:104/121
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Okiku-Mushi
+3-Tadano
+4-Persephone
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sarasvati use
+1-Bufudyne MP:14
+2-Rakunda MP:15
+3-Mabufudyne MP:32
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Shujinko HP:1121/1317 MP:619/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sarasvati ataca a Shujinko
+Shujinko es resistente el ataque de Sarasvati
+Shujinko recibe 14 de daño
+Shujinko termina con HP:1107/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1107/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:104/121
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Tadano
+3-Persephone
+4-Sarasvati
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Okiku-Mushi use
+1-Poisma MP:4
+2-Tathlum Shot MP:7
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Okiku-Mushi
+1-Shujinko HP:1107/1317 MP:619/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Okiku-Mushi ataca con oscuridad a Shujinko
+Shujinko bloquea el ataque de Okiku-Mushi
+Shujinko termina con HP:1107/1317
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1107/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:94/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tadano HP:388/388 MP:187/193
+2-Persephone HP:87/315 MP:292/306
+3-Sarasvati HP:86/273 MP:264/264
+4-Okiku-Mushi HP:273/273 MP:94/121
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko dispara a Tadano
+Tadano recibe 228 de daño
+Tadano termina con HP:160/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1107/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:94/121
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Sarasvati
+3-Okiku-Mushi
+4-Tadano
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1107/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:94/121
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Okiku-Mushi
+3-Tadano
+4-Persephone
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Shujinko HP:1107/1317 MP:619/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1107/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:94/121
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Tadano
+3-Persephone
+4-Sarasvati
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Okiku-Mushi use
+1-Poisma MP:4
+2-Tathlum Shot MP:7
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Okiku-Mushi
+1-Shujinko HP:1107/1317 MP:619/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Okiku-Mushi dispara a Shujinko
+Shujinko es resistente el ataque de Okiku-Mushi
+Shujinko recibe 34 de daño
+Shujinko termina con HP:1073/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1073/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:87/121
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Persephone
+3-Sarasvati
+4-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Shujinko HP:1073/1317 MP:619/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1073/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:87/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Sarasvati
+3-Okiku-Mushi
+4-Tadano
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1073/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:87/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Okiku-Mushi
+3-Tadano
+4-Persephone
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1073/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:87/121
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Tadano
+3-Persephone
+4-Sarasvati
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1073/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:273/273 MP:87/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tadano HP:160/388 MP:187/193
+2-Persephone HP:87/315 MP:292/306
+3-Sarasvati HP:86/273 MP:264/264
+4-Okiku-Mushi HP:273/273 MP:87/121
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Shujinko ataca a Okiku-Mushi
+Okiku-Mushi recibe 187 de daño
+Okiku-Mushi termina con HP:86/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1073/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Sarasvati
+3-Okiku-Mushi
+4-Tadano
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1073/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Okiku-Mushi
+3-Tadano
+4-Persephone
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Shujinko HP:1073/1317 MP:619/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sarasvati ataca a Shujinko
+Shujinko es resistente el ataque de Sarasvati
+Shujinko recibe 14 de daño
+Shujinko termina con HP:1059/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1059/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Tadano
+3-Persephone
+4-Sarasvati
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Okiku-Mushi
+1-Shujinko HP:1059/1317 MP:619/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Okiku-Mushi ataca a Shujinko
+Shujinko es resistente el ataque de Okiku-Mushi
+Shujinko recibe 10 de daño
+Shujinko termina con HP:1049/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1049/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Persephone
+3-Sarasvati
+4-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Shujinko HP:1049/1317 MP:619/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Shujinko
+Shujinko es resistente el ataque de Tadano
+Shujinko recibe 8 de daño
+Shujinko termina con HP:1041/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1041/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Sarasvati
+3-Okiku-Mushi
+4-Tadano
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1041/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Okiku-Mushi
+3-Tadano
+4-Persephone
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sarasvati use
+1-Bufudyne MP:14
+2-Rakunda MP:15
+3-Mabufudyne MP:32
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Shujinko HP:1041/1317 MP:619/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Shujinko HP:1041/1317 MP:619/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sarasvati use
+1-Bufudyne MP:14
+2-Rakunda MP:15
+3-Mabufudyne MP:32
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Shujinko HP:1041/1317 MP:619/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1041/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-Persephone HP:87/315 MP:292/306
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Hama MP:6
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tadano HP:160/388 MP:187/193
+2-Persephone HP:87/315 MP:292/306
+3-Sarasvati HP:86/273 MP:264/264
+4-Okiku-Mushi HP:86/273 MP:87/121
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko dispara a Persephone
+Persephone recibe 228 de daño
+Persephone termina con HP:0/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1041/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Okiku-Mushi
+3-Tadano
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Shujinko HP:1041/1317 MP:619/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sarasvati ataca a Shujinko
+Shujinko es resistente el ataque de Sarasvati
+Shujinko recibe 14 de daño
+Shujinko termina con HP:1027/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1027/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Tadano
+3-Sarasvati
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Okiku-Mushi
+1-Shujinko HP:1027/1317 MP:619/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Okiku-Mushi ataca a Shujinko
+Shujinko es resistente el ataque de Okiku-Mushi
+Shujinko recibe 10 de daño
+Shujinko termina con HP:1017/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1017/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Sarasvati
+3-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1017/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Okiku-Mushi
+3-Tadano
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1017/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:160/388 MP:187/193
+B-
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tadano HP:160/388 MP:187/193
+2-Sarasvati HP:86/273 MP:264/264
+3-Okiku-Mushi HP:86/273 MP:87/121
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca a Tadano
+Tadano es resistente el ataque de Shujinko
+Tadano recibe 93 de daño
+Tadano termina con HP:67/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1017/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:67/388 MP:187/193
+B-
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Okiku-Mushi
+3-Tadano
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sarasvati use
+1-Bufudyne MP:14
+2-Rakunda MP:15
+3-Mabufudyne MP:32
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Shujinko HP:1017/1317 MP:619/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1017/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:67/388 MP:187/193
+B-
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Tadano
+3-Sarasvati
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Okiku-Mushi
+1-Shujinko HP:1017/1317 MP:619/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1017/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:67/388 MP:187/193
+B-
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Sarasvati
+3-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Shujinko HP:1017/1317 MP:619/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Shujinko HP:1017/1317 MP:619/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Shujinko
+Shujinko es resistente el ataque de Tadano
+Shujinko recibe 8 de daño
+Shujinko termina con HP:1009/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1009/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:67/388 MP:187/193
+B-
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Okiku-Mushi
+3-Tadano
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1009/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:67/388 MP:187/193
+B-
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Tadano
+3-Sarasvati
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1009/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:67/388 MP:187/193
+B-
+C-Sarasvati HP:86/273 MP:264/264
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tadano HP:67/388 MP:187/193
+2-Sarasvati HP:86/273 MP:264/264
+3-Okiku-Mushi HP:86/273 MP:87/121
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko dispara a Sarasvati
+Sarasvati recibe 228 de daño
+Sarasvati termina con HP:0/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1009/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:67/388 MP:187/193
+B-
+C-
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Tadano
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1009/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:67/388 MP:187/193
+B-
+C-
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Hama MP:6
+2-Stigma Attack MP:20
+3-Lunge MP:6
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Shujinko HP:1009/1317 MP:619/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Shujinko HP:1009/1317 MP:619/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Hama MP:6
+2-Stigma Attack MP:20
+3-Lunge MP:6
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Shujinko HP:1009/1317 MP:619/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Hama MP:6
+2-Stigma Attack MP:20
+3-Lunge MP:6
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Shujinko HP:1009/1317 MP:619/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Shujinko
+Shujinko es resistente el ataque de Tadano
+Shujinko recibe 24 de daño
+Shujinko termina con HP:985/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:985/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:67/388 MP:181/193
+B-
+C-
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Tadano
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:985/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:67/388 MP:181/193
+B-
+C-
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Shujinko HP:985/1317 MP:619/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Shujinko
+Shujinko es resistente el ataque de Tadano
+Shujinko recibe 8 de daño
+Shujinko termina con HP:977/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:977/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:67/388 MP:181/193
+B-
+C-
+D-Okiku-Mushi HP:86/273 MP:87/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Hama MP:6
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tadano HP:67/388 MP:181/193
+2-Okiku-Mushi HP:86/273 MP:87/121
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko ataca a Okiku-Mushi
+Okiku-Mushi recibe 187 de daño
+Okiku-Mushi termina con HP:0/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:977/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:67/388 MP:181/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Shujinko HP:977/1317 MP:619/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Shujinko
+Shujinko es resistente el ataque de Tadano
+Shujinko recibe 8 de daño
+Shujinko termina con HP:969/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:969/1317 MP:619/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:67/388 MP:181/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Hama MP:6
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tadano HP:67/388 MP:181/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca con luz a Tadano
+Tadano bloquea el ataque de Shujinko
+Tadano termina con HP:67/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:969/1317 MP:613/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:67/388 MP:181/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Hama MP:6
+2-Stigma Attack MP:20
+3-Lunge MP:6
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Shujinko HP:969/1317 MP:613/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:969/1317 MP:613/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:67/388 MP:181/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:969/1317 MP:613/625
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:67/388 MP:181/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tadano HP:67/388 MP:181/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko dispara a Tadano
+Tadano recibe 228 de daño
+Tadano termina con HP:0/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Shujinko (J1)

@@ -1,0 +1,522 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 44
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Koppa Tengu HP:196/196 MP:88/88
+C-Fuxi HP:52/52 MP:49/49
+D-Atropos HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Fortuna HP:147/147 MP:66/66
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Atropos
+3-Koppa Tengu
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Deadly Wind MP:22
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tadano HP:388/388 MP:193/193
+2-Fortuna HP:147/147 MP:66/66
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker lanza viento a Fortuna
+Fortuna absorbe 121 daño
+Fortuna termina con HP:147/147
+----------------------------------------
+Se han consumido 4 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:325/347
+B-Koppa Tengu HP:196/196 MP:88/88
+C-Fuxi HP:52/52 MP:49/49
+D-Atropos HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Fortuna HP:147/147 MP:66/66
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Fortuna
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Joker HP:597/597 MP:325/347
+2-Koppa Tengu HP:196/196 MP:88/88
+3-Fuxi HP:52/52 MP:49/49
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Joker
+Joker recibe 16 de daño
+Joker termina con HP:581/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:581/597 MP:325/347
+B-Koppa Tengu HP:196/196 MP:88/88
+C-Fuxi HP:52/52 MP:49/49
+D-Atropos HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Fortuna HP:147/147 MP:66/66
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fortuna
+2-Tadano
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fortuna
+1-Joker HP:581/597 MP:325/347
+2-Koppa Tengu HP:196/196 MP:88/88
+3-Fuxi HP:52/52 MP:49/49
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Fortuna ataca a Joker
+Joker recibe 10 de daño
+Joker termina con HP:571/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:571/597 MP:325/347
+B-Koppa Tengu HP:196/196 MP:88/88
+C-Fuxi HP:52/52 MP:49/49
+D-Atropos HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Fortuna HP:147/147 MP:66/66
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Atropos
+3-Koppa Tengu
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tadano HP:388/388 MP:193/193
+2-Fortuna HP:147/147 MP:66/66
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Tadano
+Tadano es resistente el ataque de Joker
+Tadano recibe 14 de daño
+Tadano termina con HP:374/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:571/597 MP:325/347
+B-Koppa Tengu HP:196/196 MP:88/88
+C-Fuxi HP:52/52 MP:49/49
+D-Atropos HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:374/388 MP:193/193
+B-Fortuna HP:147/147 MP:66/66
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Koppa Tengu
+3-Fuxi
+4-Joker
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Tadano HP:374/388 MP:193/193
+2-Fortuna HP:147/147 MP:66/66
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Atropos ataca a Fortuna
+Fortuna recibe 29 de daño
+Fortuna termina con HP:118/147
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:571/597 MP:325/347
+B-Koppa Tengu HP:196/196 MP:88/88
+C-Fuxi HP:52/52 MP:49/49
+D-Atropos HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:374/388 MP:193/193
+B-Fortuna HP:118/147 MP:66/66
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Fuxi
+3-Joker
+4-Atropos
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Tadano HP:374/388 MP:193/193
+2-Fortuna HP:118/147 MP:66/66
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Koppa Tengu ataca a Fortuna
+Fortuna recibe 14 de daño
+Fortuna termina con HP:104/147
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:571/597 MP:325/347
+B-Koppa Tengu HP:196/196 MP:88/88
+C-Fuxi HP:52/52 MP:49/49
+D-Atropos HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:374/388 MP:193/193
+B-Fortuna HP:104/147 MP:66/66
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fuxi
+2-Joker
+3-Atropos
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Fuxi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Fuxi use
+1-Zan MP:5
+2-Patra MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fuxi
+1-Tadano HP:374/388 MP:193/193
+2-Fortuna HP:104/147 MP:66/66
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Fuxi lanza viento a Fortuna
+Fortuna absorbe 25 daño
+Fortuna termina con HP:129/147
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:571/597 MP:325/347
+B-Koppa Tengu HP:196/196 MP:88/88
+C-Fuxi HP:52/52 MP:44/49
+D-Atropos HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:374/388 MP:193/193
+B-Fortuna HP:129/147 MP:66/66
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Fortuna
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Joker HP:571/597 MP:325/347
+2-Koppa Tengu HP:196/196 MP:88/88
+3-Fuxi HP:52/52 MP:44/49
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Joker
+Joker recibe 16 de daño
+Joker termina con HP:555/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:555/597 MP:325/347
+B-Koppa Tengu HP:196/196 MP:88/88
+C-Fuxi HP:52/52 MP:44/49
+D-Atropos HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:374/388 MP:193/193
+B-Fortuna HP:129/147 MP:66/66
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fortuna
+2-Tadano
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fortuna
+1-Joker HP:555/597 MP:325/347
+2-Koppa Tengu HP:196/196 MP:88/88
+3-Fuxi HP:52/52 MP:44/49
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Fortuna ataca a Joker
+Joker recibe 10 de daño
+Joker termina con HP:545/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:545/597 MP:325/347
+B-Koppa Tengu HP:196/196 MP:88/88
+C-Fuxi HP:52/52 MP:44/49
+D-Atropos HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:374/388 MP:193/193
+B-Fortuna HP:129/147 MP:66/66
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Atropos
+3-Koppa Tengu
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Deadly Wind MP:22
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tadano HP:374/388 MP:193/193
+2-Fortuna HP:129/147 MP:66/66
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker lanza viento a Fortuna
+Fortuna absorbe 121 daño
+Fortuna termina con HP:147/147
+----------------------------------------
+Se han consumido 4 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:545/597 MP:303/347
+B-Koppa Tengu HP:196/196 MP:88/88
+C-Fuxi HP:52/52 MP:44/49
+D-Atropos HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:374/388 MP:193/193
+B-Fortuna HP:147/147 MP:66/66
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Fortuna
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Tadano (J2) se rinde
+----------------------------------------
+Ganador: Joker (J1)

@@ -1,0 +1,4040 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 39
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ishtar HP:258/258 MP:251/251
+C-Ose HP:454/454 MP:90/90
+D-Power HP:407/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Michael HP:1002/1002 MP:199/199
+C-Astaroth HP:406/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Ose
+3-Ishtar
+4-Power
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:453/453 MP:389/389
+2-Michael HP:1002/1002 MP:199/199
+3-Astaroth HP:406/406 MP:181/181
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Nahobino
+Nahobino recibe 45 de daño
+Nahobino termina con HP:408/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ishtar HP:258/258 MP:251/251
+C-Ose HP:454/454 MP:90/90
+D-Power HP:407/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Michael HP:1002/1002 MP:199/199
+C-Astaroth HP:406/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Ishtar
+3-Power
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Nahobino HP:408/453 MP:389/389
+2-Michael HP:1002/1002 MP:199/199
+3-Astaroth HP:406/406 MP:181/181
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ose ataca a Michael
+Michael recibe 33 de daño
+Michael termina con HP:969/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ishtar HP:258/258 MP:251/251
+C-Ose HP:454/454 MP:90/90
+D-Power HP:407/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Michael HP:969/1002 MP:199/199
+C-Astaroth HP:406/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Power
+3-Itsuki
+4-Ose
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nahobino HP:408/453 MP:389/389
+2-Michael HP:969/1002 MP:199/199
+3-Astaroth HP:406/406 MP:181/181
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Nahobino
+Nahobino recibe 27 de daño
+Nahobino termina con HP:381/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ishtar HP:258/258 MP:251/251
+C-Ose HP:454/454 MP:90/90
+D-Power HP:407/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:381/453 MP:389/389
+B-Michael HP:969/1002 MP:199/199
+C-Astaroth HP:406/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Itsuki
+3-Ose
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Nahobino HP:381/453 MP:389/389
+2-Michael HP:969/1002 MP:199/199
+3-Astaroth HP:406/406 MP:181/181
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Nahobino HP:381/453 MP:389/389
+2-Michael HP:969/1002 MP:199/199
+3-Astaroth HP:406/406 MP:181/181
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Power ataca a Michael
+Michael recibe 29 de daño
+Michael termina con HP:940/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ishtar HP:258/258 MP:251/251
+C-Ose HP:454/454 MP:90/90
+D-Power HP:407/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:381/453 MP:389/389
+B-Michael HP:940/1002 MP:199/199
+C-Astaroth HP:406/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Astaroth
+3-Nahobino
+4-Virtue
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Itsuki HP:1136/1136 MP:413/413
+2-Ishtar HP:258/258 MP:251/251
+3-Ose HP:454/454 MP:90/90
+4-Power HP:407/407 MP:81/81
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Michael ataca a Ishtar
+Ishtar recibe 78 de daño
+Ishtar termina con HP:180/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ishtar HP:180/258 MP:251/251
+C-Ose HP:454/454 MP:90/90
+D-Power HP:407/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:381/453 MP:389/389
+B-Michael HP:940/1002 MP:199/199
+C-Astaroth HP:406/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Nahobino
+3-Virtue
+4-Michael
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:1136/1136 MP:413/413
+2-Ishtar HP:180/258 MP:251/251
+3-Ose HP:454/454 MP:90/90
+4-Power HP:407/407 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Astaroth ataca a Power
+Power recibe 33 de daño
+Power termina con HP:374/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ishtar HP:180/258 MP:251/251
+C-Ose HP:454/454 MP:90/90
+D-Power HP:374/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:381/453 MP:389/389
+B-Michael HP:940/1002 MP:199/199
+C-Astaroth HP:406/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Virtue
+3-Michael
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1136/1136 MP:413/413
+2-Ishtar HP:180/258 MP:251/251
+3-Ose HP:454/454 MP:90/90
+4-Power HP:374/407 MP:81/81
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Ose
+Ose recibe 29 de daño
+Ose termina con HP:425/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ishtar HP:180/258 MP:251/251
+C-Ose HP:425/454 MP:90/90
+D-Power HP:374/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:381/453 MP:389/389
+B-Michael HP:940/1002 MP:199/199
+C-Astaroth HP:406/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Virtue
+2-Michael
+3-Astaroth
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Itsuki HP:1136/1136 MP:413/413
+2-Ishtar HP:180/258 MP:251/251
+3-Ose HP:425/454 MP:90/90
+4-Power HP:374/407 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Virtue ataca a Power
+Power recibe 25 de daño
+Power termina con HP:349/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ishtar HP:180/258 MP:251/251
+C-Ose HP:425/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:381/453 MP:389/389
+B-Michael HP:940/1002 MP:199/199
+C-Astaroth HP:406/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Ose
+3-Ishtar
+4-Power
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:381/453 MP:389/389
+2-Michael HP:940/1002 MP:199/199
+3-Astaroth HP:406/406 MP:181/181
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Michael
+Michael recibe 45 de daño
+Michael termina con HP:895/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ishtar HP:180/258 MP:251/251
+C-Ose HP:425/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:381/453 MP:389/389
+B-Michael HP:895/1002 MP:199/199
+C-Astaroth HP:406/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Ishtar
+3-Power
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Nahobino HP:381/453 MP:389/389
+2-Michael HP:895/1002 MP:199/199
+3-Astaroth HP:406/406 MP:181/181
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ose ataca a Nahobino
+Nahobino recibe 33 de daño
+Nahobino termina con HP:348/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ishtar HP:180/258 MP:251/251
+C-Ose HP:425/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:895/1002 MP:199/199
+C-Astaroth HP:406/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Power
+3-Itsuki
+4-Ose
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nahobino HP:348/453 MP:389/389
+2-Michael HP:895/1002 MP:199/199
+3-Astaroth HP:406/406 MP:181/181
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ishtar ataca a Michael
+Michael recibe 27 de daño
+Michael termina con HP:868/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ishtar HP:180/258 MP:251/251
+C-Ose HP:425/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:868/1002 MP:199/199
+C-Astaroth HP:406/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Itsuki
+3-Ose
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Nahobino HP:348/453 MP:389/389
+2-Michael HP:868/1002 MP:199/199
+3-Astaroth HP:406/406 MP:181/181
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Power ataca a Michael
+Michael recibe 29 de daño
+Michael termina con HP:839/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ishtar HP:180/258 MP:251/251
+C-Ose HP:425/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:839/1002 MP:199/199
+C-Astaroth HP:406/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Astaroth
+3-Nahobino
+4-Virtue
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Itsuki HP:1136/1136 MP:413/413
+2-Ishtar HP:180/258 MP:251/251
+3-Ose HP:425/454 MP:90/90
+4-Power HP:349/407 MP:81/81
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Michael ataca a Ose
+Ose recibe 78 de daño
+Ose termina con HP:347/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ishtar HP:180/258 MP:251/251
+C-Ose HP:347/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:839/1002 MP:199/199
+C-Astaroth HP:406/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Nahobino
+3-Virtue
+4-Michael
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:1136/1136 MP:413/413
+2-Ishtar HP:180/258 MP:251/251
+3-Ose HP:347/454 MP:90/90
+4-Power HP:349/407 MP:81/81
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Astaroth ataca a Itsuki
+Itsuki recibe 33 de daño
+Itsuki termina con HP:1103/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1103/1136 MP:413/413
+B-Ishtar HP:180/258 MP:251/251
+C-Ose HP:347/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:839/1002 MP:199/199
+C-Astaroth HP:406/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Virtue
+3-Michael
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1103/1136 MP:413/413
+2-Ishtar HP:180/258 MP:251/251
+3-Ose HP:347/454 MP:90/90
+4-Power HP:349/407 MP:81/81
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:1020/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1020/1136 MP:413/413
+B-Ishtar HP:180/258 MP:251/251
+C-Ose HP:347/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:839/1002 MP:199/199
+C-Astaroth HP:406/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Virtue
+2-Michael
+3-Astaroth
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Itsuki HP:1020/1136 MP:413/413
+2-Ishtar HP:180/258 MP:251/251
+3-Ose HP:347/454 MP:90/90
+4-Power HP:349/407 MP:81/81
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Itsuki HP:1020/1136 MP:413/413
+2-Ishtar HP:180/258 MP:251/251
+3-Ose HP:347/454 MP:90/90
+4-Power HP:349/407 MP:81/81
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Virtue ataca a Ishtar
+Ishtar recibe 25 de daño
+Ishtar termina con HP:155/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1020/1136 MP:413/413
+B-Ishtar HP:155/258 MP:251/251
+C-Ose HP:347/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:839/1002 MP:199/199
+C-Astaroth HP:406/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Ose
+3-Ishtar
+4-Power
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:348/453 MP:389/389
+2-Michael HP:839/1002 MP:199/199
+3-Astaroth HP:406/406 MP:181/181
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Michael
+Michael recibe 45 de daño
+Michael termina con HP:794/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1020/1136 MP:413/413
+B-Ishtar HP:155/258 MP:251/251
+C-Ose HP:347/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:794/1002 MP:199/199
+C-Astaroth HP:406/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Ishtar
+3-Power
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Nahobino HP:348/453 MP:389/389
+2-Michael HP:794/1002 MP:199/199
+3-Astaroth HP:406/406 MP:181/181
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Nahobino HP:348/453 MP:389/389
+2-Michael HP:794/1002 MP:199/199
+3-Astaroth HP:406/406 MP:181/181
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ose ataca a Astaroth
+Astaroth recibe 33 de daño
+Astaroth termina con HP:373/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1020/1136 MP:413/413
+B-Ishtar HP:155/258 MP:251/251
+C-Ose HP:347/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:794/1002 MP:199/199
+C-Astaroth HP:373/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Power
+3-Itsuki
+4-Ose
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nahobino HP:348/453 MP:389/389
+2-Michael HP:794/1002 MP:199/199
+3-Astaroth HP:373/406 MP:181/181
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nahobino HP:348/453 MP:389/389
+2-Michael HP:794/1002 MP:199/199
+3-Astaroth HP:373/406 MP:181/181
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ishtar ataca a Astaroth
+Astaroth recibe 27 de daño
+Astaroth termina con HP:346/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1020/1136 MP:413/413
+B-Ishtar HP:155/258 MP:251/251
+C-Ose HP:347/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:794/1002 MP:199/199
+C-Astaroth HP:346/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Itsuki
+3-Ose
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Nahobino HP:348/453 MP:389/389
+2-Michael HP:794/1002 MP:199/199
+3-Astaroth HP:346/406 MP:181/181
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Power ataca a Astaroth
+Astaroth recibe 29 de daño
+Astaroth termina con HP:317/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1020/1136 MP:413/413
+B-Ishtar HP:155/258 MP:251/251
+C-Ose HP:347/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:794/1002 MP:199/199
+C-Astaroth HP:317/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Astaroth
+3-Nahobino
+4-Virtue
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Itsuki HP:1020/1136 MP:413/413
+2-Ishtar HP:155/258 MP:251/251
+3-Ose HP:347/454 MP:90/90
+4-Power HP:349/407 MP:81/81
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Itsuki
+Itsuki recibe 78 de daño
+Itsuki termina con HP:942/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:942/1136 MP:413/413
+B-Ishtar HP:155/258 MP:251/251
+C-Ose HP:347/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:794/1002 MP:199/199
+C-Astaroth HP:317/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Nahobino
+3-Virtue
+4-Michael
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:942/1136 MP:413/413
+2-Ishtar HP:155/258 MP:251/251
+3-Ose HP:347/454 MP:90/90
+4-Power HP:349/407 MP:81/81
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Astaroth ataca a Ose
+Ose recibe 33 de daño
+Ose termina con HP:314/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:942/1136 MP:413/413
+B-Ishtar HP:155/258 MP:251/251
+C-Ose HP:314/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:794/1002 MP:199/199
+C-Astaroth HP:317/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Virtue
+3-Michael
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:942/1136 MP:413/413
+2-Ishtar HP:155/258 MP:251/251
+3-Ose HP:314/454 MP:90/90
+4-Power HP:349/407 MP:81/81
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca a Ishtar
+Ishtar recibe 29 de daño
+Ishtar termina con HP:126/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:942/1136 MP:413/413
+B-Ishtar HP:126/258 MP:251/251
+C-Ose HP:314/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:794/1002 MP:199/199
+C-Astaroth HP:317/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Virtue
+2-Michael
+3-Astaroth
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Itsuki HP:942/1136 MP:413/413
+2-Ishtar HP:126/258 MP:251/251
+3-Ose HP:314/454 MP:90/90
+4-Power HP:349/407 MP:81/81
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Virtue ataca a Ishtar
+Ishtar recibe 25 de daño
+Ishtar termina con HP:101/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:942/1136 MP:413/413
+B-Ishtar HP:101/258 MP:251/251
+C-Ose HP:314/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:794/1002 MP:199/199
+C-Astaroth HP:317/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Ose
+3-Ishtar
+4-Power
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:348/453 MP:389/389
+2-Michael HP:794/1002 MP:199/199
+3-Astaroth HP:317/406 MP:181/181
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:348/453 MP:389/389
+2-Michael HP:794/1002 MP:199/199
+3-Astaroth HP:317/406 MP:181/181
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Astaroth
+Astaroth recibe 45 de daño
+Astaroth termina con HP:272/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:942/1136 MP:413/413
+B-Ishtar HP:101/258 MP:251/251
+C-Ose HP:314/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:794/1002 MP:199/199
+C-Astaroth HP:272/406 MP:181/181
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Ishtar
+3-Power
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Nahobino HP:348/453 MP:389/389
+2-Michael HP:794/1002 MP:199/199
+3-Astaroth HP:272/406 MP:181/181
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ose ataca a Virtue
+Virtue recibe 33 de daño
+Virtue termina con HP:207/240
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:942/1136 MP:413/413
+B-Ishtar HP:101/258 MP:251/251
+C-Ose HP:314/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:794/1002 MP:199/199
+C-Astaroth HP:272/406 MP:181/181
+D-Virtue HP:207/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Power
+3-Itsuki
+4-Ose
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nahobino HP:348/453 MP:389/389
+2-Michael HP:794/1002 MP:199/199
+3-Astaroth HP:272/406 MP:181/181
+4-Virtue HP:207/240 MP:232/232
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ishtar ataca a Michael
+Michael recibe 27 de daño
+Michael termina con HP:767/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:942/1136 MP:413/413
+B-Ishtar HP:101/258 MP:251/251
+C-Ose HP:314/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:767/1002 MP:199/199
+C-Astaroth HP:272/406 MP:181/181
+D-Virtue HP:207/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Itsuki
+3-Ose
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Nahobino HP:348/453 MP:389/389
+2-Michael HP:767/1002 MP:199/199
+3-Astaroth HP:272/406 MP:181/181
+4-Virtue HP:207/240 MP:232/232
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Power ataca a Virtue
+Virtue recibe 29 de daño
+Virtue termina con HP:178/240
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:942/1136 MP:413/413
+B-Ishtar HP:101/258 MP:251/251
+C-Ose HP:314/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:767/1002 MP:199/199
+C-Astaroth HP:272/406 MP:181/181
+D-Virtue HP:178/240 MP:232/232
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Astaroth
+3-Nahobino
+4-Virtue
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Itsuki HP:942/1136 MP:413/413
+2-Ishtar HP:101/258 MP:251/251
+3-Ose HP:314/454 MP:90/90
+4-Power HP:349/407 MP:81/81
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Michael ataca a Ishtar
+Ishtar recibe 78 de daño
+Ishtar termina con HP:23/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:942/1136 MP:413/413
+B-Ishtar HP:23/258 MP:251/251
+C-Ose HP:314/454 MP:90/90
+D-Power HP:349/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:767/1002 MP:199/199
+C-Astaroth HP:272/406 MP:181/181
+D-Virtue HP:178/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Nahobino
+3-Virtue
+4-Michael
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:942/1136 MP:413/413
+2-Ishtar HP:23/258 MP:251/251
+3-Ose HP:314/454 MP:90/90
+4-Power HP:349/407 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Astaroth ataca a Power
+Power recibe 33 de daño
+Power termina con HP:316/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:942/1136 MP:413/413
+B-Ishtar HP:23/258 MP:251/251
+C-Ose HP:314/454 MP:90/90
+D-Power HP:316/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:767/1002 MP:199/199
+C-Astaroth HP:272/406 MP:181/181
+D-Virtue HP:178/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Virtue
+3-Michael
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:942/1136 MP:413/413
+2-Ishtar HP:23/258 MP:251/251
+3-Ose HP:314/454 MP:90/90
+4-Power HP:316/407 MP:81/81
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:913/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:913/1136 MP:413/413
+B-Ishtar HP:23/258 MP:251/251
+C-Ose HP:314/454 MP:90/90
+D-Power HP:316/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:767/1002 MP:199/199
+C-Astaroth HP:272/406 MP:181/181
+D-Virtue HP:178/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Virtue
+2-Michael
+3-Astaroth
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Itsuki HP:913/1136 MP:413/413
+2-Ishtar HP:23/258 MP:251/251
+3-Ose HP:314/454 MP:90/90
+4-Power HP:316/407 MP:81/81
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Virtue ataca a Itsuki
+Itsuki recibe 25 de daño
+Itsuki termina con HP:888/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:888/1136 MP:413/413
+B-Ishtar HP:23/258 MP:251/251
+C-Ose HP:314/454 MP:90/90
+D-Power HP:316/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:348/453 MP:389/389
+B-Michael HP:767/1002 MP:199/199
+C-Astaroth HP:272/406 MP:181/181
+D-Virtue HP:178/240 MP:232/232
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Ose
+3-Ishtar
+4-Power
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:348/453 MP:389/389
+2-Michael HP:767/1002 MP:199/199
+3-Astaroth HP:272/406 MP:181/181
+4-Virtue HP:178/240 MP:232/232
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:348/453 MP:389/389
+2-Michael HP:767/1002 MP:199/199
+3-Astaroth HP:272/406 MP:181/181
+4-Virtue HP:178/240 MP:232/232
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Nahobino
+Nahobino recibe 45 de daño
+Nahobino termina con HP:303/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:888/1136 MP:413/413
+B-Ishtar HP:23/258 MP:251/251
+C-Ose HP:314/454 MP:90/90
+D-Power HP:316/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:303/453 MP:389/389
+B-Michael HP:767/1002 MP:199/199
+C-Astaroth HP:272/406 MP:181/181
+D-Virtue HP:178/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Ishtar
+3-Power
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Nahobino HP:303/453 MP:389/389
+2-Michael HP:767/1002 MP:199/199
+3-Astaroth HP:272/406 MP:181/181
+4-Virtue HP:178/240 MP:232/232
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ose ataca a Astaroth
+Astaroth recibe 33 de daño
+Astaroth termina con HP:239/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:888/1136 MP:413/413
+B-Ishtar HP:23/258 MP:251/251
+C-Ose HP:314/454 MP:90/90
+D-Power HP:316/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:303/453 MP:389/389
+B-Michael HP:767/1002 MP:199/199
+C-Astaroth HP:239/406 MP:181/181
+D-Virtue HP:178/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Power
+3-Itsuki
+4-Ose
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nahobino HP:303/453 MP:389/389
+2-Michael HP:767/1002 MP:199/199
+3-Astaroth HP:239/406 MP:181/181
+4-Virtue HP:178/240 MP:232/232
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Nahobino
+Nahobino recibe 27 de daño
+Nahobino termina con HP:276/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:888/1136 MP:413/413
+B-Ishtar HP:23/258 MP:251/251
+C-Ose HP:314/454 MP:90/90
+D-Power HP:316/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:276/453 MP:389/389
+B-Michael HP:767/1002 MP:199/199
+C-Astaroth HP:239/406 MP:181/181
+D-Virtue HP:178/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Itsuki
+3-Ose
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Nahobino HP:276/453 MP:389/389
+2-Michael HP:767/1002 MP:199/199
+3-Astaroth HP:239/406 MP:181/181
+4-Virtue HP:178/240 MP:232/232
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Power ataca a Michael
+Michael recibe 29 de daño
+Michael termina con HP:738/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:888/1136 MP:413/413
+B-Ishtar HP:23/258 MP:251/251
+C-Ose HP:314/454 MP:90/90
+D-Power HP:316/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:276/453 MP:389/389
+B-Michael HP:738/1002 MP:199/199
+C-Astaroth HP:239/406 MP:181/181
+D-Virtue HP:178/240 MP:232/232
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Astaroth
+3-Nahobino
+4-Virtue
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Itsuki HP:888/1136 MP:413/413
+2-Ishtar HP:23/258 MP:251/251
+3-Ose HP:314/454 MP:90/90
+4-Power HP:316/407 MP:81/81
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Itsuki
+Itsuki recibe 78 de daño
+Itsuki termina con HP:810/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:810/1136 MP:413/413
+B-Ishtar HP:23/258 MP:251/251
+C-Ose HP:314/454 MP:90/90
+D-Power HP:316/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:276/453 MP:389/389
+B-Michael HP:738/1002 MP:199/199
+C-Astaroth HP:239/406 MP:181/181
+D-Virtue HP:178/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Nahobino
+3-Virtue
+4-Michael
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:810/1136 MP:413/413
+2-Ishtar HP:23/258 MP:251/251
+3-Ose HP:314/454 MP:90/90
+4-Power HP:316/407 MP:81/81
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:810/1136 MP:413/413
+2-Ishtar HP:23/258 MP:251/251
+3-Ose HP:314/454 MP:90/90
+4-Power HP:316/407 MP:81/81
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:810/1136 MP:413/413
+2-Ishtar HP:23/258 MP:251/251
+3-Ose HP:314/454 MP:90/90
+4-Power HP:316/407 MP:81/81
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Astaroth ataca a Ose
+Ose recibe 33 de daño
+Ose termina con HP:281/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:810/1136 MP:413/413
+B-Ishtar HP:23/258 MP:251/251
+C-Ose HP:281/454 MP:90/90
+D-Power HP:316/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:276/453 MP:389/389
+B-Michael HP:738/1002 MP:199/199
+C-Astaroth HP:239/406 MP:181/181
+D-Virtue HP:178/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Virtue
+3-Michael
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:810/1136 MP:413/413
+2-Ishtar HP:23/258 MP:251/251
+3-Ose HP:281/454 MP:90/90
+4-Power HP:316/407 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nahobino ataca a Power
+Power recibe 29 de daño
+Power termina con HP:287/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:810/1136 MP:413/413
+B-Ishtar HP:23/258 MP:251/251
+C-Ose HP:281/454 MP:90/90
+D-Power HP:287/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:276/453 MP:389/389
+B-Michael HP:738/1002 MP:199/199
+C-Astaroth HP:239/406 MP:181/181
+D-Virtue HP:178/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Virtue
+2-Michael
+3-Astaroth
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Itsuki HP:810/1136 MP:413/413
+2-Ishtar HP:23/258 MP:251/251
+3-Ose HP:281/454 MP:90/90
+4-Power HP:287/407 MP:81/81
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Virtue ataca a Ishtar
+Ishtar recibe 25 de daño
+Ishtar termina con HP:0/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:810/1136 MP:413/413
+B-
+C-Ose HP:281/454 MP:90/90
+D-Power HP:287/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:276/453 MP:389/389
+B-Michael HP:738/1002 MP:199/199
+C-Astaroth HP:239/406 MP:181/181
+D-Virtue HP:178/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Ose
+3-Power
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:276/453 MP:389/389
+2-Michael HP:738/1002 MP:199/199
+3-Astaroth HP:239/406 MP:181/181
+4-Virtue HP:178/240 MP:232/232
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Nahobino
+Nahobino recibe 61 de daño
+Nahobino termina con HP:215/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:810/1136 MP:413/413
+B-
+C-Ose HP:281/454 MP:90/90
+D-Power HP:287/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:215/453 MP:389/389
+B-Michael HP:738/1002 MP:199/199
+C-Astaroth HP:239/406 MP:181/181
+D-Virtue HP:178/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Power
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Nahobino HP:215/453 MP:389/389
+2-Michael HP:738/1002 MP:199/199
+3-Astaroth HP:239/406 MP:181/181
+4-Virtue HP:178/240 MP:232/232
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ose ataca a Virtue
+Virtue recibe 33 de daño
+Virtue termina con HP:145/240
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:810/1136 MP:413/413
+B-
+C-Ose HP:281/454 MP:90/90
+D-Power HP:287/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:215/453 MP:389/389
+B-Michael HP:738/1002 MP:199/199
+C-Astaroth HP:239/406 MP:181/181
+D-Virtue HP:145/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Itsuki
+3-Ose
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Nahobino HP:215/453 MP:389/389
+2-Michael HP:738/1002 MP:199/199
+3-Astaroth HP:239/406 MP:181/181
+4-Virtue HP:145/240 MP:232/232
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Power ataca a Michael
+Michael recibe 29 de daño
+Michael termina con HP:709/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:810/1136 MP:413/413
+B-
+C-Ose HP:281/454 MP:90/90
+D-Power HP:287/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:215/453 MP:389/389
+B-Michael HP:709/1002 MP:199/199
+C-Astaroth HP:239/406 MP:181/181
+D-Virtue HP:145/240 MP:232/232
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Astaroth
+3-Nahobino
+4-Virtue
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Itsuki HP:810/1136 MP:413/413
+2-Ose HP:281/454 MP:90/90
+3-Power HP:287/407 MP:81/81
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Itsuki HP:810/1136 MP:413/413
+2-Ose HP:281/454 MP:90/90
+3-Power HP:287/407 MP:81/81
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Michael ataca a Power
+Power recibe 78 de daño
+Power termina con HP:209/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:810/1136 MP:413/413
+B-
+C-Ose HP:281/454 MP:90/90
+D-Power HP:209/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:215/453 MP:389/389
+B-Michael HP:709/1002 MP:199/199
+C-Astaroth HP:239/406 MP:181/181
+D-Virtue HP:145/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Nahobino
+3-Virtue
+4-Michael
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:810/1136 MP:413/413
+2-Ose HP:281/454 MP:90/90
+3-Power HP:209/407 MP:81/81
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Astaroth ataca a Ose
+Ose recibe 33 de daño
+Ose termina con HP:248/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:810/1136 MP:413/413
+B-
+C-Ose HP:248/454 MP:90/90
+D-Power HP:209/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:215/453 MP:389/389
+B-Michael HP:709/1002 MP:199/199
+C-Astaroth HP:239/406 MP:181/181
+D-Virtue HP:145/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Virtue
+3-Michael
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:810/1136 MP:413/413
+2-Ose HP:248/454 MP:90/90
+3-Power HP:209/407 MP:81/81
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Ose
+Ose recibe 83 de daño
+Ose termina con HP:165/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:810/1136 MP:413/413
+B-
+C-Ose HP:165/454 MP:90/90
+D-Power HP:209/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:215/453 MP:389/389
+B-Michael HP:709/1002 MP:199/199
+C-Astaroth HP:239/406 MP:181/181
+D-Virtue HP:145/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Virtue
+2-Michael
+3-Astaroth
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Itsuki HP:810/1136 MP:413/413
+2-Ose HP:165/454 MP:90/90
+3-Power HP:209/407 MP:81/81
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Virtue ataca a Power
+Power recibe 25 de daño
+Power termina con HP:184/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:810/1136 MP:413/413
+B-
+C-Ose HP:165/454 MP:90/90
+D-Power HP:184/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:215/453 MP:389/389
+B-Michael HP:709/1002 MP:199/199
+C-Astaroth HP:239/406 MP:181/181
+D-Virtue HP:145/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Ose
+3-Power
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:215/453 MP:389/389
+2-Michael HP:709/1002 MP:199/199
+3-Astaroth HP:239/406 MP:181/181
+4-Virtue HP:145/240 MP:232/232
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Astaroth
+Astaroth recibe 61 de daño
+Astaroth termina con HP:178/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:810/1136 MP:413/413
+B-
+C-Ose HP:165/454 MP:90/90
+D-Power HP:184/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:215/453 MP:389/389
+B-Michael HP:709/1002 MP:199/199
+C-Astaroth HP:178/406 MP:181/181
+D-Virtue HP:145/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Power
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Nahobino HP:215/453 MP:389/389
+2-Michael HP:709/1002 MP:199/199
+3-Astaroth HP:178/406 MP:181/181
+4-Virtue HP:145/240 MP:232/232
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ose ataca a Michael
+Michael recibe 33 de daño
+Michael termina con HP:676/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:810/1136 MP:413/413
+B-
+C-Ose HP:165/454 MP:90/90
+D-Power HP:184/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:215/453 MP:389/389
+B-Michael HP:676/1002 MP:199/199
+C-Astaroth HP:178/406 MP:181/181
+D-Virtue HP:145/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Itsuki
+3-Ose
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Nahobino HP:215/453 MP:389/389
+2-Michael HP:676/1002 MP:199/199
+3-Astaroth HP:178/406 MP:181/181
+4-Virtue HP:145/240 MP:232/232
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Nahobino HP:215/453 MP:389/389
+2-Michael HP:676/1002 MP:199/199
+3-Astaroth HP:178/406 MP:181/181
+4-Virtue HP:145/240 MP:232/232
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Power ataca a Michael
+Michael recibe 29 de daño
+Michael termina con HP:647/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:810/1136 MP:413/413
+B-
+C-Ose HP:165/454 MP:90/90
+D-Power HP:184/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:215/453 MP:389/389
+B-Michael HP:647/1002 MP:199/199
+C-Astaroth HP:178/406 MP:181/181
+D-Virtue HP:145/240 MP:232/232
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Astaroth
+3-Nahobino
+4-Virtue
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Itsuki HP:810/1136 MP:413/413
+2-Ose HP:165/454 MP:90/90
+3-Power HP:184/407 MP:81/81
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Michael ataca a Power
+Power recibe 78 de daño
+Power termina con HP:106/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:810/1136 MP:413/413
+B-
+C-Ose HP:165/454 MP:90/90
+D-Power HP:106/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:215/453 MP:389/389
+B-Michael HP:647/1002 MP:199/199
+C-Astaroth HP:178/406 MP:181/181
+D-Virtue HP:145/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Nahobino
+3-Virtue
+4-Michael
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:810/1136 MP:413/413
+2-Ose HP:165/454 MP:90/90
+3-Power HP:106/407 MP:81/81
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Astaroth ataca a Itsuki
+Itsuki recibe 33 de daño
+Itsuki termina con HP:777/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:777/1136 MP:413/413
+B-
+C-Ose HP:165/454 MP:90/90
+D-Power HP:106/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:215/453 MP:389/389
+B-Michael HP:647/1002 MP:199/199
+C-Astaroth HP:178/406 MP:181/181
+D-Virtue HP:145/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Virtue
+3-Michael
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:777/1136 MP:413/413
+2-Ose HP:165/454 MP:90/90
+3-Power HP:106/407 MP:81/81
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Power
+Power recibe 29 de daño
+Power termina con HP:77/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:777/1136 MP:413/413
+B-
+C-Ose HP:165/454 MP:90/90
+D-Power HP:77/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:215/453 MP:389/389
+B-Michael HP:647/1002 MP:199/199
+C-Astaroth HP:178/406 MP:181/181
+D-Virtue HP:145/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Virtue
+2-Michael
+3-Astaroth
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Itsuki HP:777/1136 MP:413/413
+2-Ose HP:165/454 MP:90/90
+3-Power HP:77/407 MP:81/81
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Itsuki HP:777/1136 MP:413/413
+2-Ose HP:165/454 MP:90/90
+3-Power HP:77/407 MP:81/81
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Virtue ataca a Power
+Power recibe 25 de daño
+Power termina con HP:52/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:777/1136 MP:413/413
+B-
+C-Ose HP:165/454 MP:90/90
+D-Power HP:52/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:215/453 MP:389/389
+B-Michael HP:647/1002 MP:199/199
+C-Astaroth HP:178/406 MP:181/181
+D-Virtue HP:145/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Ose
+3-Power
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:215/453 MP:389/389
+2-Michael HP:647/1002 MP:199/199
+3-Astaroth HP:178/406 MP:181/181
+4-Virtue HP:145/240 MP:232/232
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki ataca a Virtue
+Virtue recibe 45 de daño
+Virtue termina con HP:100/240
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:777/1136 MP:413/413
+B-
+C-Ose HP:165/454 MP:90/90
+D-Power HP:52/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:215/453 MP:389/389
+B-Michael HP:647/1002 MP:199/199
+C-Astaroth HP:178/406 MP:181/181
+D-Virtue HP:100/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Power
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Nahobino HP:215/453 MP:389/389
+2-Michael HP:647/1002 MP:199/199
+3-Astaroth HP:178/406 MP:181/181
+4-Virtue HP:100/240 MP:232/232
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ose ataca a Astaroth
+Astaroth recibe 33 de daño
+Astaroth termina con HP:145/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:777/1136 MP:413/413
+B-
+C-Ose HP:165/454 MP:90/90
+D-Power HP:52/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:215/453 MP:389/389
+B-Michael HP:647/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-Virtue HP:100/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Itsuki
+3-Ose
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Nahobino HP:215/453 MP:389/389
+2-Michael HP:647/1002 MP:199/199
+3-Astaroth HP:145/406 MP:181/181
+4-Virtue HP:100/240 MP:232/232
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Nahobino HP:215/453 MP:389/389
+2-Michael HP:647/1002 MP:199/199
+3-Astaroth HP:145/406 MP:181/181
+4-Virtue HP:100/240 MP:232/232
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Power ataca a Nahobino
+Nahobino recibe 29 de daño
+Nahobino termina con HP:186/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:777/1136 MP:413/413
+B-
+C-Ose HP:165/454 MP:90/90
+D-Power HP:52/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:647/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-Virtue HP:100/240 MP:232/232
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Astaroth
+3-Nahobino
+4-Virtue
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Itsuki HP:777/1136 MP:413/413
+2-Ose HP:165/454 MP:90/90
+3-Power HP:52/407 MP:81/81
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Itsuki
+Itsuki recibe 78 de daño
+Itsuki termina con HP:699/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:699/1136 MP:413/413
+B-
+C-Ose HP:165/454 MP:90/90
+D-Power HP:52/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:647/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-Virtue HP:100/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Nahobino
+3-Virtue
+4-Michael
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:699/1136 MP:413/413
+2-Ose HP:165/454 MP:90/90
+3-Power HP:52/407 MP:81/81
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Astaroth ataca a Ose
+Ose recibe 33 de daño
+Ose termina con HP:132/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:699/1136 MP:413/413
+B-
+C-Ose HP:132/454 MP:90/90
+D-Power HP:52/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:647/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-Virtue HP:100/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Virtue
+3-Michael
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:699/1136 MP:413/413
+2-Ose HP:132/454 MP:90/90
+3-Power HP:52/407 MP:81/81
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Power
+Power recibe 29 de daño
+Power termina con HP:23/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:699/1136 MP:413/413
+B-
+C-Ose HP:132/454 MP:90/90
+D-Power HP:23/407 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:647/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-Virtue HP:100/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Virtue
+2-Michael
+3-Astaroth
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Itsuki HP:699/1136 MP:413/413
+2-Ose HP:132/454 MP:90/90
+3-Power HP:23/407 MP:81/81
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Virtue ataca a Power
+Power recibe 25 de daño
+Power termina con HP:0/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:699/1136 MP:413/413
+B-
+C-Ose HP:132/454 MP:90/90
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:647/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-Virtue HP:100/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Ose
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:186/453 MP:389/389
+2-Michael HP:647/1002 MP:199/199
+3-Astaroth HP:145/406 MP:181/181
+4-Virtue HP:100/240 MP:232/232
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Virtue
+Virtue recibe 61 de daño
+Virtue termina con HP:39/240
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:699/1136 MP:413/413
+B-
+C-Ose HP:132/454 MP:90/90
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:647/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-Virtue HP:39/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Nahobino HP:186/453 MP:389/389
+2-Michael HP:647/1002 MP:199/199
+3-Astaroth HP:145/406 MP:181/181
+4-Virtue HP:39/240 MP:232/232
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ose ataca a Michael
+Michael recibe 33 de daño
+Michael termina con HP:614/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:699/1136 MP:413/413
+B-
+C-Ose HP:132/454 MP:90/90
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:614/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-Virtue HP:39/240 MP:232/232
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Astaroth
+3-Nahobino
+4-Virtue
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Itsuki HP:699/1136 MP:413/413
+2-Ose HP:132/454 MP:90/90
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Itsuki HP:699/1136 MP:413/413
+2-Ose HP:132/454 MP:90/90
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Michael ataca a Ose
+Ose recibe 78 de daño
+Ose termina con HP:54/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:699/1136 MP:413/413
+B-
+C-Ose HP:54/454 MP:90/90
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:614/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-Virtue HP:39/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Nahobino
+3-Virtue
+4-Michael
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:699/1136 MP:413/413
+2-Ose HP:54/454 MP:90/90
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Astaroth ataca a Ose
+Ose recibe 33 de daño
+Ose termina con HP:21/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:699/1136 MP:413/413
+B-
+C-Ose HP:21/454 MP:90/90
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:614/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-Virtue HP:39/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Virtue
+3-Michael
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:699/1136 MP:413/413
+2-Ose HP:21/454 MP:90/90
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:699/1136 MP:413/413
+2-Ose HP:21/454 MP:90/90
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Ose
+Ose recibe 83 de daño
+Ose termina con HP:0/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:699/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:614/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-Virtue HP:39/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Virtue
+2-Michael
+3-Astaroth
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Itsuki HP:699/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Itsuki HP:699/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Virtue ataca a Itsuki
+Itsuki recibe 25 de daño
+Itsuki termina con HP:674/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:674/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:614/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-Virtue HP:39/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:186/453 MP:389/389
+2-Michael HP:614/1002 MP:199/199
+3-Astaroth HP:145/406 MP:181/181
+4-Virtue HP:39/240 MP:232/232
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:186/453 MP:389/389
+2-Michael HP:614/1002 MP:199/199
+3-Astaroth HP:145/406 MP:181/181
+4-Virtue HP:39/240 MP:232/232
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Virtue
+Virtue recibe 61 de daño
+Virtue termina con HP:0/240
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:674/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:614/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Astaroth
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Itsuki HP:674/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Itsuki
+Itsuki recibe 78 de daño
+Itsuki termina con HP:596/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:596/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:614/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Nahobino
+3-Michael
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:596/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Astaroth ataca a Itsuki
+Itsuki recibe 33 de daño
+Itsuki termina con HP:563/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:563/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:614/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Michael
+3-Astaroth
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:563/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:563/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:563/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:563/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:534/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:534/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:614/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:186/453 MP:389/389
+2-Michael HP:614/1002 MP:199/199
+3-Astaroth HP:145/406 MP:181/181
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:186/453 MP:389/389
+2-Michael HP:614/1002 MP:199/199
+3-Astaroth HP:145/406 MP:181/181
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:186/453 MP:389/389
+2-Michael HP:614/1002 MP:199/199
+3-Astaroth HP:145/406 MP:181/181
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Michael
+Michael recibe 45 de daño
+Michael termina con HP:569/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:534/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:569/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Astaroth
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Itsuki HP:534/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Itsuki
+Itsuki recibe 78 de daño
+Itsuki termina con HP:456/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:456/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:569/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Nahobino
+3-Michael
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:456/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:456/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Astaroth ataca a Itsuki
+Itsuki recibe 33 de daño
+Itsuki termina con HP:423/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:423/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:569/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Michael
+3-Astaroth
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:423/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:340/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:340/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:569/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:186/453 MP:389/389
+2-Michael HP:569/1002 MP:199/199
+3-Astaroth HP:145/406 MP:181/181
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Michael
+Michael recibe 45 de daño
+Michael termina con HP:524/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:340/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:524/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Astaroth
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Itsuki HP:340/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Itsuki
+Itsuki recibe 78 de daño
+Itsuki termina con HP:262/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:262/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:524/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Nahobino
+3-Michael
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:262/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:262/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Astaroth ataca a Itsuki
+Itsuki recibe 33 de daño
+Itsuki termina con HP:229/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:229/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:524/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Michael
+3-Astaroth
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:229/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:200/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:200/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:524/1002 MP:199/199
+C-Astaroth HP:145/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:186/453 MP:389/389
+2-Michael HP:524/1002 MP:199/199
+3-Astaroth HP:145/406 MP:181/181
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Astaroth
+Astaroth recibe 45 de daño
+Astaroth termina con HP:100/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:200/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:524/1002 MP:199/199
+C-Astaroth HP:100/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Astaroth
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Itsuki HP:200/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Itsuki HP:200/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Itsuki
+Itsuki recibe 78 de daño
+Itsuki termina con HP:122/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:122/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:524/1002 MP:199/199
+C-Astaroth HP:100/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Nahobino
+3-Michael
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Itsuki HP:122/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Astaroth ataca a Itsuki
+Itsuki recibe 33 de daño
+Itsuki termina con HP:89/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:89/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:524/1002 MP:199/199
+C-Astaroth HP:100/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Michael
+3-Astaroth
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:89/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:6/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:6/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:524/1002 MP:199/199
+C-Astaroth HP:100/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:186/453 MP:389/389
+2-Michael HP:524/1002 MP:199/199
+3-Astaroth HP:100/406 MP:181/181
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Michael
+Michael recibe 61 de daño
+Michael termina con HP:463/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:6/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:186/453 MP:389/389
+B-Michael HP:463/1002 MP:199/199
+C-Astaroth HP:100/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Astaroth
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Itsuki HP:6/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Itsuki HP:6/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Itsuki
+Itsuki recibe 78 de daño
+Itsuki termina con HP:0/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Nahobino (J2)

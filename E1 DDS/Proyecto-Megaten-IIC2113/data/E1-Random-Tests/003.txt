@@ -1,0 +1,2883 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 2
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Sarasvati HP:273/273 MP:264/264
+C-Patrimpas HP:155/155 MP:149/149
+D-Orias HP:252/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Murmur HP:511/511 MP:229/229
+C-Enku HP:235/235 MP:228/228
+D-Naga HP:199/199 MP:39/39
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Sarasvati
+3-Orias
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:971/971 MP:527/527
+2-Murmur HP:511/511 MP:229/229
+3-Enku HP:235/235 MP:228/228
+4-Naga HP:199/199 MP:39/39
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker ataca a Naga
+Naga recibe 28 de daño
+Naga termina con HP:171/199
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Sarasvati HP:273/273 MP:264/264
+C-Patrimpas HP:155/155 MP:149/149
+D-Orias HP:252/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Murmur HP:511/511 MP:229/229
+C-Enku HP:235/235 MP:228/228
+D-Naga HP:171/199 MP:39/39
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Orias
+3-Patrimpas
+4-Joker
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Flynn HP:971/971 MP:527/527
+2-Murmur HP:511/511 MP:229/229
+3-Enku HP:235/235 MP:228/228
+4-Naga HP:171/199 MP:39/39
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Sarasvati ataca a Enku
+Enku recibe 28 de daño
+Enku termina con HP:207/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Sarasvati HP:273/273 MP:264/264
+C-Patrimpas HP:155/155 MP:149/149
+D-Orias HP:252/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Murmur HP:511/511 MP:229/229
+C-Enku HP:207/235 MP:228/228
+D-Naga HP:171/199 MP:39/39
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Patrimpas
+3-Joker
+4-Sarasvati
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Flynn HP:971/971 MP:527/527
+2-Murmur HP:511/511 MP:229/229
+3-Enku HP:207/235 MP:228/228
+4-Naga HP:171/199 MP:39/39
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Orias ataca a Enku
+Enku recibe 19 de daño
+Enku termina con HP:188/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Sarasvati HP:273/273 MP:264/264
+C-Patrimpas HP:155/155 MP:149/149
+D-Orias HP:252/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Murmur HP:511/511 MP:229/229
+C-Enku HP:188/235 MP:228/228
+D-Naga HP:171/199 MP:39/39
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patrimpas
+2-Joker
+3-Sarasvati
+4-Orias
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Flynn HP:971/971 MP:527/527
+2-Murmur HP:511/511 MP:229/229
+3-Enku HP:188/235 MP:228/228
+4-Naga HP:171/199 MP:39/39
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Patrimpas ataca a Flynn
+Flynn recibe 16 de daño
+Flynn termina con HP:955/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Sarasvati HP:273/273 MP:264/264
+C-Patrimpas HP:155/155 MP:149/149
+D-Orias HP:252/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:955/971 MP:527/527
+B-Murmur HP:511/511 MP:229/229
+C-Enku HP:188/235 MP:228/228
+D-Naga HP:171/199 MP:39/39
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Murmur
+3-Enku
+4-Naga
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:597/597 MP:347/347
+2-Sarasvati HP:273/273 MP:264/264
+3-Patrimpas HP:155/155 MP:149/149
+4-Orias HP:252/252 MP:112/112
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Patrimpas
+Patrimpas recibe 88 de daño
+Patrimpas termina con HP:67/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Sarasvati HP:273/273 MP:264/264
+C-Patrimpas HP:67/155 MP:149/149
+D-Orias HP:252/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:955/971 MP:527/527
+B-Murmur HP:511/511 MP:229/229
+C-Enku HP:188/235 MP:228/228
+D-Naga HP:171/199 MP:39/39
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Enku
+3-Naga
+4-Flynn
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:597/597 MP:347/347
+2-Sarasvati HP:273/273 MP:264/264
+3-Patrimpas HP:67/155 MP:149/149
+4-Orias HP:252/252 MP:112/112
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Murmur ataca a Joker
+Joker recibe 42 de daño
+Joker termina con HP:555/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:555/597 MP:347/347
+B-Sarasvati HP:273/273 MP:264/264
+C-Patrimpas HP:67/155 MP:149/149
+D-Orias HP:252/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:955/971 MP:527/527
+B-Murmur HP:511/511 MP:229/229
+C-Enku HP:188/235 MP:228/228
+D-Naga HP:171/199 MP:39/39
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Naga
+3-Flynn
+4-Murmur
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Joker HP:555/597 MP:347/347
+2-Sarasvati HP:273/273 MP:264/264
+3-Patrimpas HP:67/155 MP:149/149
+4-Orias HP:252/252 MP:112/112
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Joker HP:555/597 MP:347/347
+2-Sarasvati HP:273/273 MP:264/264
+3-Patrimpas HP:67/155 MP:149/149
+4-Orias HP:252/252 MP:112/112
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Joker HP:555/597 MP:347/347
+2-Sarasvati HP:273/273 MP:264/264
+3-Patrimpas HP:67/155 MP:149/149
+4-Orias HP:252/252 MP:112/112
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Joker
+Joker recibe 24 de daño
+Joker termina con HP:531/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:531/597 MP:347/347
+B-Sarasvati HP:273/273 MP:264/264
+C-Patrimpas HP:67/155 MP:149/149
+D-Orias HP:252/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:955/971 MP:527/527
+B-Murmur HP:511/511 MP:229/229
+C-Enku HP:188/235 MP:228/228
+D-Naga HP:171/199 MP:39/39
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Flynn
+3-Murmur
+4-Enku
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Joker HP:531/597 MP:347/347
+2-Sarasvati HP:273/273 MP:264/264
+3-Patrimpas HP:67/155 MP:149/149
+4-Orias HP:252/252 MP:112/112
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Joker HP:531/597 MP:347/347
+2-Sarasvati HP:273/273 MP:264/264
+3-Patrimpas HP:67/155 MP:149/149
+4-Orias HP:252/252 MP:112/112
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Naga ataca a Sarasvati
+Sarasvati recibe 12 de daño
+Sarasvati termina con HP:261/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:531/597 MP:347/347
+B-Sarasvati HP:261/273 MP:264/264
+C-Patrimpas HP:67/155 MP:149/149
+D-Orias HP:252/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:955/971 MP:527/527
+B-Murmur HP:511/511 MP:229/229
+C-Enku HP:188/235 MP:228/228
+D-Naga HP:171/199 MP:39/39
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Sarasvati
+3-Orias
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:955/971 MP:527/527
+2-Murmur HP:511/511 MP:229/229
+3-Enku HP:188/235 MP:228/228
+4-Naga HP:171/199 MP:39/39
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Murmur
+Murmur recibe 39 de daño
+Murmur termina con HP:472/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:531/597 MP:347/347
+B-Sarasvati HP:261/273 MP:264/264
+C-Patrimpas HP:67/155 MP:149/149
+D-Orias HP:252/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:955/971 MP:527/527
+B-Murmur HP:472/511 MP:229/229
+C-Enku HP:188/235 MP:228/228
+D-Naga HP:171/199 MP:39/39
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Orias
+3-Patrimpas
+4-Joker
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Flynn HP:955/971 MP:527/527
+2-Murmur HP:472/511 MP:229/229
+3-Enku HP:188/235 MP:228/228
+4-Naga HP:171/199 MP:39/39
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Sarasvati ataca a Enku
+Enku recibe 28 de daño
+Enku termina con HP:160/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:531/597 MP:347/347
+B-Sarasvati HP:261/273 MP:264/264
+C-Patrimpas HP:67/155 MP:149/149
+D-Orias HP:252/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:955/971 MP:527/527
+B-Murmur HP:472/511 MP:229/229
+C-Enku HP:160/235 MP:228/228
+D-Naga HP:171/199 MP:39/39
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Patrimpas
+3-Joker
+4-Sarasvati
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Flynn HP:955/971 MP:527/527
+2-Murmur HP:472/511 MP:229/229
+3-Enku HP:160/235 MP:228/228
+4-Naga HP:171/199 MP:39/39
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Orias ataca a Flynn
+Flynn recibe 19 de daño
+Flynn termina con HP:936/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:531/597 MP:347/347
+B-Sarasvati HP:261/273 MP:264/264
+C-Patrimpas HP:67/155 MP:149/149
+D-Orias HP:252/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:936/971 MP:527/527
+B-Murmur HP:472/511 MP:229/229
+C-Enku HP:160/235 MP:228/228
+D-Naga HP:171/199 MP:39/39
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patrimpas
+2-Joker
+3-Sarasvati
+4-Orias
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Flynn HP:936/971 MP:527/527
+2-Murmur HP:472/511 MP:229/229
+3-Enku HP:160/235 MP:228/228
+4-Naga HP:171/199 MP:39/39
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Patrimpas ataca a Enku
+Enku recibe 16 de daño
+Enku termina con HP:144/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:531/597 MP:347/347
+B-Sarasvati HP:261/273 MP:264/264
+C-Patrimpas HP:67/155 MP:149/149
+D-Orias HP:252/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:936/971 MP:527/527
+B-Murmur HP:472/511 MP:229/229
+C-Enku HP:144/235 MP:228/228
+D-Naga HP:171/199 MP:39/39
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Murmur
+3-Enku
+4-Naga
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:531/597 MP:347/347
+2-Sarasvati HP:261/273 MP:264/264
+3-Patrimpas HP:67/155 MP:149/149
+4-Orias HP:252/252 MP:112/112
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Flynn ataca a Orias
+Orias recibe 88 de daño
+Orias termina con HP:164/252
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:531/597 MP:347/347
+B-Sarasvati HP:261/273 MP:264/264
+C-Patrimpas HP:67/155 MP:149/149
+D-Orias HP:164/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:936/971 MP:527/527
+B-Murmur HP:472/511 MP:229/229
+C-Enku HP:144/235 MP:228/228
+D-Naga HP:171/199 MP:39/39
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Enku
+3-Naga
+4-Flynn
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:531/597 MP:347/347
+2-Sarasvati HP:261/273 MP:264/264
+3-Patrimpas HP:67/155 MP:149/149
+4-Orias HP:164/252 MP:112/112
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:531/597 MP:347/347
+2-Sarasvati HP:261/273 MP:264/264
+3-Patrimpas HP:67/155 MP:149/149
+4-Orias HP:164/252 MP:112/112
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Murmur ataca a Orias
+Orias recibe 42 de daño
+Orias termina con HP:122/252
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:531/597 MP:347/347
+B-Sarasvati HP:261/273 MP:264/264
+C-Patrimpas HP:67/155 MP:149/149
+D-Orias HP:122/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:936/971 MP:527/527
+B-Murmur HP:472/511 MP:229/229
+C-Enku HP:144/235 MP:228/228
+D-Naga HP:171/199 MP:39/39
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Naga
+3-Flynn
+4-Murmur
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Joker HP:531/597 MP:347/347
+2-Sarasvati HP:261/273 MP:264/264
+3-Patrimpas HP:67/155 MP:149/149
+4-Orias HP:122/252 MP:112/112
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Joker HP:531/597 MP:347/347
+2-Sarasvati HP:261/273 MP:264/264
+3-Patrimpas HP:67/155 MP:149/149
+4-Orias HP:122/252 MP:112/112
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Joker
+Joker recibe 24 de daño
+Joker termina con HP:507/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:261/273 MP:264/264
+C-Patrimpas HP:67/155 MP:149/149
+D-Orias HP:122/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:936/971 MP:527/527
+B-Murmur HP:472/511 MP:229/229
+C-Enku HP:144/235 MP:228/228
+D-Naga HP:171/199 MP:39/39
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Flynn
+3-Murmur
+4-Enku
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Joker HP:507/597 MP:347/347
+2-Sarasvati HP:261/273 MP:264/264
+3-Patrimpas HP:67/155 MP:149/149
+4-Orias HP:122/252 MP:112/112
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Naga ataca a Sarasvati
+Sarasvati recibe 12 de daño
+Sarasvati termina con HP:249/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:249/273 MP:264/264
+C-Patrimpas HP:67/155 MP:149/149
+D-Orias HP:122/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:936/971 MP:527/527
+B-Murmur HP:472/511 MP:229/229
+C-Enku HP:144/235 MP:228/228
+D-Naga HP:171/199 MP:39/39
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Sarasvati
+3-Orias
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:936/971 MP:527/527
+2-Murmur HP:472/511 MP:229/229
+3-Enku HP:144/235 MP:228/228
+4-Naga HP:171/199 MP:39/39
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Flynn
+Flynn recibe 39 de daño
+Flynn termina con HP:897/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:249/273 MP:264/264
+C-Patrimpas HP:67/155 MP:149/149
+D-Orias HP:122/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:472/511 MP:229/229
+C-Enku HP:144/235 MP:228/228
+D-Naga HP:171/199 MP:39/39
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Orias
+3-Patrimpas
+4-Joker
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Flynn HP:897/971 MP:527/527
+2-Murmur HP:472/511 MP:229/229
+3-Enku HP:144/235 MP:228/228
+4-Naga HP:171/199 MP:39/39
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Sarasvati ataca a Naga
+Naga recibe 28 de daño
+Naga termina con HP:143/199
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:249/273 MP:264/264
+C-Patrimpas HP:67/155 MP:149/149
+D-Orias HP:122/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:472/511 MP:229/229
+C-Enku HP:144/235 MP:228/228
+D-Naga HP:143/199 MP:39/39
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Patrimpas
+3-Joker
+4-Sarasvati
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Flynn HP:897/971 MP:527/527
+2-Murmur HP:472/511 MP:229/229
+3-Enku HP:144/235 MP:228/228
+4-Naga HP:143/199 MP:39/39
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Flynn HP:897/971 MP:527/527
+2-Murmur HP:472/511 MP:229/229
+3-Enku HP:144/235 MP:228/228
+4-Naga HP:143/199 MP:39/39
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Orias ataca a Enku
+Enku recibe 19 de daño
+Enku termina con HP:125/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:249/273 MP:264/264
+C-Patrimpas HP:67/155 MP:149/149
+D-Orias HP:122/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:472/511 MP:229/229
+C-Enku HP:125/235 MP:228/228
+D-Naga HP:143/199 MP:39/39
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patrimpas
+2-Joker
+3-Sarasvati
+4-Orias
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Flynn HP:897/971 MP:527/527
+2-Murmur HP:472/511 MP:229/229
+3-Enku HP:125/235 MP:228/228
+4-Naga HP:143/199 MP:39/39
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Patrimpas ataca a Murmur
+Murmur recibe 16 de daño
+Murmur termina con HP:456/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:249/273 MP:264/264
+C-Patrimpas HP:67/155 MP:149/149
+D-Orias HP:122/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:456/511 MP:229/229
+C-Enku HP:125/235 MP:228/228
+D-Naga HP:143/199 MP:39/39
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Murmur
+3-Enku
+4-Naga
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:507/597 MP:347/347
+2-Sarasvati HP:249/273 MP:264/264
+3-Patrimpas HP:67/155 MP:149/149
+4-Orias HP:122/252 MP:112/112
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:507/597 MP:347/347
+2-Sarasvati HP:249/273 MP:264/264
+3-Patrimpas HP:67/155 MP:149/149
+4-Orias HP:122/252 MP:112/112
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Sarasvati
+Sarasvati recibe 110 de daño
+Sarasvati termina con HP:139/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:139/273 MP:264/264
+C-Patrimpas HP:67/155 MP:149/149
+D-Orias HP:122/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:456/511 MP:229/229
+C-Enku HP:125/235 MP:228/228
+D-Naga HP:143/199 MP:39/39
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Enku
+3-Naga
+4-Flynn
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:507/597 MP:347/347
+2-Sarasvati HP:139/273 MP:264/264
+3-Patrimpas HP:67/155 MP:149/149
+4-Orias HP:122/252 MP:112/112
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Murmur ataca a Patrimpas
+Patrimpas recibe 42 de daño
+Patrimpas termina con HP:25/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:139/273 MP:264/264
+C-Patrimpas HP:25/155 MP:149/149
+D-Orias HP:122/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:456/511 MP:229/229
+C-Enku HP:125/235 MP:228/228
+D-Naga HP:143/199 MP:39/39
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Naga
+3-Flynn
+4-Murmur
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Joker HP:507/597 MP:347/347
+2-Sarasvati HP:139/273 MP:264/264
+3-Patrimpas HP:25/155 MP:149/149
+4-Orias HP:122/252 MP:112/112
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Joker HP:507/597 MP:347/347
+2-Sarasvati HP:139/273 MP:264/264
+3-Patrimpas HP:25/155 MP:149/149
+4-Orias HP:122/252 MP:112/112
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Enku ataca a Patrimpas
+Patrimpas recibe 24 de daño
+Patrimpas termina con HP:1/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:139/273 MP:264/264
+C-Patrimpas HP:1/155 MP:149/149
+D-Orias HP:122/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:456/511 MP:229/229
+C-Enku HP:125/235 MP:228/228
+D-Naga HP:143/199 MP:39/39
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Flynn
+3-Murmur
+4-Enku
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Joker HP:507/597 MP:347/347
+2-Sarasvati HP:139/273 MP:264/264
+3-Patrimpas HP:1/155 MP:149/149
+4-Orias HP:122/252 MP:112/112
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Naga ataca a Orias
+Orias recibe 12 de daño
+Orias termina con HP:110/252
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:139/273 MP:264/264
+C-Patrimpas HP:1/155 MP:149/149
+D-Orias HP:110/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:456/511 MP:229/229
+C-Enku HP:125/235 MP:228/228
+D-Naga HP:143/199 MP:39/39
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Sarasvati
+3-Orias
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:897/971 MP:527/527
+2-Murmur HP:456/511 MP:229/229
+3-Enku HP:125/235 MP:228/228
+4-Naga HP:143/199 MP:39/39
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker ataca a Naga
+Naga recibe 28 de daño
+Naga termina con HP:115/199
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:139/273 MP:264/264
+C-Patrimpas HP:1/155 MP:149/149
+D-Orias HP:110/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:456/511 MP:229/229
+C-Enku HP:125/235 MP:228/228
+D-Naga HP:115/199 MP:39/39
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Orias
+3-Patrimpas
+4-Joker
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Flynn HP:897/971 MP:527/527
+2-Murmur HP:456/511 MP:229/229
+3-Enku HP:125/235 MP:228/228
+4-Naga HP:115/199 MP:39/39
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Sarasvati ataca a Naga
+Naga recibe 28 de daño
+Naga termina con HP:87/199
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:139/273 MP:264/264
+C-Patrimpas HP:1/155 MP:149/149
+D-Orias HP:110/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:456/511 MP:229/229
+C-Enku HP:125/235 MP:228/228
+D-Naga HP:87/199 MP:39/39
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Patrimpas
+3-Joker
+4-Sarasvati
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Flynn HP:897/971 MP:527/527
+2-Murmur HP:456/511 MP:229/229
+3-Enku HP:125/235 MP:228/228
+4-Naga HP:87/199 MP:39/39
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Flynn HP:897/971 MP:527/527
+2-Murmur HP:456/511 MP:229/229
+3-Enku HP:125/235 MP:228/228
+4-Naga HP:87/199 MP:39/39
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Orias ataca a Enku
+Enku recibe 19 de daño
+Enku termina con HP:106/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:139/273 MP:264/264
+C-Patrimpas HP:1/155 MP:149/149
+D-Orias HP:110/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:456/511 MP:229/229
+C-Enku HP:106/235 MP:228/228
+D-Naga HP:87/199 MP:39/39
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patrimpas
+2-Joker
+3-Sarasvati
+4-Orias
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Flynn HP:897/971 MP:527/527
+2-Murmur HP:456/511 MP:229/229
+3-Enku HP:106/235 MP:228/228
+4-Naga HP:87/199 MP:39/39
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Patrimpas ataca a Naga
+Naga recibe 16 de daño
+Naga termina con HP:71/199
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:139/273 MP:264/264
+C-Patrimpas HP:1/155 MP:149/149
+D-Orias HP:110/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:456/511 MP:229/229
+C-Enku HP:106/235 MP:228/228
+D-Naga HP:71/199 MP:39/39
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Murmur
+3-Enku
+4-Naga
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:507/597 MP:347/347
+2-Sarasvati HP:139/273 MP:264/264
+3-Patrimpas HP:1/155 MP:149/149
+4-Orias HP:110/252 MP:112/112
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Patrimpas
+Patrimpas recibe 88 de daño
+Patrimpas termina con HP:0/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:139/273 MP:264/264
+C-
+D-Orias HP:110/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:456/511 MP:229/229
+C-Enku HP:106/235 MP:228/228
+D-Naga HP:71/199 MP:39/39
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Enku
+3-Naga
+4-Flynn
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:507/597 MP:347/347
+2-Sarasvati HP:139/273 MP:264/264
+3-Orias HP:110/252 MP:112/112
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Murmur ataca a Orias
+Orias recibe 42 de daño
+Orias termina con HP:68/252
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:139/273 MP:264/264
+C-
+D-Orias HP:68/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:456/511 MP:229/229
+C-Enku HP:106/235 MP:228/228
+D-Naga HP:71/199 MP:39/39
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Naga
+3-Flynn
+4-Murmur
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Joker HP:507/597 MP:347/347
+2-Sarasvati HP:139/273 MP:264/264
+3-Orias HP:68/252 MP:112/112
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Joker HP:507/597 MP:347/347
+2-Sarasvati HP:139/273 MP:264/264
+3-Orias HP:68/252 MP:112/112
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Enku ataca a Orias
+Orias recibe 24 de daño
+Orias termina con HP:44/252
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:139/273 MP:264/264
+C-
+D-Orias HP:44/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:456/511 MP:229/229
+C-Enku HP:106/235 MP:228/228
+D-Naga HP:71/199 MP:39/39
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Flynn
+3-Murmur
+4-Enku
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Joker HP:507/597 MP:347/347
+2-Sarasvati HP:139/273 MP:264/264
+3-Orias HP:44/252 MP:112/112
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Joker HP:507/597 MP:347/347
+2-Sarasvati HP:139/273 MP:264/264
+3-Orias HP:44/252 MP:112/112
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Naga ataca a Sarasvati
+Sarasvati recibe 12 de daño
+Sarasvati termina con HP:127/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:127/273 MP:264/264
+C-
+D-Orias HP:44/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:456/511 MP:229/229
+C-Enku HP:106/235 MP:228/228
+D-Naga HP:71/199 MP:39/39
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Sarasvati
+3-Orias
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:897/971 MP:527/527
+2-Murmur HP:456/511 MP:229/229
+3-Enku HP:106/235 MP:228/228
+4-Naga HP:71/199 MP:39/39
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:897/971 MP:527/527
+2-Murmur HP:456/511 MP:229/229
+3-Enku HP:106/235 MP:228/228
+4-Naga HP:71/199 MP:39/39
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Murmur
+Murmur recibe 39 de daño
+Murmur termina con HP:417/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:127/273 MP:264/264
+C-
+D-Orias HP:44/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:417/511 MP:229/229
+C-Enku HP:106/235 MP:228/228
+D-Naga HP:71/199 MP:39/39
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Orias
+3-Joker
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Flynn HP:897/971 MP:527/527
+2-Murmur HP:417/511 MP:229/229
+3-Enku HP:106/235 MP:228/228
+4-Naga HP:71/199 MP:39/39
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Sarasvati ataca a Naga
+Naga recibe 28 de daño
+Naga termina con HP:43/199
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:127/273 MP:264/264
+C-
+D-Orias HP:44/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:417/511 MP:229/229
+C-Enku HP:106/235 MP:228/228
+D-Naga HP:43/199 MP:39/39
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Joker
+3-Sarasvati
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Flynn HP:897/971 MP:527/527
+2-Murmur HP:417/511 MP:229/229
+3-Enku HP:106/235 MP:228/228
+4-Naga HP:43/199 MP:39/39
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Orias ataca a Enku
+Enku recibe 19 de daño
+Enku termina con HP:87/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Sarasvati HP:127/273 MP:264/264
+C-
+D-Orias HP:44/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:417/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:43/199 MP:39/39
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Murmur
+3-Enku
+4-Naga
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:507/597 MP:347/347
+2-Sarasvati HP:127/273 MP:264/264
+3-Orias HP:44/252 MP:112/112
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Joker
+Joker recibe 88 de daño
+Joker termina con HP:419/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:419/597 MP:347/347
+B-Sarasvati HP:127/273 MP:264/264
+C-
+D-Orias HP:44/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:417/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:43/199 MP:39/39
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Enku
+3-Naga
+4-Flynn
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:419/597 MP:347/347
+2-Sarasvati HP:127/273 MP:264/264
+3-Orias HP:44/252 MP:112/112
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Murmur ataca a Sarasvati
+Sarasvati recibe 42 de daño
+Sarasvati termina con HP:85/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:419/597 MP:347/347
+B-Sarasvati HP:85/273 MP:264/264
+C-
+D-Orias HP:44/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:417/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:43/199 MP:39/39
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Naga
+3-Flynn
+4-Murmur
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Joker HP:419/597 MP:347/347
+2-Sarasvati HP:85/273 MP:264/264
+3-Orias HP:44/252 MP:112/112
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Joker HP:419/597 MP:347/347
+2-Sarasvati HP:85/273 MP:264/264
+3-Orias HP:44/252 MP:112/112
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Enku ataca a Sarasvati
+Sarasvati recibe 24 de daño
+Sarasvati termina con HP:61/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:419/597 MP:347/347
+B-Sarasvati HP:61/273 MP:264/264
+C-
+D-Orias HP:44/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:417/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:43/199 MP:39/39
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Flynn
+3-Murmur
+4-Enku
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Joker HP:419/597 MP:347/347
+2-Sarasvati HP:61/273 MP:264/264
+3-Orias HP:44/252 MP:112/112
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Joker HP:419/597 MP:347/347
+2-Sarasvati HP:61/273 MP:264/264
+3-Orias HP:44/252 MP:112/112
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Naga ataca a Orias
+Orias recibe 12 de daño
+Orias termina con HP:32/252
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:419/597 MP:347/347
+B-Sarasvati HP:61/273 MP:264/264
+C-
+D-Orias HP:32/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:897/971 MP:527/527
+B-Murmur HP:417/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:43/199 MP:39/39
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Sarasvati
+3-Orias
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:897/971 MP:527/527
+2-Murmur HP:417/511 MP:229/229
+3-Enku HP:87/235 MP:228/228
+4-Naga HP:43/199 MP:39/39
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Flynn
+Flynn recibe 28 de daño
+Flynn termina con HP:869/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:419/597 MP:347/347
+B-Sarasvati HP:61/273 MP:264/264
+C-
+D-Orias HP:32/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:869/971 MP:527/527
+B-Murmur HP:417/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:43/199 MP:39/39
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Orias
+3-Joker
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Flynn HP:869/971 MP:527/527
+2-Murmur HP:417/511 MP:229/229
+3-Enku HP:87/235 MP:228/228
+4-Naga HP:43/199 MP:39/39
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Sarasvati ataca a Flynn
+Flynn recibe 28 de daño
+Flynn termina con HP:841/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:419/597 MP:347/347
+B-Sarasvati HP:61/273 MP:264/264
+C-
+D-Orias HP:32/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:841/971 MP:527/527
+B-Murmur HP:417/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:43/199 MP:39/39
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Joker
+3-Sarasvati
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Flynn HP:841/971 MP:527/527
+2-Murmur HP:417/511 MP:229/229
+3-Enku HP:87/235 MP:228/228
+4-Naga HP:43/199 MP:39/39
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Orias ataca a Murmur
+Murmur recibe 19 de daño
+Murmur termina con HP:398/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:419/597 MP:347/347
+B-Sarasvati HP:61/273 MP:264/264
+C-
+D-Orias HP:32/252 MP:112/112
+Equipo de Flynn (J2)
+A-Flynn HP:841/971 MP:527/527
+B-Murmur HP:398/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:43/199 MP:39/39
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Murmur
+3-Enku
+4-Naga
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:419/597 MP:347/347
+2-Sarasvati HP:61/273 MP:264/264
+3-Orias HP:32/252 MP:112/112
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Orias
+Orias recibe 88 de daño
+Orias termina con HP:0/252
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:419/597 MP:347/347
+B-Sarasvati HP:61/273 MP:264/264
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:841/971 MP:527/527
+B-Murmur HP:398/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:43/199 MP:39/39
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Enku
+3-Naga
+4-Flynn
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:419/597 MP:347/347
+2-Sarasvati HP:61/273 MP:264/264
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Murmur ataca a Joker
+Joker recibe 42 de daño
+Joker termina con HP:377/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:377/597 MP:347/347
+B-Sarasvati HP:61/273 MP:264/264
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:841/971 MP:527/527
+B-Murmur HP:398/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:43/199 MP:39/39
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Naga
+3-Flynn
+4-Murmur
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Joker HP:377/597 MP:347/347
+2-Sarasvati HP:61/273 MP:264/264
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Joker
+Joker recibe 24 de daño
+Joker termina con HP:353/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:353/597 MP:347/347
+B-Sarasvati HP:61/273 MP:264/264
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:841/971 MP:527/527
+B-Murmur HP:398/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:43/199 MP:39/39
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Flynn
+3-Murmur
+4-Enku
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Joker HP:353/597 MP:347/347
+2-Sarasvati HP:61/273 MP:264/264
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ataca a Joker
+Joker recibe 12 de daño
+Joker termina con HP:341/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:341/597 MP:347/347
+B-Sarasvati HP:61/273 MP:264/264
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:841/971 MP:527/527
+B-Murmur HP:398/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:43/199 MP:39/39
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Sarasvati
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:841/971 MP:527/527
+2-Murmur HP:398/511 MP:229/229
+3-Enku HP:87/235 MP:228/228
+4-Naga HP:43/199 MP:39/39
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker ataca a Naga
+Naga recibe 28 de daño
+Naga termina con HP:15/199
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:341/597 MP:347/347
+B-Sarasvati HP:61/273 MP:264/264
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:841/971 MP:527/527
+B-Murmur HP:398/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:15/199 MP:39/39
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Joker
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Flynn HP:841/971 MP:527/527
+2-Murmur HP:398/511 MP:229/229
+3-Enku HP:87/235 MP:228/228
+4-Naga HP:15/199 MP:39/39
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Sarasvati ataca a Flynn
+Flynn recibe 28 de daño
+Flynn termina con HP:813/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:341/597 MP:347/347
+B-Sarasvati HP:61/273 MP:264/264
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Murmur HP:398/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:15/199 MP:39/39
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Murmur
+3-Enku
+4-Naga
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:341/597 MP:347/347
+2-Sarasvati HP:61/273 MP:264/264
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Joker
+Joker recibe 110 de daño
+Joker termina con HP:231/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:231/597 MP:347/347
+B-Sarasvati HP:61/273 MP:264/264
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Murmur HP:398/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:15/199 MP:39/39
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Enku
+3-Naga
+4-Flynn
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:231/597 MP:347/347
+2-Sarasvati HP:61/273 MP:264/264
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:231/597 MP:347/347
+2-Sarasvati HP:61/273 MP:264/264
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Murmur ataca a Sarasvati
+Sarasvati recibe 42 de daño
+Sarasvati termina con HP:19/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:231/597 MP:347/347
+B-Sarasvati HP:19/273 MP:264/264
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Murmur HP:398/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:15/199 MP:39/39
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Naga
+3-Flynn
+4-Murmur
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Joker HP:231/597 MP:347/347
+2-Sarasvati HP:19/273 MP:264/264
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Enku ataca a Sarasvati
+Sarasvati recibe 24 de daño
+Sarasvati termina con HP:0/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:231/597 MP:347/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Murmur HP:398/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:15/199 MP:39/39
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Flynn
+3-Murmur
+4-Enku
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Joker HP:231/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Joker HP:231/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Joker HP:231/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ataca a Joker
+Joker recibe 12 de daño
+Joker termina con HP:219/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:219/597 MP:347/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Murmur HP:398/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:15/199 MP:39/39
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:813/971 MP:527/527
+2-Murmur HP:398/511 MP:229/229
+3-Enku HP:87/235 MP:228/228
+4-Naga HP:15/199 MP:39/39
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Murmur
+Murmur recibe 39 de daño
+Murmur termina con HP:359/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:219/597 MP:347/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Murmur HP:359/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:15/199 MP:39/39
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Murmur
+3-Enku
+4-Naga
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:219/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Joker
+Joker recibe 110 de daño
+Joker termina con HP:109/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:109/597 MP:347/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Murmur HP:359/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:15/199 MP:39/39
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Enku
+3-Naga
+4-Flynn
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:109/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Murmur ataca a Joker
+Joker recibe 42 de daño
+Joker termina con HP:67/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:67/597 MP:347/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Murmur HP:359/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:15/199 MP:39/39
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Naga
+3-Flynn
+4-Murmur
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Joker HP:67/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Joker HP:67/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Joker HP:67/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Joker
+Joker recibe 24 de daño
+Joker termina con HP:43/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:43/597 MP:347/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Murmur HP:359/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:15/199 MP:39/39
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Flynn
+3-Murmur
+4-Enku
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Joker HP:43/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Joker HP:43/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ataca a Joker
+Joker recibe 12 de daño
+Joker termina con HP:31/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:31/597 MP:347/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Murmur HP:359/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:15/199 MP:39/39
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:813/971 MP:527/527
+2-Murmur HP:359/511 MP:229/229
+3-Enku HP:87/235 MP:228/228
+4-Naga HP:15/199 MP:39/39
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Flynn
+Flynn recibe 28 de daño
+Flynn termina con HP:785/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:31/597 MP:347/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:785/971 MP:527/527
+B-Murmur HP:359/511 MP:229/229
+C-Enku HP:87/235 MP:228/228
+D-Naga HP:15/199 MP:39/39
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Murmur
+3-Enku
+4-Naga
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:31/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Joker
+Joker recibe 110 de daño
+Joker termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Flynn (J2)

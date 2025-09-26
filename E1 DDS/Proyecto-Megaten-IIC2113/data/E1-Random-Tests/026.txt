@@ -1,0 +1,3236 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 25
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Lord Nan Dou HP:549/549 MP:108/108
+C-Pachacamac HP:287/287 MP:278/278
+D-Atropos HP:277/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Sedna HP:350/350 MP:68/68
+C-Mithras HP:293/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nahobino
+3-Pachacamac
+4-Atropos
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Itsuki HP:1136/1136 MP:413/413
+2-Sedna HP:350/350 MP:68/68
+3-Mithras HP:293/293 MP:58/58
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lord Nan Dou ataca a Mithras
+Mithras recibe 41 de daño
+Mithras termina con HP:252/293
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Lord Nan Dou HP:549/549 MP:108/108
+C-Pachacamac HP:287/287 MP:278/278
+D-Atropos HP:277/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Sedna HP:350/350 MP:68/68
+C-Mithras HP:252/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Atropos
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1136/1136 MP:413/413
+2-Sedna HP:350/350 MP:68/68
+3-Mithras HP:252/293 MP:58/58
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1136/1136 MP:413/413
+2-Sedna HP:350/350 MP:68/68
+3-Mithras HP:252/293 MP:58/58
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino dispara a Mithras
+Mithras recibe 83 de daño
+Mithras termina con HP:169/293
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Lord Nan Dou HP:549/549 MP:108/108
+C-Pachacamac HP:287/287 MP:278/278
+D-Atropos HP:277/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Sedna HP:350/350 MP:68/68
+C-Mithras HP:169/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Atropos
+3-Lord Nan Dou
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Itsuki HP:1136/1136 MP:413/413
+2-Sedna HP:350/350 MP:68/68
+3-Mithras HP:169/293 MP:58/58
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Pachacamac ataca a Mithras
+Mithras recibe 30 de daño
+Mithras termina con HP:139/293
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Lord Nan Dou HP:549/549 MP:108/108
+C-Pachacamac HP:287/287 MP:278/278
+D-Atropos HP:277/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Sedna HP:350/350 MP:68/68
+C-Mithras HP:139/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Lord Nan Dou
+3-Nahobino
+4-Pachacamac
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Itsuki HP:1136/1136 MP:413/413
+2-Sedna HP:350/350 MP:68/68
+3-Mithras HP:139/293 MP:58/58
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Atropos ataca a Sedna
+Sedna recibe 29 de daño
+Sedna termina con HP:321/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Lord Nan Dou HP:549/549 MP:108/108
+C-Pachacamac HP:287/287 MP:278/278
+D-Atropos HP:277/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Sedna HP:321/350 MP:68/68
+C-Mithras HP:139/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sedna
+3-Mithras
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:453/453 MP:389/389
+2-Lord Nan Dou HP:549/549 MP:108/108
+3-Pachacamac HP:287/287 MP:278/278
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Pachacamac
+Pachacamac recibe 61 de daño
+Pachacamac termina con HP:226/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Lord Nan Dou HP:549/549 MP:108/108
+C-Pachacamac HP:226/287 MP:278/278
+D-Atropos HP:277/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Sedna HP:321/350 MP:68/68
+C-Mithras HP:139/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Mithras
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Nahobino HP:453/453 MP:389/389
+2-Lord Nan Dou HP:549/549 MP:108/108
+3-Pachacamac HP:226/287 MP:278/278
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Sedna ataca a Atropos
+Atropos recibe 25 de daño
+Atropos termina con HP:252/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Lord Nan Dou HP:549/549 MP:108/108
+C-Pachacamac HP:226/287 MP:278/278
+D-Atropos HP:252/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Sedna HP:321/350 MP:68/68
+C-Mithras HP:139/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithras
+2-Itsuki
+3-Sedna
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mithras
+1-Nahobino HP:453/453 MP:389/389
+2-Lord Nan Dou HP:549/549 MP:108/108
+3-Pachacamac HP:226/287 MP:278/278
+4-Atropos HP:252/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Mithras ataca a Lord Nan Dou
+Lord Nan Dou recibe 20 de daño
+Lord Nan Dou termina con HP:529/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Lord Nan Dou HP:529/549 MP:108/108
+C-Pachacamac HP:226/287 MP:278/278
+D-Atropos HP:252/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Sedna HP:321/350 MP:68/68
+C-Mithras HP:139/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nahobino
+3-Pachacamac
+4-Atropos
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Itsuki HP:1136/1136 MP:413/413
+2-Sedna HP:321/350 MP:68/68
+3-Mithras HP:139/293 MP:58/58
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Lord Nan Dou ataca a Sedna
+Sedna recibe 41 de daño
+Sedna termina con HP:280/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Lord Nan Dou HP:529/549 MP:108/108
+C-Pachacamac HP:226/287 MP:278/278
+D-Atropos HP:252/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Sedna HP:280/350 MP:68/68
+C-Mithras HP:139/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Atropos
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1136/1136 MP:413/413
+2-Sedna HP:280/350 MP:68/68
+3-Mithras HP:139/293 MP:58/58
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1136/1136 MP:413/413
+2-Sedna HP:280/350 MP:68/68
+3-Mithras HP:139/293 MP:58/58
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:1107/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Lord Nan Dou HP:529/549 MP:108/108
+C-Pachacamac HP:226/287 MP:278/278
+D-Atropos HP:252/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:1107/1136 MP:413/413
+B-Sedna HP:280/350 MP:68/68
+C-Mithras HP:139/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Atropos
+3-Lord Nan Dou
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Itsuki HP:1107/1136 MP:413/413
+2-Sedna HP:280/350 MP:68/68
+3-Mithras HP:139/293 MP:58/58
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Pachacamac ataca a Sedna
+Sedna recibe 30 de daño
+Sedna termina con HP:250/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Lord Nan Dou HP:529/549 MP:108/108
+C-Pachacamac HP:226/287 MP:278/278
+D-Atropos HP:252/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:1107/1136 MP:413/413
+B-Sedna HP:250/350 MP:68/68
+C-Mithras HP:139/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Lord Nan Dou
+3-Nahobino
+4-Pachacamac
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Itsuki HP:1107/1136 MP:413/413
+2-Sedna HP:250/350 MP:68/68
+3-Mithras HP:139/293 MP:58/58
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Itsuki HP:1107/1136 MP:413/413
+2-Sedna HP:250/350 MP:68/68
+3-Mithras HP:139/293 MP:58/58
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Atropos ataca a Sedna
+Sedna recibe 29 de daño
+Sedna termina con HP:221/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Lord Nan Dou HP:529/549 MP:108/108
+C-Pachacamac HP:226/287 MP:278/278
+D-Atropos HP:252/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:1107/1136 MP:413/413
+B-Sedna HP:221/350 MP:68/68
+C-Mithras HP:139/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sedna
+3-Mithras
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:453/453 MP:389/389
+2-Lord Nan Dou HP:529/549 MP:108/108
+3-Pachacamac HP:226/287 MP:278/278
+4-Atropos HP:252/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Lord Nan Dou
+Lord Nan Dou recibe 61 de daño
+Lord Nan Dou termina con HP:468/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:226/287 MP:278/278
+D-Atropos HP:252/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:1107/1136 MP:413/413
+B-Sedna HP:221/350 MP:68/68
+C-Mithras HP:139/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Mithras
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Nahobino HP:453/453 MP:389/389
+2-Lord Nan Dou HP:468/549 MP:108/108
+3-Pachacamac HP:226/287 MP:278/278
+4-Atropos HP:252/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Sedna ataca a Nahobino
+Nahobino recibe 25 de daño
+Nahobino termina con HP:428/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:428/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:226/287 MP:278/278
+D-Atropos HP:252/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:1107/1136 MP:413/413
+B-Sedna HP:221/350 MP:68/68
+C-Mithras HP:139/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithras
+2-Itsuki
+3-Sedna
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mithras
+1-Nahobino HP:428/453 MP:389/389
+2-Lord Nan Dou HP:468/549 MP:108/108
+3-Pachacamac HP:226/287 MP:278/278
+4-Atropos HP:252/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Mithras ataca a Pachacamac
+Pachacamac recibe 20 de daño
+Pachacamac termina con HP:206/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:428/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:206/287 MP:278/278
+D-Atropos HP:252/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:1107/1136 MP:413/413
+B-Sedna HP:221/350 MP:68/68
+C-Mithras HP:139/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nahobino
+3-Pachacamac
+4-Atropos
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Itsuki HP:1107/1136 MP:413/413
+2-Sedna HP:221/350 MP:68/68
+3-Mithras HP:139/293 MP:58/58
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lord Nan Dou ataca a Mithras
+Mithras recibe 41 de daño
+Mithras termina con HP:98/293
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:428/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:206/287 MP:278/278
+D-Atropos HP:252/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:1107/1136 MP:413/413
+B-Sedna HP:221/350 MP:68/68
+C-Mithras HP:98/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Atropos
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1107/1136 MP:413/413
+2-Sedna HP:221/350 MP:68/68
+3-Mithras HP:98/293 MP:58/58
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:1024/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:428/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:206/287 MP:278/278
+D-Atropos HP:252/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:1024/1136 MP:413/413
+B-Sedna HP:221/350 MP:68/68
+C-Mithras HP:98/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Atropos
+3-Lord Nan Dou
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Itsuki HP:1024/1136 MP:413/413
+2-Sedna HP:221/350 MP:68/68
+3-Mithras HP:98/293 MP:58/58
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pachacamac ataca a Itsuki
+Itsuki recibe 30 de daño
+Itsuki termina con HP:994/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:428/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:206/287 MP:278/278
+D-Atropos HP:252/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:994/1136 MP:413/413
+B-Sedna HP:221/350 MP:68/68
+C-Mithras HP:98/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Lord Nan Dou
+3-Nahobino
+4-Pachacamac
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Itsuki HP:994/1136 MP:413/413
+2-Sedna HP:221/350 MP:68/68
+3-Mithras HP:98/293 MP:58/58
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:965/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:428/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:206/287 MP:278/278
+D-Atropos HP:252/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:965/1136 MP:413/413
+B-Sedna HP:221/350 MP:68/68
+C-Mithras HP:98/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sedna
+3-Mithras
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:428/453 MP:389/389
+2-Lord Nan Dou HP:468/549 MP:108/108
+3-Pachacamac HP:206/287 MP:278/278
+4-Atropos HP:252/277 MP:269/269
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Atropos
+Atropos recibe 61 de daño
+Atropos termina con HP:191/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:428/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:206/287 MP:278/278
+D-Atropos HP:191/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:965/1136 MP:413/413
+B-Sedna HP:221/350 MP:68/68
+C-Mithras HP:98/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Mithras
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Nahobino HP:428/453 MP:389/389
+2-Lord Nan Dou HP:468/549 MP:108/108
+3-Pachacamac HP:206/287 MP:278/278
+4-Atropos HP:191/277 MP:269/269
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Nahobino HP:428/453 MP:389/389
+2-Lord Nan Dou HP:468/549 MP:108/108
+3-Pachacamac HP:206/287 MP:278/278
+4-Atropos HP:191/277 MP:269/269
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Sedna ataca a Atropos
+Atropos recibe 25 de daño
+Atropos termina con HP:166/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:428/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:206/287 MP:278/278
+D-Atropos HP:166/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:965/1136 MP:413/413
+B-Sedna HP:221/350 MP:68/68
+C-Mithras HP:98/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithras
+2-Itsuki
+3-Sedna
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mithras
+1-Nahobino HP:428/453 MP:389/389
+2-Lord Nan Dou HP:468/549 MP:108/108
+3-Pachacamac HP:206/287 MP:278/278
+4-Atropos HP:166/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Mithras ataca a Nahobino
+Nahobino recibe 20 de daño
+Nahobino termina con HP:408/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:408/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:206/287 MP:278/278
+D-Atropos HP:166/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:965/1136 MP:413/413
+B-Sedna HP:221/350 MP:68/68
+C-Mithras HP:98/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nahobino
+3-Pachacamac
+4-Atropos
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Itsuki HP:965/1136 MP:413/413
+2-Sedna HP:221/350 MP:68/68
+3-Mithras HP:98/293 MP:58/58
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Lord Nan Dou ataca a Sedna
+Sedna recibe 41 de daño
+Sedna termina con HP:180/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:408/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:206/287 MP:278/278
+D-Atropos HP:166/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:965/1136 MP:413/413
+B-Sedna HP:180/350 MP:68/68
+C-Mithras HP:98/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Atropos
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:965/1136 MP:413/413
+2-Sedna HP:180/350 MP:68/68
+3-Mithras HP:98/293 MP:58/58
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Mithras
+Mithras recibe 29 de daño
+Mithras termina con HP:69/293
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:408/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:206/287 MP:278/278
+D-Atropos HP:166/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:965/1136 MP:413/413
+B-Sedna HP:180/350 MP:68/68
+C-Mithras HP:69/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Atropos
+3-Lord Nan Dou
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Itsuki HP:965/1136 MP:413/413
+2-Sedna HP:180/350 MP:68/68
+3-Mithras HP:69/293 MP:58/58
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pachacamac ataca a Itsuki
+Itsuki recibe 30 de daño
+Itsuki termina con HP:935/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:408/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:206/287 MP:278/278
+D-Atropos HP:166/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:935/1136 MP:413/413
+B-Sedna HP:180/350 MP:68/68
+C-Mithras HP:69/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Lord Nan Dou
+3-Nahobino
+4-Pachacamac
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Itsuki HP:935/1136 MP:413/413
+2-Sedna HP:180/350 MP:68/68
+3-Mithras HP:69/293 MP:58/58
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Itsuki HP:935/1136 MP:413/413
+2-Sedna HP:180/350 MP:68/68
+3-Mithras HP:69/293 MP:58/58
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Atropos ataca a Mithras
+Mithras recibe 29 de daño
+Mithras termina con HP:40/293
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:408/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:206/287 MP:278/278
+D-Atropos HP:166/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:935/1136 MP:413/413
+B-Sedna HP:180/350 MP:68/68
+C-Mithras HP:40/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sedna
+3-Mithras
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:408/453 MP:389/389
+2-Lord Nan Dou HP:468/549 MP:108/108
+3-Pachacamac HP:206/287 MP:278/278
+4-Atropos HP:166/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Nahobino
+Nahobino recibe 61 de daño
+Nahobino termina con HP:347/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:347/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:206/287 MP:278/278
+D-Atropos HP:166/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:935/1136 MP:413/413
+B-Sedna HP:180/350 MP:68/68
+C-Mithras HP:40/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Mithras
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Nahobino HP:347/453 MP:389/389
+2-Lord Nan Dou HP:468/549 MP:108/108
+3-Pachacamac HP:206/287 MP:278/278
+4-Atropos HP:166/277 MP:269/269
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Nahobino HP:347/453 MP:389/389
+2-Lord Nan Dou HP:468/549 MP:108/108
+3-Pachacamac HP:206/287 MP:278/278
+4-Atropos HP:166/277 MP:269/269
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Nahobino HP:347/453 MP:389/389
+2-Lord Nan Dou HP:468/549 MP:108/108
+3-Pachacamac HP:206/287 MP:278/278
+4-Atropos HP:166/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Sedna ataca a Pachacamac
+Pachacamac recibe 25 de daño
+Pachacamac termina con HP:181/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:347/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:181/287 MP:278/278
+D-Atropos HP:166/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:935/1136 MP:413/413
+B-Sedna HP:180/350 MP:68/68
+C-Mithras HP:40/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithras
+2-Itsuki
+3-Sedna
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mithras
+1-Nahobino HP:347/453 MP:389/389
+2-Lord Nan Dou HP:468/549 MP:108/108
+3-Pachacamac HP:181/287 MP:278/278
+4-Atropos HP:166/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Mithras ataca a Pachacamac
+Pachacamac recibe 20 de daño
+Pachacamac termina con HP:161/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:347/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:161/287 MP:278/278
+D-Atropos HP:166/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:935/1136 MP:413/413
+B-Sedna HP:180/350 MP:68/68
+C-Mithras HP:40/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nahobino
+3-Pachacamac
+4-Atropos
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Itsuki HP:935/1136 MP:413/413
+2-Sedna HP:180/350 MP:68/68
+3-Mithras HP:40/293 MP:58/58
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lord Nan Dou ataca a Mithras
+Mithras recibe 41 de daño
+Mithras termina con HP:0/293
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:347/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:161/287 MP:278/278
+D-Atropos HP:166/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:935/1136 MP:413/413
+B-Sedna HP:180/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Atropos
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:935/1136 MP:413/413
+2-Sedna HP:180/350 MP:68/68
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:852/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:347/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:161/287 MP:278/278
+D-Atropos HP:166/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:852/1136 MP:413/413
+B-Sedna HP:180/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Atropos
+3-Lord Nan Dou
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Itsuki HP:852/1136 MP:413/413
+2-Sedna HP:180/350 MP:68/68
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Itsuki HP:852/1136 MP:413/413
+2-Sedna HP:180/350 MP:68/68
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Itsuki HP:852/1136 MP:413/413
+2-Sedna HP:180/350 MP:68/68
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pachacamac ataca a Sedna
+Sedna recibe 30 de daño
+Sedna termina con HP:150/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:347/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:161/287 MP:278/278
+D-Atropos HP:166/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:852/1136 MP:413/413
+B-Sedna HP:150/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Lord Nan Dou
+3-Nahobino
+4-Pachacamac
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Itsuki HP:852/1136 MP:413/413
+2-Sedna HP:150/350 MP:68/68
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:823/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:347/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:161/287 MP:278/278
+D-Atropos HP:166/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:823/1136 MP:413/413
+B-Sedna HP:150/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sedna
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:347/453 MP:389/389
+2-Lord Nan Dou HP:468/549 MP:108/108
+3-Pachacamac HP:161/287 MP:278/278
+4-Atropos HP:166/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Pachacamac
+Pachacamac recibe 45 de daño
+Pachacamac termina con HP:116/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:347/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:166/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:823/1136 MP:413/413
+B-Sedna HP:150/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Nahobino HP:347/453 MP:389/389
+2-Lord Nan Dou HP:468/549 MP:108/108
+3-Pachacamac HP:116/287 MP:278/278
+4-Atropos HP:166/277 MP:269/269
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Sedna ataca a Atropos
+Atropos recibe 25 de daño
+Atropos termina con HP:141/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:347/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:823/1136 MP:413/413
+B-Sedna HP:150/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nahobino
+3-Pachacamac
+4-Atropos
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Itsuki HP:823/1136 MP:413/413
+2-Sedna HP:150/350 MP:68/68
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Itsuki HP:823/1136 MP:413/413
+2-Sedna HP:150/350 MP:68/68
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Lord Nan Dou ataca a Sedna
+Sedna recibe 41 de daño
+Sedna termina con HP:109/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:347/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:823/1136 MP:413/413
+B-Sedna HP:109/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Atropos
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:823/1136 MP:413/413
+2-Sedna HP:109/350 MP:68/68
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:794/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:347/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:794/1136 MP:413/413
+B-Sedna HP:109/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Atropos
+3-Lord Nan Dou
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Itsuki HP:794/1136 MP:413/413
+2-Sedna HP:109/350 MP:68/68
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pachacamac ataca a Itsuki
+Itsuki recibe 30 de daño
+Itsuki termina con HP:764/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:347/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:764/1136 MP:413/413
+B-Sedna HP:109/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Lord Nan Dou
+3-Nahobino
+4-Pachacamac
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Itsuki HP:764/1136 MP:413/413
+2-Sedna HP:109/350 MP:68/68
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:735/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:347/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:735/1136 MP:413/413
+B-Sedna HP:109/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sedna
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:347/453 MP:389/389
+2-Lord Nan Dou HP:468/549 MP:108/108
+3-Pachacamac HP:116/287 MP:278/278
+4-Atropos HP:141/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Nahobino
+Nahobino recibe 45 de daño
+Nahobino termina con HP:302/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:302/453 MP:389/389
+B-Lord Nan Dou HP:468/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:735/1136 MP:413/413
+B-Sedna HP:109/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Nahobino HP:302/453 MP:389/389
+2-Lord Nan Dou HP:468/549 MP:108/108
+3-Pachacamac HP:116/287 MP:278/278
+4-Atropos HP:141/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Sedna ataca a Lord Nan Dou
+Lord Nan Dou recibe 25 de daño
+Lord Nan Dou termina con HP:443/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:302/453 MP:389/389
+B-Lord Nan Dou HP:443/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:735/1136 MP:413/413
+B-Sedna HP:109/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nahobino
+3-Pachacamac
+4-Atropos
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Itsuki HP:735/1136 MP:413/413
+2-Sedna HP:109/350 MP:68/68
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Lord Nan Dou ataca a Sedna
+Sedna recibe 41 de daño
+Sedna termina con HP:68/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:302/453 MP:389/389
+B-Lord Nan Dou HP:443/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:735/1136 MP:413/413
+B-Sedna HP:68/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Atropos
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:735/1136 MP:413/413
+2-Sedna HP:68/350 MP:68/68
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca a Sedna
+Sedna recibe 29 de daño
+Sedna termina con HP:39/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:302/453 MP:389/389
+B-Lord Nan Dou HP:443/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:735/1136 MP:413/413
+B-Sedna HP:39/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Atropos
+3-Lord Nan Dou
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Itsuki HP:735/1136 MP:413/413
+2-Sedna HP:39/350 MP:68/68
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Itsuki HP:735/1136 MP:413/413
+2-Sedna HP:39/350 MP:68/68
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pachacamac ataca a Sedna
+Sedna recibe 30 de daño
+Sedna termina con HP:9/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:302/453 MP:389/389
+B-Lord Nan Dou HP:443/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:735/1136 MP:413/413
+B-Sedna HP:9/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Lord Nan Dou
+3-Nahobino
+4-Pachacamac
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Itsuki HP:735/1136 MP:413/413
+2-Sedna HP:9/350 MP:68/68
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Itsuki HP:735/1136 MP:413/413
+2-Sedna HP:9/350 MP:68/68
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Atropos ataca a Sedna
+Sedna recibe 29 de daño
+Sedna termina con HP:0/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:302/453 MP:389/389
+B-Lord Nan Dou HP:443/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:735/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:302/453 MP:389/389
+2-Lord Nan Dou HP:443/549 MP:108/108
+3-Pachacamac HP:116/287 MP:278/278
+4-Atropos HP:141/277 MP:269/269
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:302/453 MP:389/389
+2-Lord Nan Dou HP:443/549 MP:108/108
+3-Pachacamac HP:116/287 MP:278/278
+4-Atropos HP:141/277 MP:269/269
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:302/453 MP:389/389
+2-Lord Nan Dou HP:443/549 MP:108/108
+3-Pachacamac HP:116/287 MP:278/278
+4-Atropos HP:141/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Nahobino
+Nahobino recibe 45 de daño
+Nahobino termina con HP:257/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:443/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:735/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nahobino
+3-Pachacamac
+4-Atropos
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Itsuki HP:735/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Itsuki HP:735/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Itsuki HP:735/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:694/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:443/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:694/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Atropos
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:694/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:611/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:443/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:611/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Atropos
+3-Lord Nan Dou
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Itsuki HP:611/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Itsuki HP:611/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Itsuki HP:611/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pachacamac ataca a Itsuki
+Itsuki recibe 30 de daño
+Itsuki termina con HP:581/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:443/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:581/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Lord Nan Dou
+3-Nahobino
+4-Pachacamac
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Itsuki HP:581/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Itsuki HP:581/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:552/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:443/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:552/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:257/453 MP:389/389
+2-Lord Nan Dou HP:443/549 MP:108/108
+3-Pachacamac HP:116/287 MP:278/278
+4-Atropos HP:141/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Lord Nan Dou
+Lord Nan Dou recibe 45 de daño
+Lord Nan Dou termina con HP:398/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:398/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:552/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nahobino
+3-Pachacamac
+4-Atropos
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Itsuki HP:552/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:511/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:398/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:511/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Atropos
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:511/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:511/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:482/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:398/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:482/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Atropos
+3-Lord Nan Dou
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Itsuki HP:482/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pachacamac ataca a Itsuki
+Itsuki recibe 30 de daño
+Itsuki termina con HP:452/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:398/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:452/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Lord Nan Dou
+3-Nahobino
+4-Pachacamac
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Itsuki HP:452/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:423/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:398/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:423/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:257/453 MP:389/389
+2-Lord Nan Dou HP:398/549 MP:108/108
+3-Pachacamac HP:116/287 MP:278/278
+4-Atropos HP:141/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Lord Nan Dou
+Lord Nan Dou recibe 61 de daño
+Lord Nan Dou termina con HP:337/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:337/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:423/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nahobino
+3-Pachacamac
+4-Atropos
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Itsuki HP:423/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:382/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:337/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:382/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Atropos
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:382/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:382/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:299/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:337/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:299/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Atropos
+3-Lord Nan Dou
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Itsuki HP:299/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pachacamac ataca a Itsuki
+Itsuki recibe 30 de daño
+Itsuki termina con HP:269/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:337/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:269/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Lord Nan Dou
+3-Nahobino
+4-Pachacamac
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Itsuki HP:269/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:240/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:337/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:240/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:257/453 MP:389/389
+2-Lord Nan Dou HP:337/549 MP:108/108
+3-Pachacamac HP:116/287 MP:278/278
+4-Atropos HP:141/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Lord Nan Dou
+Lord Nan Dou recibe 45 de daño
+Lord Nan Dou termina con HP:292/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:292/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:240/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nahobino
+3-Pachacamac
+4-Atropos
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Itsuki HP:240/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Itsuki HP:240/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:199/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:292/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:199/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Atropos
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:199/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:199/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:116/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:292/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:116/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Atropos
+3-Lord Nan Dou
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Itsuki HP:116/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Itsuki HP:116/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Itsuki HP:116/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pachacamac ataca a Itsuki
+Itsuki recibe 30 de daño
+Itsuki termina con HP:86/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:292/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:86/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Lord Nan Dou
+3-Nahobino
+4-Pachacamac
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Itsuki HP:86/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Itsuki HP:86/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:57/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:257/453 MP:389/389
+B-Lord Nan Dou HP:292/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:57/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:257/453 MP:389/389
+2-Lord Nan Dou HP:292/549 MP:108/108
+3-Pachacamac HP:116/287 MP:278/278
+4-Atropos HP:141/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Nahobino
+Nahobino recibe 45 de daño
+Nahobino termina con HP:212/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:212/453 MP:389/389
+B-Lord Nan Dou HP:292/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:57/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nahobino
+3-Pachacamac
+4-Atropos
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Itsuki HP:57/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:16/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:212/453 MP:389/389
+B-Lord Nan Dou HP:292/549 MP:108/108
+C-Pachacamac HP:116/287 MP:278/278
+D-Atropos HP:141/277 MP:269/269
+Equipo de Itsuki (J2)
+A-Itsuki HP:16/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Atropos
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:16/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:0/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Nahobino (J1)

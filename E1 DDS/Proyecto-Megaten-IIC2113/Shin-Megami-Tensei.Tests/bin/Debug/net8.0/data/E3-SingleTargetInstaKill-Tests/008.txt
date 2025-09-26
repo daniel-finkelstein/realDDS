@@ -1,0 +1,186 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+INPUT: 7
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Mou-Ryo HP:238/238 MP:107/107
+C-Churel HP:197/197 MP:190/190
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Mastema HP:399/399 MP:387/387
+C-Yomotsu-Ikusa HP:445/445 MP:88/88
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Mou-Ryo
+3-Churel
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Mudoon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Makoto HP:597/597 MP:347/347
+2-Mastema HP:399/399 MP:387/387
+3-Yomotsu-Ikusa HP:445/445 MP:88/88
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph ataca con oscuridad a Mastema
+Mastema es resistente el ataque de Aleph
+Mastema ha sido eliminado
+Mastema termina con HP:0/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:603/613
+B-Mou-Ryo HP:238/238 MP:107/107
+C-Churel HP:197/197 MP:190/190
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-
+C-Yomotsu-Ikusa HP:445/445 MP:88/88
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Churel
+3-Aleph
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mou-Ryo use
+1-Mudo MP:6
+2-Spirit Drain MP:5
+3-Pulinpa MP:5
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Makoto HP:597/597 MP:347/347
+2-Yomotsu-Ikusa HP:445/445 MP:88/88
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mou-Ryo ataca con oscuridad a Makoto
+Mou-Ryo ha fallado el ataque
+Makoto termina con HP:597/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:603/613
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Churel HP:197/197 MP:190/190
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-
+C-Yomotsu-Ikusa HP:445/445 MP:88/88
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Churel
+2-Aleph
+3-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Churel use
+1-Energy Drain MP:10
+2-Shibaboo MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Makoto HP:597/597 MP:347/347
+2-Yomotsu-Ikusa HP:445/445 MP:88/88
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Churel ataca con oscuridad a Yomotsu-Ikusa
+Yomotsu-Ikusa es resistente el ataque de Churel
+Yomotsu-Ikusa ha sido eliminado
+Yomotsu-Ikusa termina con HP:0/445
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:603/613
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Churel HP:197/197 MP:180/190
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Makoto (J2) se rinde
+----------------------------------------
+Ganador: Aleph (J1)

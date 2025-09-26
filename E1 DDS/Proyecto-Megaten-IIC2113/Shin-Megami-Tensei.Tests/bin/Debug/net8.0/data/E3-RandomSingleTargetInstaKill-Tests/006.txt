@@ -1,0 +1,565 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 5
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Goblin HP:322/322 MP:63/63
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Hama MP:6
+2-Zanma MP:8
+3-Gram Slice MP:5
+4-Damascus Claw MP:7
+5-Sabbatma MP:20
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Shujinko HP:1317/1317 MP:625/625
+2-Goblin HP:322/322 MP:63/63
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Hama MP:6
+2-Zanma MP:8
+3-Gram Slice MP:5
+4-Damascus Claw MP:7
+5-Sabbatma MP:20
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Shujinko HP:1317/1317 MP:625/625
+2-Goblin HP:322/322 MP:63/63
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Hama MP:6
+2-Zanma MP:8
+3-Gram Slice MP:5
+4-Damascus Claw MP:7
+5-Sabbatma MP:20
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Goblin HP:322/322 MP:63/63
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Hama MP:6
+2-Zanma MP:8
+3-Gram Slice MP:5
+4-Damascus Claw MP:7
+5-Sabbatma MP:20
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Shujinko HP:1317/1317 MP:625/625
+2-Goblin HP:322/322 MP:63/63
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Shujinko HP:1317/1317 MP:625/625
+2-Goblin HP:322/322 MP:63/63
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca a Goblin
+Goblin recibe 29 de daño
+Goblin termina con HP:293/322
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Goblin HP:293/322 MP:63/63
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Goblin
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Hamaon MP:10
+2-Mortal Jihad MP:13
+3-Zionga MP:8
+4-Bufu MP:5
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Nahobino HP:453/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Nahobino HP:453/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Nahobino HP:453/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca a Nahobino
+Nahobino recibe 187 de daño
+Nahobino termina con HP:266/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:266/453 MP:389/389
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Goblin HP:293/322 MP:63/63
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Goblin
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Goblin
+1-Nahobino HP:266/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Goblin ataca a Nahobino
+Nahobino recibe 22 de daño
+Nahobino termina con HP:244/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:244/453 MP:389/389
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Goblin HP:293/322 MP:63/63
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Shujinko HP:1317/1317 MP:625/625
+2-Goblin HP:293/322 MP:63/63
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:244/453 MP:389/389
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Goblin HP:293/322 MP:63/63
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Hama MP:6
+2-Zanma MP:8
+3-Gram Slice MP:5
+4-Damascus Claw MP:7
+5-Sabbatma MP:20
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Shujinko HP:1317/1317 MP:625/625
+2-Goblin HP:293/322 MP:63/63
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Shujinko
+Shujinko es resistente el ataque de Nahobino
+Shujinko recibe 40 de daño
+Shujinko termina con HP:1277/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:244/453 MP:382/389
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1277/1317 MP:625/625
+B-Goblin HP:293/322 MP:63/63
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Goblin
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:244/453 MP:382/389
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1277/1317 MP:625/625
+B-Goblin HP:293/322 MP:63/63
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Goblin
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Goblin use
+1-Oni-Kagura MP:9
+2-Tarukaja MP:15
+3-Bad Company MP:15
+4-Charge MP:9
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Goblin
+1-Nahobino HP:244/453 MP:382/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Goblin ataca a Nahobino
+Nahobino recibe 74 de daño
+Nahobino termina con HP:170/453
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:170/453 MP:382/389
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1277/1317 MP:625/625
+B-Goblin HP:293/322 MP:54/63
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Goblin
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Nahobino HP:170/453 MP:382/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca a Nahobino
+Nahobino recibe 187 de daño
+Nahobino termina con HP:0/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Shujinko (J2)

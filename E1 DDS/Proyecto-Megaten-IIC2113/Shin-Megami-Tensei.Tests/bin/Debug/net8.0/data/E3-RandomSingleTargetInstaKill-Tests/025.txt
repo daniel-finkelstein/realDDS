@@ -1,0 +1,1680 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 24
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:235/235 MP:228/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:418/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Tadano
+3-Naga
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:418/418 MP:405/405
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Enku
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:235/235 MP:221/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:418/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Naga
+3-Enku
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:235/235 MP:221/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:418/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Naga
+2-Enku
+3-Tadano
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:418/418 MP:405/405
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Naga ataca a Xi Wangmu
+Xi Wangmu recibe 12 de daño
+Xi Wangmu termina con HP:406/418
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:235/235 MP:221/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:388/388 MP:193/193
+2-Enku HP:235/235 MP:221/228
+3-Naga HP:199/199 MP:39/39
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Tadano
+Tadano recibe 114 de daño
+Tadano termina con HP:274/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:274/388 MP:193/193
+B-Enku HP:235/235 MP:221/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:274/388 MP:193/193
+B-Enku HP:235/235 MP:221/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Agi MP:5
+2-Bouncing Claw MP:4
+3-Bufula MP:8
+4-Trisagion MP:22
+5-Axel Claw MP:15
+6-Mudoon MP:10
+7-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:274/388 MP:193/193
+2-Enku HP:235/235 MP:221/228
+3-Naga HP:199/199 MP:39/39
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:274/388 MP:193/193
+2-Enku HP:235/235 MP:221/228
+3-Naga HP:199/199 MP:39/39
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:274/388 MP:193/193
+2-Enku HP:235/235 MP:221/228
+3-Naga HP:199/199 MP:39/39
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend dispara a Enku
+Enku recibe 114 de daño
+Enku termina con HP:121/235
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:274/388 MP:193/193
+B-Enku HP:121/235 MP:221/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Tadano
+3-Naga
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:274/388 MP:193/193
+B-Enku HP:121/235 MP:221/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Naga
+3-Enku
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:406/418 MP:405/405
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:406/418 MP:405/405
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:406/418 MP:405/405
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Tadano
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:274/388 MP:193/193
+B-Enku HP:121/235 MP:221/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Enku
+3-Tadano
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Naga use
+1-Lunge MP:6
+2-Bufu MP:5
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:406/418 MP:405/405
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:274/388 MP:193/193
+B-Enku HP:121/235 MP:221/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Enku
+2-Tadano
+3-Naga
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:406/418 MP:405/405
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:406/418 MP:405/405
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Enku
+Enku ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Enku
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:274/388 MP:193/193
+B-Enku HP:121/235 MP:214/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:274/388 MP:193/193
+2-Enku HP:121/235 MP:214/228
+3-Naga HP:199/199 MP:39/39
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Tadano
+Tadano es resistente el ataque de Demi-Fiend
+Tadano recibe 84 de daño
+Tadano termina con HP:190/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:190/388 MP:193/193
+B-Enku HP:121/235 MP:214/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Tadano HP:190/388 MP:193/193
+2-Enku HP:121/235 MP:214/228
+3-Naga HP:199/199 MP:39/39
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:190/388 MP:193/193
+B-Enku HP:121/235 MP:214/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:190/388 MP:193/193
+2-Enku HP:121/235 MP:214/228
+3-Naga HP:199/199 MP:39/39
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Tadano
+Tadano es resistente el ataque de Demi-Fiend
+Tadano recibe 84 de daño
+Tadano termina con HP:106/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:106/388 MP:193/193
+B-Enku HP:121/235 MP:214/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Tadano
+3-Naga
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:406/418 MP:405/405
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Enku ataca a Xi Wangmu
+Xi Wangmu recibe 24 de daño
+Xi Wangmu termina con HP:382/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:106/388 MP:193/193
+B-Enku HP:121/235 MP:214/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Naga
+3-Enku
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:382/418 MP:405/405
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Tadano
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:106/388 MP:193/193
+B-Enku HP:121/235 MP:214/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:106/388 MP:193/193
+2-Enku HP:121/235 MP:214/228
+3-Naga HP:199/199 MP:39/39
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend ataca a Naga
+Naga recibe 168 de daño
+Naga termina con HP:31/199
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:106/388 MP:193/193
+B-Enku HP:121/235 MP:214/228
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Tadano HP:106/388 MP:193/193
+2-Enku HP:121/235 MP:214/228
+3-Naga HP:31/199 MP:39/39
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Tadano HP:106/388 MP:193/193
+2-Enku HP:121/235 MP:214/228
+3-Naga HP:31/199 MP:39/39
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Xi Wangmu ataca a Enku
+Enku recibe 44 de daño
+Enku termina con HP:77/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:106/388 MP:193/193
+B-Enku HP:77/235 MP:214/228
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Tadano
+3-Naga
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:106/388 MP:193/193
+B-Enku HP:77/235 MP:214/228
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Naga
+3-Enku
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:106/388 MP:193/193
+B-Enku HP:77/235 MP:214/228
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Enku
+3-Tadano
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Naga use
+1-Lunge MP:6
+2-Bufu MP:5
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Naga use
+1-Lunge MP:6
+2-Bufu MP:5
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:382/418 MP:405/405
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:382/418 MP:405/405
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Naga
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:106/388 MP:193/193
+B-Enku HP:77/235 MP:214/228
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:106/388 MP:193/193
+2-Enku HP:77/235 MP:214/228
+3-Naga HP:31/199 MP:39/39
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Tadano
+Tadano recibe 114 de daño
+Tadano termina con HP:0/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Enku HP:77/235 MP:214/228
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Enku HP:77/235 MP:214/228
+2-Naga HP:31/199 MP:39/39
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ataca a Enku
+Enku recibe 44 de daño
+Enku termina con HP:33/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Enku HP:33/235 MP:214/228
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Naga
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:382/418 MP:405/405
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Enku
+Enku ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Enku
+Enku ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Enku
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Enku HP:33/235 MP:207/228
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Enku HP:33/235 MP:207/228
+2-Naga HP:31/199 MP:39/39
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Enku HP:33/235 MP:207/228
+2-Naga HP:31/199 MP:39/39
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Agi MP:5
+2-Bouncing Claw MP:4
+3-Bufula MP:8
+4-Trisagion MP:22
+5-Axel Claw MP:15
+6-Mudoon MP:10
+7-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Enku HP:33/235 MP:207/228
+2-Naga HP:31/199 MP:39/39
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Agi MP:5
+2-Bouncing Claw MP:4
+3-Bufula MP:8
+4-Trisagion MP:22
+5-Axel Claw MP:15
+6-Mudoon MP:10
+7-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Enku HP:33/235 MP:207/228
+2-Naga HP:31/199 MP:39/39
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Enku HP:33/235 MP:207/228
+2-Naga HP:31/199 MP:39/39
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Enku
+Enku recibe 168 de daño
+Enku termina con HP:0/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Naga
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:382/418 MP:405/405
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Naga
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Agi MP:5
+2-Bouncing Claw MP:4
+3-Bufula MP:8
+4-Trisagion MP:22
+5-Axel Claw MP:15
+6-Mudoon MP:10
+7-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Naga HP:31/199 MP:39/39
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Naga HP:31/199 MP:39/39
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Naga
+Naga recibe 168 de daño
+Naga termina con HP:0/199
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Demi-Fiend (J2)

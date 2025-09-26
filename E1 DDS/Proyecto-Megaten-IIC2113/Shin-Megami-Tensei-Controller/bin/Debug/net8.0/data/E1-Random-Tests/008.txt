@@ -1,0 +1,3117 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 7
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Michael HP:1002/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Ghoul HP:558/558 MP:111/111
+D-Chemtrail HP:437/437 MP:423/423
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Hachiman
+3-Nanashi
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:597/597 MP:347/347
+2-Melchom HP:71/71 MP:67/67
+3-Ghoul HP:558/558 MP:111/111
+4-Chemtrail HP:437/437 MP:423/423
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Michael ataca a Melchom
+Melchom recibe 78 de daño
+Melchom termina con HP:0/71
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Michael HP:1002/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-
+C-Ghoul HP:558/558 MP:111/111
+D-Chemtrail HP:437/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Nanashi
+3-Yurlungur
+4-Michael
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Joker HP:597/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Chemtrail HP:437/437 MP:423/423
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hachiman ataca a Chemtrail
+Chemtrail recibe 65 de daño
+Chemtrail termina con HP:372/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Michael HP:1002/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-
+C-Ghoul HP:558/558 MP:111/111
+D-Chemtrail HP:372/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Yurlungur
+3-Michael
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:597/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Chemtrail HP:372/437 MP:423/423
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Joker
+Joker recibe 31 de daño
+Joker termina con HP:566/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Michael HP:1002/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:566/597 MP:347/347
+B-
+C-Ghoul HP:558/558 MP:111/111
+D-Chemtrail HP:372/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Michael
+3-Hachiman
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Joker HP:566/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Chemtrail HP:372/437 MP:423/423
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yurlungur ataca a Chemtrail
+Chemtrail recibe 20 de daño
+Chemtrail termina con HP:352/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Michael HP:1002/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:566/597 MP:347/347
+B-
+C-Ghoul HP:558/558 MP:111/111
+D-Chemtrail HP:352/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Ghoul
+3-Joker
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Nanashi HP:140/140 MP:411/411
+2-Michael HP:1002/1002 MP:199/199
+3-Yurlungur HP:202/202 MP:196/196
+4-Hachiman HP:851/851 MP:170/170
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Nanashi HP:140/140 MP:411/411
+2-Michael HP:1002/1002 MP:199/199
+3-Yurlungur HP:202/202 MP:196/196
+4-Hachiman HP:851/851 MP:170/170
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Nanashi HP:140/140 MP:411/411
+2-Michael HP:1002/1002 MP:199/199
+3-Yurlungur HP:202/202 MP:196/196
+4-Hachiman HP:851/851 MP:170/170
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ataca a Nanashi
+Nanashi recibe 47 de daño
+Nanashi termina con HP:93/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:93/140 MP:411/411
+B-Michael HP:1002/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:566/597 MP:347/347
+B-
+C-Ghoul HP:558/558 MP:111/111
+D-Chemtrail HP:352/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Joker
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Nanashi HP:93/140 MP:411/411
+2-Michael HP:1002/1002 MP:199/199
+3-Yurlungur HP:202/202 MP:196/196
+4-Hachiman HP:851/851 MP:170/170
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ataca a Nanashi
+Nanashi recibe 41 de daño
+Nanashi termina con HP:52/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Michael HP:1002/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:566/597 MP:347/347
+B-
+C-Ghoul HP:558/558 MP:111/111
+D-Chemtrail HP:352/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Chemtrail
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:52/140 MP:411/411
+2-Michael HP:1002/1002 MP:199/199
+3-Yurlungur HP:202/202 MP:196/196
+4-Hachiman HP:851/851 MP:170/170
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Michael
+Michael recibe 28 de daño
+Michael termina con HP:974/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Michael HP:974/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:566/597 MP:347/347
+B-
+C-Ghoul HP:558/558 MP:111/111
+D-Chemtrail HP:352/437 MP:423/423
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Hachiman
+3-Nanashi
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:566/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Chemtrail HP:352/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:566/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Chemtrail HP:352/437 MP:423/423
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Joker
+Joker recibe 78 de daño
+Joker termina con HP:488/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Michael HP:974/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:488/597 MP:347/347
+B-
+C-Ghoul HP:558/558 MP:111/111
+D-Chemtrail HP:352/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Nanashi
+3-Yurlungur
+4-Michael
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Joker HP:488/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Chemtrail HP:352/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Joker HP:488/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Chemtrail HP:352/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Joker HP:488/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Chemtrail HP:352/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Joker HP:488/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Chemtrail HP:352/437 MP:423/423
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Joker
+Joker recibe 65 de daño
+Joker termina con HP:423/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Michael HP:974/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:423/597 MP:347/347
+B-
+C-Ghoul HP:558/558 MP:111/111
+D-Chemtrail HP:352/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Yurlungur
+3-Michael
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:423/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Chemtrail HP:352/437 MP:423/423
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Joker
+Joker recibe 31 de daño
+Joker termina con HP:392/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Michael HP:974/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:392/597 MP:347/347
+B-
+C-Ghoul HP:558/558 MP:111/111
+D-Chemtrail HP:352/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Michael
+3-Hachiman
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Joker HP:392/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Chemtrail HP:352/437 MP:423/423
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yurlungur ataca a Joker
+Joker recibe 20 de daño
+Joker termina con HP:372/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Michael HP:974/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:372/597 MP:347/347
+B-
+C-Ghoul HP:558/558 MP:111/111
+D-Chemtrail HP:352/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Ghoul
+3-Joker
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Nanashi HP:52/140 MP:411/411
+2-Michael HP:974/1002 MP:199/199
+3-Yurlungur HP:202/202 MP:196/196
+4-Hachiman HP:851/851 MP:170/170
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail ataca a Michael
+Michael recibe 47 de daño
+Michael termina con HP:927/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Michael HP:927/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:372/597 MP:347/347
+B-
+C-Ghoul HP:558/558 MP:111/111
+D-Chemtrail HP:352/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Joker
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Nanashi HP:52/140 MP:411/411
+2-Michael HP:927/1002 MP:199/199
+3-Yurlungur HP:202/202 MP:196/196
+4-Hachiman HP:851/851 MP:170/170
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ataca a Nanashi
+Nanashi recibe 41 de daño
+Nanashi termina con HP:11/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:411/411
+B-Michael HP:927/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:372/597 MP:347/347
+B-
+C-Ghoul HP:558/558 MP:111/111
+D-Chemtrail HP:352/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Chemtrail
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:11/140 MP:411/411
+2-Michael HP:927/1002 MP:199/199
+3-Yurlungur HP:202/202 MP:196/196
+4-Hachiman HP:851/851 MP:170/170
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Michael
+Michael recibe 28 de daño
+Michael termina con HP:899/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:411/411
+B-Michael HP:899/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:372/597 MP:347/347
+B-
+C-Ghoul HP:558/558 MP:111/111
+D-Chemtrail HP:352/437 MP:423/423
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Hachiman
+3-Nanashi
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:372/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Chemtrail HP:352/437 MP:423/423
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Michael ataca a Chemtrail
+Chemtrail recibe 78 de daño
+Chemtrail termina con HP:274/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:411/411
+B-Michael HP:899/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:372/597 MP:347/347
+B-
+C-Ghoul HP:558/558 MP:111/111
+D-Chemtrail HP:274/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Nanashi
+3-Yurlungur
+4-Michael
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Joker HP:372/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Chemtrail HP:274/437 MP:423/423
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hachiman ataca a Ghoul
+Ghoul recibe 65 de daño
+Ghoul termina con HP:493/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:411/411
+B-Michael HP:899/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:372/597 MP:347/347
+B-
+C-Ghoul HP:493/558 MP:111/111
+D-Chemtrail HP:274/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Yurlungur
+3-Michael
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:372/597 MP:347/347
+2-Ghoul HP:493/558 MP:111/111
+3-Chemtrail HP:274/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:372/597 MP:347/347
+2-Ghoul HP:493/558 MP:111/111
+3-Chemtrail HP:274/437 MP:423/423
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Joker
+Joker recibe 31 de daño
+Joker termina con HP:341/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:411/411
+B-Michael HP:899/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:341/597 MP:347/347
+B-
+C-Ghoul HP:493/558 MP:111/111
+D-Chemtrail HP:274/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Michael
+3-Hachiman
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Joker HP:341/597 MP:347/347
+2-Ghoul HP:493/558 MP:111/111
+3-Chemtrail HP:274/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Joker HP:341/597 MP:347/347
+2-Ghoul HP:493/558 MP:111/111
+3-Chemtrail HP:274/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Joker HP:341/597 MP:347/347
+2-Ghoul HP:493/558 MP:111/111
+3-Chemtrail HP:274/437 MP:423/423
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Yurlungur ataca a Ghoul
+Ghoul recibe 20 de daño
+Ghoul termina con HP:473/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:411/411
+B-Michael HP:899/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:341/597 MP:347/347
+B-
+C-Ghoul HP:473/558 MP:111/111
+D-Chemtrail HP:274/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Ghoul
+3-Joker
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Nanashi HP:11/140 MP:411/411
+2-Michael HP:899/1002 MP:199/199
+3-Yurlungur HP:202/202 MP:196/196
+4-Hachiman HP:851/851 MP:170/170
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ataca a Nanashi
+Nanashi recibe 47 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:899/1002 MP:199/199
+C-Yurlungur HP:202/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:341/597 MP:347/347
+B-
+C-Ghoul HP:473/558 MP:111/111
+D-Chemtrail HP:274/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Joker
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Michael HP:899/1002 MP:199/199
+2-Yurlungur HP:202/202 MP:196/196
+3-Hachiman HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ghoul ataca a Yurlungur
+Yurlungur recibe 41 de daño
+Yurlungur termina con HP:161/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:899/1002 MP:199/199
+C-Yurlungur HP:161/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:341/597 MP:347/347
+B-
+C-Ghoul HP:473/558 MP:111/111
+D-Chemtrail HP:274/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Chemtrail
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Michael HP:899/1002 MP:199/199
+2-Yurlungur HP:161/202 MP:196/196
+3-Hachiman HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Michael
+Michael recibe 39 de daño
+Michael termina con HP:860/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:860/1002 MP:199/199
+C-Yurlungur HP:161/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:341/597 MP:347/347
+B-
+C-Ghoul HP:473/558 MP:111/111
+D-Chemtrail HP:274/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Hachiman
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:341/597 MP:347/347
+2-Ghoul HP:473/558 MP:111/111
+3-Chemtrail HP:274/437 MP:423/423
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Joker
+Joker recibe 78 de daño
+Joker termina con HP:263/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:860/1002 MP:199/199
+C-Yurlungur HP:161/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:263/597 MP:347/347
+B-
+C-Ghoul HP:473/558 MP:111/111
+D-Chemtrail HP:274/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Yurlungur
+3-Michael
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Joker HP:263/597 MP:347/347
+2-Ghoul HP:473/558 MP:111/111
+3-Chemtrail HP:274/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Joker HP:263/597 MP:347/347
+2-Ghoul HP:473/558 MP:111/111
+3-Chemtrail HP:274/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Joker HP:263/597 MP:347/347
+2-Ghoul HP:473/558 MP:111/111
+3-Chemtrail HP:274/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Joker HP:263/597 MP:347/347
+2-Ghoul HP:473/558 MP:111/111
+3-Chemtrail HP:274/437 MP:423/423
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Joker
+Joker recibe 65 de daño
+Joker termina con HP:198/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:860/1002 MP:199/199
+C-Yurlungur HP:161/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:198/597 MP:347/347
+B-
+C-Ghoul HP:473/558 MP:111/111
+D-Chemtrail HP:274/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Michael
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Joker HP:198/597 MP:347/347
+2-Ghoul HP:473/558 MP:111/111
+3-Chemtrail HP:274/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Joker HP:198/597 MP:347/347
+2-Ghoul HP:473/558 MP:111/111
+3-Chemtrail HP:274/437 MP:423/423
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Yurlungur ataca a Ghoul
+Ghoul recibe 20 de daño
+Ghoul termina con HP:453/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:860/1002 MP:199/199
+C-Yurlungur HP:161/202 MP:196/196
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:198/597 MP:347/347
+B-
+C-Ghoul HP:453/558 MP:111/111
+D-Chemtrail HP:274/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Ghoul
+3-Joker
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Michael HP:860/1002 MP:199/199
+2-Yurlungur HP:161/202 MP:196/196
+3-Hachiman HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Chemtrail ataca a Hachiman
+Hachiman recibe 47 de daño
+Hachiman termina con HP:804/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:860/1002 MP:199/199
+C-Yurlungur HP:161/202 MP:196/196
+D-Hachiman HP:804/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:198/597 MP:347/347
+B-
+C-Ghoul HP:453/558 MP:111/111
+D-Chemtrail HP:274/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Joker
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Michael HP:860/1002 MP:199/199
+2-Yurlungur HP:161/202 MP:196/196
+3-Hachiman HP:804/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ataca a Michael
+Michael recibe 41 de daño
+Michael termina con HP:819/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:819/1002 MP:199/199
+C-Yurlungur HP:161/202 MP:196/196
+D-Hachiman HP:804/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:198/597 MP:347/347
+B-
+C-Ghoul HP:453/558 MP:111/111
+D-Chemtrail HP:274/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Chemtrail
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Michael HP:819/1002 MP:199/199
+2-Yurlungur HP:161/202 MP:196/196
+3-Hachiman HP:804/851 MP:170/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Michael HP:819/1002 MP:199/199
+2-Yurlungur HP:161/202 MP:196/196
+3-Hachiman HP:804/851 MP:170/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Michael HP:819/1002 MP:199/199
+2-Yurlungur HP:161/202 MP:196/196
+3-Hachiman HP:804/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Michael
+Michael recibe 39 de daño
+Michael termina con HP:780/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:780/1002 MP:199/199
+C-Yurlungur HP:161/202 MP:196/196
+D-Hachiman HP:804/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:198/597 MP:347/347
+B-
+C-Ghoul HP:453/558 MP:111/111
+D-Chemtrail HP:274/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Hachiman
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:198/597 MP:347/347
+2-Ghoul HP:453/558 MP:111/111
+3-Chemtrail HP:274/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:198/597 MP:347/347
+2-Ghoul HP:453/558 MP:111/111
+3-Chemtrail HP:274/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:198/597 MP:347/347
+2-Ghoul HP:453/558 MP:111/111
+3-Chemtrail HP:274/437 MP:423/423
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Michael ataca a Ghoul
+Ghoul recibe 78 de daño
+Ghoul termina con HP:375/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:780/1002 MP:199/199
+C-Yurlungur HP:161/202 MP:196/196
+D-Hachiman HP:804/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:198/597 MP:347/347
+B-
+C-Ghoul HP:375/558 MP:111/111
+D-Chemtrail HP:274/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Yurlungur
+3-Michael
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Joker HP:198/597 MP:347/347
+2-Ghoul HP:375/558 MP:111/111
+3-Chemtrail HP:274/437 MP:423/423
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hachiman ataca a Chemtrail
+Chemtrail recibe 65 de daño
+Chemtrail termina con HP:209/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:780/1002 MP:199/199
+C-Yurlungur HP:161/202 MP:196/196
+D-Hachiman HP:804/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:198/597 MP:347/347
+B-
+C-Ghoul HP:375/558 MP:111/111
+D-Chemtrail HP:209/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Michael
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Joker HP:198/597 MP:347/347
+2-Ghoul HP:375/558 MP:111/111
+3-Chemtrail HP:209/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Joker HP:198/597 MP:347/347
+2-Ghoul HP:375/558 MP:111/111
+3-Chemtrail HP:209/437 MP:423/423
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yurlungur ataca a Joker
+Joker recibe 20 de daño
+Joker termina con HP:178/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:780/1002 MP:199/199
+C-Yurlungur HP:161/202 MP:196/196
+D-Hachiman HP:804/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:178/597 MP:347/347
+B-
+C-Ghoul HP:375/558 MP:111/111
+D-Chemtrail HP:209/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Ghoul
+3-Joker
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Michael HP:780/1002 MP:199/199
+2-Yurlungur HP:161/202 MP:196/196
+3-Hachiman HP:804/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ataca a Michael
+Michael recibe 47 de daño
+Michael termina con HP:733/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:733/1002 MP:199/199
+C-Yurlungur HP:161/202 MP:196/196
+D-Hachiman HP:804/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:178/597 MP:347/347
+B-
+C-Ghoul HP:375/558 MP:111/111
+D-Chemtrail HP:209/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Joker
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Michael HP:733/1002 MP:199/199
+2-Yurlungur HP:161/202 MP:196/196
+3-Hachiman HP:804/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ghoul ataca a Hachiman
+Hachiman recibe 41 de daño
+Hachiman termina con HP:763/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:733/1002 MP:199/199
+C-Yurlungur HP:161/202 MP:196/196
+D-Hachiman HP:763/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:178/597 MP:347/347
+B-
+C-Ghoul HP:375/558 MP:111/111
+D-Chemtrail HP:209/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Chemtrail
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Michael HP:733/1002 MP:199/199
+2-Yurlungur HP:161/202 MP:196/196
+3-Hachiman HP:763/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca a Hachiman
+Hachiman recibe 28 de daño
+Hachiman termina con HP:735/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:733/1002 MP:199/199
+C-Yurlungur HP:161/202 MP:196/196
+D-Hachiman HP:735/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:178/597 MP:347/347
+B-
+C-Ghoul HP:375/558 MP:111/111
+D-Chemtrail HP:209/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Hachiman
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:178/597 MP:347/347
+2-Ghoul HP:375/558 MP:111/111
+3-Chemtrail HP:209/437 MP:423/423
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Joker
+Joker recibe 78 de daño
+Joker termina con HP:100/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:733/1002 MP:199/199
+C-Yurlungur HP:161/202 MP:196/196
+D-Hachiman HP:735/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:100/597 MP:347/347
+B-
+C-Ghoul HP:375/558 MP:111/111
+D-Chemtrail HP:209/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Yurlungur
+3-Michael
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Joker HP:100/597 MP:347/347
+2-Ghoul HP:375/558 MP:111/111
+3-Chemtrail HP:209/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Joker HP:100/597 MP:347/347
+2-Ghoul HP:375/558 MP:111/111
+3-Chemtrail HP:209/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Joker HP:100/597 MP:347/347
+2-Ghoul HP:375/558 MP:111/111
+3-Chemtrail HP:209/437 MP:423/423
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hachiman ataca a Ghoul
+Ghoul recibe 65 de daño
+Ghoul termina con HP:310/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:733/1002 MP:199/199
+C-Yurlungur HP:161/202 MP:196/196
+D-Hachiman HP:735/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:100/597 MP:347/347
+B-
+C-Ghoul HP:310/558 MP:111/111
+D-Chemtrail HP:209/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Michael
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Joker HP:100/597 MP:347/347
+2-Ghoul HP:310/558 MP:111/111
+3-Chemtrail HP:209/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Joker HP:100/597 MP:347/347
+2-Ghoul HP:310/558 MP:111/111
+3-Chemtrail HP:209/437 MP:423/423
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yurlungur ataca a Chemtrail
+Chemtrail recibe 20 de daño
+Chemtrail termina con HP:189/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:733/1002 MP:199/199
+C-Yurlungur HP:161/202 MP:196/196
+D-Hachiman HP:735/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:100/597 MP:347/347
+B-
+C-Ghoul HP:310/558 MP:111/111
+D-Chemtrail HP:189/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Ghoul
+3-Joker
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Michael HP:733/1002 MP:199/199
+2-Yurlungur HP:161/202 MP:196/196
+3-Hachiman HP:735/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail ataca a Yurlungur
+Yurlungur recibe 47 de daño
+Yurlungur termina con HP:114/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:733/1002 MP:199/199
+C-Yurlungur HP:114/202 MP:196/196
+D-Hachiman HP:735/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:100/597 MP:347/347
+B-
+C-Ghoul HP:310/558 MP:111/111
+D-Chemtrail HP:189/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Joker
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Michael HP:733/1002 MP:199/199
+2-Yurlungur HP:114/202 MP:196/196
+3-Hachiman HP:735/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ataca a Michael
+Michael recibe 41 de daño
+Michael termina con HP:692/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:692/1002 MP:199/199
+C-Yurlungur HP:114/202 MP:196/196
+D-Hachiman HP:735/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:100/597 MP:347/347
+B-
+C-Ghoul HP:310/558 MP:111/111
+D-Chemtrail HP:189/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Chemtrail
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Michael HP:692/1002 MP:199/199
+2-Yurlungur HP:114/202 MP:196/196
+3-Hachiman HP:735/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca a Hachiman
+Hachiman recibe 28 de daño
+Hachiman termina con HP:707/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:692/1002 MP:199/199
+C-Yurlungur HP:114/202 MP:196/196
+D-Hachiman HP:707/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:100/597 MP:347/347
+B-
+C-Ghoul HP:310/558 MP:111/111
+D-Chemtrail HP:189/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Hachiman
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:100/597 MP:347/347
+2-Ghoul HP:310/558 MP:111/111
+3-Chemtrail HP:189/437 MP:423/423
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Michael ataca a Ghoul
+Ghoul recibe 78 de daño
+Ghoul termina con HP:232/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:692/1002 MP:199/199
+C-Yurlungur HP:114/202 MP:196/196
+D-Hachiman HP:707/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:100/597 MP:347/347
+B-
+C-Ghoul HP:232/558 MP:111/111
+D-Chemtrail HP:189/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Yurlungur
+3-Michael
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Joker HP:100/597 MP:347/347
+2-Ghoul HP:232/558 MP:111/111
+3-Chemtrail HP:189/437 MP:423/423
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Joker
+Joker recibe 65 de daño
+Joker termina con HP:35/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:692/1002 MP:199/199
+C-Yurlungur HP:114/202 MP:196/196
+D-Hachiman HP:707/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:35/597 MP:347/347
+B-
+C-Ghoul HP:232/558 MP:111/111
+D-Chemtrail HP:189/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Michael
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Joker HP:35/597 MP:347/347
+2-Ghoul HP:232/558 MP:111/111
+3-Chemtrail HP:189/437 MP:423/423
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yurlungur ataca a Joker
+Joker recibe 20 de daño
+Joker termina con HP:15/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:692/1002 MP:199/199
+C-Yurlungur HP:114/202 MP:196/196
+D-Hachiman HP:707/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:15/597 MP:347/347
+B-
+C-Ghoul HP:232/558 MP:111/111
+D-Chemtrail HP:189/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Ghoul
+3-Joker
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Michael HP:692/1002 MP:199/199
+2-Yurlungur HP:114/202 MP:196/196
+3-Hachiman HP:707/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ataca a Michael
+Michael recibe 47 de daño
+Michael termina con HP:645/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:645/1002 MP:199/199
+C-Yurlungur HP:114/202 MP:196/196
+D-Hachiman HP:707/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:15/597 MP:347/347
+B-
+C-Ghoul HP:232/558 MP:111/111
+D-Chemtrail HP:189/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Joker
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Michael HP:645/1002 MP:199/199
+2-Yurlungur HP:114/202 MP:196/196
+3-Hachiman HP:707/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ghoul ataca a Yurlungur
+Yurlungur recibe 41 de daño
+Yurlungur termina con HP:73/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:645/1002 MP:199/199
+C-Yurlungur HP:73/202 MP:196/196
+D-Hachiman HP:707/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:15/597 MP:347/347
+B-
+C-Ghoul HP:232/558 MP:111/111
+D-Chemtrail HP:189/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Chemtrail
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Michael HP:645/1002 MP:199/199
+2-Yurlungur HP:73/202 MP:196/196
+3-Hachiman HP:707/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Hachiman
+Hachiman recibe 39 de daño
+Hachiman termina con HP:668/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:645/1002 MP:199/199
+C-Yurlungur HP:73/202 MP:196/196
+D-Hachiman HP:668/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:15/597 MP:347/347
+B-
+C-Ghoul HP:232/558 MP:111/111
+D-Chemtrail HP:189/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Hachiman
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:15/597 MP:347/347
+2-Ghoul HP:232/558 MP:111/111
+3-Chemtrail HP:189/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:15/597 MP:347/347
+2-Ghoul HP:232/558 MP:111/111
+3-Chemtrail HP:189/437 MP:423/423
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Michael ataca a Chemtrail
+Chemtrail recibe 78 de daño
+Chemtrail termina con HP:111/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:645/1002 MP:199/199
+C-Yurlungur HP:73/202 MP:196/196
+D-Hachiman HP:668/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:15/597 MP:347/347
+B-
+C-Ghoul HP:232/558 MP:111/111
+D-Chemtrail HP:111/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Yurlungur
+3-Michael
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Joker HP:15/597 MP:347/347
+2-Ghoul HP:232/558 MP:111/111
+3-Chemtrail HP:111/437 MP:423/423
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hachiman ataca a Ghoul
+Ghoul recibe 65 de daño
+Ghoul termina con HP:167/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:645/1002 MP:199/199
+C-Yurlungur HP:73/202 MP:196/196
+D-Hachiman HP:668/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:15/597 MP:347/347
+B-
+C-Ghoul HP:167/558 MP:111/111
+D-Chemtrail HP:111/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Michael
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Joker HP:15/597 MP:347/347
+2-Ghoul HP:167/558 MP:111/111
+3-Chemtrail HP:111/437 MP:423/423
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yurlungur ataca a Chemtrail
+Chemtrail recibe 20 de daño
+Chemtrail termina con HP:91/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:645/1002 MP:199/199
+C-Yurlungur HP:73/202 MP:196/196
+D-Hachiman HP:668/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:15/597 MP:347/347
+B-
+C-Ghoul HP:167/558 MP:111/111
+D-Chemtrail HP:91/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Ghoul
+3-Joker
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Michael HP:645/1002 MP:199/199
+2-Yurlungur HP:73/202 MP:196/196
+3-Hachiman HP:668/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ataca a Michael
+Michael recibe 47 de daño
+Michael termina con HP:598/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:598/1002 MP:199/199
+C-Yurlungur HP:73/202 MP:196/196
+D-Hachiman HP:668/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:15/597 MP:347/347
+B-
+C-Ghoul HP:167/558 MP:111/111
+D-Chemtrail HP:91/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Joker
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Michael HP:598/1002 MP:199/199
+2-Yurlungur HP:73/202 MP:196/196
+3-Hachiman HP:668/851 MP:170/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Michael HP:598/1002 MP:199/199
+2-Yurlungur HP:73/202 MP:196/196
+3-Hachiman HP:668/851 MP:170/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Michael HP:598/1002 MP:199/199
+2-Yurlungur HP:73/202 MP:196/196
+3-Hachiman HP:668/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ghoul ataca a Hachiman
+Hachiman recibe 41 de daño
+Hachiman termina con HP:627/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:598/1002 MP:199/199
+C-Yurlungur HP:73/202 MP:196/196
+D-Hachiman HP:627/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:15/597 MP:347/347
+B-
+C-Ghoul HP:167/558 MP:111/111
+D-Chemtrail HP:91/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Chemtrail
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Michael HP:598/1002 MP:199/199
+2-Yurlungur HP:73/202 MP:196/196
+3-Hachiman HP:627/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Michael
+Michael recibe 39 de daño
+Michael termina con HP:559/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:559/1002 MP:199/199
+C-Yurlungur HP:73/202 MP:196/196
+D-Hachiman HP:627/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:15/597 MP:347/347
+B-
+C-Ghoul HP:167/558 MP:111/111
+D-Chemtrail HP:91/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Hachiman
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:15/597 MP:347/347
+2-Ghoul HP:167/558 MP:111/111
+3-Chemtrail HP:91/437 MP:423/423
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Joker
+Joker recibe 78 de daño
+Joker termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:559/1002 MP:199/199
+C-Yurlungur HP:73/202 MP:196/196
+D-Hachiman HP:627/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-Ghoul HP:167/558 MP:111/111
+D-Chemtrail HP:91/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Yurlungur
+3-Michael
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Ghoul HP:167/558 MP:111/111
+2-Chemtrail HP:91/437 MP:423/423
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Ghoul HP:167/558 MP:111/111
+2-Chemtrail HP:91/437 MP:423/423
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Hachiman ataca a Chemtrail
+Chemtrail recibe 65 de daño
+Chemtrail termina con HP:26/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:559/1002 MP:199/199
+C-Yurlungur HP:73/202 MP:196/196
+D-Hachiman HP:627/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-Ghoul HP:167/558 MP:111/111
+D-Chemtrail HP:26/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Michael
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Ghoul HP:167/558 MP:111/111
+2-Chemtrail HP:26/437 MP:423/423
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yurlungur ataca a Chemtrail
+Chemtrail recibe 20 de daño
+Chemtrail termina con HP:6/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:559/1002 MP:199/199
+C-Yurlungur HP:73/202 MP:196/196
+D-Hachiman HP:627/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-Ghoul HP:167/558 MP:111/111
+D-Chemtrail HP:6/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Ghoul
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Michael HP:559/1002 MP:199/199
+2-Yurlungur HP:73/202 MP:196/196
+3-Hachiman HP:627/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail ataca a Yurlungur
+Yurlungur recibe 47 de daño
+Yurlungur termina con HP:26/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:559/1002 MP:199/199
+C-Yurlungur HP:26/202 MP:196/196
+D-Hachiman HP:627/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-Ghoul HP:167/558 MP:111/111
+D-Chemtrail HP:6/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Chemtrail
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Michael HP:559/1002 MP:199/199
+2-Yurlungur HP:26/202 MP:196/196
+3-Hachiman HP:627/851 MP:170/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Michael HP:559/1002 MP:199/199
+2-Yurlungur HP:26/202 MP:196/196
+3-Hachiman HP:627/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ghoul ataca a Hachiman
+Hachiman recibe 41 de daño
+Hachiman termina con HP:586/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:559/1002 MP:199/199
+C-Yurlungur HP:26/202 MP:196/196
+D-Hachiman HP:586/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-Ghoul HP:167/558 MP:111/111
+D-Chemtrail HP:6/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Hachiman
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Ghoul HP:167/558 MP:111/111
+2-Chemtrail HP:6/437 MP:423/423
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Ghoul
+Ghoul recibe 78 de daño
+Ghoul termina con HP:89/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:559/1002 MP:199/199
+C-Yurlungur HP:26/202 MP:196/196
+D-Hachiman HP:586/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-Ghoul HP:89/558 MP:111/111
+D-Chemtrail HP:6/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Yurlungur
+3-Michael
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Ghoul HP:89/558 MP:111/111
+2-Chemtrail HP:6/437 MP:423/423
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Ghoul HP:89/558 MP:111/111
+2-Chemtrail HP:6/437 MP:423/423
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Ghoul HP:89/558 MP:111/111
+2-Chemtrail HP:6/437 MP:423/423
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Ghoul
+Ghoul recibe 65 de daño
+Ghoul termina con HP:24/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:559/1002 MP:199/199
+C-Yurlungur HP:26/202 MP:196/196
+D-Hachiman HP:586/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-Ghoul HP:24/558 MP:111/111
+D-Chemtrail HP:6/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Michael
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Ghoul HP:24/558 MP:111/111
+2-Chemtrail HP:6/437 MP:423/423
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yurlungur ataca a Ghoul
+Ghoul recibe 20 de daño
+Ghoul termina con HP:4/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:559/1002 MP:199/199
+C-Yurlungur HP:26/202 MP:196/196
+D-Hachiman HP:586/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-Ghoul HP:4/558 MP:111/111
+D-Chemtrail HP:6/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Ghoul
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Michael HP:559/1002 MP:199/199
+2-Yurlungur HP:26/202 MP:196/196
+3-Hachiman HP:586/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ataca a Michael
+Michael recibe 47 de daño
+Michael termina con HP:512/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:512/1002 MP:199/199
+C-Yurlungur HP:26/202 MP:196/196
+D-Hachiman HP:586/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-Ghoul HP:4/558 MP:111/111
+D-Chemtrail HP:6/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Chemtrail
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Michael HP:512/1002 MP:199/199
+2-Yurlungur HP:26/202 MP:196/196
+3-Hachiman HP:586/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ataca a Michael
+Michael recibe 41 de daño
+Michael termina con HP:471/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:471/1002 MP:199/199
+C-Yurlungur HP:26/202 MP:196/196
+D-Hachiman HP:586/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-Ghoul HP:4/558 MP:111/111
+D-Chemtrail HP:6/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Hachiman
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Ghoul HP:4/558 MP:111/111
+2-Chemtrail HP:6/437 MP:423/423
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Ghoul
+Ghoul recibe 78 de daño
+Ghoul termina con HP:0/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:471/1002 MP:199/199
+C-Yurlungur HP:26/202 MP:196/196
+D-Hachiman HP:586/851 MP:170/170
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-
+D-Chemtrail HP:6/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Yurlungur
+3-Michael
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Chemtrail HP:6/437 MP:423/423
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Chemtrail HP:6/437 MP:423/423
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Chemtrail HP:6/437 MP:423/423
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Chemtrail
+Chemtrail recibe 65 de daño
+Chemtrail termina con HP:0/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Nanashi (J1)

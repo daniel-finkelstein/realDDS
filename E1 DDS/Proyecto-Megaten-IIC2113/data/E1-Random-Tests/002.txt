@@ -1,0 +1,1094 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 1
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:596/596 MP:118/118
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Patrimpas HP:155/155 MP:149/149
+C-Mokoi HP:74/74 MP:36/36
+D-Dybbuk HP:66/66 MP:63/63
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Anzu
+3-Black Maria
+4-Joker
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nanashi HP:140/140 MP:411/411
+2-Patrimpas HP:155/155 MP:149/149
+3-Mokoi HP:74/74 MP:36/36
+4-Dybbuk HP:66/66 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Nanashi
+Nanashi recibe 54 de daño
+Nanashi termina con HP:86/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:596/596 MP:118/118
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Patrimpas HP:155/155 MP:149/149
+C-Mokoi HP:74/74 MP:36/36
+D-Dybbuk HP:66/66 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Black Maria
+3-Joker
+4-Nergal
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Nanashi HP:86/140 MP:411/411
+2-Patrimpas HP:155/155 MP:149/149
+3-Mokoi HP:74/74 MP:36/36
+4-Dybbuk HP:66/66 MP:63/63
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Anzu ataca a Dybbuk
+Dybbuk recibe 44 de daño
+Dybbuk termina con HP:22/66
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:596/596 MP:118/118
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Patrimpas HP:155/155 MP:149/149
+C-Mokoi HP:74/74 MP:36/36
+D-Dybbuk HP:22/66 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Joker
+3-Nergal
+4-Anzu
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Nanashi HP:86/140 MP:411/411
+2-Patrimpas HP:155/155 MP:149/149
+3-Mokoi HP:74/74 MP:36/36
+4-Dybbuk HP:22/66 MP:63/63
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Nanashi HP:86/140 MP:411/411
+2-Patrimpas HP:155/155 MP:149/149
+3-Mokoi HP:74/74 MP:36/36
+4-Dybbuk HP:22/66 MP:63/63
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Black Maria ataca a Patrimpas
+Patrimpas recibe 36 de daño
+Patrimpas termina con HP:119/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:596/596 MP:118/118
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Patrimpas HP:119/155 MP:149/149
+C-Mokoi HP:74/74 MP:36/36
+D-Dybbuk HP:22/66 MP:63/63
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Nergal
+3-Anzu
+4-Black Maria
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:86/140 MP:411/411
+2-Patrimpas HP:119/155 MP:149/149
+3-Mokoi HP:74/74 MP:36/36
+4-Dybbuk HP:22/66 MP:63/63
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Patrimpas
+Patrimpas recibe 28 de daño
+Patrimpas termina con HP:91/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:596/596 MP:118/118
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Patrimpas HP:91/155 MP:149/149
+C-Mokoi HP:74/74 MP:36/36
+D-Dybbuk HP:22/66 MP:63/63
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Patrimpas
+3-Dybbuk
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:597/597 MP:347/347
+2-Nergal HP:644/644 MP:288/288
+3-Anzu HP:596/596 MP:118/118
+4-Black Maria HP:348/348 MP:337/337
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:597/597 MP:347/347
+2-Nergal HP:644/644 MP:288/288
+3-Anzu HP:596/596 MP:118/118
+4-Black Maria HP:348/348 MP:337/337
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi ataca a Anzu
+Anzu recibe 92 de daño
+Anzu termina con HP:504/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:504/596 MP:118/118
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Patrimpas HP:91/155 MP:149/149
+C-Mokoi HP:74/74 MP:36/36
+D-Dybbuk HP:22/66 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patrimpas
+2-Dybbuk
+3-Mokoi
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Joker HP:597/597 MP:347/347
+2-Nergal HP:644/644 MP:288/288
+3-Anzu HP:504/596 MP:118/118
+4-Black Maria HP:348/348 MP:337/337
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Patrimpas ataca a Black Maria
+Black Maria recibe 16 de daño
+Black Maria termina con HP:332/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:504/596 MP:118/118
+D-Black Maria HP:332/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Patrimpas HP:91/155 MP:149/149
+C-Mokoi HP:74/74 MP:36/36
+D-Dybbuk HP:22/66 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Mokoi
+3-Nanashi
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Joker HP:597/597 MP:347/347
+2-Nergal HP:644/644 MP:288/288
+3-Anzu HP:504/596 MP:118/118
+4-Black Maria HP:332/348 MP:337/337
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Dybbuk ataca a Joker
+Joker recibe 5 de daño
+Joker termina con HP:592/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:592/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:504/596 MP:118/118
+D-Black Maria HP:332/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Patrimpas HP:91/155 MP:149/149
+C-Mokoi HP:74/74 MP:36/36
+D-Dybbuk HP:22/66 MP:63/63
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mokoi
+2-Nanashi
+3-Patrimpas
+4-Dybbuk
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mokoi
+1-Joker HP:592/597 MP:347/347
+2-Nergal HP:644/644 MP:288/288
+3-Anzu HP:504/596 MP:118/118
+4-Black Maria HP:332/348 MP:337/337
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Mokoi ataca a Black Maria
+Black Maria recibe 3 de daño
+Black Maria termina con HP:329/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:592/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:504/596 MP:118/118
+D-Black Maria HP:329/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Patrimpas HP:91/155 MP:149/149
+C-Mokoi HP:74/74 MP:36/36
+D-Dybbuk HP:22/66 MP:63/63
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Anzu
+3-Black Maria
+4-Joker
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nanashi HP:86/140 MP:411/411
+2-Patrimpas HP:91/155 MP:149/149
+3-Mokoi HP:74/74 MP:36/36
+4-Dybbuk HP:22/66 MP:63/63
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nergal ataca a Mokoi
+Mokoi recibe 54 de daño
+Mokoi termina con HP:20/74
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:592/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:504/596 MP:118/118
+D-Black Maria HP:329/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Patrimpas HP:91/155 MP:149/149
+C-Mokoi HP:20/74 MP:36/36
+D-Dybbuk HP:22/66 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Black Maria
+3-Joker
+4-Nergal
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Nanashi HP:86/140 MP:411/411
+2-Patrimpas HP:91/155 MP:149/149
+3-Mokoi HP:20/74 MP:36/36
+4-Dybbuk HP:22/66 MP:63/63
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Anzu ataca a Mokoi
+Mokoi recibe 44 de daño
+Mokoi termina con HP:0/74
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:592/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:504/596 MP:118/118
+D-Black Maria HP:329/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Patrimpas HP:91/155 MP:149/149
+C-
+D-Dybbuk HP:22/66 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Joker
+3-Nergal
+4-Anzu
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Nanashi HP:86/140 MP:411/411
+2-Patrimpas HP:91/155 MP:149/149
+3-Dybbuk HP:22/66 MP:63/63
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Black Maria ataca a Patrimpas
+Patrimpas recibe 36 de daño
+Patrimpas termina con HP:55/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:592/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:504/596 MP:118/118
+D-Black Maria HP:329/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Patrimpas HP:55/155 MP:149/149
+C-
+D-Dybbuk HP:22/66 MP:63/63
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Nergal
+3-Anzu
+4-Black Maria
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:86/140 MP:411/411
+2-Patrimpas HP:55/155 MP:149/149
+3-Dybbuk HP:22/66 MP:63/63
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nanashi
+Nanashi recibe 28 de daño
+Nanashi termina con HP:58/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:592/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:504/596 MP:118/118
+D-Black Maria HP:329/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:58/140 MP:411/411
+B-Patrimpas HP:55/155 MP:149/149
+C-
+D-Dybbuk HP:22/66 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Patrimpas
+3-Dybbuk
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:592/597 MP:347/347
+2-Nergal HP:644/644 MP:288/288
+3-Anzu HP:504/596 MP:118/118
+4-Black Maria HP:329/348 MP:337/337
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nanashi ataca a Black Maria
+Black Maria recibe 92 de daño
+Black Maria termina con HP:237/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:592/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:504/596 MP:118/118
+D-Black Maria HP:237/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:58/140 MP:411/411
+B-Patrimpas HP:55/155 MP:149/149
+C-
+D-Dybbuk HP:22/66 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patrimpas
+2-Dybbuk
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Joker HP:592/597 MP:347/347
+2-Nergal HP:644/644 MP:288/288
+3-Anzu HP:504/596 MP:118/118
+4-Black Maria HP:237/348 MP:337/337
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Joker HP:592/597 MP:347/347
+2-Nergal HP:644/644 MP:288/288
+3-Anzu HP:504/596 MP:118/118
+4-Black Maria HP:237/348 MP:337/337
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Patrimpas ataca a Black Maria
+Black Maria recibe 16 de daño
+Black Maria termina con HP:221/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:592/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:504/596 MP:118/118
+D-Black Maria HP:221/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:58/140 MP:411/411
+B-Patrimpas HP:55/155 MP:149/149
+C-
+D-Dybbuk HP:22/66 MP:63/63
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Nanashi
+3-Patrimpas
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Joker HP:592/597 MP:347/347
+2-Nergal HP:644/644 MP:288/288
+3-Anzu HP:504/596 MP:118/118
+4-Black Maria HP:221/348 MP:337/337
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Dybbuk ataca a Black Maria
+Black Maria recibe 5 de daño
+Black Maria termina con HP:216/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:592/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:504/596 MP:118/118
+D-Black Maria HP:216/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:58/140 MP:411/411
+B-Patrimpas HP:55/155 MP:149/149
+C-
+D-Dybbuk HP:22/66 MP:63/63
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Anzu
+3-Black Maria
+4-Joker
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nanashi HP:58/140 MP:411/411
+2-Patrimpas HP:55/155 MP:149/149
+3-Dybbuk HP:22/66 MP:63/63
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Nanashi
+Nanashi recibe 54 de daño
+Nanashi termina con HP:4/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:592/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:504/596 MP:118/118
+D-Black Maria HP:216/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:4/140 MP:411/411
+B-Patrimpas HP:55/155 MP:149/149
+C-
+D-Dybbuk HP:22/66 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Black Maria
+3-Joker
+4-Nergal
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Nanashi HP:4/140 MP:411/411
+2-Patrimpas HP:55/155 MP:149/149
+3-Dybbuk HP:22/66 MP:63/63
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Anzu ataca a Nanashi
+Nanashi recibe 44 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:592/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:504/596 MP:118/118
+D-Black Maria HP:216/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Patrimpas HP:55/155 MP:149/149
+C-
+D-Dybbuk HP:22/66 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Joker
+3-Nergal
+4-Anzu
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Patrimpas HP:55/155 MP:149/149
+2-Dybbuk HP:22/66 MP:63/63
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Patrimpas HP:55/155 MP:149/149
+2-Dybbuk HP:22/66 MP:63/63
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Patrimpas HP:55/155 MP:149/149
+2-Dybbuk HP:22/66 MP:63/63
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Black Maria ataca a Dybbuk
+Dybbuk recibe 36 de daño
+Dybbuk termina con HP:0/66
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:592/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:504/596 MP:118/118
+D-Black Maria HP:216/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Patrimpas HP:55/155 MP:149/149
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Nergal
+3-Anzu
+4-Black Maria
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Patrimpas HP:55/155 MP:149/149
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Patrimpas HP:55/155 MP:149/149
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Patrimpas
+Patrimpas recibe 39 de daño
+Patrimpas termina con HP:16/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:592/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:504/596 MP:118/118
+D-Black Maria HP:216/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Patrimpas HP:16/155 MP:149/149
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patrimpas
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Joker HP:592/597 MP:347/347
+2-Nergal HP:644/644 MP:288/288
+3-Anzu HP:504/596 MP:118/118
+4-Black Maria HP:216/348 MP:337/337
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Joker HP:592/597 MP:347/347
+2-Nergal HP:644/644 MP:288/288
+3-Anzu HP:504/596 MP:118/118
+4-Black Maria HP:216/348 MP:337/337
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Patrimpas ataca a Joker
+Joker recibe 16 de daño
+Joker termina con HP:576/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:576/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Anzu HP:504/596 MP:118/118
+D-Black Maria HP:216/348 MP:337/337
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Patrimpas HP:16/155 MP:149/149
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Anzu
+3-Black Maria
+4-Joker
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Patrimpas HP:16/155 MP:149/149
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Patrimpas
+Patrimpas recibe 54 de daño
+Patrimpas termina con HP:0/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Joker (J1)

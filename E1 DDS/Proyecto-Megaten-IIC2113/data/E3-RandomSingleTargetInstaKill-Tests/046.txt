@@ -1,0 +1,891 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 45
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Vetala HP:794/794 MP:157/157
+C-Hachiman HP:851/851 MP:170/170
+D-Arachne HP:350/350 MP:157/157
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Vetala
+3-Arachne
+4-Tadano
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Vetala HP:794/794 MP:157/157
+C-Hachiman HP:851/851 MP:170/170
+D-Arachne HP:350/350 MP:157/157
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Vetala
+2-Arachne
+3-Tadano
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Vetala HP:794/794 MP:157/157
+C-Hachiman HP:851/851 MP:170/170
+D-Arachne HP:350/350 MP:157/157
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Arachne
+2-Tadano
+3-Hachiman
+4-Vetala
+----------------------------------------
+Seleccione una acción para Arachne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Arachne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Arachne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Vetala HP:794/794 MP:157/157
+C-Hachiman HP:851/851 MP:170/170
+D-Arachne HP:350/350 MP:157/157
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Hachiman
+3-Vetala
+4-Arachne
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Mudoon MP:10
+2-Bufudyne MP:14
+3-Needle Shot MP:4
+4-Ziodyne MP:14
+5-Sabbatma MP:20
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Nanashi HP:140/140 MP:411/411
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Nanashi HP:140/140 MP:411/411
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano dispara a Nanashi
+Nanashi recibe 20 de daño
+Nanashi termina con HP:120/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Vetala HP:794/794 MP:157/157
+C-Hachiman HP:851/851 MP:170/170
+D-Arachne HP:350/350 MP:157/157
+Equipo de Nanashi (J2)
+A-Nanashi HP:120/140 MP:411/411
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Vetala
+3-Arachne
+4-Tadano
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Vetala HP:794/794 MP:157/157
+C-Hachiman HP:851/851 MP:170/170
+D-Arachne HP:350/350 MP:157/157
+Equipo de Nanashi (J2)
+A-Nanashi HP:120/140 MP:411/411
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Vetala
+2-Arachne
+3-Tadano
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Nanashi HP:120/140 MP:411/411
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vetala use
+1-Nihil Claw MP:11
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vetala use
+1-Nihil Claw MP:11
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Nanashi HP:120/140 MP:411/411
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vetala use
+1-Nihil Claw MP:11
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Vetala HP:794/794 MP:157/157
+C-Hachiman HP:851/851 MP:170/170
+D-Arachne HP:350/350 MP:157/157
+Equipo de Nanashi (J2)
+A-Nanashi HP:120/140 MP:411/411
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Arachne
+2-Tadano
+3-Hachiman
+4-Vetala
+----------------------------------------
+Seleccione una acción para Arachne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Arachne
+1-Nanashi HP:120/140 MP:411/411
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Arachne ataca a Nanashi
+Nanashi recibe 28 de daño
+Nanashi termina con HP:92/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Vetala HP:794/794 MP:157/157
+C-Hachiman HP:851/851 MP:170/170
+D-Arachne HP:350/350 MP:157/157
+Equipo de Nanashi (J2)
+A-Nanashi HP:92/140 MP:411/411
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Vetala HP:794/794 MP:157/157
+C-Hachiman HP:851/851 MP:170/170
+D-Arachne HP:350/350 MP:157/157
+Equipo de Nanashi (J2)
+A-Nanashi HP:92/140 MP:411/411
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tadano HP:388/388 MP:193/193
+2-Vetala HP:794/794 MP:157/157
+3-Hachiman HP:851/851 MP:170/170
+4-Arachne HP:350/350 MP:157/157
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi dispara a Hachiman
+Hachiman recibe 31 de daño
+Hachiman termina con HP:820/851
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Vetala HP:794/794 MP:157/157
+C-Hachiman HP:820/851 MP:170/170
+D-Arachne HP:350/350 MP:157/157
+Equipo de Nanashi (J2)
+A-Nanashi HP:92/140 MP:411/411
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Vetala
+3-Arachne
+4-Tadano
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Nanashi HP:92/140 MP:411/411
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Nanashi HP:92/140 MP:411/411
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Nanashi HP:92/140 MP:411/411
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Nanashi
+Nanashi recibe 65 de daño
+Nanashi termina con HP:27/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Vetala HP:794/794 MP:157/157
+C-Hachiman HP:820/851 MP:170/170
+D-Arachne HP:350/350 MP:157/157
+Equipo de Nanashi (J2)
+A-Nanashi HP:27/140 MP:411/411
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Arachne
+3-Tadano
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Vetala HP:794/794 MP:157/157
+C-Hachiman HP:820/851 MP:170/170
+D-Arachne HP:350/350 MP:157/157
+Equipo de Nanashi (J2)
+A-Nanashi HP:27/140 MP:411/411
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Arachne
+2-Tadano
+3-Hachiman
+4-Vetala
+----------------------------------------
+Seleccione una acción para Arachne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Vetala HP:794/794 MP:157/157
+C-Hachiman HP:820/851 MP:170/170
+D-Arachne HP:350/350 MP:157/157
+Equipo de Nanashi (J2)
+A-Nanashi HP:27/140 MP:411/411
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Hachiman
+3-Vetala
+4-Arachne
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Nanashi HP:27/140 MP:411/411
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Mudoon MP:10
+2-Bufudyne MP:14
+3-Needle Shot MP:4
+4-Ziodyne MP:14
+5-Sabbatma MP:20
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Nanashi HP:27/140 MP:411/411
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Nanashi
+Nanashi recibe 16 de daño
+Nanashi termina con HP:11/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Vetala HP:794/794 MP:157/157
+C-Hachiman HP:820/851 MP:170/170
+D-Arachne HP:350/350 MP:157/157
+Equipo de Nanashi (J2)
+A-Nanashi HP:11/140 MP:411/411
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Vetala
+3-Arachne
+4-Tadano
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Vetala HP:794/794 MP:157/157
+C-Hachiman HP:820/851 MP:170/170
+D-Arachne HP:350/350 MP:157/157
+Equipo de Nanashi (J2)
+A-Nanashi HP:11/140 MP:411/411
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Vetala
+2-Arachne
+3-Tadano
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Nanashi HP:11/140 MP:411/411
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Vetala HP:794/794 MP:157/157
+C-Hachiman HP:820/851 MP:170/170
+D-Arachne HP:350/350 MP:157/157
+Equipo de Nanashi (J2)
+A-Nanashi HP:11/140 MP:411/411
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tadano HP:388/388 MP:193/193
+2-Vetala HP:794/794 MP:157/157
+3-Hachiman HP:820/851 MP:170/170
+4-Arachne HP:350/350 MP:157/157
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi dispara a Hachiman
+Hachiman recibe 31 de daño
+Hachiman termina con HP:789/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Vetala HP:794/794 MP:157/157
+C-Hachiman HP:789/851 MP:170/170
+D-Arachne HP:350/350 MP:157/157
+Equipo de Nanashi (J2)
+A-Nanashi HP:11/140 MP:411/411
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Vetala
+3-Arachne
+4-Tadano
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Nanashi HP:11/140 MP:411/411
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Nanashi
+Nanashi recibe 65 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Tadano (J1)

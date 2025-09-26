@@ -1,0 +1,3050 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 31
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:385/385 MP:172/172
+D-Pales HP:390/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Murmur HP:511/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Pales
+3-Manticore
+4-Joker
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:1136/1136 MP:413/413
+2-Murmur HP:511/511 MP:229/229
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:1136/1136 MP:413/413
+2-Murmur HP:511/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Throne ataca a Murmur
+Murmur recibe 41 de daño
+Murmur termina con HP:470/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:385/385 MP:172/172
+D-Pales HP:390/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Murmur HP:470/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Manticore
+3-Joker
+4-Throne
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Itsuki HP:1136/1136 MP:413/413
+2-Murmur HP:470/511 MP:229/229
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Itsuki HP:1136/1136 MP:413/413
+2-Murmur HP:470/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:1095/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:385/385 MP:172/172
+D-Pales HP:390/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:1095/1136 MP:413/413
+B-Murmur HP:470/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Joker
+3-Throne
+4-Pales
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:1095/1136 MP:413/413
+2-Murmur HP:470/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:1064/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:385/385 MP:172/172
+D-Pales HP:390/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:1064/1136 MP:413/413
+B-Murmur HP:470/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Throne
+3-Pales
+4-Manticore
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:1064/1136 MP:413/413
+2-Murmur HP:470/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Murmur
+Murmur recibe 28 de daño
+Murmur termina con HP:442/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:385/385 MP:172/172
+D-Pales HP:390/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:1064/1136 MP:413/413
+B-Murmur HP:442/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Murmur
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:597/597 MP:347/347
+2-Throne HP:504/504 MP:225/225
+3-Manticore HP:385/385 MP:172/172
+4-Pales HP:390/390 MP:378/378
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Manticore
+Manticore recibe 61 de daño
+Manticore termina con HP:324/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:324/385 MP:172/172
+D-Pales HP:390/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:1064/1136 MP:413/413
+B-Murmur HP:442/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:597/597 MP:347/347
+2-Throne HP:504/504 MP:225/225
+3-Manticore HP:324/385 MP:172/172
+4-Pales HP:390/390 MP:378/378
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Murmur ataca a Pales
+Pales recibe 42 de daño
+Pales termina con HP:348/390
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:324/385 MP:172/172
+D-Pales HP:348/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:1064/1136 MP:413/413
+B-Murmur HP:442/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Pales
+3-Manticore
+4-Joker
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:1064/1136 MP:413/413
+2-Murmur HP:442/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Throne ataca a Murmur
+Murmur recibe 41 de daño
+Murmur termina con HP:401/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:324/385 MP:172/172
+D-Pales HP:348/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:1064/1136 MP:413/413
+B-Murmur HP:401/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Manticore
+3-Joker
+4-Throne
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Itsuki HP:1064/1136 MP:413/413
+2-Murmur HP:401/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:1023/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:324/385 MP:172/172
+D-Pales HP:348/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:1023/1136 MP:413/413
+B-Murmur HP:401/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Joker
+3-Throne
+4-Pales
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:1023/1136 MP:413/413
+2-Murmur HP:401/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Manticore ataca a Murmur
+Murmur recibe 31 de daño
+Murmur termina con HP:370/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:324/385 MP:172/172
+D-Pales HP:348/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:1023/1136 MP:413/413
+B-Murmur HP:370/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Throne
+3-Pales
+4-Manticore
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:1023/1136 MP:413/413
+2-Murmur HP:370/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Itsuki
+Itsuki recibe 39 de daño
+Itsuki termina con HP:984/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:324/385 MP:172/172
+D-Pales HP:348/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:984/1136 MP:413/413
+B-Murmur HP:370/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Murmur
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:597/597 MP:347/347
+2-Throne HP:504/504 MP:225/225
+3-Manticore HP:324/385 MP:172/172
+4-Pales HP:348/390 MP:378/378
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Joker
+Joker recibe 45 de daño
+Joker termina con HP:552/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:552/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:324/385 MP:172/172
+D-Pales HP:348/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:984/1136 MP:413/413
+B-Murmur HP:370/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:552/597 MP:347/347
+2-Throne HP:504/504 MP:225/225
+3-Manticore HP:324/385 MP:172/172
+4-Pales HP:348/390 MP:378/378
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:552/597 MP:347/347
+2-Throne HP:504/504 MP:225/225
+3-Manticore HP:324/385 MP:172/172
+4-Pales HP:348/390 MP:378/378
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Murmur ataca a Joker
+Joker recibe 42 de daño
+Joker termina con HP:510/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:324/385 MP:172/172
+D-Pales HP:348/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:984/1136 MP:413/413
+B-Murmur HP:370/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Pales
+3-Manticore
+4-Joker
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:984/1136 MP:413/413
+2-Murmur HP:370/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:943/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:324/385 MP:172/172
+D-Pales HP:348/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Murmur HP:370/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Manticore
+3-Joker
+4-Throne
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Itsuki HP:943/1136 MP:413/413
+2-Murmur HP:370/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:902/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:324/385 MP:172/172
+D-Pales HP:348/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:902/1136 MP:413/413
+B-Murmur HP:370/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Joker
+3-Throne
+4-Pales
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:902/1136 MP:413/413
+2-Murmur HP:370/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Manticore ataca a Murmur
+Murmur recibe 31 de daño
+Murmur termina con HP:339/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:324/385 MP:172/172
+D-Pales HP:348/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:902/1136 MP:413/413
+B-Murmur HP:339/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Throne
+3-Pales
+4-Manticore
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:902/1136 MP:413/413
+2-Murmur HP:339/511 MP:229/229
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:902/1136 MP:413/413
+2-Murmur HP:339/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Murmur
+Murmur recibe 39 de daño
+Murmur termina con HP:300/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:324/385 MP:172/172
+D-Pales HP:348/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:902/1136 MP:413/413
+B-Murmur HP:300/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Murmur
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:510/597 MP:347/347
+2-Throne HP:504/504 MP:225/225
+3-Manticore HP:324/385 MP:172/172
+4-Pales HP:348/390 MP:378/378
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Pales
+Pales recibe 61 de daño
+Pales termina con HP:287/390
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:324/385 MP:172/172
+D-Pales HP:287/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:902/1136 MP:413/413
+B-Murmur HP:300/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:510/597 MP:347/347
+2-Throne HP:504/504 MP:225/225
+3-Manticore HP:324/385 MP:172/172
+4-Pales HP:287/390 MP:378/378
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Murmur ataca a Manticore
+Manticore recibe 42 de daño
+Manticore termina con HP:282/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:282/385 MP:172/172
+D-Pales HP:287/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:902/1136 MP:413/413
+B-Murmur HP:300/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Pales
+3-Manticore
+4-Joker
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:902/1136 MP:413/413
+2-Murmur HP:300/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Throne ataca a Murmur
+Murmur recibe 41 de daño
+Murmur termina con HP:259/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:282/385 MP:172/172
+D-Pales HP:287/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:902/1136 MP:413/413
+B-Murmur HP:259/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Manticore
+3-Joker
+4-Throne
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Itsuki HP:902/1136 MP:413/413
+2-Murmur HP:259/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:861/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:282/385 MP:172/172
+D-Pales HP:287/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:861/1136 MP:413/413
+B-Murmur HP:259/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Joker
+3-Throne
+4-Pales
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:861/1136 MP:413/413
+2-Murmur HP:259/511 MP:229/229
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:861/1136 MP:413/413
+2-Murmur HP:259/511 MP:229/229
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:861/1136 MP:413/413
+2-Murmur HP:259/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:830/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:282/385 MP:172/172
+D-Pales HP:287/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:830/1136 MP:413/413
+B-Murmur HP:259/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Throne
+3-Pales
+4-Manticore
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:830/1136 MP:413/413
+2-Murmur HP:259/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Murmur
+Murmur recibe 39 de daño
+Murmur termina con HP:220/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:282/385 MP:172/172
+D-Pales HP:287/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:830/1136 MP:413/413
+B-Murmur HP:220/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Murmur
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:510/597 MP:347/347
+2-Throne HP:504/504 MP:225/225
+3-Manticore HP:282/385 MP:172/172
+4-Pales HP:287/390 MP:378/378
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Pales
+Pales recibe 61 de daño
+Pales termina con HP:226/390
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Manticore HP:282/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:830/1136 MP:413/413
+B-Murmur HP:220/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:510/597 MP:347/347
+2-Throne HP:504/504 MP:225/225
+3-Manticore HP:282/385 MP:172/172
+4-Pales HP:226/390 MP:378/378
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:510/597 MP:347/347
+2-Throne HP:504/504 MP:225/225
+3-Manticore HP:282/385 MP:172/172
+4-Pales HP:226/390 MP:378/378
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Murmur ataca a Throne
+Throne recibe 42 de daño
+Throne termina con HP:462/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:462/504 MP:225/225
+C-Manticore HP:282/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:830/1136 MP:413/413
+B-Murmur HP:220/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Pales
+3-Manticore
+4-Joker
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:830/1136 MP:413/413
+2-Murmur HP:220/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:789/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:462/504 MP:225/225
+C-Manticore HP:282/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:789/1136 MP:413/413
+B-Murmur HP:220/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Manticore
+3-Joker
+4-Throne
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Itsuki HP:789/1136 MP:413/413
+2-Murmur HP:220/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:748/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:462/504 MP:225/225
+C-Manticore HP:282/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:748/1136 MP:413/413
+B-Murmur HP:220/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Joker
+3-Throne
+4-Pales
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:748/1136 MP:413/413
+2-Murmur HP:220/511 MP:229/229
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:748/1136 MP:413/413
+2-Murmur HP:220/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:717/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:462/504 MP:225/225
+C-Manticore HP:282/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:717/1136 MP:413/413
+B-Murmur HP:220/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Throne
+3-Pales
+4-Manticore
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:717/1136 MP:413/413
+2-Murmur HP:220/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Murmur
+Murmur recibe 39 de daño
+Murmur termina con HP:181/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:462/504 MP:225/225
+C-Manticore HP:282/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:717/1136 MP:413/413
+B-Murmur HP:181/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Murmur
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:510/597 MP:347/347
+2-Throne HP:462/504 MP:225/225
+3-Manticore HP:282/385 MP:172/172
+4-Pales HP:226/390 MP:378/378
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Manticore
+Manticore recibe 61 de daño
+Manticore termina con HP:221/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:462/504 MP:225/225
+C-Manticore HP:221/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:717/1136 MP:413/413
+B-Murmur HP:181/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:510/597 MP:347/347
+2-Throne HP:462/504 MP:225/225
+3-Manticore HP:221/385 MP:172/172
+4-Pales HP:226/390 MP:378/378
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:510/597 MP:347/347
+2-Throne HP:462/504 MP:225/225
+3-Manticore HP:221/385 MP:172/172
+4-Pales HP:226/390 MP:378/378
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Murmur ataca a Manticore
+Manticore recibe 42 de daño
+Manticore termina con HP:179/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:462/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:717/1136 MP:413/413
+B-Murmur HP:181/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Pales
+3-Manticore
+4-Joker
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:717/1136 MP:413/413
+2-Murmur HP:181/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Throne ataca a Murmur
+Murmur recibe 41 de daño
+Murmur termina con HP:140/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:462/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:717/1136 MP:413/413
+B-Murmur HP:140/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Manticore
+3-Joker
+4-Throne
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Itsuki HP:717/1136 MP:413/413
+2-Murmur HP:140/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:676/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:462/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:676/1136 MP:413/413
+B-Murmur HP:140/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Joker
+3-Throne
+4-Pales
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:676/1136 MP:413/413
+2-Murmur HP:140/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:645/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:462/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:645/1136 MP:413/413
+B-Murmur HP:140/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Throne
+3-Pales
+4-Manticore
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:645/1136 MP:413/413
+2-Murmur HP:140/511 MP:229/229
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:645/1136 MP:413/413
+2-Murmur HP:140/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Murmur
+Murmur recibe 28 de daño
+Murmur termina con HP:112/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:462/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:645/1136 MP:413/413
+B-Murmur HP:112/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Murmur
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:510/597 MP:347/347
+2-Throne HP:462/504 MP:225/225
+3-Manticore HP:179/385 MP:172/172
+4-Pales HP:226/390 MP:378/378
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Throne
+Throne recibe 45 de daño
+Throne termina con HP:417/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:417/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:645/1136 MP:413/413
+B-Murmur HP:112/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:510/597 MP:347/347
+2-Throne HP:417/504 MP:225/225
+3-Manticore HP:179/385 MP:172/172
+4-Pales HP:226/390 MP:378/378
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Murmur ataca a Throne
+Throne recibe 42 de daño
+Throne termina con HP:375/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:645/1136 MP:413/413
+B-Murmur HP:112/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Pales
+3-Manticore
+4-Joker
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:645/1136 MP:413/413
+2-Murmur HP:112/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Throne ataca a Murmur
+Murmur recibe 41 de daño
+Murmur termina con HP:71/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:645/1136 MP:413/413
+B-Murmur HP:71/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Manticore
+3-Joker
+4-Throne
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Itsuki HP:645/1136 MP:413/413
+2-Murmur HP:71/511 MP:229/229
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Itsuki HP:645/1136 MP:413/413
+2-Murmur HP:71/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pales ataca a Murmur
+Murmur recibe 41 de daño
+Murmur termina con HP:30/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:645/1136 MP:413/413
+B-Murmur HP:30/511 MP:229/229
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Joker
+3-Throne
+4-Pales
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:645/1136 MP:413/413
+2-Murmur HP:30/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Manticore ataca a Murmur
+Murmur recibe 31 de daño
+Murmur termina con HP:0/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:645/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Throne
+3-Pales
+4-Manticore
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:645/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Itsuki
+Itsuki recibe 39 de daño
+Itsuki termina con HP:606/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:510/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:606/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:510/597 MP:347/347
+2-Throne HP:375/504 MP:225/225
+3-Manticore HP:179/385 MP:172/172
+4-Pales HP:226/390 MP:378/378
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:510/597 MP:347/347
+2-Throne HP:375/504 MP:225/225
+3-Manticore HP:179/385 MP:172/172
+4-Pales HP:226/390 MP:378/378
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Joker
+Joker recibe 61 de daño
+Joker termina con HP:449/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:449/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:606/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Pales
+3-Manticore
+4-Joker
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:606/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:606/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:565/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:449/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:565/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Manticore
+3-Joker
+4-Throne
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Itsuki HP:565/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Itsuki HP:565/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Itsuki HP:565/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:524/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:449/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:524/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Joker
+3-Throne
+4-Pales
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:524/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:524/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:524/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:524/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:493/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:449/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:493/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Throne
+3-Pales
+4-Manticore
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:493/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Itsuki
+Itsuki recibe 28 de daño
+Itsuki termina con HP:465/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:449/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:465/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:449/597 MP:347/347
+2-Throne HP:375/504 MP:225/225
+3-Manticore HP:179/385 MP:172/172
+4-Pales HP:226/390 MP:378/378
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Joker
+Joker recibe 61 de daño
+Joker termina con HP:388/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:388/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:465/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Pales
+3-Manticore
+4-Joker
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:465/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:465/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:465/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:465/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:465/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:465/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:424/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:388/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:424/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Manticore
+3-Joker
+4-Throne
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Itsuki HP:424/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:383/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:388/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:383/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Joker
+3-Throne
+4-Pales
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:383/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:383/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:352/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:388/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:352/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Throne
+3-Pales
+4-Manticore
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:352/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Itsuki
+Itsuki recibe 39 de daño
+Itsuki termina con HP:313/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:388/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:226/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:313/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:388/597 MP:347/347
+2-Throne HP:375/504 MP:225/225
+3-Manticore HP:179/385 MP:172/172
+4-Pales HP:226/390 MP:378/378
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:388/597 MP:347/347
+2-Throne HP:375/504 MP:225/225
+3-Manticore HP:179/385 MP:172/172
+4-Pales HP:226/390 MP:378/378
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Pales
+Pales recibe 61 de daño
+Pales termina con HP:165/390
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:388/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:165/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:313/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Pales
+3-Manticore
+4-Joker
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:313/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:272/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:388/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:165/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:272/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Manticore
+3-Joker
+4-Throne
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Itsuki HP:272/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:231/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:388/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:165/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:231/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Joker
+3-Throne
+4-Pales
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:231/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:200/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:388/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:165/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:200/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Throne
+3-Pales
+4-Manticore
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:200/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:200/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Itsuki
+Itsuki recibe 39 de daño
+Itsuki termina con HP:161/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:388/597 MP:347/347
+B-Throne HP:375/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:165/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:161/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:388/597 MP:347/347
+2-Throne HP:375/504 MP:225/225
+3-Manticore HP:179/385 MP:172/172
+4-Pales HP:165/390 MP:378/378
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Throne
+Throne recibe 61 de daño
+Throne termina con HP:314/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:388/597 MP:347/347
+B-Throne HP:314/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:165/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:161/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Pales
+3-Manticore
+4-Joker
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:161/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:120/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:388/597 MP:347/347
+B-Throne HP:314/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:165/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:120/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Manticore
+3-Joker
+4-Throne
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Itsuki HP:120/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:79/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:388/597 MP:347/347
+B-Throne HP:314/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:165/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:79/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Joker
+3-Throne
+4-Pales
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:79/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:48/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:388/597 MP:347/347
+B-Throne HP:314/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:165/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:48/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Throne
+3-Pales
+4-Manticore
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:48/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:48/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:48/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:48/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Itsuki
+Itsuki recibe 28 de daño
+Itsuki termina con HP:20/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:388/597 MP:347/347
+B-Throne HP:314/504 MP:225/225
+C-Manticore HP:179/385 MP:172/172
+D-Pales HP:165/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:20/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:388/597 MP:347/347
+2-Throne HP:314/504 MP:225/225
+3-Manticore HP:179/385 MP:172/172
+4-Pales HP:165/390 MP:378/378
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Manticore
+Manticore recibe 61 de daño
+Manticore termina con HP:118/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:388/597 MP:347/347
+B-Throne HP:314/504 MP:225/225
+C-Manticore HP:118/385 MP:172/172
+D-Pales HP:165/390 MP:378/378
+Equipo de Itsuki (J2)
+A-Itsuki HP:20/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Pales
+3-Manticore
+4-Joker
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:20/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:20/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:0/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Joker (J1)

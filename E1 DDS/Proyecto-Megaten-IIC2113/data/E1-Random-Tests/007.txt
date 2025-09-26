@@ -1,0 +1,1465 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 6
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Suparna HP:175/175 MP:77/77
+C-Gabriel HP:455/455 MP:442/442
+D-Asherah HP:433/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Mandrake HP:224/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Asherah
+3-Joker
+4-Suparna
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:453/453 MP:389/389
+2-Mandrake HP:224/224 MP:99/99
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Gabriel ataca a Mandrake
+Mandrake recibe 49 de daño
+Mandrake termina con HP:175/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Suparna HP:175/175 MP:77/77
+C-Gabriel HP:455/455 MP:442/442
+D-Asherah HP:433/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Mandrake HP:175/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Joker
+3-Suparna
+4-Gabriel
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Nahobino HP:453/453 MP:389/389
+2-Mandrake HP:175/224 MP:99/99
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Nahobino HP:453/453 MP:389/389
+2-Mandrake HP:175/224 MP:99/99
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Nahobino
+Nahobino recibe 35 de daño
+Nahobino termina con HP:418/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Suparna HP:175/175 MP:77/77
+C-Gabriel HP:455/455 MP:442/442
+D-Asherah HP:433/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:418/453 MP:389/389
+B-Mandrake HP:175/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Suparna
+3-Gabriel
+4-Asherah
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:418/453 MP:389/389
+2-Mandrake HP:175/224 MP:99/99
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:418/453 MP:389/389
+2-Mandrake HP:175/224 MP:99/99
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Nahobino
+Nahobino recibe 39 de daño
+Nahobino termina con HP:379/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Suparna HP:175/175 MP:77/77
+C-Gabriel HP:455/455 MP:442/442
+D-Asherah HP:433/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:379/453 MP:389/389
+B-Mandrake HP:175/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Suparna
+2-Gabriel
+3-Asherah
+4-Joker
+----------------------------------------
+Seleccione una acción para Suparna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Suparna
+1-Nahobino HP:379/453 MP:389/389
+2-Mandrake HP:175/224 MP:99/99
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Suparna ataca a Nahobino
+Nahobino recibe 12 de daño
+Nahobino termina con HP:367/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Suparna HP:175/175 MP:77/77
+C-Gabriel HP:455/455 MP:442/442
+D-Asherah HP:433/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:367/453 MP:389/389
+B-Mandrake HP:175/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Mandrake
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:597/597 MP:347/347
+2-Suparna HP:175/175 MP:77/77
+3-Gabriel HP:455/455 MP:442/442
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Joker
+Joker recibe 83 de daño
+Joker termina con HP:514/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:175/175 MP:77/77
+C-Gabriel HP:455/455 MP:442/442
+D-Asherah HP:433/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:367/453 MP:389/389
+B-Mandrake HP:175/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Joker HP:514/597 MP:347/347
+2-Suparna HP:175/175 MP:77/77
+3-Gabriel HP:455/455 MP:442/442
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Mandrake ataca a Gabriel
+Gabriel recibe 17 de daño
+Gabriel termina con HP:438/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:175/175 MP:77/77
+C-Gabriel HP:438/455 MP:442/442
+D-Asherah HP:433/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:367/453 MP:389/389
+B-Mandrake HP:175/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Asherah
+3-Joker
+4-Suparna
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:367/453 MP:389/389
+2-Mandrake HP:175/224 MP:99/99
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Gabriel ataca a Nahobino
+Nahobino recibe 49 de daño
+Nahobino termina con HP:318/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:175/175 MP:77/77
+C-Gabriel HP:438/455 MP:442/442
+D-Asherah HP:433/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:318/453 MP:389/389
+B-Mandrake HP:175/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Joker
+3-Suparna
+4-Gabriel
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Nahobino HP:318/453 MP:389/389
+2-Mandrake HP:175/224 MP:99/99
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Nahobino
+Nahobino recibe 35 de daño
+Nahobino termina con HP:283/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:175/175 MP:77/77
+C-Gabriel HP:438/455 MP:442/442
+D-Asherah HP:433/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:283/453 MP:389/389
+B-Mandrake HP:175/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Suparna
+3-Gabriel
+4-Asherah
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:283/453 MP:389/389
+2-Mandrake HP:175/224 MP:99/99
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:283/453 MP:389/389
+2-Mandrake HP:175/224 MP:99/99
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Nahobino
+Nahobino recibe 39 de daño
+Nahobino termina con HP:244/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:175/175 MP:77/77
+C-Gabriel HP:438/455 MP:442/442
+D-Asherah HP:433/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:244/453 MP:389/389
+B-Mandrake HP:175/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Suparna
+2-Gabriel
+3-Asherah
+4-Joker
+----------------------------------------
+Seleccione una acción para Suparna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Suparna
+1-Nahobino HP:244/453 MP:389/389
+2-Mandrake HP:175/224 MP:99/99
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Suparna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Suparna
+1-Nahobino HP:244/453 MP:389/389
+2-Mandrake HP:175/224 MP:99/99
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Suparna ataca a Mandrake
+Mandrake recibe 12 de daño
+Mandrake termina con HP:163/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:175/175 MP:77/77
+C-Gabriel HP:438/455 MP:442/442
+D-Asherah HP:433/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:244/453 MP:389/389
+B-Mandrake HP:163/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Mandrake
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:514/597 MP:347/347
+2-Suparna HP:175/175 MP:77/77
+3-Gabriel HP:438/455 MP:442/442
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Suparna
+Suparna recibe 83 de daño
+Suparna termina con HP:92/175
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:92/175 MP:77/77
+C-Gabriel HP:438/455 MP:442/442
+D-Asherah HP:433/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:244/453 MP:389/389
+B-Mandrake HP:163/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Joker HP:514/597 MP:347/347
+2-Suparna HP:92/175 MP:77/77
+3-Gabriel HP:438/455 MP:442/442
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Mandrake ataca a Suparna
+Suparna recibe 17 de daño
+Suparna termina con HP:75/175
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:75/175 MP:77/77
+C-Gabriel HP:438/455 MP:442/442
+D-Asherah HP:433/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:244/453 MP:389/389
+B-Mandrake HP:163/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Asherah
+3-Joker
+4-Suparna
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:244/453 MP:389/389
+2-Mandrake HP:163/224 MP:99/99
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Gabriel ataca a Nahobino
+Nahobino recibe 49 de daño
+Nahobino termina con HP:195/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:75/175 MP:77/77
+C-Gabriel HP:438/455 MP:442/442
+D-Asherah HP:433/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:195/453 MP:389/389
+B-Mandrake HP:163/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Joker
+3-Suparna
+4-Gabriel
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Nahobino HP:195/453 MP:389/389
+2-Mandrake HP:163/224 MP:99/99
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Asherah ataca a Mandrake
+Mandrake recibe 35 de daño
+Mandrake termina con HP:128/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:75/175 MP:77/77
+C-Gabriel HP:438/455 MP:442/442
+D-Asherah HP:433/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:195/453 MP:389/389
+B-Mandrake HP:128/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Suparna
+3-Gabriel
+4-Asherah
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:195/453 MP:389/389
+2-Mandrake HP:128/224 MP:99/99
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nahobino
+Nahobino recibe 28 de daño
+Nahobino termina con HP:167/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:75/175 MP:77/77
+C-Gabriel HP:438/455 MP:442/442
+D-Asherah HP:433/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:167/453 MP:389/389
+B-Mandrake HP:128/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Suparna
+2-Gabriel
+3-Asherah
+4-Joker
+----------------------------------------
+Seleccione una acción para Suparna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Suparna
+1-Nahobino HP:167/453 MP:389/389
+2-Mandrake HP:128/224 MP:99/99
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Suparna ataca a Mandrake
+Mandrake recibe 12 de daño
+Mandrake termina con HP:116/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:75/175 MP:77/77
+C-Gabriel HP:438/455 MP:442/442
+D-Asherah HP:433/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:167/453 MP:389/389
+B-Mandrake HP:116/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Mandrake
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:514/597 MP:347/347
+2-Suparna HP:75/175 MP:77/77
+3-Gabriel HP:438/455 MP:442/442
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nahobino dispara a Asherah
+Asherah recibe 83 de daño
+Asherah termina con HP:350/433
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:75/175 MP:77/77
+C-Gabriel HP:438/455 MP:442/442
+D-Asherah HP:350/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:167/453 MP:389/389
+B-Mandrake HP:116/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Joker HP:514/597 MP:347/347
+2-Suparna HP:75/175 MP:77/77
+3-Gabriel HP:438/455 MP:442/442
+4-Asherah HP:350/433 MP:195/195
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Mandrake ataca a Asherah
+Asherah recibe 17 de daño
+Asherah termina con HP:333/433
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:75/175 MP:77/77
+C-Gabriel HP:438/455 MP:442/442
+D-Asherah HP:333/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:167/453 MP:389/389
+B-Mandrake HP:116/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Asherah
+3-Joker
+4-Suparna
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:167/453 MP:389/389
+2-Mandrake HP:116/224 MP:99/99
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:167/453 MP:389/389
+2-Mandrake HP:116/224 MP:99/99
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Gabriel ataca a Nahobino
+Nahobino recibe 49 de daño
+Nahobino termina con HP:118/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:75/175 MP:77/77
+C-Gabriel HP:438/455 MP:442/442
+D-Asherah HP:333/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:118/453 MP:389/389
+B-Mandrake HP:116/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Joker
+3-Suparna
+4-Gabriel
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Nahobino HP:118/453 MP:389/389
+2-Mandrake HP:116/224 MP:99/99
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Nahobino
+Nahobino recibe 35 de daño
+Nahobino termina con HP:83/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:75/175 MP:77/77
+C-Gabriel HP:438/455 MP:442/442
+D-Asherah HP:333/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:83/453 MP:389/389
+B-Mandrake HP:116/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Suparna
+3-Gabriel
+4-Asherah
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:83/453 MP:389/389
+2-Mandrake HP:116/224 MP:99/99
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:83/453 MP:389/389
+2-Mandrake HP:116/224 MP:99/99
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Mandrake
+Mandrake recibe 39 de daño
+Mandrake termina con HP:77/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:75/175 MP:77/77
+C-Gabriel HP:438/455 MP:442/442
+D-Asherah HP:333/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:83/453 MP:389/389
+B-Mandrake HP:77/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Suparna
+2-Gabriel
+3-Asherah
+4-Joker
+----------------------------------------
+Seleccione una acción para Suparna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Suparna
+1-Nahobino HP:83/453 MP:389/389
+2-Mandrake HP:77/224 MP:99/99
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Suparna ataca a Nahobino
+Nahobino recibe 12 de daño
+Nahobino termina con HP:71/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:75/175 MP:77/77
+C-Gabriel HP:438/455 MP:442/442
+D-Asherah HP:333/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:71/453 MP:389/389
+B-Mandrake HP:77/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Mandrake
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:514/597 MP:347/347
+2-Suparna HP:75/175 MP:77/77
+3-Gabriel HP:438/455 MP:442/442
+4-Asherah HP:333/433 MP:195/195
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca a Suparna
+Suparna recibe 29 de daño
+Suparna termina con HP:46/175
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:46/175 MP:77/77
+C-Gabriel HP:438/455 MP:442/442
+D-Asherah HP:333/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:71/453 MP:389/389
+B-Mandrake HP:77/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Joker HP:514/597 MP:347/347
+2-Suparna HP:46/175 MP:77/77
+3-Gabriel HP:438/455 MP:442/442
+4-Asherah HP:333/433 MP:195/195
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Mandrake ataca a Gabriel
+Gabriel recibe 17 de daño
+Gabriel termina con HP:421/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:46/175 MP:77/77
+C-Gabriel HP:421/455 MP:442/442
+D-Asherah HP:333/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:71/453 MP:389/389
+B-Mandrake HP:77/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Asherah
+3-Joker
+4-Suparna
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:71/453 MP:389/389
+2-Mandrake HP:77/224 MP:99/99
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Gabriel ataca a Mandrake
+Mandrake recibe 49 de daño
+Mandrake termina con HP:28/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:46/175 MP:77/77
+C-Gabriel HP:421/455 MP:442/442
+D-Asherah HP:333/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:71/453 MP:389/389
+B-Mandrake HP:28/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Joker
+3-Suparna
+4-Gabriel
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Nahobino HP:71/453 MP:389/389
+2-Mandrake HP:28/224 MP:99/99
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Nahobino
+Nahobino recibe 35 de daño
+Nahobino termina con HP:36/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:46/175 MP:77/77
+C-Gabriel HP:421/455 MP:442/442
+D-Asherah HP:333/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:36/453 MP:389/389
+B-Mandrake HP:28/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Suparna
+3-Gabriel
+4-Asherah
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:36/453 MP:389/389
+2-Mandrake HP:28/224 MP:99/99
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:36/453 MP:389/389
+2-Mandrake HP:28/224 MP:99/99
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nahobino
+Nahobino recibe 28 de daño
+Nahobino termina con HP:8/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:46/175 MP:77/77
+C-Gabriel HP:421/455 MP:442/442
+D-Asherah HP:333/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:8/453 MP:389/389
+B-Mandrake HP:28/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Suparna
+2-Gabriel
+3-Asherah
+4-Joker
+----------------------------------------
+Seleccione una acción para Suparna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Suparna
+1-Nahobino HP:8/453 MP:389/389
+2-Mandrake HP:28/224 MP:99/99
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Suparna ataca a Nahobino
+Nahobino recibe 12 de daño
+Nahobino termina con HP:0/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:46/175 MP:77/77
+C-Gabriel HP:421/455 MP:442/442
+D-Asherah HP:333/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Mandrake HP:28/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Joker HP:514/597 MP:347/347
+2-Suparna HP:46/175 MP:77/77
+3-Gabriel HP:421/455 MP:442/442
+4-Asherah HP:333/433 MP:195/195
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Mandrake ataca a Gabriel
+Gabriel recibe 17 de daño
+Gabriel termina con HP:404/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Suparna HP:46/175 MP:77/77
+C-Gabriel HP:404/455 MP:442/442
+D-Asherah HP:333/433 MP:195/195
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Mandrake HP:28/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Asherah
+3-Joker
+4-Suparna
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Mandrake HP:28/224 MP:99/99
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Mandrake HP:28/224 MP:99/99
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Mandrake HP:28/224 MP:99/99
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Gabriel ataca a Mandrake
+Mandrake recibe 49 de daño
+Mandrake termina con HP:0/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Joker (J1)

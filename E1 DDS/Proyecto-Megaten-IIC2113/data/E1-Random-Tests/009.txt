@@ -1,0 +1,3248 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 8
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Kwancha HP:160/160 MP:154/154
+C-Throne HP:504/504 MP:225/225
+D-Apsaras HP:85/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Dominion HP:287/287 MP:278/278
+C-Pisaca HP:454/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Throne
+3-Kwancha
+4-Apsaras
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nahobino HP:453/453 MP:389/389
+2-Dominion HP:287/287 MP:278/278
+3-Pisaca HP:454/454 MP:90/90
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Nahobino
+Nahobino recibe 110 de daño
+Nahobino termina con HP:343/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Kwancha HP:160/160 MP:154/154
+C-Throne HP:504/504 MP:225/225
+D-Apsaras HP:85/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:343/453 MP:389/389
+B-Dominion HP:287/287 MP:278/278
+C-Pisaca HP:454/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Kwancha
+3-Apsaras
+4-Flynn
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Nahobino HP:343/453 MP:389/389
+2-Dominion HP:287/287 MP:278/278
+3-Pisaca HP:454/454 MP:90/90
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Nahobino
+Nahobino recibe 41 de daño
+Nahobino termina con HP:302/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Kwancha HP:160/160 MP:154/154
+C-Throne HP:504/504 MP:225/225
+D-Apsaras HP:85/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:302/453 MP:389/389
+B-Dominion HP:287/287 MP:278/278
+C-Pisaca HP:454/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kwancha
+2-Apsaras
+3-Flynn
+4-Throne
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kwancha
+1-Nahobino HP:302/453 MP:389/389
+2-Dominion HP:287/287 MP:278/278
+3-Pisaca HP:454/454 MP:90/90
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kwancha ataca a Pisaca
+Pisaca recibe 16 de daño
+Pisaca termina con HP:438/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Kwancha HP:160/160 MP:154/154
+C-Throne HP:504/504 MP:225/225
+D-Apsaras HP:85/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:302/453 MP:389/389
+B-Dominion HP:287/287 MP:278/278
+C-Pisaca HP:438/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apsaras
+2-Flynn
+3-Throne
+4-Kwancha
+----------------------------------------
+Seleccione una acción para Apsaras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apsaras
+1-Nahobino HP:302/453 MP:389/389
+2-Dominion HP:287/287 MP:278/278
+3-Pisaca HP:438/454 MP:90/90
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Apsaras ataca a Pisaca
+Pisaca recibe 8 de daño
+Pisaca termina con HP:430/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Kwancha HP:160/160 MP:154/154
+C-Throne HP:504/504 MP:225/225
+D-Apsaras HP:85/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:302/453 MP:389/389
+B-Dominion HP:287/287 MP:278/278
+C-Pisaca HP:430/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Balor
+3-Dominion
+4-Pisaca
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Flynn HP:971/971 MP:527/527
+2-Kwancha HP:160/160 MP:154/154
+3-Throne HP:504/504 MP:225/225
+4-Apsaras HP:85/85 MP:81/81
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Flynn HP:971/971 MP:527/527
+2-Kwancha HP:160/160 MP:154/154
+3-Throne HP:504/504 MP:225/225
+4-Apsaras HP:85/85 MP:81/81
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Throne
+Throne recibe 29 de daño
+Throne termina con HP:475/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Kwancha HP:160/160 MP:154/154
+C-Throne HP:475/504 MP:225/225
+D-Apsaras HP:85/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:302/453 MP:389/389
+B-Dominion HP:287/287 MP:278/278
+C-Pisaca HP:430/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Dominion
+3-Pisaca
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Flynn HP:971/971 MP:527/527
+2-Kwancha HP:160/160 MP:154/154
+3-Throne HP:475/504 MP:225/225
+4-Apsaras HP:85/85 MP:81/81
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Flynn HP:971/971 MP:527/527
+2-Kwancha HP:160/160 MP:154/154
+3-Throne HP:475/504 MP:225/225
+4-Apsaras HP:85/85 MP:81/81
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Balor ataca a Kwancha
+Kwancha recibe 36 de daño
+Kwancha termina con HP:124/160
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Kwancha HP:124/160 MP:154/154
+C-Throne HP:475/504 MP:225/225
+D-Apsaras HP:85/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:302/453 MP:389/389
+B-Dominion HP:287/287 MP:278/278
+C-Pisaca HP:430/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dominion
+2-Pisaca
+3-Nahobino
+4-Balor
+----------------------------------------
+Seleccione una acción para Dominion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dominion
+1-Flynn HP:971/971 MP:527/527
+2-Kwancha HP:124/160 MP:154/154
+3-Throne HP:475/504 MP:225/225
+4-Apsaras HP:85/85 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Dominion ataca a Apsaras
+Apsaras recibe 30 de daño
+Apsaras termina con HP:55/85
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Kwancha HP:124/160 MP:154/154
+C-Throne HP:475/504 MP:225/225
+D-Apsaras HP:55/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:302/453 MP:389/389
+B-Dominion HP:287/287 MP:278/278
+C-Pisaca HP:430/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Nahobino
+3-Balor
+4-Dominion
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Flynn HP:971/971 MP:527/527
+2-Kwancha HP:124/160 MP:154/154
+3-Throne HP:475/504 MP:225/225
+4-Apsaras HP:55/85 MP:81/81
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Flynn HP:971/971 MP:527/527
+2-Kwancha HP:124/160 MP:154/154
+3-Throne HP:475/504 MP:225/225
+4-Apsaras HP:55/85 MP:81/81
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ataca a Flynn
+Flynn recibe 33 de daño
+Flynn termina con HP:938/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:938/971 MP:527/527
+B-Kwancha HP:124/160 MP:154/154
+C-Throne HP:475/504 MP:225/225
+D-Apsaras HP:55/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:302/453 MP:389/389
+B-Dominion HP:287/287 MP:278/278
+C-Pisaca HP:430/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Throne
+3-Kwancha
+4-Apsaras
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nahobino HP:302/453 MP:389/389
+2-Dominion HP:287/287 MP:278/278
+3-Pisaca HP:430/454 MP:90/90
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Pisaca
+Pisaca recibe 88 de daño
+Pisaca termina con HP:342/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:938/971 MP:527/527
+B-Kwancha HP:124/160 MP:154/154
+C-Throne HP:475/504 MP:225/225
+D-Apsaras HP:55/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:302/453 MP:389/389
+B-Dominion HP:287/287 MP:278/278
+C-Pisaca HP:342/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Kwancha
+3-Apsaras
+4-Flynn
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Nahobino HP:302/453 MP:389/389
+2-Dominion HP:287/287 MP:278/278
+3-Pisaca HP:342/454 MP:90/90
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Throne ataca a Pisaca
+Pisaca recibe 41 de daño
+Pisaca termina con HP:301/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:938/971 MP:527/527
+B-Kwancha HP:124/160 MP:154/154
+C-Throne HP:475/504 MP:225/225
+D-Apsaras HP:55/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:302/453 MP:389/389
+B-Dominion HP:287/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kwancha
+2-Apsaras
+3-Flynn
+4-Throne
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kwancha
+1-Nahobino HP:302/453 MP:389/389
+2-Dominion HP:287/287 MP:278/278
+3-Pisaca HP:301/454 MP:90/90
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kwancha
+1-Nahobino HP:302/453 MP:389/389
+2-Dominion HP:287/287 MP:278/278
+3-Pisaca HP:301/454 MP:90/90
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kwancha ataca a Dominion
+Dominion recibe 16 de daño
+Dominion termina con HP:271/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:938/971 MP:527/527
+B-Kwancha HP:124/160 MP:154/154
+C-Throne HP:475/504 MP:225/225
+D-Apsaras HP:55/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:302/453 MP:389/389
+B-Dominion HP:271/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apsaras
+2-Flynn
+3-Throne
+4-Kwancha
+----------------------------------------
+Seleccione una acción para Apsaras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apsaras
+1-Nahobino HP:302/453 MP:389/389
+2-Dominion HP:271/287 MP:278/278
+3-Pisaca HP:301/454 MP:90/90
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Apsaras ataca a Nahobino
+Nahobino recibe 8 de daño
+Nahobino termina con HP:294/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:938/971 MP:527/527
+B-Kwancha HP:124/160 MP:154/154
+C-Throne HP:475/504 MP:225/225
+D-Apsaras HP:55/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:294/453 MP:389/389
+B-Dominion HP:271/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Balor
+3-Dominion
+4-Pisaca
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Flynn HP:938/971 MP:527/527
+2-Kwancha HP:124/160 MP:154/154
+3-Throne HP:475/504 MP:225/225
+4-Apsaras HP:55/85 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nahobino ataca a Apsaras
+Apsaras recibe 29 de daño
+Apsaras termina con HP:26/85
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:938/971 MP:527/527
+B-Kwancha HP:124/160 MP:154/154
+C-Throne HP:475/504 MP:225/225
+D-Apsaras HP:26/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:294/453 MP:389/389
+B-Dominion HP:271/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Dominion
+3-Pisaca
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Flynn HP:938/971 MP:527/527
+2-Kwancha HP:124/160 MP:154/154
+3-Throne HP:475/504 MP:225/225
+4-Apsaras HP:26/85 MP:81/81
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Balor ataca a Kwancha
+Kwancha recibe 36 de daño
+Kwancha termina con HP:88/160
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:938/971 MP:527/527
+B-Kwancha HP:88/160 MP:154/154
+C-Throne HP:475/504 MP:225/225
+D-Apsaras HP:26/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:294/453 MP:389/389
+B-Dominion HP:271/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dominion
+2-Pisaca
+3-Nahobino
+4-Balor
+----------------------------------------
+Seleccione una acción para Dominion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dominion
+1-Flynn HP:938/971 MP:527/527
+2-Kwancha HP:88/160 MP:154/154
+3-Throne HP:475/504 MP:225/225
+4-Apsaras HP:26/85 MP:81/81
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Dominion ataca a Flynn
+Flynn recibe 30 de daño
+Flynn termina con HP:908/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:908/971 MP:527/527
+B-Kwancha HP:88/160 MP:154/154
+C-Throne HP:475/504 MP:225/225
+D-Apsaras HP:26/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:294/453 MP:389/389
+B-Dominion HP:271/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Nahobino
+3-Balor
+4-Dominion
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Flynn HP:908/971 MP:527/527
+2-Kwancha HP:88/160 MP:154/154
+3-Throne HP:475/504 MP:225/225
+4-Apsaras HP:26/85 MP:81/81
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ataca a Flynn
+Flynn recibe 33 de daño
+Flynn termina con HP:875/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:875/971 MP:527/527
+B-Kwancha HP:88/160 MP:154/154
+C-Throne HP:475/504 MP:225/225
+D-Apsaras HP:26/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:294/453 MP:389/389
+B-Dominion HP:271/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Throne
+3-Kwancha
+4-Apsaras
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nahobino HP:294/453 MP:389/389
+2-Dominion HP:271/287 MP:278/278
+3-Pisaca HP:301/454 MP:90/90
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Nahobino
+Nahobino recibe 110 de daño
+Nahobino termina con HP:184/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:875/971 MP:527/527
+B-Kwancha HP:88/160 MP:154/154
+C-Throne HP:475/504 MP:225/225
+D-Apsaras HP:26/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:184/453 MP:389/389
+B-Dominion HP:271/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Kwancha
+3-Apsaras
+4-Flynn
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Nahobino HP:184/453 MP:389/389
+2-Dominion HP:271/287 MP:278/278
+3-Pisaca HP:301/454 MP:90/90
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Nahobino
+Nahobino recibe 41 de daño
+Nahobino termina con HP:143/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:875/971 MP:527/527
+B-Kwancha HP:88/160 MP:154/154
+C-Throne HP:475/504 MP:225/225
+D-Apsaras HP:26/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:143/453 MP:389/389
+B-Dominion HP:271/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kwancha
+2-Apsaras
+3-Flynn
+4-Throne
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kwancha
+1-Nahobino HP:143/453 MP:389/389
+2-Dominion HP:271/287 MP:278/278
+3-Pisaca HP:301/454 MP:90/90
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kwancha ataca a Dominion
+Dominion recibe 16 de daño
+Dominion termina con HP:255/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:875/971 MP:527/527
+B-Kwancha HP:88/160 MP:154/154
+C-Throne HP:475/504 MP:225/225
+D-Apsaras HP:26/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:143/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apsaras
+2-Flynn
+3-Throne
+4-Kwancha
+----------------------------------------
+Seleccione una acción para Apsaras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apsaras
+1-Nahobino HP:143/453 MP:389/389
+2-Dominion HP:255/287 MP:278/278
+3-Pisaca HP:301/454 MP:90/90
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Apsaras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apsaras
+1-Nahobino HP:143/453 MP:389/389
+2-Dominion HP:255/287 MP:278/278
+3-Pisaca HP:301/454 MP:90/90
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Apsaras ataca a Nahobino
+Nahobino recibe 8 de daño
+Nahobino termina con HP:135/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:875/971 MP:527/527
+B-Kwancha HP:88/160 MP:154/154
+C-Throne HP:475/504 MP:225/225
+D-Apsaras HP:26/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:135/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Balor
+3-Dominion
+4-Pisaca
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Flynn HP:875/971 MP:527/527
+2-Kwancha HP:88/160 MP:154/154
+3-Throne HP:475/504 MP:225/225
+4-Apsaras HP:26/85 MP:81/81
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino dispara a Throne
+Throne recibe 83 de daño
+Throne termina con HP:392/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:875/971 MP:527/527
+B-Kwancha HP:88/160 MP:154/154
+C-Throne HP:392/504 MP:225/225
+D-Apsaras HP:26/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:135/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Dominion
+3-Pisaca
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Flynn HP:875/971 MP:527/527
+2-Kwancha HP:88/160 MP:154/154
+3-Throne HP:392/504 MP:225/225
+4-Apsaras HP:26/85 MP:81/81
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Balor ataca a Throne
+Throne recibe 36 de daño
+Throne termina con HP:356/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:875/971 MP:527/527
+B-Kwancha HP:88/160 MP:154/154
+C-Throne HP:356/504 MP:225/225
+D-Apsaras HP:26/85 MP:81/81
+Equipo de Nahobino (J2)
+A-Nahobino HP:135/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dominion
+2-Pisaca
+3-Nahobino
+4-Balor
+----------------------------------------
+Seleccione una acción para Dominion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dominion
+1-Flynn HP:875/971 MP:527/527
+2-Kwancha HP:88/160 MP:154/154
+3-Throne HP:356/504 MP:225/225
+4-Apsaras HP:26/85 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Dominion ataca a Apsaras
+Apsaras recibe 30 de daño
+Apsaras termina con HP:0/85
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:875/971 MP:527/527
+B-Kwancha HP:88/160 MP:154/154
+C-Throne HP:356/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:135/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Nahobino
+3-Balor
+4-Dominion
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Flynn HP:875/971 MP:527/527
+2-Kwancha HP:88/160 MP:154/154
+3-Throne HP:356/504 MP:225/225
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Pisaca ataca a Throne
+Throne recibe 33 de daño
+Throne termina con HP:323/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:875/971 MP:527/527
+B-Kwancha HP:88/160 MP:154/154
+C-Throne HP:323/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:135/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Throne
+3-Kwancha
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nahobino HP:135/453 MP:389/389
+2-Dominion HP:255/287 MP:278/278
+3-Pisaca HP:301/454 MP:90/90
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Flynn ataca a Balor
+Balor recibe 88 de daño
+Balor termina con HP:404/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:875/971 MP:527/527
+B-Kwancha HP:88/160 MP:154/154
+C-Throne HP:323/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:135/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Kwancha
+3-Flynn
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Nahobino HP:135/453 MP:389/389
+2-Dominion HP:255/287 MP:278/278
+3-Pisaca HP:301/454 MP:90/90
+4-Balor HP:404/492 MP:98/98
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Nahobino
+Nahobino recibe 41 de daño
+Nahobino termina con HP:94/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:875/971 MP:527/527
+B-Kwancha HP:88/160 MP:154/154
+C-Throne HP:323/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:94/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kwancha
+2-Flynn
+3-Throne
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kwancha
+1-Nahobino HP:94/453 MP:389/389
+2-Dominion HP:255/287 MP:278/278
+3-Pisaca HP:301/454 MP:90/90
+4-Balor HP:404/492 MP:98/98
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kwancha ataca a Nahobino
+Nahobino recibe 16 de daño
+Nahobino termina con HP:78/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:875/971 MP:527/527
+B-Kwancha HP:88/160 MP:154/154
+C-Throne HP:323/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:78/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Balor
+3-Dominion
+4-Pisaca
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Flynn HP:875/971 MP:527/527
+2-Kwancha HP:88/160 MP:154/154
+3-Throne HP:323/504 MP:225/225
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Kwancha
+Kwancha recibe 83 de daño
+Kwancha termina con HP:5/160
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:875/971 MP:527/527
+B-Kwancha HP:5/160 MP:154/154
+C-Throne HP:323/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:78/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Dominion
+3-Pisaca
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Flynn HP:875/971 MP:527/527
+2-Kwancha HP:5/160 MP:154/154
+3-Throne HP:323/504 MP:225/225
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Balor ataca a Kwancha
+Kwancha recibe 36 de daño
+Kwancha termina con HP:0/160
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:875/971 MP:527/527
+B-
+C-Throne HP:323/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:78/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dominion
+2-Pisaca
+3-Nahobino
+4-Balor
+----------------------------------------
+Seleccione una acción para Dominion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dominion
+1-Flynn HP:875/971 MP:527/527
+2-Throne HP:323/504 MP:225/225
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Dominion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dominion
+1-Flynn HP:875/971 MP:527/527
+2-Throne HP:323/504 MP:225/225
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Dominion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dominion
+1-Flynn HP:875/971 MP:527/527
+2-Throne HP:323/504 MP:225/225
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Dominion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dominion
+1-Flynn HP:875/971 MP:527/527
+2-Throne HP:323/504 MP:225/225
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Dominion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dominion
+1-Flynn HP:875/971 MP:527/527
+2-Throne HP:323/504 MP:225/225
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Dominion ataca a Flynn
+Flynn recibe 30 de daño
+Flynn termina con HP:845/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:845/971 MP:527/527
+B-
+C-Throne HP:323/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:78/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Nahobino
+3-Balor
+4-Dominion
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Flynn HP:845/971 MP:527/527
+2-Throne HP:323/504 MP:225/225
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pisaca ataca a Throne
+Throne recibe 33 de daño
+Throne termina con HP:290/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:845/971 MP:527/527
+B-
+C-Throne HP:290/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:78/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:301/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Throne
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nahobino HP:78/453 MP:389/389
+2-Dominion HP:255/287 MP:278/278
+3-Pisaca HP:301/454 MP:90/90
+4-Balor HP:404/492 MP:98/98
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nahobino HP:78/453 MP:389/389
+2-Dominion HP:255/287 MP:278/278
+3-Pisaca HP:301/454 MP:90/90
+4-Balor HP:404/492 MP:98/98
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Pisaca
+Pisaca recibe 88 de daño
+Pisaca termina con HP:213/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:845/971 MP:527/527
+B-
+C-Throne HP:290/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:78/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:213/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Flynn
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Nahobino HP:78/453 MP:389/389
+2-Dominion HP:255/287 MP:278/278
+3-Pisaca HP:213/454 MP:90/90
+4-Balor HP:404/492 MP:98/98
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Throne ataca a Pisaca
+Pisaca recibe 41 de daño
+Pisaca termina con HP:172/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:845/971 MP:527/527
+B-
+C-Throne HP:290/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:78/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:172/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Balor
+3-Dominion
+4-Pisaca
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Flynn HP:845/971 MP:527/527
+2-Throne HP:290/504 MP:225/225
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Flynn HP:845/971 MP:527/527
+2-Throne HP:290/504 MP:225/225
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Flynn HP:845/971 MP:527/527
+2-Throne HP:290/504 MP:225/225
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Flynn
+Flynn recibe 29 de daño
+Flynn termina con HP:816/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:816/971 MP:527/527
+B-
+C-Throne HP:290/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:78/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:172/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Dominion
+3-Pisaca
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Flynn HP:816/971 MP:527/527
+2-Throne HP:290/504 MP:225/225
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Balor ataca a Flynn
+Flynn recibe 36 de daño
+Flynn termina con HP:780/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:780/971 MP:527/527
+B-
+C-Throne HP:290/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:78/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:172/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dominion
+2-Pisaca
+3-Nahobino
+4-Balor
+----------------------------------------
+Seleccione una acción para Dominion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dominion
+1-Flynn HP:780/971 MP:527/527
+2-Throne HP:290/504 MP:225/225
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Dominion ataca a Throne
+Throne recibe 30 de daño
+Throne termina con HP:260/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:780/971 MP:527/527
+B-
+C-Throne HP:260/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:78/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:172/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Nahobino
+3-Balor
+4-Dominion
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Flynn HP:780/971 MP:527/527
+2-Throne HP:260/504 MP:225/225
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ataca a Flynn
+Flynn recibe 33 de daño
+Flynn termina con HP:747/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:747/971 MP:527/527
+B-
+C-Throne HP:260/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:78/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:172/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Throne
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nahobino HP:78/453 MP:389/389
+2-Dominion HP:255/287 MP:278/278
+3-Pisaca HP:172/454 MP:90/90
+4-Balor HP:404/492 MP:98/98
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Nahobino
+Nahobino recibe 88 de daño
+Nahobino termina con HP:0/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:747/971 MP:527/527
+B-
+C-Throne HP:260/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Dominion HP:255/287 MP:278/278
+C-Pisaca HP:172/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Flynn
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Dominion HP:255/287 MP:278/278
+2-Pisaca HP:172/454 MP:90/90
+3-Balor HP:404/492 MP:98/98
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Dominion
+Dominion recibe 41 de daño
+Dominion termina con HP:214/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:747/971 MP:527/527
+B-
+C-Throne HP:260/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Dominion HP:214/287 MP:278/278
+C-Pisaca HP:172/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Dominion
+3-Pisaca
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Flynn HP:747/971 MP:527/527
+2-Throne HP:260/504 MP:225/225
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Flynn HP:747/971 MP:527/527
+2-Throne HP:260/504 MP:225/225
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Balor ataca a Flynn
+Flynn recibe 36 de daño
+Flynn termina con HP:711/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:711/971 MP:527/527
+B-
+C-Throne HP:260/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Dominion HP:214/287 MP:278/278
+C-Pisaca HP:172/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dominion
+2-Pisaca
+3-Balor
+----------------------------------------
+Seleccione una acción para Dominion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dominion
+1-Flynn HP:711/971 MP:527/527
+2-Throne HP:260/504 MP:225/225
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Dominion ataca a Throne
+Throne recibe 30 de daño
+Throne termina con HP:230/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:711/971 MP:527/527
+B-
+C-Throne HP:230/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Dominion HP:214/287 MP:278/278
+C-Pisaca HP:172/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Balor
+3-Dominion
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Flynn HP:711/971 MP:527/527
+2-Throne HP:230/504 MP:225/225
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pisaca ataca a Throne
+Throne recibe 33 de daño
+Throne termina con HP:197/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:711/971 MP:527/527
+B-
+C-Throne HP:197/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Dominion HP:214/287 MP:278/278
+C-Pisaca HP:172/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Throne
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Dominion HP:214/287 MP:278/278
+2-Pisaca HP:172/454 MP:90/90
+3-Balor HP:404/492 MP:98/98
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Dominion
+Dominion recibe 110 de daño
+Dominion termina con HP:104/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:711/971 MP:527/527
+B-
+C-Throne HP:197/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Dominion HP:104/287 MP:278/278
+C-Pisaca HP:172/454 MP:90/90
+D-Balor HP:404/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Flynn
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Dominion HP:104/287 MP:278/278
+2-Pisaca HP:172/454 MP:90/90
+3-Balor HP:404/492 MP:98/98
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Dominion HP:104/287 MP:278/278
+2-Pisaca HP:172/454 MP:90/90
+3-Balor HP:404/492 MP:98/98
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Throne ataca a Balor
+Balor recibe 41 de daño
+Balor termina con HP:363/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:711/971 MP:527/527
+B-
+C-Throne HP:197/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Dominion HP:104/287 MP:278/278
+C-Pisaca HP:172/454 MP:90/90
+D-Balor HP:363/492 MP:98/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Dominion
+3-Pisaca
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Flynn HP:711/971 MP:527/527
+2-Throne HP:197/504 MP:225/225
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Balor ataca a Throne
+Throne recibe 36 de daño
+Throne termina con HP:161/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:711/971 MP:527/527
+B-
+C-Throne HP:161/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Dominion HP:104/287 MP:278/278
+C-Pisaca HP:172/454 MP:90/90
+D-Balor HP:363/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dominion
+2-Pisaca
+3-Balor
+----------------------------------------
+Seleccione una acción para Dominion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dominion
+1-Flynn HP:711/971 MP:527/527
+2-Throne HP:161/504 MP:225/225
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Dominion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dominion
+1-Flynn HP:711/971 MP:527/527
+2-Throne HP:161/504 MP:225/225
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Dominion ataca a Flynn
+Flynn recibe 30 de daño
+Flynn termina con HP:681/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:681/971 MP:527/527
+B-
+C-Throne HP:161/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Dominion HP:104/287 MP:278/278
+C-Pisaca HP:172/454 MP:90/90
+D-Balor HP:363/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Balor
+3-Dominion
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Flynn HP:681/971 MP:527/527
+2-Throne HP:161/504 MP:225/225
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pisaca ataca a Throne
+Throne recibe 33 de daño
+Throne termina con HP:128/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:681/971 MP:527/527
+B-
+C-Throne HP:128/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Dominion HP:104/287 MP:278/278
+C-Pisaca HP:172/454 MP:90/90
+D-Balor HP:363/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Throne
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Dominion HP:104/287 MP:278/278
+2-Pisaca HP:172/454 MP:90/90
+3-Balor HP:363/492 MP:98/98
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn dispara a Balor
+Balor recibe 110 de daño
+Balor termina con HP:253/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:681/971 MP:527/527
+B-
+C-Throne HP:128/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Dominion HP:104/287 MP:278/278
+C-Pisaca HP:172/454 MP:90/90
+D-Balor HP:253/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Flynn
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Dominion HP:104/287 MP:278/278
+2-Pisaca HP:172/454 MP:90/90
+3-Balor HP:253/492 MP:98/98
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Throne ataca a Pisaca
+Pisaca recibe 41 de daño
+Pisaca termina con HP:131/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:681/971 MP:527/527
+B-
+C-Throne HP:128/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Dominion HP:104/287 MP:278/278
+C-Pisaca HP:131/454 MP:90/90
+D-Balor HP:253/492 MP:98/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Dominion
+3-Pisaca
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Flynn HP:681/971 MP:527/527
+2-Throne HP:128/504 MP:225/225
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Balor ataca a Throne
+Throne recibe 36 de daño
+Throne termina con HP:92/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:681/971 MP:527/527
+B-
+C-Throne HP:92/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Dominion HP:104/287 MP:278/278
+C-Pisaca HP:131/454 MP:90/90
+D-Balor HP:253/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dominion
+2-Pisaca
+3-Balor
+----------------------------------------
+Seleccione una acción para Dominion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dominion
+1-Flynn HP:681/971 MP:527/527
+2-Throne HP:92/504 MP:225/225
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Dominion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dominion
+1-Flynn HP:681/971 MP:527/527
+2-Throne HP:92/504 MP:225/225
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Dominion ataca a Flynn
+Flynn recibe 30 de daño
+Flynn termina con HP:651/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:651/971 MP:527/527
+B-
+C-Throne HP:92/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Dominion HP:104/287 MP:278/278
+C-Pisaca HP:131/454 MP:90/90
+D-Balor HP:253/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Balor
+3-Dominion
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Flynn HP:651/971 MP:527/527
+2-Throne HP:92/504 MP:225/225
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ataca a Flynn
+Flynn recibe 33 de daño
+Flynn termina con HP:618/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:618/971 MP:527/527
+B-
+C-Throne HP:92/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Dominion HP:104/287 MP:278/278
+C-Pisaca HP:131/454 MP:90/90
+D-Balor HP:253/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Throne
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Dominion HP:104/287 MP:278/278
+2-Pisaca HP:131/454 MP:90/90
+3-Balor HP:253/492 MP:98/98
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Dominion
+Dominion recibe 88 de daño
+Dominion termina con HP:16/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:618/971 MP:527/527
+B-
+C-Throne HP:92/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Dominion HP:16/287 MP:278/278
+C-Pisaca HP:131/454 MP:90/90
+D-Balor HP:253/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Flynn
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Dominion HP:16/287 MP:278/278
+2-Pisaca HP:131/454 MP:90/90
+3-Balor HP:253/492 MP:98/98
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Dominion
+Dominion recibe 41 de daño
+Dominion termina con HP:0/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:618/971 MP:527/527
+B-
+C-Throne HP:92/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-
+C-Pisaca HP:131/454 MP:90/90
+D-Balor HP:253/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Pisaca
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Flynn HP:618/971 MP:527/527
+2-Throne HP:92/504 MP:225/225
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Balor ataca a Throne
+Throne recibe 36 de daño
+Throne termina con HP:56/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:618/971 MP:527/527
+B-
+C-Throne HP:56/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-
+C-Pisaca HP:131/454 MP:90/90
+D-Balor HP:253/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Balor
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Flynn HP:618/971 MP:527/527
+2-Throne HP:56/504 MP:225/225
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Flynn HP:618/971 MP:527/527
+2-Throne HP:56/504 MP:225/225
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ataca a Flynn
+Flynn recibe 33 de daño
+Flynn termina con HP:585/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:585/971 MP:527/527
+B-
+C-Throne HP:56/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-
+C-Pisaca HP:131/454 MP:90/90
+D-Balor HP:253/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Throne
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Pisaca HP:131/454 MP:90/90
+2-Balor HP:253/492 MP:98/98
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Balor
+Balor recibe 88 de daño
+Balor termina con HP:165/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:585/971 MP:527/527
+B-
+C-Throne HP:56/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-
+C-Pisaca HP:131/454 MP:90/90
+D-Balor HP:165/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Flynn
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Pisaca HP:131/454 MP:90/90
+2-Balor HP:165/492 MP:98/98
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Pisaca HP:131/454 MP:90/90
+2-Balor HP:165/492 MP:98/98
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Throne ataca a Balor
+Balor recibe 41 de daño
+Balor termina con HP:124/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:585/971 MP:527/527
+B-
+C-Throne HP:56/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-
+C-Pisaca HP:131/454 MP:90/90
+D-Balor HP:124/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Pisaca
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Flynn HP:585/971 MP:527/527
+2-Throne HP:56/504 MP:225/225
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Balor ataca a Flynn
+Flynn recibe 36 de daño
+Flynn termina con HP:549/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:549/971 MP:527/527
+B-
+C-Throne HP:56/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-
+C-Pisaca HP:131/454 MP:90/90
+D-Balor HP:124/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Balor
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Flynn HP:549/971 MP:527/527
+2-Throne HP:56/504 MP:225/225
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ataca a Flynn
+Flynn recibe 33 de daño
+Flynn termina con HP:516/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:516/971 MP:527/527
+B-
+C-Throne HP:56/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-
+C-Pisaca HP:131/454 MP:90/90
+D-Balor HP:124/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Throne
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Pisaca HP:131/454 MP:90/90
+2-Balor HP:124/492 MP:98/98
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Pisaca
+Pisaca recibe 88 de daño
+Pisaca termina con HP:43/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:516/971 MP:527/527
+B-
+C-Throne HP:56/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-
+C-Pisaca HP:43/454 MP:90/90
+D-Balor HP:124/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Flynn
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Pisaca HP:43/454 MP:90/90
+2-Balor HP:124/492 MP:98/98
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Pisaca
+Pisaca recibe 41 de daño
+Pisaca termina con HP:2/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:516/971 MP:527/527
+B-
+C-Throne HP:56/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-
+C-Pisaca HP:2/454 MP:90/90
+D-Balor HP:124/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Pisaca
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Flynn HP:516/971 MP:527/527
+2-Throne HP:56/504 MP:225/225
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Flynn HP:516/971 MP:527/527
+2-Throne HP:56/504 MP:225/225
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Balor ataca a Flynn
+Flynn recibe 36 de daño
+Flynn termina con HP:480/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:480/971 MP:527/527
+B-
+C-Throne HP:56/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-
+C-Pisaca HP:2/454 MP:90/90
+D-Balor HP:124/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Balor
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Flynn HP:480/971 MP:527/527
+2-Throne HP:56/504 MP:225/225
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Flynn HP:480/971 MP:527/527
+2-Throne HP:56/504 MP:225/225
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ataca a Flynn
+Flynn recibe 33 de daño
+Flynn termina con HP:447/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:447/971 MP:527/527
+B-
+C-Throne HP:56/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-
+C-Pisaca HP:2/454 MP:90/90
+D-Balor HP:124/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Throne
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Pisaca HP:2/454 MP:90/90
+2-Balor HP:124/492 MP:98/98
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Pisaca
+Pisaca recibe 88 de daño
+Pisaca termina con HP:0/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:447/971 MP:527/527
+B-
+C-Throne HP:56/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-
+C-
+D-Balor HP:124/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Flynn
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Balor HP:124/492 MP:98/98
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Balor HP:124/492 MP:98/98
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Balor HP:124/492 MP:98/98
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Balor
+Balor recibe 41 de daño
+Balor termina con HP:83/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:447/971 MP:527/527
+B-
+C-Throne HP:56/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-
+C-
+D-Balor HP:83/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Flynn HP:447/971 MP:527/527
+2-Throne HP:56/504 MP:225/225
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Balor ataca a Flynn
+Flynn recibe 36 de daño
+Flynn termina con HP:411/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:411/971 MP:527/527
+B-
+C-Throne HP:56/504 MP:225/225
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-
+C-
+D-Balor HP:83/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Throne
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Balor HP:83/492 MP:98/98
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Balor HP:83/492 MP:98/98
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Balor HP:83/492 MP:98/98
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Balor
+Balor recibe 88 de daño
+Balor termina con HP:0/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Flynn (J1)

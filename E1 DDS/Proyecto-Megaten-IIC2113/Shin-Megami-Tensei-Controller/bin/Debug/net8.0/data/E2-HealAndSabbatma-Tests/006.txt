@@ -1,0 +1,901 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+INPUT: 5
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alice HP:277/277 MP:269/269
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Joker
+3-Alice
+4-Kanbari
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Anzu HP:596/596 MP:118/118
+3-Camazotz HP:180/180 MP:35/35
+4-Corpse HP:426/426 MP:85/85
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Gurulu ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Gurulu
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alice HP:277/277 MP:269/269
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Alice
+3-Kanbari
+4-Gurulu
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Anzu HP:596/596 MP:118/118
+3-Camazotz HP:180/180 MP:35/35
+4-Corpse HP:426/426 MP:85/85
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Joker
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alice HP:277/277 MP:269/269
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Anzu
+3-Corpse
+4-Camazotz
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:597/597 MP:347/347
+2-Kanbari HP:350/350 MP:68/68
+3-Alice HP:277/277 MP:269/269
+4-Gurulu HP:371/371 MP:166/166
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend ataca a Kanbari
+Kanbari es débil contra el ataque de Demi-Fiend
+Kanbari recibe 252 de daño
+Kanbari termina con HP:98/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kanbari HP:98/350 MP:68/68
+C-Alice HP:277/277 MP:269/269
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anzu
+2-Corpse
+3-Camazotz
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Joker HP:597/597 MP:347/347
+2-Kanbari HP:98/350 MP:68/68
+3-Alice HP:277/277 MP:269/269
+4-Gurulu HP:371/371 MP:166/166
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Anzu ataca a Kanbari
+Kanbari es débil contra el ataque de Anzu
+Kanbari recibe 67 de daño
+Kanbari termina con HP:31/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kanbari HP:31/350 MP:68/68
+C-Alice HP:277/277 MP:269/269
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Corpse
+2-Camazotz
+3-Demi-Fiend
+4-Anzu
+----------------------------------------
+Seleccione una acción para Corpse
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Corpse
+1-Joker HP:597/597 MP:347/347
+2-Kanbari HP:31/350 MP:68/68
+3-Alice HP:277/277 MP:269/269
+4-Gurulu HP:371/371 MP:166/166
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Corpse ataca a Kanbari
+Kanbari es débil contra el ataque de Corpse
+Kanbari recibe 47 de daño
+Kanbari termina con HP:0/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-
+C-Alice HP:277/277 MP:269/269
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Camazotz
+2-Demi-Fiend
+3-Anzu
+4-Corpse
+----------------------------------------
+Seleccione una acción para Camazotz
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Camazotz
+1-Joker HP:597/597 MP:347/347
+2-Alice HP:277/277 MP:269/269
+3-Gurulu HP:371/371 MP:166/166
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Camazotz ataca a Joker
+Joker recibe 11 de daño
+Joker termina con HP:586/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:586/597 MP:347/347
+B-
+C-Alice HP:277/277 MP:269/269
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Anzu
+3-Corpse
+4-Camazotz
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:586/597 MP:347/347
+2-Alice HP:277/277 MP:269/269
+3-Gurulu HP:371/371 MP:166/166
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Joker
+Joker recibe 168 de daño
+Joker termina con HP:418/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:418/597 MP:347/347
+B-
+C-Alice HP:277/277 MP:269/269
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anzu
+2-Corpse
+3-Camazotz
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Joker HP:418/597 MP:347/347
+2-Alice HP:277/277 MP:269/269
+3-Gurulu HP:371/371 MP:166/166
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Anzu ataca a Joker
+Joker recibe 44 de daño
+Joker termina con HP:374/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:374/597 MP:347/347
+B-
+C-Alice HP:277/277 MP:269/269
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Corpse
+2-Camazotz
+3-Demi-Fiend
+4-Anzu
+----------------------------------------
+Seleccione una acción para Corpse
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Corpse
+1-Joker HP:374/597 MP:347/347
+2-Alice HP:277/277 MP:269/269
+3-Gurulu HP:371/371 MP:166/166
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Corpse ataca a Joker
+Joker recibe 31 de daño
+Joker termina con HP:343/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:343/597 MP:347/347
+B-
+C-Alice HP:277/277 MP:269/269
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Joker
+3-Alice
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:343/597 MP:347/347
+B-
+C-Alice HP:277/277 MP:269/269
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Alice
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Invitation MP:45
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kanbari HP:0/350 MP:68/68
+2-Zhen HP:388/388 MP:76/76
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Alice HP:277/277 MP:269/269 (Puesto 3)
+3-Gurulu HP:371/371 MP:166/166 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kanbari ha sido invocado
+Joker revive a Kanbari
+Kanbari recibe 350 de HP
+Kanbari termina con HP:350/350
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:343/597 MP:302/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alice HP:277/277 MP:269/269
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Gurulu
+3-Kanbari
+4-Joker
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alice
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Anzu HP:596/596 MP:118/118
+3-Camazotz HP:180/180 MP:35/35
+4-Corpse HP:426/426 MP:85/85
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Alice
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:343/597 MP:302/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alice HP:277/277 MP:269/269
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Anzu
+3-Corpse
+4-Camazotz
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:343/597 MP:302/347
+2-Kanbari HP:350/350 MP:68/68
+3-Alice HP:277/277 MP:269/269
+4-Gurulu HP:371/371 MP:166/166
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend ataca a Alice
+Alice es resistente el ataque de Demi-Fiend
+Alice recibe 84 de daño
+Alice termina con HP:193/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:343/597 MP:302/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alice HP:193/277 MP:269/269
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Corpse
+3-Camazotz
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Joker HP:343/597 MP:302/347
+2-Kanbari HP:350/350 MP:68/68
+3-Alice HP:193/277 MP:269/269
+4-Gurulu HP:371/371 MP:166/166
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Anzu ataca a Alice
+Alice es resistente el ataque de Anzu
+Alice recibe 22 de daño
+Alice termina con HP:171/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:343/597 MP:302/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alice HP:171/277 MP:269/269
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Corpse
+2-Camazotz
+3-Demi-Fiend
+4-Anzu
+----------------------------------------
+Seleccione una acción para Corpse
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Corpse
+1-Joker HP:343/597 MP:302/347
+2-Kanbari HP:350/350 MP:68/68
+3-Alice HP:171/277 MP:269/269
+4-Gurulu HP:371/371 MP:166/166
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Corpse ataca a Alice
+Alice es resistente el ataque de Corpse
+Alice recibe 15 de daño
+Alice termina con HP:156/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:343/597 MP:302/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alice HP:156/277 MP:269/269
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Camazotz
+2-Demi-Fiend
+3-Anzu
+4-Corpse
+----------------------------------------
+Seleccione una acción para Camazotz
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Camazotz
+1-Joker HP:343/597 MP:302/347
+2-Kanbari HP:350/350 MP:68/68
+3-Alice HP:156/277 MP:269/269
+4-Gurulu HP:371/371 MP:166/166
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Camazotz ataca a Alice
+Alice es resistente el ataque de Camazotz
+Alice recibe 5 de daño
+Alice termina con HP:151/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:343/597 MP:302/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alice HP:151/277 MP:269/269
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Joker
+3-Alice
+4-Kanbari
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:343/597 MP:302/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alice HP:151/277 MP:269/269
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Alice
+3-Kanbari
+4-Gurulu
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Invitation MP:45
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zhen HP:388/388 MP:76/76
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kanbari HP:350/350 MP:68/68 (Puesto 2)
+2-Alice HP:151/277 MP:269/269 (Puesto 3)
+3-Gurulu HP:371/371 MP:166/166 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Zhen ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:343/597 MP:257/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alice HP:151/277 MP:269/269
+D-Zhen HP:388/388 MP:76/76
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Kanbari
+3-Zhen
+4-Joker
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alice
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Anzu HP:596/596 MP:118/118
+3-Camazotz HP:180/180 MP:35/35
+4-Corpse HP:426/426 MP:85/85
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Alice
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:343/597 MP:257/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alice HP:151/277 MP:269/269
+D-Zhen HP:388/388 MP:76/76
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Zhen
+3-Joker
+4-Alice
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kanbari
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Anzu HP:596/596 MP:118/118
+3-Camazotz HP:180/180 MP:35/35
+4-Corpse HP:426/426 MP:85/85
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kanbari ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kanbari
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:343/597 MP:257/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alice HP:151/277 MP:269/269
+D-Zhen HP:388/388 MP:76/76
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Anzu HP:596/596 MP:118/118
+C-Camazotz HP:180/180 MP:35/35
+D-Corpse HP:426/426 MP:85/85
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Anzu
+3-Corpse
+4-Camazotz
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Demi-Fiend (J2) se rinde
+----------------------------------------
+Ganador: Joker (J1)

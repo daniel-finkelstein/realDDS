@@ -1,0 +1,6190 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+INPUT: 117
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:235/235 MP:228/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Balor HP:492/492 MP:98/98
+C-Fortuna HP:147/147 MP:66/66
+D-Chagrin HP:67/67 MP:72/72
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+3-Enku
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:388/388 MP:193/193
+2-Balor HP:492/492 MP:98/98
+3-Fortuna HP:147/147 MP:66/66
+4-Chagrin HP:67/67 MP:72/72
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Magatsuhi ataca a Fortuna
+Fortuna recibe 65 de daño
+Fortuna termina con HP:82/147
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:235/235 MP:228/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Balor HP:492/492 MP:98/98
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:72/72
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Enku
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Oni-Kagura MP:9
+2-Bouncing Claw MP:4
+3-Axel Claw MP:15
+4-Agi MP:5
+5-Lunge MP:6
+6-Zanma MP:8
+7-Riot Gun MP:30
+8-Zandyne MP:14
+9-Cancelar
+INPUT: 9
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:235/235 MP:228/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Balor HP:492/492 MP:98/98
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:72/72
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Enku
+2-Magatsuhi
+3-Yu
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:235/235 MP:228/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Balor HP:492/492 MP:98/98
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:72/72
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+3-Enku
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:388/388 MP:193/193
+2-Balor HP:492/492 MP:98/98
+3-Fortuna HP:82/147 MP:66/66
+4-Chagrin HP:67/67 MP:72/72
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Balor
+Balor recibe 65 de daño
+Balor termina con HP:427/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:235/235 MP:228/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Balor HP:427/492 MP:98/98
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:72/72
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Tadano
+3-Fortuna
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:235/235 MP:228/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Balor HP:427/492 MP:98/98
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:72/72
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Fortuna
+3-Chagrin
+4-Balor
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:235/235 MP:228/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Balor HP:427/492 MP:98/98
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:72/72
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fortuna
+2-Chagrin
+3-Balor
+4-Tadano
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Bilwis HP:161/161 MP:31/31
+2-Ishtar HP:258/258 MP:251/251
+3-Hel HP:254/254 MP:246/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Bilwis ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:235/235 MP:228/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Balor HP:427/492 MP:98/98
+C-Bilwis HP:161/161 MP:31/31
+D-Chagrin HP:67/67 MP:72/72
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chagrin
+2-Balor
+3-Tadano
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chagrin use
+1-Needle Shot MP:4
+2-Zio MP:5
+3-Rakunda MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chagrin
+1-Yu HP:597/597 MP:347/347
+2-Enku HP:235/235 MP:228/228
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Chagrin dispara a Enku
+Enku recibe 25 de daño
+Enku termina con HP:210/235
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:210/235 MP:228/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Balor HP:427/492 MP:98/98
+C-Bilwis HP:161/161 MP:31/31
+D-Chagrin HP:67/67 MP:68/72
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Tadano
+3-Bilwis
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Yu HP:597/597 MP:347/347
+2-Enku HP:210/235 MP:228/228
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Balor lanza viento a Enku
+Enku es débil contra el ataque de Balor
+Enku recibe 140 de daño
+Enku termina con HP:70/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:70/235 MP:228/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Balor HP:427/492 MP:84/98
+C-Bilwis HP:161/161 MP:31/31
+D-Chagrin HP:67/67 MP:68/72
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Bilwis
+3-Chagrin
+4-Balor
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:597/597 MP:347/347
+2-Enku HP:70/235 MP:228/228
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:597/597 MP:347/347
+2-Enku HP:70/235 MP:228/228
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:70/235 MP:228/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Balor HP:427/492 MP:84/98
+C-Bilwis HP:161/161 MP:31/31
+D-Chagrin HP:67/67 MP:68/72
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bilwis
+2-Chagrin
+3-Balor
+4-Tadano
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bilwis
+1-Yu HP:597/597 MP:347/347
+2-Enku HP:70/235 MP:228/228
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Bilwis ataca a Enku
+Enku recibe 8 de daño
+Enku termina con HP:62/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:62/235 MP:228/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Balor HP:427/492 MP:84/98
+C-Bilwis HP:161/161 MP:31/31
+D-Chagrin HP:67/67 MP:68/72
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+3-Enku
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:388/388 MP:193/193
+2-Balor HP:427/492 MP:84/98
+3-Bilwis HP:161/161 MP:31/31
+4-Chagrin HP:67/67 MP:68/72
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Balor
+Balor recibe 65 de daño
+Balor termina con HP:362/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:62/235 MP:228/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Balor HP:362/492 MP:84/98
+C-Bilwis HP:161/161 MP:31/31
+D-Chagrin HP:67/67 MP:68/72
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Enku
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:388/388 MP:193/193
+2-Balor HP:362/492 MP:84/98
+3-Bilwis HP:161/161 MP:31/31
+4-Chagrin HP:67/67 MP:68/72
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yu ataca a Bilwis
+Bilwis recibe 49 de daño
+Bilwis termina con HP:112/161
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:62/235 MP:228/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Balor HP:362/492 MP:84/98
+C-Bilwis HP:112/161 MP:31/31
+D-Chagrin HP:67/67 MP:68/72
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Magatsuhi
+3-Yu
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Tadano HP:388/388 MP:193/193
+2-Balor HP:362/492 MP:84/98
+3-Bilwis HP:112/161 MP:31/31
+4-Chagrin HP:67/67 MP:68/72
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Tadano
+Tadano es resistente el ataque de Enku
+Tadano recibe 37 de daño
+Tadano termina con HP:351/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:62/235 MP:221/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Balor HP:362/492 MP:84/98
+C-Bilwis HP:112/161 MP:31/31
+D-Chagrin HP:67/67 MP:68/72
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Tadano
+3-Bilwis
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Yu HP:597/597 MP:347/347
+2-Enku HP:62/235 MP:221/228
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Yu HP:597/597 MP:347/347
+2-Enku HP:62/235 MP:221/228
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fortuna HP:82/147 MP:66/66
+2-Ishtar HP:258/258 MP:251/251
+3-Hel HP:254/254 MP:246/246
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fortuna HP:82/147 MP:66/66
+2-Ishtar HP:258/258 MP:251/251
+3-Hel HP:254/254 MP:246/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Fortuna ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:62/235 MP:221/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Fortuna HP:82/147 MP:66/66
+C-Bilwis HP:112/161 MP:31/31
+D-Chagrin HP:67/67 MP:68/72
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Bilwis
+3-Chagrin
+4-Fortuna
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:597/597 MP:347/347
+2-Enku HP:62/235 MP:221/228
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:62/235 MP:221/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Fortuna HP:82/147 MP:66/66
+C-Bilwis HP:112/161 MP:31/31
+D-Chagrin HP:67/67 MP:68/72
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bilwis
+2-Chagrin
+3-Fortuna
+4-Tadano
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bilwis use
+1-Poison Claw MP:9
+2-Dia MP:5
+3-Lunge MP:6
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:62/235 MP:221/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Fortuna HP:82/147 MP:66/66
+C-Bilwis HP:112/161 MP:31/31
+D-Chagrin HP:67/67 MP:68/72
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chagrin
+2-Fortuna
+3-Tadano
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:62/235 MP:221/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Fortuna HP:82/147 MP:66/66
+C-Bilwis HP:112/161 MP:31/31
+D-Chagrin HP:67/67 MP:68/72
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fortuna
+2-Tadano
+3-Bilwis
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:62/235 MP:221/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Fortuna HP:82/147 MP:66/66
+C-Bilwis HP:112/161 MP:31/31
+D-Chagrin HP:67/67 MP:68/72
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Bilwis
+3-Chagrin
+4-Fortuna
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Gram Slice MP:5
+2-Tathlum Shot MP:7
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:597/597 MP:347/347
+2-Enku HP:62/235 MP:221/228
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Gram Slice MP:5
+2-Tathlum Shot MP:7
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:597/597 MP:347/347
+2-Enku HP:62/235 MP:221/228
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:362/492 MP:84/98
+2-Ishtar HP:258/258 MP:251/251
+3-Hel HP:254/254 MP:246/246
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Fortuna HP:82/147 MP:66/66 (Puesto 2)
+2-Bilwis HP:112/161 MP:31/31 (Puesto 3)
+3-Chagrin HP:67/67 MP:68/72 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:62/235 MP:221/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Ishtar HP:258/258 MP:251/251
+C-Bilwis HP:112/161 MP:31/31
+D-Chagrin HP:67/67 MP:68/72
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bilwis
+2-Chagrin
+3-Ishtar
+4-Tadano
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:362/492 MP:84/98
+2-Fortuna HP:82/147 MP:66/66
+3-Hel HP:254/254 MP:246/246
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Fortuna ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Enku HP:62/235 MP:221/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Ishtar HP:258/258 MP:251/251
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:68/72
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chagrin
+2-Ishtar
+3-Tadano
+4-Fortuna
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chagrin use
+1-Needle Shot MP:4
+2-Zio MP:5
+3-Rakunda MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chagrin
+1-Yu HP:597/597 MP:347/347
+2-Enku HP:62/235 MP:221/228
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Chagrin dispara a Yu
+Yu recibe 25 de daño
+Yu termina con HP:572/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:62/235 MP:221/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Ishtar HP:258/258 MP:251/251
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:64/72
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+3-Enku
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:351/388 MP:193/193
+2-Ishtar HP:258/258 MP:251/251
+3-Fortuna HP:82/147 MP:66/66
+4-Chagrin HP:67/67 MP:64/72
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Ishtar
+Ishtar recibe 65 de daño
+Ishtar termina con HP:193/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:62/235 MP:221/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Ishtar HP:193/258 MP:251/251
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:64/72
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Enku
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Oni-Kagura MP:9
+2-Bouncing Claw MP:4
+3-Axel Claw MP:15
+4-Agi MP:5
+5-Lunge MP:6
+6-Zanma MP:8
+7-Riot Gun MP:30
+8-Zandyne MP:14
+9-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:351/388 MP:193/193
+2-Ishtar HP:193/258 MP:251/251
+3-Fortuna HP:82/147 MP:66/66
+4-Chagrin HP:67/67 MP:64/72
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:351/388 MP:193/193
+2-Ishtar HP:193/258 MP:251/251
+3-Fortuna HP:82/147 MP:66/66
+4-Chagrin HP:67/67 MP:64/72
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Ishtar
+Ishtar recibe 72 de daño
+Ishtar termina con HP:121/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:62/235 MP:221/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Ishtar HP:121/258 MP:251/251
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:64/72
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Magatsuhi
+3-Yu
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Tadano HP:351/388 MP:193/193
+2-Ishtar HP:121/258 MP:251/251
+3-Fortuna HP:82/147 MP:66/66
+4-Chagrin HP:67/67 MP:64/72
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Tadano HP:351/388 MP:193/193
+2-Ishtar HP:121/258 MP:251/251
+3-Fortuna HP:82/147 MP:66/66
+4-Chagrin HP:67/67 MP:64/72
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:62/235 MP:221/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Ishtar HP:121/258 MP:251/251
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:64/72
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+3-Enku
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:351/388 MP:193/193
+2-Ishtar HP:121/258 MP:251/251
+3-Fortuna HP:82/147 MP:66/66
+4-Chagrin HP:67/67 MP:64/72
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:62/235 MP:221/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Ishtar HP:121/258 MP:251/251
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:64/72
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Tadano
+3-Fortuna
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:362/492 MP:84/98
+2-Bilwis HP:112/161 MP:31/31
+3-Hel HP:254/254 MP:246/246
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:362/492 MP:84/98
+2-Bilwis HP:112/161 MP:31/31
+3-Hel HP:254/254 MP:246/246
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Bilwis ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:62/235 MP:221/228
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Bilwis HP:112/161 MP:31/31
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:64/72
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Fortuna
+3-Chagrin
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:572/597 MP:347/347
+2-Enku HP:62/235 MP:221/228
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tadano ataca a Magatsuhi
+Magatsuhi recibe 16 de daño
+Magatsuhi termina con HP:835/851
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:62/235 MP:221/228
+C-Magatsuhi HP:835/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Bilwis HP:112/161 MP:31/31
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:64/72
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fortuna
+2-Chagrin
+3-Bilwis
+4-Tadano
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fortuna
+1-Yu HP:572/597 MP:347/347
+2-Enku HP:62/235 MP:221/228
+3-Magatsuhi HP:835/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Fortuna ataca a Enku
+Enku recibe 10 de daño
+Enku termina con HP:52/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:52/235 MP:221/228
+C-Magatsuhi HP:835/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Bilwis HP:112/161 MP:31/31
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:64/72
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chagrin
+2-Bilwis
+3-Tadano
+4-Fortuna
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chagrin
+1-Yu HP:572/597 MP:347/347
+2-Enku HP:52/235 MP:221/228
+3-Magatsuhi HP:835/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Chagrin ataca a Magatsuhi
+Magatsuhi recibe 5 de daño
+Magatsuhi termina con HP:830/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:52/235 MP:221/228
+C-Magatsuhi HP:830/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Bilwis HP:112/161 MP:31/31
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:64/72
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bilwis
+2-Tadano
+3-Fortuna
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bilwis
+1-Yu HP:572/597 MP:347/347
+2-Enku HP:52/235 MP:221/228
+3-Magatsuhi HP:830/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Bilwis ataca a Magatsuhi
+Magatsuhi recibe 8 de daño
+Magatsuhi termina con HP:822/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:52/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:170/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Bilwis HP:112/161 MP:31/31
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:64/72
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+3-Enku
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:351/388 MP:193/193
+2-Bilwis HP:112/161 MP:31/31
+3-Fortuna HP:82/147 MP:66/66
+4-Chagrin HP:67/67 MP:64/72
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi lanza hielo a Bilwis
+Bilwis recibe 124 de daño
+Bilwis termina con HP:0/161
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:52/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:64/72
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Enku
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:351/388 MP:193/193
+2-Fortuna HP:82/147 MP:66/66
+3-Chagrin HP:67/67 MP:64/72
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Tadano
+Tadano recibe 72 de daño
+Tadano termina con HP:279/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:52/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:193/193
+B-
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:67/67 MP:64/72
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Magatsuhi
+3-Yu
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Tadano HP:279/388 MP:193/193
+2-Fortuna HP:82/147 MP:66/66
+3-Chagrin HP:67/67 MP:64/72
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Tadano HP:279/388 MP:193/193
+2-Fortuna HP:82/147 MP:66/66
+3-Chagrin HP:67/67 MP:64/72
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Tadano HP:279/388 MP:193/193
+2-Fortuna HP:82/147 MP:66/66
+3-Chagrin HP:67/67 MP:64/72
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Enku ataca a Chagrin
+Chagrin recibe 24 de daño
+Chagrin termina con HP:43/67
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:52/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:193/193
+B-
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:43/67 MP:64/72
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Fortuna
+3-Chagrin
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:572/597 MP:347/347
+2-Enku HP:52/235 MP:221/228
+3-Magatsuhi HP:822/851 MP:156/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:572/597 MP:347/347
+2-Enku HP:52/235 MP:221/228
+3-Magatsuhi HP:822/851 MP:156/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tadano dispara a Enku
+Enku recibe 20 de daño
+Enku termina con HP:32/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:193/193
+B-
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:43/67 MP:64/72
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fortuna
+2-Chagrin
+3-Tadano
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Fortuna use
+1-Zan MP:5
+2-Media MP:12
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fortuna
+1-Yu HP:572/597 MP:347/347
+2-Enku HP:32/235 MP:221/228
+3-Magatsuhi HP:822/851 MP:156/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:193/193
+B-
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:43/67 MP:64/72
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chagrin
+2-Tadano
+3-Fortuna
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:193/193
+B-
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:43/67 MP:64/72
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Fortuna
+3-Chagrin
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:193/193
+B-
+C-Fortuna HP:82/147 MP:66/66
+D-Chagrin HP:43/67 MP:64/72
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Fortuna
+2-Chagrin
+3-Tadano
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:362/492 MP:84/98
+2-Ishtar HP:121/258 MP:251/251
+3-Hel HP:254/254 MP:246/246
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Fortuna use
+1-Zan MP:5
+2-Media MP:12
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:362/492 MP:84/98
+2-Ishtar HP:121/258 MP:251/251
+3-Hel HP:254/254 MP:246/246
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:193/193
+B-
+C-Hel HP:254/254 MP:246/246
+D-Chagrin HP:43/67 MP:64/72
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+3-Enku
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:279/388 MP:193/193
+2-Hel HP:254/254 MP:246/246
+3-Chagrin HP:43/67 MP:64/72
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Magatsuhi ataca a Chagrin
+Chagrin recibe 65 de daño
+Chagrin termina con HP:0/67
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:193/193
+B-
+C-Hel HP:254/254 MP:246/246
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Enku
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:279/388 MP:193/193
+2-Hel HP:254/254 MP:246/246
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Oni-Kagura MP:9
+2-Bouncing Claw MP:4
+3-Axel Claw MP:15
+4-Agi MP:5
+5-Lunge MP:6
+6-Zanma MP:8
+7-Riot Gun MP:30
+8-Zandyne MP:14
+9-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:279/388 MP:193/193
+2-Hel HP:254/254 MP:246/246
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:279/388 MP:193/193
+2-Hel HP:254/254 MP:246/246
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:279/388 MP:193/193
+2-Hel HP:254/254 MP:246/246
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Hel
+Hel recibe 49 de daño
+Hel termina con HP:205/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:193/193
+B-
+C-Hel HP:205/254 MP:246/246
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Magatsuhi
+3-Yu
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Tadano HP:279/388 MP:193/193
+2-Hel HP:205/254 MP:246/246
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Enku ataca a Hel
+Hel recibe 24 de daño
+Hel termina con HP:181/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:193/193
+B-
+C-Hel HP:181/254 MP:246/246
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Tadano
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:362/492 MP:84/98
+2-Fortuna HP:82/147 MP:66/66
+3-Ishtar HP:121/258 MP:251/251
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:362/492 MP:84/98
+2-Fortuna HP:82/147 MP:66/66
+3-Ishtar HP:121/258 MP:251/251
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:362/492 MP:84/98
+2-Fortuna HP:82/147 MP:66/66
+3-Ishtar HP:121/258 MP:251/251
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:572/597 MP:347/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:193/193
+B-
+C-Hel HP:181/254 MP:246/246
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Hel
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Gram Slice MP:5
+2-Tathlum Shot MP:7
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:572/597 MP:347/347
+2-Enku HP:32/235 MP:221/228
+3-Magatsuhi HP:822/851 MP:156/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:572/597 MP:347/347
+2-Enku HP:32/235 MP:221/228
+3-Magatsuhi HP:822/851 MP:156/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Gram Slice MP:5
+2-Tathlum Shot MP:7
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:572/597 MP:347/347
+2-Enku HP:32/235 MP:221/228
+3-Magatsuhi HP:822/851 MP:156/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Yu
+Yu es resistente el ataque de Tadano
+Yu recibe 38 de daño
+Yu termina con HP:534/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:534/597 MP:347/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:178/193
+B-
+C-Hel HP:181/254 MP:246/246
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Tadano
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:534/597 MP:347/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:178/193
+B-
+C-Hel HP:181/254 MP:246/246
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Hel
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Gram Slice MP:5
+2-Tathlum Shot MP:7
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:534/597 MP:347/347
+2-Enku HP:32/235 MP:221/228
+3-Magatsuhi HP:822/851 MP:156/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:534/597 MP:347/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:178/193
+B-
+C-Hel HP:181/254 MP:246/246
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+3-Enku
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:279/388 MP:178/193
+2-Hel HP:181/254 MP:246/246
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:534/597 MP:347/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:178/193
+B-
+C-Hel HP:181/254 MP:246/246
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Enku
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:279/388 MP:178/193
+2-Hel HP:181/254 MP:246/246
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Hel
+Hel recibe 72 de daño
+Hel termina con HP:109/254
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:534/597 MP:347/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:178/193
+B-
+C-Hel HP:109/254 MP:246/246
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Magatsuhi
+3-Yu
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:534/597 MP:347/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:178/193
+B-
+C-Hel HP:109/254 MP:246/246
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+3-Enku
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:534/597 MP:347/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:178/193
+B-
+C-Hel HP:109/254 MP:246/246
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Enku
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:279/388 MP:178/193
+2-Hel HP:109/254 MP:246/246
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Oni-Kagura MP:9
+2-Bouncing Claw MP:4
+3-Axel Claw MP:15
+4-Agi MP:5
+5-Lunge MP:6
+6-Zanma MP:8
+7-Riot Gun MP:30
+8-Zandyne MP:14
+9-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:279/388 MP:178/193
+2-Hel HP:109/254 MP:246/246
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu lanza viento a Hel
+Hel recibe 105 de daño
+Hel termina con HP:4/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:534/597 MP:339/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:178/193
+B-
+C-Hel HP:4/254 MP:246/246
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Tadano
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:362/492 MP:84/98
+2-Fortuna HP:82/147 MP:66/66
+3-Ishtar HP:121/258 MP:251/251
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ishtar ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:534/597 MP:339/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:178/193
+B-
+C-Ishtar HP:121/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Ishtar
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:534/597 MP:339/347
+2-Enku HP:32/235 MP:221/228
+3-Magatsuhi HP:822/851 MP:156/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Yu
+Yu es resistente el ataque de Tadano
+Yu recibe 8 de daño
+Yu termina con HP:526/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:339/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:178/193
+B-
+C-Ishtar HP:121/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Tadano
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:362/492 MP:84/98
+2-Fortuna HP:82/147 MP:66/66
+3-Hel HP:4/254 MP:246/246
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Chagrin HP:0/67 MP:64/72
+2-Bilwis HP:0/161 MP:31/31
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Ishtar revive a Bilwis
+Bilwis recibe 161 de HP
+Bilwis termina con HP:161/161
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:339/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:178/193
+B-
+C-Ishtar HP:121/258 MP:211/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+3-Enku
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:339/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:178/193
+B-
+C-Ishtar HP:121/258 MP:211/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Enku
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Oni-Kagura MP:9
+2-Bouncing Claw MP:4
+3-Axel Claw MP:15
+4-Agi MP:5
+5-Lunge MP:6
+6-Zanma MP:8
+7-Riot Gun MP:30
+8-Zandyne MP:14
+9-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:279/388 MP:178/193
+2-Ishtar HP:121/258 MP:211/251
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:279/388 MP:178/193
+2-Ishtar HP:121/258 MP:211/251
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Ishtar
+Ishtar recibe 49 de daño
+Ishtar termina con HP:72/258
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:339/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:279/388 MP:178/193
+B-
+C-Ishtar HP:72/258 MP:211/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Magatsuhi
+3-Yu
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Tadano HP:279/388 MP:178/193
+2-Ishtar HP:72/258 MP:211/251
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Tadano
+Tadano es resistente el ataque de Enku
+Tadano recibe 12 de daño
+Tadano termina con HP:267/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:339/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:267/388 MP:178/193
+B-
+C-Ishtar HP:72/258 MP:211/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+3-Enku
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:267/388 MP:178/193
+2-Ishtar HP:72/258 MP:211/251
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:339/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:267/388 MP:178/193
+B-
+C-Ishtar HP:72/258 MP:211/251
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Enku
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:267/388 MP:178/193
+2-Ishtar HP:72/258 MP:211/251
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Ishtar
+Ishtar recibe 72 de daño
+Ishtar termina con HP:0/258
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:339/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:822/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:267/388 MP:178/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:362/492 MP:84/98
+2-Fortuna HP:82/147 MP:66/66
+3-Bilwis HP:161/161 MP:31/31
+4-Hel HP:4/254 MP:246/246
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:526/597 MP:339/347
+2-Enku HP:32/235 MP:221/228
+3-Magatsuhi HP:822/851 MP:156/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tadano dispara a Magatsuhi
+Magatsuhi recibe 20 de daño
+Magatsuhi termina con HP:802/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:339/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:802/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:267/388 MP:178/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+3-Enku
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:267/388 MP:178/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:267/388 MP:178/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:339/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:802/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:267/388 MP:178/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Enku
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Oni-Kagura MP:9
+2-Bouncing Claw MP:4
+3-Axel Claw MP:15
+4-Agi MP:5
+5-Lunge MP:6
+6-Zanma MP:8
+7-Riot Gun MP:30
+8-Zandyne MP:14
+9-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:267/388 MP:178/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza viento a Tadano
+Tadano recibe 105 de daño
+Tadano termina con HP:162/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:331/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:802/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:162/388 MP:178/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Magatsuhi
+3-Yu
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Tadano HP:162/388 MP:178/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Tadano
+Tadano es resistente el ataque de Enku
+Tadano recibe 12 de daño
+Tadano termina con HP:150/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:331/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:802/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:150/388 MP:178/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+3-Enku
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:150/388 MP:178/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Tadano
+Tadano es resistente el ataque de Magatsuhi
+Tadano recibe 32 de daño
+Tadano termina con HP:118/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:331/347
+B-Enku HP:32/235 MP:221/228
+C-Magatsuhi HP:802/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:118/388 MP:178/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Gram Slice MP:5
+2-Tathlum Shot MP:7
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:526/597 MP:331/347
+2-Enku HP:32/235 MP:221/228
+3-Magatsuhi HP:802/851 MP:156/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tadano ataca a Enku
+Enku recibe 77 de daño
+Tadano ataca a Enku
+Enku recibe 77 de daño
+Tadano ataca a Enku
+Enku recibe 77 de daño
+Enku termina con HP:0/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:331/347
+B-
+C-Magatsuhi HP:802/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:118/388 MP:163/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:331/347
+B-
+C-Magatsuhi HP:802/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:118/388 MP:163/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:118/388 MP:163/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:118/388 MP:163/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:331/347
+B-
+C-Magatsuhi HP:802/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:118/388 MP:163/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:331/347
+B-
+C-Magatsuhi HP:802/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:118/388 MP:163/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:331/347
+B-
+C-Magatsuhi HP:802/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:118/388 MP:163/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:526/597 MP:331/347
+2-Magatsuhi HP:802/851 MP:156/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Tadano ataca a Magatsuhi
+Magatsuhi recibe 16 de daño
+Magatsuhi termina con HP:786/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:331/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:118/388 MP:163/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:331/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:118/388 MP:163/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:118/388 MP:163/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Oni-Kagura MP:9
+2-Bouncing Claw MP:4
+3-Axel Claw MP:15
+4-Agi MP:5
+5-Lunge MP:6
+6-Zanma MP:8
+7-Riot Gun MP:30
+8-Zandyne MP:14
+9-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:118/388 MP:163/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Tadano
+Tadano es resistente el ataque de Yu
+Tadano recibe 42 de daño
+Tadano termina con HP:76/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:76/388 MP:163/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:76/388 MP:163/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:76/388 MP:163/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Gram Slice MP:5
+2-Tathlum Shot MP:7
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:526/597 MP:325/347
+2-Magatsuhi HP:786/851 MP:156/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:362/492 MP:84/98
+2-Fortuna HP:82/147 MP:66/66
+3-Bilwis HP:161/161 MP:31/31
+4-Hel HP:4/254 MP:246/246
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:76/388 MP:163/193
+B-
+C-Hel HP:4/254 MP:246/246
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Tadano
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:362/492 MP:84/98
+2-Fortuna HP:82/147 MP:66/66
+3-Bilwis HP:161/161 MP:31/31
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Bilwis ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:76/388 MP:163/193
+B-
+C-Bilwis HP:161/161 MP:31/31
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:76/388 MP:163/193
+2-Bilwis HP:161/161 MP:31/31
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Tadano
+Tadano es resistente el ataque de Magatsuhi
+Tadano recibe 32 de daño
+Tadano termina con HP:44/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:44/388 MP:163/193
+B-
+C-Bilwis HP:161/161 MP:31/31
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:44/388 MP:163/193
+2-Bilwis HP:161/161 MP:31/31
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Bilwis
+Bilwis recibe 49 de daño
+Bilwis termina con HP:112/161
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:526/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:44/388 MP:163/193
+B-
+C-Bilwis HP:112/161 MP:31/31
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Bilwis
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Gram Slice MP:5
+2-Tathlum Shot MP:7
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:526/597 MP:325/347
+2-Magatsuhi HP:786/851 MP:156/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:526/597 MP:325/347
+2-Magatsuhi HP:786/851 MP:156/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano dispara a Yu
+Yu recibe 20 de daño
+Yu termina con HP:506/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:506/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:44/388 MP:163/193
+B-
+C-Bilwis HP:112/161 MP:31/31
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bilwis
+2-Tadano
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:362/492 MP:84/98
+2-Fortuna HP:82/147 MP:66/66
+3-Hel HP:4/254 MP:246/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Balor ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:506/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:44/388 MP:163/193
+B-
+C-Balor HP:362/492 MP:84/98
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Balor
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:506/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:44/388 MP:163/193
+B-
+C-Balor HP:362/492 MP:84/98
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:506/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:44/388 MP:163/193
+B-
+C-Balor HP:362/492 MP:84/98
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:506/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:44/388 MP:163/193
+B-
+C-Balor HP:362/492 MP:84/98
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:44/388 MP:163/193
+2-Balor HP:362/492 MP:84/98
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:44/388 MP:163/193
+2-Balor HP:362/492 MP:84/98
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Balor
+Balor recibe 65 de daño
+Balor termina con HP:297/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:506/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:44/388 MP:163/193
+B-
+C-Balor HP:297/492 MP:84/98
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Tadano
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Yu HP:506/597 MP:325/347
+2-Magatsuhi HP:786/851 MP:156/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fortuna HP:82/147 MP:66/66
+2-Bilwis HP:112/161 MP:31/31
+3-Hel HP:4/254 MP:246/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Fortuna ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:506/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:44/388 MP:163/193
+B-
+C-Fortuna HP:82/147 MP:66/66
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Fortuna
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:506/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:44/388 MP:163/193
+B-
+C-Fortuna HP:82/147 MP:66/66
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fortuna
+2-Tadano
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fortuna
+1-Yu HP:506/597 MP:325/347
+2-Magatsuhi HP:786/851 MP:156/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Fortuna ataca a Yu
+Yu es resistente el ataque de Fortuna
+Yu recibe 5 de daño
+Yu termina con HP:501/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:501/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:44/388 MP:163/193
+B-
+C-Fortuna HP:82/147 MP:66/66
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:501/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:44/388 MP:163/193
+B-
+C-Fortuna HP:82/147 MP:66/66
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:501/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:44/388 MP:163/193
+B-
+C-Fortuna HP:82/147 MP:66/66
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:44/388 MP:163/193
+2-Fortuna HP:82/147 MP:66/66
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Fortuna
+Fortuna recibe 65 de daño
+Fortuna termina con HP:17/147
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:501/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:44/388 MP:163/193
+B-
+C-Fortuna HP:17/147 MP:66/66
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Fortuna
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Gram Slice MP:5
+2-Tathlum Shot MP:7
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:501/597 MP:325/347
+2-Magatsuhi HP:786/851 MP:156/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:297/492 MP:84/98
+2-Bilwis HP:112/161 MP:31/31
+3-Hel HP:4/254 MP:246/246
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Fortuna HP:17/147 MP:66/66 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Bilwis ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:501/597 MP:325/347
+B-
+C-Magatsuhi HP:786/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:44/388 MP:163/193
+B-
+C-Bilwis HP:112/161 MP:31/31
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bilwis
+2-Tadano
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bilwis use
+1-Poison Claw MP:9
+2-Dia MP:5
+3-Lunge MP:6
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Bilwis
+1-Yu HP:501/597 MP:325/347
+2-Magatsuhi HP:786/851 MP:156/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Bilwis ataca a Magatsuhi
+Magatsuhi recibe 34 de daño
+Magatsuhi termina con HP:752/851
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:501/597 MP:325/347
+B-
+C-Magatsuhi HP:752/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:44/388 MP:163/193
+B-
+C-Bilwis HP:112/161 MP:25/31
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Bilwis
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:501/597 MP:325/347
+2-Magatsuhi HP:752/851 MP:156/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Tadano dispara a Magatsuhi
+Magatsuhi recibe 20 de daño
+Magatsuhi termina con HP:732/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:501/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:44/388 MP:163/193
+B-
+C-Bilwis HP:112/161 MP:25/31
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:44/388 MP:163/193
+2-Bilwis HP:112/161 MP:25/31
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Tadano
+Tadano es resistente el ataque de Magatsuhi
+Tadano recibe 32 de daño
+Tadano termina con HP:12/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:501/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:12/388 MP:163/193
+B-
+C-Bilwis HP:112/161 MP:25/31
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:501/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:12/388 MP:163/193
+B-
+C-Bilwis HP:112/161 MP:25/31
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:12/388 MP:163/193
+2-Bilwis HP:112/161 MP:25/31
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Bilwis
+Bilwis recibe 65 de daño
+Bilwis termina con HP:47/161
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:501/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:12/388 MP:163/193
+B-
+C-Bilwis HP:47/161 MP:25/31
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Bilwis
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:297/492 MP:84/98
+2-Fortuna HP:17/147 MP:66/66
+3-Hel HP:4/254 MP:246/246
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Bilwis HP:47/161 MP:25/31 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:501/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:12/388 MP:163/193
+B-Hel HP:4/254 MP:246/246
+C-Bilwis HP:47/161 MP:25/31
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bilwis
+2-Hel
+3-Tadano
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bilwis
+1-Yu HP:501/597 MP:325/347
+2-Magatsuhi HP:732/851 MP:156/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Bilwis ataca a Yu
+Yu es resistente el ataque de Bilwis
+Yu recibe 4 de daño
+Yu termina con HP:497/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:497/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:12/388 MP:163/193
+B-Hel HP:4/254 MP:246/246
+C-Bilwis HP:47/161 MP:25/31
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Tadano
+3-Bilwis
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:297/492 MP:84/98
+2-Fortuna HP:17/147 MP:66/66
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:297/492 MP:84/98
+2-Fortuna HP:17/147 MP:66/66
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Balor ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:497/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:12/388 MP:163/193
+B-Balor HP:297/492 MP:84/98
+C-Bilwis HP:47/161 MP:25/31
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Bilwis
+3-Balor
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:497/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:156/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:12/388 MP:163/193
+B-Balor HP:297/492 MP:84/98
+C-Bilwis HP:47/161 MP:25/31
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:12/388 MP:163/193
+2-Balor HP:297/492 MP:84/98
+3-Bilwis HP:47/161 MP:25/31
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Magatsuhi lanza hielo a Bilwis
+Bilwis recibe 124 de daño
+Bilwis termina con HP:0/161
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:497/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:142/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:12/388 MP:163/193
+B-Balor HP:297/492 MP:84/98
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:497/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:142/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:12/388 MP:163/193
+B-Balor HP:297/492 MP:84/98
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:12/388 MP:163/193
+2-Balor HP:297/492 MP:84/98
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:497/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:142/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:12/388 MP:163/193
+B-Balor HP:297/492 MP:84/98
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Tadano
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:497/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:142/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:12/388 MP:163/193
+B-Balor HP:297/492 MP:84/98
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Balor
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Gram Slice MP:5
+2-Tathlum Shot MP:7
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:497/597 MP:325/347
+2-Magatsuhi HP:732/851 MP:142/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano dispara a Yu
+Yu recibe 55 de daño
+Yu termina con HP:442/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:442/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:142/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:12/388 MP:156/193
+B-Balor HP:297/492 MP:84/98
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Tadano
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Yu HP:442/597 MP:325/347
+2-Magatsuhi HP:732/851 MP:142/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Balor lanza viento a Yu
+Yu es resistente el ataque de Balor
+Yu recibe 46 de daño
+Yu termina con HP:396/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:396/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:142/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:12/388 MP:156/193
+B-Balor HP:297/492 MP:70/98
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:12/388 MP:156/193
+2-Balor HP:297/492 MP:70/98
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:396/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:142/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:12/388 MP:156/193
+B-Balor HP:297/492 MP:70/98
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:396/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:142/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:12/388 MP:156/193
+B-Balor HP:297/492 MP:70/98
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:12/388 MP:156/193
+2-Balor HP:297/492 MP:70/98
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Tadano HP:12/388 MP:156/193
+2-Balor HP:297/492 MP:70/98
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi lanza hielo a Tadano
+Tadano recibe 124 de daño
+Tadano termina con HP:0/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:396/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:128/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:156/193
+B-Balor HP:297/492 MP:70/98
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:396/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:128/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:156/193
+B-Balor HP:297/492 MP:70/98
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Balor
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Yu HP:396/597 MP:325/347
+2-Magatsuhi HP:732/851 MP:128/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Balor lanza fuego a Yu
+Yu es resistente el ataque de Balor
+Yu recibe 46 de daño
+Yu termina con HP:350/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:350/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:128/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:156/193
+B-Balor HP:297/492 MP:56/98
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Balor HP:297/492 MP:56/98
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Balor HP:297/492 MP:56/98
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi lanza hielo a Balor
+Balor recibe 124 de daño
+Balor termina con HP:173/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:350/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:114/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:156/193
+B-Balor HP:173/492 MP:56/98
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Balor HP:173/492 MP:56/98
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Balor HP:173/492 MP:56/98
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Balor
+Balor recibe 49 de daño
+Balor termina con HP:124/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:350/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:114/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:156/193
+B-Balor HP:124/492 MP:56/98
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fortuna HP:17/147 MP:66/66
+2-Hel HP:4/254 MP:246/246
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fortuna HP:17/147 MP:66/66
+2-Hel HP:4/254 MP:246/246
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:350/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:114/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:156/193
+B-Hel HP:4/254 MP:246/246
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Yu HP:350/597 MP:325/347
+2-Magatsuhi HP:732/851 MP:114/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:124/492 MP:56/98
+2-Fortuna HP:17/147 MP:66/66
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Balor ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:350/597 MP:325/347
+B-
+C-Magatsuhi HP:732/851 MP:114/170
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:156/193
+B-Balor HP:124/492 MP:56/98
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Balor HP:124/492 MP:56/98
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Balor HP:124/492 MP:56/98
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi lanza hielo a Balor
+Balor recibe 124 de daño
+Balor termina con HP:0/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Yu (J1)

@@ -1,0 +1,2388 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+INPUT: 2
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kingu HP:464/464 MP:91/91
+C-Taown HP:709/709 MP:140/140
+D-Scathach HP:343/343 MP:153/153
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:235/235 MP:228/228
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taown
+3-Kingu
+4-Scathach
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Koumokuten HP:378/378 MP:170/170
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Sandman HP:113/113 MP:108/108
+4-Shax HP:371/371 MP:360/360
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Kingu HP:464/464 MP:91/91 (Puesto 2)
+2-Taown HP:709/709 MP:140/140 (Puesto 3)
+3-Scathach HP:343/343 MP:153/153 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Shax ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Taown HP:709/709 MP:140/140
+D-Scathach HP:343/343 MP:153/153
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:235/235 MP:228/228
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Shax
+3-Scathach
+4-Yu
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Tadano HP:388/388 MP:193/193
+2-Enku HP:235/235 MP:228/228
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Taown ataca a Enku
+Enku recibe 54 de daño
+Enku termina con HP:181/235
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Taown HP:709/709 MP:140/140
+D-Scathach HP:343/343 MP:153/153
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:181/235 MP:228/228
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Scathach
+3-Yu
+4-Taown
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Taown HP:709/709 MP:140/140
+D-Scathach HP:343/343 MP:153/153
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:181/235 MP:228/228
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Scathach
+2-Yu
+3-Taown
+4-Shax
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Scathach use
+1-Mazanma MP:20
+2-Oni-Kagura MP:9
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Taown HP:709/709 MP:140/140
+D-Scathach HP:343/343 MP:153/153
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:181/235 MP:228/228
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taown
+3-Shax
+4-Scathach
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Taown HP:709/709 MP:140/140
+D-Scathach HP:343/343 MP:153/153
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:181/235 MP:228/228
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Shax
+3-Scathach
+4-Yu
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Tadano HP:388/388 MP:193/193
+2-Enku HP:181/235 MP:228/228
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Tadano HP:388/388 MP:193/193
+2-Enku HP:181/235 MP:228/228
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Taown lanza electricidad a Enku
+Enku recibe 113 de daño
+Enku termina con HP:68/235
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Taown HP:709/709 MP:126/140
+D-Scathach HP:343/343 MP:153/153
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:68/235 MP:228/228
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Scathach
+3-Yu
+4-Taown
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:464/464 MP:91/91
+2-Koumokuten HP:378/378 MP:170/170
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Sandman ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Sandman HP:113/113 MP:108/108
+C-Taown HP:709/709 MP:126/140
+D-Scathach HP:343/343 MP:153/153
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:68/235 MP:228/228
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Scathach
+2-Yu
+3-Taown
+4-Sandman
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Sandman HP:113/113 MP:108/108
+C-Taown HP:709/709 MP:126/140
+D-Scathach HP:343/343 MP:153/153
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:68/235 MP:228/228
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Tadano
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Yu HP:597/597 MP:347/347
+2-Sandman HP:113/113 MP:108/108
+3-Taown HP:709/709 MP:126/140
+4-Scathach HP:343/343 MP:153/153
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Enku ataca a Taown
+Taown recibe 74 de daño
+Taown termina con HP:635/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Sandman HP:113/113 MP:108/108
+C-Taown HP:635/709 MP:126/140
+D-Scathach HP:343/343 MP:153/153
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:68/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Enku
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:597/597 MP:347/347
+2-Sandman HP:113/113 MP:108/108
+3-Taown HP:635/709 MP:126/140
+4-Scathach HP:343/343 MP:153/153
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tadano dispara a Scathach
+Scathach bloquea el ataque de Tadano
+Scathach termina con HP:343/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Sandman HP:113/113 MP:108/108
+C-Taown HP:635/709 MP:126/140
+D-Scathach HP:343/343 MP:153/153
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:68/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taown
+3-Scathach
+4-Sandman
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Sandman HP:113/113 MP:108/108
+C-Taown HP:635/709 MP:126/140
+D-Scathach HP:343/343 MP:153/153
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:68/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Scathach
+3-Sandman
+4-Yu
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Tadano HP:388/388 MP:193/193
+2-Enku HP:68/235 MP:221/228
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Tadano
+Tadano es resistente el ataque de Taown
+Tadano recibe 27 de daño
+Tadano termina con HP:361/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Sandman HP:113/113 MP:108/108
+C-Taown HP:635/709 MP:126/140
+D-Scathach HP:343/343 MP:153/153
+Equipo de Tadano (J2)
+A-Tadano HP:361/388 MP:193/193
+B-Enku HP:68/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Sandman
+3-Yu
+4-Taown
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:464/464 MP:91/91
+2-Koumokuten HP:378/378 MP:170/170
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Shax HP:371/371 MP:360/360
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Sandman HP:113/113 MP:108/108
+C-Taown HP:635/709 MP:126/140
+D-Kingu HP:464/464 MP:91/91
+Equipo de Tadano (J2)
+A-Tadano HP:361/388 MP:193/193
+B-Enku HP:68/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sandman
+2-Yu
+3-Taown
+4-Kingu
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Scathach HP:343/343 MP:153/153
+2-Koumokuten HP:378/378 MP:170/170
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Shax HP:371/371 MP:360/360
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Koumokuten ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Taown HP:635/709 MP:126/140
+D-Kingu HP:464/464 MP:91/91
+Equipo de Tadano (J2)
+A-Tadano HP:361/388 MP:193/193
+B-Enku HP:68/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taown
+3-Kingu
+4-Koumokuten
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Scathach HP:343/343 MP:153/153
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Sandman HP:113/113 MP:108/108
+4-Shax HP:371/371 MP:360/360
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Koumokuten HP:378/378 MP:170/170 (Puesto 2)
+2-Taown HP:635/709 MP:126/140 (Puesto 3)
+3-Kingu HP:464/464 MP:91/91 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Shax ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Taown HP:635/709 MP:126/140
+D-Shax HP:371/371 MP:360/360
+Equipo de Tadano (J2)
+A-Tadano HP:361/388 MP:193/193
+B-Enku HP:68/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Shax
+3-Koumokuten
+4-Yu
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:464/464 MP:91/91
+2-Scathach HP:343/343 MP:153/153
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:464/464 MP:91/91
+2-Scathach HP:343/343 MP:153/153
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Kingu HP:464/464 MP:91/91
+D-Shax HP:371/371 MP:360/360
+Equipo de Tadano (J2)
+A-Tadano HP:361/388 MP:193/193
+B-Enku HP:68/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Koumokuten
+3-Yu
+4-Kingu
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taown HP:635/709 MP:126/140
+2-Scathach HP:343/343 MP:153/153
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Sandman ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Kingu HP:464/464 MP:91/91
+D-Sandman HP:113/113 MP:108/108
+Equipo de Tadano (J2)
+A-Tadano HP:361/388 MP:193/193
+B-Enku HP:68/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Yu
+3-Kingu
+4-Sandman
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taown HP:635/709 MP:126/140
+2-Scathach HP:343/343 MP:153/153
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Shax HP:371/371 MP:360/360
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Bai Suzhen ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Kingu HP:464/464 MP:91/91
+D-Sandman HP:113/113 MP:108/108
+Equipo de Tadano (J2)
+A-Tadano HP:361/388 MP:193/193
+B-Enku HP:68/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Tadano
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Yu HP:597/597 MP:347/347
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Kingu HP:464/464 MP:91/91
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Enku ataca a Sandman
+Sandman recibe 24 de daño
+Sandman termina con HP:89/113
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Kingu HP:464/464 MP:91/91
+D-Sandman HP:89/113 MP:108/108
+Equipo de Tadano (J2)
+A-Tadano HP:361/388 MP:193/193
+B-Enku HP:68/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Enku
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Damascus Claw MP:7
+2-Zanma MP:8
+3-Samarecarm MP:40
+4-Diarama MP:9
+5-Ziodyne MP:14
+6-Bufu MP:5
+7-Nihil Claw MP:11
+8-Recarm MP:20
+9-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:597/597 MP:347/347
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Kingu HP:464/464 MP:91/91
+4-Sandman HP:89/113 MP:108/108
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tadano ataca a Sandman
+Sandman recibe 78 de daño
+Tadano ataca a Sandman
+Sandman recibe 78 de daño
+Sandman termina con HP:0/113
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Kingu HP:464/464 MP:91/91
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:361/388 MP:182/193
+B-Enku HP:68/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Kingu
+3-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:361/388 MP:182/193
+2-Enku HP:68/235 MP:221/228
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Enku
+Enku recibe 49 de daño
+Enku termina con HP:19/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Kingu HP:464/464 MP:91/91
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:361/388 MP:182/193
+B-Enku HP:19/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Bai Suzhen
+3-Yu
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Kingu HP:464/464 MP:91/91
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:361/388 MP:182/193
+B-Enku HP:19/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Yu
+3-Kingu
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taown HP:635/709 MP:126/140
+2-Scathach HP:343/343 MP:153/153
+3-Koumokuten HP:378/378 MP:170/170
+4-Shax HP:371/371 MP:360/360
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Shax ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Kingu HP:464/464 MP:91/91
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:361/388 MP:182/193
+B-Enku HP:19/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Kingu
+3-Shax
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taown HP:635/709 MP:126/140
+2-Scathach HP:343/343 MP:153/153
+3-Koumokuten HP:378/378 MP:170/170
+4-Bai Suzhen HP:155/155 MP:149/149
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Shax HP:371/371 MP:360/360 (Puesto 2)
+2-Kingu HP:464/464 MP:91/91 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:361/388 MP:182/193
+2-Enku HP:19/235 MP:221/228
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taown HP:635/709 MP:126/140
+2-Scathach HP:343/343 MP:153/153
+3-Koumokuten HP:378/378 MP:170/170
+4-Bai Suzhen HP:155/155 MP:149/149
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Shax HP:371/371 MP:360/360 (Puesto 2)
+2-Kingu HP:464/464 MP:91/91 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Bai Suzhen ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:361/388 MP:182/193
+B-Enku HP:19/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Shax
+3-Yu
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:361/388 MP:182/193
+B-Enku HP:19/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Tadano
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:361/388 MP:182/193
+B-Enku HP:19/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Enku
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:597/597 MP:347/347
+2-Shax HP:371/371 MP:360/360
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano dispara a Yu
+Yu recibe 20 de daño
+Yu termina con HP:577/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:577/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:361/388 MP:182/193
+B-Enku HP:19/235 MP:221/228
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Tadano
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Yu HP:577/597 MP:347/347
+2-Shax HP:371/371 MP:360/360
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Yu
+Yu es resistente el ataque de Enku
+Yu recibe 37 de daño
+Enku ataca a Yu
+Yu es resistente el ataque de Enku
+Yu recibe 37 de daño
+Enku ataca a Yu
+Yu es resistente el ataque de Enku
+Yu recibe 37 de daño
+Yu termina con HP:466/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:466/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:361/388 MP:182/193
+B-Enku HP:19/235 MP:214/228
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Shax
+3-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:361/388 MP:182/193
+2-Enku HP:19/235 MP:214/228
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Enku
+Enku recibe 49 de daño
+Enku termina con HP:0/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:466/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:361/388 MP:182/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Bai Suzhen
+3-Yu
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Tadano HP:361/388 MP:182/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shax ataca a Tadano
+Tadano es resistente el ataque de Shax
+Tadano recibe 20 de daño
+Tadano termina con HP:341/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:466/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:341/388 MP:182/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Yu
+3-Shax
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:464/464 MP:91/91
+2-Taown HP:635/709 MP:126/140
+3-Scathach HP:343/343 MP:153/153
+4-Koumokuten HP:378/378 MP:170/170
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bai Suzhen use
+1-Zionga MP:8
+2-Binding Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:466/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:341/388 MP:182/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Shax
+3-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:464/464 MP:91/91
+2-Taown HP:635/709 MP:126/140
+3-Scathach HP:343/343 MP:153/153
+4-Koumokuten HP:378/378 MP:170/170
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:464/464 MP:91/91
+2-Taown HP:635/709 MP:126/140
+3-Scathach HP:343/343 MP:153/153
+4-Koumokuten HP:378/378 MP:170/170
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Shax HP:371/371 MP:360/360 (Puesto 2)
+2-Bai Suzhen HP:155/155 MP:149/149 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Taown ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:466/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Taown HP:635/709 MP:126/140
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:341/388 MP:182/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:466/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Taown HP:635/709 MP:126/140
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:341/388 MP:182/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:466/597 MP:347/347
+2-Shax HP:371/371 MP:360/360
+3-Taown HP:635/709 MP:126/140
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Yu
+Yu es resistente el ataque de Tadano
+Yu recibe 8 de daño
+Yu termina con HP:458/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:458/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Taown HP:635/709 MP:126/140
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:341/388 MP:182/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taown
+3-Shax
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:341/388 MP:182/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:341/388 MP:182/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Tadano
+Tadano es resistente el ataque de Yu
+Tadano recibe 24 de daño
+Tadano termina con HP:317/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:458/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Taown HP:635/709 MP:126/140
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:317/388 MP:182/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Shax
+3-Yu
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:458/597 MP:347/347
+B-Shax HP:371/371 MP:360/360
+C-Taown HP:635/709 MP:126/140
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:317/388 MP:182/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shax
+2-Yu
+3-Taown
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Tadano HP:317/388 MP:182/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:464/464 MP:91/91
+2-Scathach HP:343/343 MP:153/153
+3-Koumokuten HP:378/378 MP:170/170
+4-Bai Suzhen HP:155/155 MP:149/149
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Koumokuten ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:458/597 MP:347/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Taown HP:635/709 MP:126/140
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:317/388 MP:182/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taown
+3-Koumokuten
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:464/464 MP:91/91
+2-Scathach HP:343/343 MP:153/153
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Shax HP:371/371 MP:360/360
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Koumokuten HP:378/378 MP:170/170 (Puesto 2)
+2-Taown HP:635/709 MP:126/140 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Scathach ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:458/597 MP:347/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Scathach HP:343/343 MP:153/153
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:317/388 MP:182/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Scathach
+2-Koumokuten
+3-Yu
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:458/597 MP:347/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Scathach HP:343/343 MP:153/153
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:317/388 MP:182/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:458/597 MP:347/347
+2-Koumokuten HP:378/378 MP:170/170
+3-Scathach HP:343/343 MP:153/153
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Damascus Claw MP:7
+2-Zanma MP:8
+3-Samarecarm MP:40
+4-Diarama MP:9
+5-Ziodyne MP:14
+6-Bufu MP:5
+7-Nihil Claw MP:11
+8-Recarm MP:20
+9-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:458/597 MP:347/347
+2-Koumokuten HP:378/378 MP:170/170
+3-Scathach HP:343/343 MP:153/153
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tadano ataca a Koumokuten
+Koumokuten recibe 78 de daño
+Koumokuten termina con HP:300/378
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:458/597 MP:347/347
+B-Koumokuten HP:300/378 MP:170/170
+C-Scathach HP:343/343 MP:153/153
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:317/388 MP:171/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Koumokuten
+3-Scathach
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:458/597 MP:347/347
+B-Koumokuten HP:300/378 MP:170/170
+C-Scathach HP:343/343 MP:153/153
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:317/388 MP:171/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Scathach
+3-Yu
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Tadano HP:317/388 MP:171/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Koumokuten use
+1-Megaton Press MP:17
+2-Ziodyne MP:14
+3-Mortal Jihad MP:13
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Koumokuten use
+1-Megaton Press MP:17
+2-Ziodyne MP:14
+3-Mortal Jihad MP:13
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Tadano HP:317/388 MP:171/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Koumokuten lanza electricidad a Tadano
+Tadano recibe 98 de daño
+Tadano termina con HP:219/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:458/597 MP:347/347
+B-Koumokuten HP:300/378 MP:156/170
+C-Scathach HP:343/343 MP:153/153
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:219/388 MP:171/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Yu
+3-Koumokuten
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:464/464 MP:91/91
+2-Taown HP:635/709 MP:126/140
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Shax HP:371/371 MP:360/360
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:458/597 MP:347/347
+B-Koumokuten HP:300/378 MP:156/170
+C-Kingu HP:464/464 MP:91/91
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:219/388 MP:171/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Koumokuten
+3-Kingu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:219/388 MP:171/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:458/597 MP:347/347
+B-Koumokuten HP:300/378 MP:156/170
+C-Kingu HP:464/464 MP:91/91
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:219/388 MP:171/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Kingu
+3-Yu
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Koumokuten use
+1-Megaton Press MP:17
+2-Ziodyne MP:14
+3-Mortal Jihad MP:13
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Tadano HP:219/388 MP:171/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Koumokuten ataca a Tadano
+Tadano es resistente el ataque de Koumokuten
+Tadano recibe 54 de daño
+Tadano termina con HP:165/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:458/597 MP:347/347
+B-Koumokuten HP:300/378 MP:143/170
+C-Kingu HP:464/464 MP:91/91
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:165/388 MP:171/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:458/597 MP:347/347
+2-Koumokuten HP:300/378 MP:143/170
+3-Kingu HP:464/464 MP:91/91
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano dispara a Yu
+Yu recibe 20 de daño
+Yu termina con HP:438/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:438/597 MP:347/347
+B-Koumokuten HP:300/378 MP:143/170
+C-Kingu HP:464/464 MP:91/91
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:165/388 MP:171/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Koumokuten
+3-Kingu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:165/388 MP:171/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:165/388 MP:171/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Tadano
+Tadano recibe 72 de daño
+Tadano termina con HP:93/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:438/597 MP:347/347
+B-Koumokuten HP:300/378 MP:143/170
+C-Kingu HP:464/464 MP:91/91
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:93/388 MP:171/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Kingu
+3-Yu
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Koumokuten use
+1-Megaton Press MP:17
+2-Ziodyne MP:14
+3-Mortal Jihad MP:13
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Tadano HP:93/388 MP:171/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Koumokuten lanza electricidad a Tadano
+Tadano recibe 98 de daño
+Tadano termina con HP:0/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Yu (J1)

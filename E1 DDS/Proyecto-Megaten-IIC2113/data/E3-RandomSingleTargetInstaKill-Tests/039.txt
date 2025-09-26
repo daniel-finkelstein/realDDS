@@ -1,0 +1,6290 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 38
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Da Peng HP:634/634 MP:126/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:662/662 MP:131/131
+C-Hachiman HP:851/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Da Peng
+3-Mithras
+4-Archangel
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Da Peng HP:634/634 MP:126/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:662/662 MP:131/131
+C-Hachiman HP:851/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Mithras
+3-Archangel
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Yamata-no-Orochi HP:662/662 MP:131/131
+3-Hachiman HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Da Peng lanza viento a Hachiman
+Hachiman es débil contra el ataque de Da Peng
+Hachiman recibe 159 de daño
+Hachiman termina con HP:692/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Da Peng HP:634/634 MP:112/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:662/662 MP:131/131
+C-Hachiman HP:692/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Mithras
+2-Archangel
+3-Shujinko
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mithras
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Yamata-no-Orochi HP:662/662 MP:131/131
+3-Hachiman HP:692/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mithras ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 20 de daño
+Yamata-no-Orochi termina con HP:642/662
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Da Peng HP:634/634 MP:112/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:642/662 MP:131/131
+C-Hachiman HP:692/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Shujinko
+3-Da Peng
+4-Mithras
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Yamata-no-Orochi HP:642/662 MP:131/131
+3-Hachiman HP:692/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Archangel ataca a Hachiman
+Hachiman recibe 18 de daño
+Hachiman termina con HP:674/851
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Da Peng HP:634/634 MP:112/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:642/662 MP:131/131
+C-Hachiman HP:674/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Da Peng
+3-Mithras
+4-Archangel
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Mortal Jihad MP:13
+2-Zionga MP:8
+3-Hamaon MP:10
+4-Gram Slice MP:5
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Mortal Jihad MP:13
+2-Zionga MP:8
+3-Hamaon MP:10
+4-Gram Slice MP:5
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Yamata-no-Orochi HP:642/662 MP:131/131
+3-Hachiman HP:674/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko lanza electricidad a Yamata-no-Orochi
+Yamata-no-Orochi es débil contra el ataque de Shujinko
+Yamata-no-Orochi recibe 158 de daño
+Yamata-no-Orochi termina con HP:484/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:617/625
+B-Da Peng HP:634/634 MP:112/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:484/662 MP:131/131
+C-Hachiman HP:674/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Mithras
+3-Archangel
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Yamata-no-Orochi HP:484/662 MP:131/131
+3-Hachiman HP:674/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Da Peng lanza viento a Hachiman
+Hachiman es débil contra el ataque de Da Peng
+Hachiman recibe 159 de daño
+Hachiman termina con HP:515/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:617/625
+B-Da Peng HP:634/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:484/662 MP:131/131
+C-Hachiman HP:515/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Mithras
+2-Archangel
+3-Shujinko
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mithras
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Yamata-no-Orochi HP:484/662 MP:131/131
+3-Hachiman HP:515/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mithras ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Mithras
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 2 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:617/625
+B-Da Peng HP:634/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:484/662 MP:131/131
+C-Hachiman HP:515/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:617/625
+B-Da Peng HP:634/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:484/662 MP:131/131
+C-Hachiman HP:515/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Yamata-no-Orochi
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:617/625
+B-Da Peng HP:634/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:484/662 MP:131/131
+C-Hachiman HP:515/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Demi-Fiend
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Shujinko HP:1317/1317 MP:617/625
+2-Da Peng HP:634/634 MP:98/126
+3-Archangel HP:265/265 MP:52/52
+4-Mithras HP:293/293 MP:58/58
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi ataca a Shujinko
+Shujinko es resistente el ataque de Yamata-no-Orochi
+Shujinko recibe 25 de daño
+Shujinko termina con HP:1292/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1292/1317 MP:617/625
+B-Da Peng HP:634/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:484/662 MP:131/131
+C-Hachiman HP:515/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1292/1317 MP:617/625
+B-Da Peng HP:634/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:484/662 MP:131/131
+C-Hachiman HP:515/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Yamata-no-Orochi
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Shujinko HP:1292/1317 MP:617/625
+2-Da Peng HP:634/634 MP:98/126
+3-Archangel HP:265/265 MP:52/52
+4-Mithras HP:293/293 MP:58/58
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Shujinko
+Shujinko es resistente el ataque de Hachiman
+Shujinko recibe 32 de daño
+Shujinko termina con HP:1260/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1260/1317 MP:617/625
+B-Da Peng HP:634/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:484/662 MP:131/131
+C-Hachiman HP:515/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Da Peng
+3-Mithras
+4-Archangel
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Yamata-no-Orochi HP:484/662 MP:131/131
+3-Hachiman HP:515/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko dispara a Yamata-no-Orochi
+Yamata-no-Orochi recibe 228 de daño
+Yamata-no-Orochi termina con HP:256/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1260/1317 MP:617/625
+B-Da Peng HP:634/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:256/662 MP:131/131
+C-Hachiman HP:515/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Mithras
+3-Archangel
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Yamata-no-Orochi HP:256/662 MP:131/131
+3-Hachiman HP:515/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Da Peng
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1260/1317 MP:617/625
+B-Da Peng HP:634/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:256/662 MP:131/131
+C-Hachiman HP:515/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithras
+2-Archangel
+3-Shujinko
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mithras
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Yamata-no-Orochi HP:256/662 MP:131/131
+3-Hachiman HP:515/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Mithras ataca a Hachiman
+Hachiman recibe 20 de daño
+Hachiman termina con HP:495/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1260/1317 MP:617/625
+B-Da Peng HP:634/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:256/662 MP:131/131
+C-Hachiman HP:495/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1260/1317 MP:617/625
+B-Da Peng HP:634/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:256/662 MP:131/131
+C-Hachiman HP:495/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Yamata-no-Orochi
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Shujinko HP:1260/1317 MP:617/625
+2-Da Peng HP:634/634 MP:98/126
+3-Archangel HP:265/265 MP:52/52
+4-Mithras HP:293/293 MP:58/58
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hachiman ataca a Da Peng
+Da Peng recibe 163 de daño
+Da Peng termina con HP:471/634
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1260/1317 MP:617/625
+B-Da Peng HP:471/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:256/662 MP:131/131
+C-Hachiman HP:495/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Demi-Fiend
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Shujinko HP:1260/1317 MP:617/625
+2-Da Peng HP:471/634 MP:98/126
+3-Archangel HP:265/265 MP:52/52
+4-Mithras HP:293/293 MP:58/58
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi ataca a Shujinko
+Shujinko es resistente el ataque de Yamata-no-Orochi
+Shujinko recibe 25 de daño
+Shujinko termina con HP:1235/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1235/1317 MP:617/625
+B-Da Peng HP:471/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:256/662 MP:131/131
+C-Hachiman HP:495/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hamaon MP:10
+2-Dia MP:5
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1235/1317 MP:617/625
+B-Da Peng HP:471/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:256/662 MP:131/131
+C-Hachiman HP:495/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Yamata-no-Orochi
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1235/1317 MP:617/625
+B-Da Peng HP:471/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:256/662 MP:131/131
+C-Hachiman HP:495/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Da Peng
+3-Mithras
+4-Archangel
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1235/1317 MP:617/625
+B-Da Peng HP:471/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:256/662 MP:131/131
+C-Hachiman HP:495/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Mithras
+3-Archangel
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Yamata-no-Orochi HP:256/662 MP:131/131
+3-Hachiman HP:495/851 MP:158/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Da Peng ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 48 de daño
+Yamata-no-Orochi termina con HP:208/662
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1235/1317 MP:617/625
+B-Da Peng HP:471/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:208/662 MP:131/131
+C-Hachiman HP:495/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithras
+2-Archangel
+3-Shujinko
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1235/1317 MP:617/625
+B-Da Peng HP:471/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:208/662 MP:131/131
+C-Hachiman HP:495/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Shujinko
+3-Da Peng
+4-Mithras
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Yamata-no-Orochi HP:208/662 MP:131/131
+3-Hachiman HP:495/851 MP:158/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Archangel ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Archangel
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1235/1317 MP:617/625
+B-Da Peng HP:471/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:208/662 MP:131/131
+C-Hachiman HP:495/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Da Peng
+3-Mithras
+4-Archangel
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Yamata-no-Orochi HP:208/662 MP:131/131
+3-Hachiman HP:495/851 MP:158/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Shujinko ataca a Hachiman
+Hachiman recibe 187 de daño
+Hachiman termina con HP:308/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1235/1317 MP:617/625
+B-Da Peng HP:471/634 MP:98/126
+C-Archangel HP:265/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:208/662 MP:131/131
+C-Hachiman HP:308/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:1235/1317 MP:617/625
+2-Da Peng HP:471/634 MP:98/126
+3-Archangel HP:265/265 MP:52/52
+4-Mithras HP:293/293 MP:58/58
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend ataca a Archangel
+Archangel recibe 168 de daño
+Archangel termina con HP:97/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1235/1317 MP:617/625
+B-Da Peng HP:471/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:208/662 MP:131/131
+C-Hachiman HP:308/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Yamata-no-Orochi
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Shujinko HP:1235/1317 MP:617/625
+2-Da Peng HP:471/634 MP:98/126
+3-Archangel HP:97/265 MP:52/52
+4-Mithras HP:293/293 MP:58/58
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hachiman ataca a Da Peng
+Da Peng recibe 65 de daño
+Da Peng termina con HP:406/634
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1235/1317 MP:617/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:208/662 MP:131/131
+C-Hachiman HP:308/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Demi-Fiend
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Shujinko HP:1235/1317 MP:617/625
+2-Da Peng HP:406/634 MP:98/126
+3-Archangel HP:97/265 MP:52/52
+4-Mithras HP:293/293 MP:58/58
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi lanza hielo a Shujinko
+Shujinko recibe 109 de daño
+Shujinko termina con HP:1126/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1126/1317 MP:617/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:208/662 MP:117/131
+C-Hachiman HP:308/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Da Peng
+3-Mithras
+4-Archangel
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Mortal Jihad MP:13
+2-Zionga MP:8
+3-Hamaon MP:10
+4-Gram Slice MP:5
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Yamata-no-Orochi HP:208/662 MP:117/131
+3-Hachiman HP:308/851 MP:158/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Shujinko ataca con luz a Hachiman
+Hachiman bloquea el ataque de Shujinko
+Hachiman termina con HP:308/851
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1126/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:208/662 MP:117/131
+C-Hachiman HP:308/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Mithras
+3-Archangel
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Yamata-no-Orochi HP:208/662 MP:117/131
+3-Hachiman HP:308/851 MP:158/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Da Peng
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1126/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:208/662 MP:117/131
+C-Hachiman HP:308/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:1126/1317 MP:607/625
+2-Da Peng HP:406/634 MP:98/126
+3-Archangel HP:97/265 MP:52/52
+4-Mithras HP:293/293 MP:58/58
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Shujinko
+Shujinko es resistente el ataque de Demi-Fiend
+Shujinko recibe 57 de daño
+Shujinko termina con HP:1069/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1069/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:208/662 MP:117/131
+C-Hachiman HP:308/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Yamata-no-Orochi
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1069/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:293/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:208/662 MP:117/131
+C-Hachiman HP:308/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Demi-Fiend
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Shujinko HP:1069/1317 MP:607/625
+2-Da Peng HP:406/634 MP:98/126
+3-Archangel HP:97/265 MP:52/52
+4-Mithras HP:293/293 MP:58/58
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Yamata-no-Orochi ataca a Mithras
+Mithras recibe 50 de daño
+Mithras termina con HP:243/293
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1069/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:243/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:208/662 MP:117/131
+C-Hachiman HP:308/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:1069/1317 MP:607/625
+2-Da Peng HP:406/634 MP:98/126
+3-Archangel HP:97/265 MP:52/52
+4-Mithras HP:243/293 MP:58/58
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:1069/1317 MP:607/625
+2-Da Peng HP:406/634 MP:98/126
+3-Archangel HP:97/265 MP:52/52
+4-Mithras HP:243/293 MP:58/58
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Shujinko
+Shujinko es resistente el ataque de Demi-Fiend
+Shujinko recibe 84 de daño
+Shujinko termina con HP:985/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:985/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:243/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:208/662 MP:117/131
+C-Hachiman HP:308/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Da Peng
+3-Mithras
+4-Archangel
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:985/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:243/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:208/662 MP:117/131
+C-Hachiman HP:308/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Mithras
+3-Archangel
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:985/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:243/293 MP:58/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:208/662 MP:117/131
+C-Hachiman HP:308/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithras
+2-Archangel
+3-Shujinko
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mithras use
+1-Mahama MP:18
+2-Heat Wave MP:11
+3-Rakunda MP:15
+4-Fatal Sword MP:8
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Mithras
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Yamata-no-Orochi HP:208/662 MP:117/131
+3-Hachiman HP:308/851 MP:158/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mithras ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Mithras
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:985/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:243/293 MP:50/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:208/662 MP:117/131
+C-Hachiman HP:308/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Shujinko
+3-Da Peng
+4-Mithras
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:985/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:243/293 MP:50/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yamata-no-Orochi HP:208/662 MP:117/131
+C-Hachiman HP:308/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Da Peng
+3-Mithras
+4-Archangel
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Yamata-no-Orochi HP:208/662 MP:117/131
+3-Hachiman HP:308/851 MP:158/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko dispara a Demi-Fiend
+Demi-Fiend recibe 228 de daño
+Demi-Fiend termina con HP:999/1227
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:985/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:243/293 MP:50/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:834/834
+B-Yamata-no-Orochi HP:208/662 MP:117/131
+C-Hachiman HP:308/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hamaon MP:10
+2-Dia MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:999/1227 MP:834/834
+2-Yamata-no-Orochi HP:208/662 MP:117/131
+3-Hachiman HP:308/851 MP:158/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend cura a Hachiman
+Hachiman recibe 212 de HP
+Hachiman termina con HP:520/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:985/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:243/293 MP:50/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-Yamata-no-Orochi HP:208/662 MP:117/131
+C-Hachiman HP:520/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Yamata-no-Orochi
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Shujinko HP:985/1317 MP:607/625
+2-Da Peng HP:406/634 MP:98/126
+3-Archangel HP:97/265 MP:52/52
+4-Mithras HP:243/293 MP:50/58
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Shujinko HP:985/1317 MP:607/625
+2-Da Peng HP:406/634 MP:98/126
+3-Archangel HP:97/265 MP:52/52
+4-Mithras HP:243/293 MP:50/58
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Shujinko
+Shujinko es resistente el ataque de Hachiman
+Shujinko recibe 32 de daño
+Shujinko termina con HP:953/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:243/293 MP:50/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-Yamata-no-Orochi HP:208/662 MP:117/131
+C-Hachiman HP:520/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Demi-Fiend
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:243/293 MP:50/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-Yamata-no-Orochi HP:208/662 MP:117/131
+C-Hachiman HP:520/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hamaon MP:10
+2-Dia MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:999/1227 MP:829/834
+2-Yamata-no-Orochi HP:208/662 MP:117/131
+3-Hachiman HP:520/851 MP:158/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:243/293 MP:50/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-Yamata-no-Orochi HP:208/662 MP:117/131
+C-Hachiman HP:520/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Da Peng
+3-Mithras
+4-Archangel
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:999/1227 MP:829/834
+2-Yamata-no-Orochi HP:208/662 MP:117/131
+3-Hachiman HP:520/851 MP:158/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 187 de daño
+Yamata-no-Orochi termina con HP:21/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:243/293 MP:50/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-Yamata-no-Orochi HP:21/662 MP:117/131
+C-Hachiman HP:520/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Mithras
+3-Archangel
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:243/293 MP:50/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-Yamata-no-Orochi HP:21/662 MP:117/131
+C-Hachiman HP:520/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mithras
+2-Archangel
+3-Shujinko
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mithras
+1-Demi-Fiend HP:999/1227 MP:829/834
+2-Yamata-no-Orochi HP:21/662 MP:117/131
+3-Hachiman HP:520/851 MP:158/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Mithras ataca a Hachiman
+Hachiman recibe 20 de daño
+Hachiman termina con HP:500/851
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:243/293 MP:50/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-Yamata-no-Orochi HP:21/662 MP:117/131
+C-Hachiman HP:500/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Shujinko
+3-Da Peng
+4-Mithras
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:243/293 MP:50/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-Yamata-no-Orochi HP:21/662 MP:117/131
+C-Hachiman HP:500/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Da Peng
+3-Mithras
+4-Archangel
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:243/293 MP:50/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-Yamata-no-Orochi HP:21/662 MP:117/131
+C-Hachiman HP:500/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Mithras
+3-Archangel
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:243/293 MP:50/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-Yamata-no-Orochi HP:21/662 MP:117/131
+C-Hachiman HP:500/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mithras
+2-Archangel
+3-Shujinko
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mithras use
+1-Mahama MP:18
+2-Heat Wave MP:11
+3-Rakunda MP:15
+4-Fatal Sword MP:8
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Mithras
+1-Demi-Fiend HP:999/1227 MP:829/834
+2-Yamata-no-Orochi HP:21/662 MP:117/131
+3-Hachiman HP:500/851 MP:158/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mithras ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 72 de daño
+Yamata-no-Orochi termina con HP:0/662
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:243/293 MP:42/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-
+C-Hachiman HP:500/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:953/1317 MP:607/625
+2-Da Peng HP:406/634 MP:98/126
+3-Archangel HP:97/265 MP:52/52
+4-Mithras HP:243/293 MP:42/58
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Demi-Fiend ataca a Mithras
+Mithras recibe 168 de daño
+Mithras termina con HP:75/293
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:75/293 MP:42/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-
+C-Hachiman HP:500/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-Archangel HP:97/265 MP:52/52
+D-Mithras HP:75/293 MP:42/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-
+C-Hachiman HP:500/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hamaon MP:10
+2-Dia MP:5
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:953/1317 MP:607/625
+2-Da Peng HP:406/634 MP:98/126
+3-Archangel HP:97/265 MP:52/52
+4-Mithras HP:75/293 MP:42/58
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:953/1317 MP:607/625
+2-Da Peng HP:406/634 MP:98/126
+3-Archangel HP:97/265 MP:52/52
+4-Mithras HP:75/293 MP:42/58
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend ataca a Archangel
+Archangel recibe 168 de daño
+Archangel termina con HP:0/265
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-
+D-Mithras HP:75/293 MP:42/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-
+C-Hachiman HP:500/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Da Peng
+3-Mithras
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:999/1227 MP:829/834
+2-Hachiman HP:500/851 MP:158/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Mortal Jihad MP:13
+2-Zionga MP:8
+3-Hamaon MP:10
+4-Gram Slice MP:5
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:999/1227 MP:829/834
+2-Hachiman HP:500/851 MP:158/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-
+D-Mithras HP:75/293 MP:42/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-
+C-Hachiman HP:500/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Mithras
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Demi-Fiend HP:999/1227 MP:829/834
+2-Hachiman HP:500/851 MP:158/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Demi-Fiend HP:999/1227 MP:829/834
+2-Hachiman HP:500/851 MP:158/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Da Peng
+Demi-Fiend termina con HP:999/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-
+D-Mithras HP:75/293 MP:42/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-
+C-Hachiman HP:500/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithras
+2-Shujinko
+3-Da Peng
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mithras use
+1-Mahama MP:18
+2-Heat Wave MP:11
+3-Rakunda MP:15
+4-Fatal Sword MP:8
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-
+D-Mithras HP:75/293 MP:42/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-
+C-Hachiman HP:500/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Da Peng
+3-Mithras
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Mortal Jihad MP:13
+2-Zionga MP:8
+3-Hamaon MP:10
+4-Gram Slice MP:5
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:406/634 MP:98/126
+C-
+D-Mithras HP:75/293 MP:42/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-
+C-Hachiman HP:500/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:953/1317 MP:607/625
+2-Da Peng HP:406/634 MP:98/126
+3-Mithras HP:75/293 MP:42/58
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend dispara a Da Peng
+Da Peng es débil contra el ataque de Demi-Fiend
+Da Peng recibe 171 de daño
+Da Peng termina con HP:235/634
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:235/634 MP:98/126
+C-
+D-Mithras HP:75/293 MP:42/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-
+C-Hachiman HP:500/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:235/634 MP:98/126
+C-
+D-Mithras HP:75/293 MP:42/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:829/834
+B-
+C-Hachiman HP:500/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hamaon MP:10
+2-Dia MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:999/1227 MP:829/834
+2-Hachiman HP:500/851 MP:158/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend cura a Demi-Fiend
+Demi-Fiend recibe 306 de HP
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:607/625
+B-Da Peng HP:235/634 MP:98/126
+C-
+D-Mithras HP:75/293 MP:42/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:824/834
+B-
+C-Hachiman HP:500/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Da Peng
+3-Mithras
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Mortal Jihad MP:13
+2-Zionga MP:8
+3-Hamaon MP:10
+4-Gram Slice MP:5
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:1227/1227 MP:824/834
+2-Hachiman HP:500/851 MP:158/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko ataca con luz a Hachiman
+Hachiman bloquea el ataque de Shujinko
+Hachiman termina con HP:500/851
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:597/625
+B-Da Peng HP:235/634 MP:98/126
+C-
+D-Mithras HP:75/293 MP:42/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:824/834
+B-
+C-Hachiman HP:500/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Mithras
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Demi-Fiend HP:1227/1227 MP:824/834
+2-Hachiman HP:500/851 MP:158/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Da Peng ataca a Hachiman
+Hachiman recibe 48 de daño
+Hachiman termina con HP:452/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:597/625
+B-Da Peng HP:235/634 MP:98/126
+C-
+D-Mithras HP:75/293 MP:42/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:824/834
+B-
+C-Hachiman HP:452/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:597/625
+B-Da Peng HP:235/634 MP:98/126
+C-
+D-Mithras HP:75/293 MP:42/58
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:824/834
+B-
+C-Hachiman HP:452/851 MP:158/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Shujinko HP:953/1317 MP:597/625
+2-Da Peng HP:235/634 MP:98/126
+3-Mithras HP:75/293 MP:42/58
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Shujinko HP:953/1317 MP:597/625
+2-Da Peng HP:235/634 MP:98/126
+3-Mithras HP:75/293 MP:42/58
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hachiman ataca a Mithras
+Mithras recibe 163 de daño
+Mithras termina con HP:0/293
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:597/625
+B-Da Peng HP:235/634 MP:98/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:824/834
+B-
+C-Hachiman HP:452/851 MP:146/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:597/625
+B-Da Peng HP:235/634 MP:98/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:824/834
+B-
+C-Hachiman HP:452/851 MP:146/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Shujinko HP:953/1317 MP:597/625
+2-Da Peng HP:235/634 MP:98/126
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:597/625
+B-Da Peng HP:235/634 MP:98/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:824/834
+B-
+C-Hachiman HP:452/851 MP:146/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Da Peng
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:597/625
+B-Da Peng HP:235/634 MP:98/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:824/834
+B-
+C-Hachiman HP:452/851 MP:146/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:597/625
+B-Da Peng HP:235/634 MP:98/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:824/834
+B-
+C-Hachiman HP:452/851 MP:146/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Da Peng
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:1227/1227 MP:824/834
+2-Hachiman HP:452/851 MP:146/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:597/625
+B-Da Peng HP:235/634 MP:98/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:824/834
+B-
+C-Hachiman HP:452/851 MP:146/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Demi-Fiend HP:1227/1227 MP:824/834
+2-Hachiman HP:452/851 MP:146/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Da Peng lanza viento a Hachiman
+Hachiman es débil contra el ataque de Da Peng
+Hachiman recibe 159 de daño
+Hachiman termina con HP:293/851
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:597/625
+B-Da Peng HP:235/634 MP:84/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:824/834
+B-
+C-Hachiman HP:293/851 MP:146/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:953/1317 MP:597/625
+B-Da Peng HP:235/634 MP:84/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:824/834
+B-
+C-Hachiman HP:293/851 MP:146/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Shujinko HP:953/1317 MP:597/625
+2-Da Peng HP:235/634 MP:84/126
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Shujinko
+Shujinko es resistente el ataque de Hachiman
+Shujinko recibe 81 de daño
+Shujinko termina con HP:872/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:872/1317 MP:597/625
+B-Da Peng HP:235/634 MP:84/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:824/834
+B-
+C-Hachiman HP:293/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:872/1317 MP:597/625
+2-Da Peng HP:235/634 MP:84/126
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Shujinko
+Shujinko es resistente el ataque de Demi-Fiend
+Shujinko recibe 84 de daño
+Shujinko termina con HP:788/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:788/1317 MP:597/625
+B-Da Peng HP:235/634 MP:84/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:824/834
+B-
+C-Hachiman HP:293/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Da Peng
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:1227/1227 MP:824/834
+2-Hachiman HP:293/851 MP:134/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko ataca a Hachiman
+Hachiman recibe 187 de daño
+Hachiman termina con HP:106/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:788/1317 MP:597/625
+B-Da Peng HP:235/634 MP:84/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:824/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:788/1317 MP:597/625
+B-Da Peng HP:235/634 MP:84/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:824/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Da Peng
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:1227/1227 MP:824/834
+2-Hachiman HP:106/851 MP:134/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko dispara a Demi-Fiend
+Demi-Fiend recibe 228 de daño
+Demi-Fiend termina con HP:999/1227
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:788/1317 MP:597/625
+B-Da Peng HP:235/634 MP:84/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:824/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:788/1317 MP:597/625
+2-Da Peng HP:235/634 MP:84/126
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend dispara a Da Peng
+Da Peng es débil contra el ataque de Demi-Fiend
+Da Peng recibe 171 de daño
+Da Peng termina con HP:64/634
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:788/1317 MP:597/625
+B-Da Peng HP:64/634 MP:84/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:824/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:788/1317 MP:597/625
+B-Da Peng HP:64/634 MP:84/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:824/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hamaon MP:10
+2-Dia MP:5
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:788/1317 MP:597/625
+B-Da Peng HP:64/634 MP:84/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:824/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Shujinko HP:788/1317 MP:597/625
+2-Da Peng HP:64/634 MP:84/126
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:788/1317 MP:597/625
+B-Da Peng HP:64/634 MP:84/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:824/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Da Peng
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Mortal Jihad MP:13
+2-Zionga MP:8
+3-Hamaon MP:10
+4-Gram Slice MP:5
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:999/1227 MP:824/834
+2-Hachiman HP:106/851 MP:134/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Shujinko
+Demi-Fiend termina con HP:999/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:788/1317 MP:584/625
+B-Da Peng HP:64/634 MP:84/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:824/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:788/1317 MP:584/625
+B-Da Peng HP:64/634 MP:84/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:824/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:788/1317 MP:584/625
+B-Da Peng HP:64/634 MP:84/126
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:824/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hamaon MP:10
+2-Dia MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:788/1317 MP:584/625
+2-Da Peng HP:64/634 MP:84/126
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:788/1317 MP:584/625
+2-Da Peng HP:64/634 MP:84/126
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:788/1317 MP:584/625
+2-Da Peng HP:64/634 MP:84/126
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend dispara a Da Peng
+Da Peng es débil contra el ataque de Demi-Fiend
+Da Peng recibe 171 de daño
+Da Peng termina con HP:0/634
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:788/1317 MP:584/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:824/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Shujinko HP:788/1317 MP:584/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Shujinko
+Shujinko es resistente el ataque de Hachiman
+Shujinko recibe 32 de daño
+Shujinko termina con HP:756/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:756/1317 MP:584/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:824/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:756/1317 MP:584/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:824/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:756/1317 MP:584/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:824/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:756/1317 MP:584/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hamaon MP:10
+2-Dia MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:999/1227 MP:824/834
+2-Hachiman HP:106/851 MP:134/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:756/1317 MP:584/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:756/1317 MP:584/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hamaon MP:10
+2-Dia MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:999/1227 MP:824/834
+2-Hachiman HP:106/851 MP:134/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend cura a Demi-Fiend
+Demi-Fiend recibe 306 de HP
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:756/1317 MP:584/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:819/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:756/1317 MP:584/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:819/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:756/1317 MP:584/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Shujinko
+Shujinko es resistente el ataque de Demi-Fiend
+Shujinko recibe 57 de daño
+Shujinko termina con HP:699/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:699/1317 MP:584/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:819/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:1227/1227 MP:819/834
+2-Hachiman HP:106/851 MP:134/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:1227/1227 MP:819/834
+2-Hachiman HP:106/851 MP:134/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko dispara a Demi-Fiend
+Demi-Fiend recibe 228 de daño
+Demi-Fiend termina con HP:999/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:699/1317 MP:584/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:819/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:699/1317 MP:584/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:819/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Shujinko HP:699/1317 MP:584/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Shujinko HP:699/1317 MP:584/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:699/1317 MP:584/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:819/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:699/1317 MP:584/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:699/1317 MP:584/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:699/1317 MP:584/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:819/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Shujinko HP:699/1317 MP:584/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Shujinko
+Shujinko es resistente el ataque de Hachiman
+Shujinko recibe 32 de daño
+Shujinko termina con HP:667/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:667/1317 MP:584/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:819/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:999/1227 MP:819/834
+2-Hachiman HP:106/851 MP:134/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:999/1227 MP:819/834
+2-Hachiman HP:106/851 MP:134/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko dispara a Demi-Fiend
+Demi-Fiend recibe 228 de daño
+Demi-Fiend termina con HP:771/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:667/1317 MP:584/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:819/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:667/1317 MP:584/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:667/1317 MP:584/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:667/1317 MP:584/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:819/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Shujinko HP:667/1317 MP:584/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Shujinko
+Shujinko es resistente el ataque de Hachiman
+Shujinko recibe 32 de daño
+Shujinko termina con HP:635/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:635/1317 MP:584/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:819/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:635/1317 MP:584/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hamaon MP:10
+2-Dia MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:635/1317 MP:584/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:635/1317 MP:584/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Shujinko
+Shujinko es resistente el ataque de Demi-Fiend
+Shujinko recibe 84 de daño
+Shujinko termina con HP:551/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:551/1317 MP:584/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:819/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Mortal Jihad MP:13
+2-Zionga MP:8
+3-Hamaon MP:10
+4-Gram Slice MP:5
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:771/1227 MP:819/834
+2-Hachiman HP:106/851 MP:134/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko ataca con luz a Hachiman
+Hachiman bloquea el ataque de Shujinko
+Hachiman termina con HP:106/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:551/1317 MP:574/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:819/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:551/1317 MP:574/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Shujinko
+Shujinko es resistente el ataque de Demi-Fiend
+Shujinko recibe 84 de daño
+Shujinko termina con HP:467/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:467/1317 MP:574/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:819/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:467/1317 MP:574/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:819/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hamaon MP:10
+2-Dia MP:5
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:467/1317 MP:574/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Shujinko
+Shujinko es resistente el ataque de Demi-Fiend
+Shujinko recibe 57 de daño
+Shujinko termina con HP:410/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:410/1317 MP:574/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:819/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Mortal Jihad MP:13
+2-Zionga MP:8
+3-Hamaon MP:10
+4-Gram Slice MP:5
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:771/1227 MP:819/834
+2-Hachiman HP:106/851 MP:134/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Mortal Jihad MP:13
+2-Zionga MP:8
+3-Hamaon MP:10
+4-Gram Slice MP:5
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:410/1317 MP:574/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:819/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:410/1317 MP:574/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:819/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hachiman
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hamaon MP:10
+2-Dia MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:410/1317 MP:574/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca con luz a Shujinko
+Shujinko bloquea el ataque de Demi-Fiend
+Shujinko termina con HP:410/1317
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:410/1317 MP:574/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:809/834
+B-
+C-Hachiman HP:106/851 MP:134/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Mortal Jihad MP:13
+2-Zionga MP:8
+3-Hamaon MP:10
+4-Gram Slice MP:5
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:771/1227 MP:809/834
+2-Hachiman HP:106/851 MP:134/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko ataca a Hachiman
+Hachiman recibe 174 de daño
+Hachiman termina con HP:0/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:410/1317 MP:569/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:809/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:410/1317 MP:569/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Shujinko
+Shujinko es resistente el ataque de Demi-Fiend
+Shujinko recibe 57 de daño
+Shujinko termina con HP:353/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:353/1317 MP:569/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:809/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:771/1227 MP:809/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:771/1227 MP:809/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Shujinko
+Demi-Fiend termina con HP:771/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:353/1317 MP:569/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:809/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hamaon MP:10
+2-Dia MP:5
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:353/1317 MP:569/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Shujinko
+Shujinko es resistente el ataque de Demi-Fiend
+Shujinko recibe 57 de daño
+Shujinko termina con HP:296/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:296/1317 MP:569/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:809/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Mortal Jihad MP:13
+2-Zionga MP:8
+3-Hamaon MP:10
+4-Gram Slice MP:5
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:771/1227 MP:809/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Shujinko
+Demi-Fiend termina con HP:771/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:296/1317 MP:561/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:809/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:296/1317 MP:561/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Shujinko
+Shujinko es resistente el ataque de Demi-Fiend
+Shujinko recibe 57 de daño
+Shujinko termina con HP:239/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:239/1317 MP:561/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:809/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:771/1227 MP:809/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko dispara a Demi-Fiend
+Demi-Fiend recibe 228 de daño
+Demi-Fiend termina con HP:543/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:239/1317 MP:561/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:543/1227 MP:809/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:239/1317 MP:561/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Shujinko
+Shujinko es resistente el ataque de Demi-Fiend
+Shujinko recibe 57 de daño
+Shujinko termina con HP:182/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:182/1317 MP:561/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:543/1227 MP:809/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:543/1227 MP:809/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko dispara a Demi-Fiend
+Demi-Fiend recibe 228 de daño
+Demi-Fiend termina con HP:315/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:182/1317 MP:561/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:315/1227 MP:809/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:182/1317 MP:561/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Shujinko
+Shujinko es resistente el ataque de Demi-Fiend
+Shujinko recibe 84 de daño
+Shujinko termina con HP:98/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:98/1317 MP:561/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:315/1227 MP:809/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:315/1227 MP:809/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:315/1227 MP:809/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:315/1227 MP:809/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:315/1227 MP:809/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Shujinko
+Demi-Fiend termina con HP:315/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:98/1317 MP:561/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:315/1227 MP:809/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:98/1317 MP:561/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:315/1227 MP:809/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:98/1317 MP:561/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Shujinko
+Shujinko es resistente el ataque de Demi-Fiend
+Shujinko recibe 84 de daño
+Shujinko termina con HP:14/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:14/1317 MP:561/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:315/1227 MP:809/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:315/1227 MP:809/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:315/1227 MP:809/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko dispara a Demi-Fiend
+Demi-Fiend recibe 228 de daño
+Demi-Fiend termina con HP:87/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:14/1317 MP:561/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:87/1227 MP:809/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hamaon MP:10
+2-Dia MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:14/1317 MP:561/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca con luz a Shujinko
+Shujinko bloquea el ataque de Demi-Fiend
+Shujinko termina con HP:14/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:14/1317 MP:561/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:87/1227 MP:799/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:87/1227 MP:799/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Mortal Jihad MP:13
+2-Zionga MP:8
+3-Hamaon MP:10
+4-Gram Slice MP:5
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Demi-Fiend HP:87/1227 MP:799/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Shujinko
+Demi-Fiend termina con HP:87/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:14/1317 MP:561/625
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:87/1227 MP:799/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:14/1317 MP:561/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hamaon MP:10
+2-Dia MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:87/1227 MP:799/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:14/1317 MP:561/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Shujinko HP:14/1317 MP:561/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Shujinko
+Shujinko es resistente el ataque de Demi-Fiend
+Shujinko recibe 57 de daño
+Shujinko termina con HP:0/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Demi-Fiend (J2)

@@ -1,0 +1,3051 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+INPUT: 28
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Raphael HP:623/623 MP:279/279
+C-Pale Rider HP:693/693 MP:310/310
+D-Magatsuhi HP:851/851 MP:170/170
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:709/709 MP:140/140
+C-Naga HP:199/199 MP:39/39
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Magatsuhi
+3-Raphael
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kyouji HP:999/999 MP:0/0
+2-Ammut HP:709/709 MP:140/140
+3-Naga HP:199/199 MP:39/39
+4-Ometeotl HP:324/324 MP:315/315
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Pale Rider lanza viento a Ammut
+Ammut recibe 168 de daño
+Ammut termina con HP:541/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Raphael HP:623/623 MP:279/279
+C-Pale Rider HP:693/693 MP:288/310
+D-Magatsuhi HP:851/851 MP:170/170
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:541/709 MP:140/140
+C-Naga HP:199/199 MP:39/39
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Raphael
+3-Tamaki
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Python HP:637/637 MP:286/286
+3-Hachiman HP:851/851 MP:170/170
+4-Nue HP:341/341 MP:67/67
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Raphael HP:623/623 MP:279/279
+C-Pale Rider HP:693/693 MP:288/310
+D-Demonee-Ho HP:804/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:541/709 MP:140/140
+C-Naga HP:199/199 MP:39/39
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Raphael
+2-Tamaki
+3-Pale Rider
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Kyouji HP:999/999 MP:0/0
+2-Ammut HP:541/709 MP:140/140
+3-Naga HP:199/199 MP:39/39
+4-Ometeotl HP:324/324 MP:315/315
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Raphael ataca a Naga
+Naga recibe 52 de daño
+Naga termina con HP:147/199
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Raphael HP:623/623 MP:279/279
+C-Pale Rider HP:693/693 MP:288/310
+D-Demonee-Ho HP:804/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:541/709 MP:140/140
+C-Naga HP:147/199 MP:39/39
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Pale Rider
+3-Demonee-Ho
+4-Raphael
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kyouji HP:999/999 MP:0/0
+2-Ammut HP:541/709 MP:140/140
+3-Naga HP:147/199 MP:39/39
+4-Ometeotl HP:324/324 MP:315/315
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki dispara a Ammut
+Ammut recibe 15 de daño
+Ammut termina con HP:526/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Raphael HP:623/623 MP:279/279
+C-Pale Rider HP:693/693 MP:288/310
+D-Demonee-Ho HP:804/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:526/709 MP:140/140
+C-Naga HP:147/199 MP:39/39
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Demonee-Ho
+3-Raphael
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:851/851 MP:170/170
+2-Python HP:637/637 MP:286/286
+3-Hachiman HP:851/851 MP:170/170
+4-Nue HP:341/341 MP:67/67
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:851/851 MP:170/170
+2-Python HP:637/637 MP:286/286
+3-Hachiman HP:851/851 MP:170/170
+4-Nue HP:341/341 MP:67/67
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Python ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Raphael HP:623/623 MP:279/279
+C-Python HP:637/637 MP:286/286
+D-Demonee-Ho HP:804/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:526/709 MP:140/140
+C-Naga HP:147/199 MP:39/39
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Raphael
+3-Tamaki
+4-Python
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Raphael HP:623/623 MP:279/279
+C-Python HP:637/637 MP:286/286
+D-Demonee-Ho HP:804/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:526/709 MP:140/140
+C-Naga HP:147/199 MP:39/39
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Ometeotl
+3-Kyouji
+4-Naga
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Tamaki HP:999/999 MP:542/542
+2-Raphael HP:623/623 MP:279/279
+3-Python HP:637/637 MP:286/286
+4-Demonee-Ho HP:804/804 MP:160/160
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ammut ataca a Demonee-Ho
+Demonee-Ho es resistente el ataque de Ammut
+Demonee-Ho recibe 71 de daño
+Demonee-Ho termina con HP:733/804
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Raphael HP:623/623 MP:279/279
+C-Python HP:637/637 MP:286/286
+D-Demonee-Ho HP:733/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:526/709 MP:129/140
+C-Naga HP:147/199 MP:39/39
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Kyouji
+3-Naga
+4-Ammut
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Tamaki HP:999/999 MP:542/542
+2-Raphael HP:623/623 MP:279/279
+3-Python HP:637/637 MP:286/286
+4-Demonee-Ho HP:733/804 MP:160/160
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ometeotl lanza hielo a Tamaki
+Tamaki es resistente el ataque de Ometeotl
+Tamaki recibe 65 de daño
+Tamaki termina con HP:934/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Raphael HP:623/623 MP:279/279
+C-Python HP:637/637 MP:286/286
+D-Demonee-Ho HP:733/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:526/709 MP:129/140
+C-Naga HP:147/199 MP:39/39
+D-Ometeotl HP:324/324 MP:301/315
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Naga
+3-Ammut
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Asherah HP:433/433 MP:195/195
+2-Virtue HP:240/240 MP:232/232
+3-Tam Lin HP:218/218 MP:43/43
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Ammut HP:526/709 MP:129/140 (Puesto 2)
+2-Naga HP:147/199 MP:39/39 (Puesto 3)
+3-Ometeotl HP:324/324 MP:301/315 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Virtue ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Raphael HP:623/623 MP:279/279
+C-Python HP:637/637 MP:286/286
+D-Demonee-Ho HP:733/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:526/709 MP:129/140
+C-Naga HP:147/199 MP:39/39
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Naga
+2-Ammut
+3-Virtue
+4-Kyouji
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Raphael HP:623/623 MP:279/279
+C-Python HP:637/637 MP:286/286
+D-Demonee-Ho HP:733/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:526/709 MP:129/140
+C-Naga HP:147/199 MP:39/39
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Virtue
+3-Kyouji
+4-Naga
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Tamaki HP:934/999 MP:542/542
+2-Raphael HP:623/623 MP:279/279
+3-Python HP:637/637 MP:286/286
+4-Demonee-Ho HP:733/804 MP:160/160
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ammut ataca a Demonee-Ho
+Demonee-Ho es resistente el ataque de Ammut
+Demonee-Ho recibe 27 de daño
+Demonee-Ho termina con HP:706/804
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Raphael HP:623/623 MP:279/279
+C-Python HP:637/637 MP:286/286
+D-Demonee-Ho HP:706/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:526/709 MP:129/140
+C-Naga HP:147/199 MP:39/39
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Raphael
+3-Demonee-Ho
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Raphael HP:623/623 MP:279/279
+C-Python HP:637/637 MP:286/286
+D-Demonee-Ho HP:706/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:526/709 MP:129/140
+C-Naga HP:147/199 MP:39/39
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Raphael
+2-Demonee-Ho
+3-Tamaki
+4-Python
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Raphael HP:623/623 MP:279/279
+C-Python HP:637/637 MP:286/286
+D-Demonee-Ho HP:706/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:526/709 MP:129/140
+C-Naga HP:147/199 MP:39/39
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Tamaki
+3-Python
+4-Raphael
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Raphael HP:623/623 MP:279/279
+C-Python HP:637/637 MP:286/286
+D-Demonee-Ho HP:706/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:526/709 MP:129/140
+C-Naga HP:147/199 MP:39/39
+D-Virtue HP:240/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Python
+3-Raphael
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Stigma Attack MP:20
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Stigma Attack MP:20
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kyouji HP:999/999 MP:0/0
+2-Ammut HP:526/709 MP:129/140
+3-Naga HP:147/199 MP:39/39
+4-Virtue HP:240/240 MP:232/232
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tamaki ataca a Virtue
+Virtue recibe 96 de daño
+Virtue termina con HP:144/240
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:522/542
+B-Raphael HP:623/623 MP:279/279
+C-Python HP:637/637 MP:286/286
+D-Demonee-Ho HP:706/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:526/709 MP:129/140
+C-Naga HP:147/199 MP:39/39
+D-Virtue HP:144/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Raphael
+3-Demonee-Ho
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Python
+1-Kyouji HP:999/999 MP:0/0
+2-Ammut HP:526/709 MP:129/140
+3-Naga HP:147/199 MP:39/39
+4-Virtue HP:144/240 MP:232/232
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Python lanza hielo a Ammut
+Ammut es débil contra el ataque de Python
+Ammut recibe 202 de daño
+Ammut termina con HP:324/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:522/542
+B-Raphael HP:623/623 MP:279/279
+C-Python HP:637/637 MP:272/286
+D-Demonee-Ho HP:706/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:324/709 MP:129/140
+C-Naga HP:147/199 MP:39/39
+D-Virtue HP:144/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Raphael
+2-Demonee-Ho
+3-Tamaki
+4-Python
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Kyouji HP:999/999 MP:0/0
+2-Ammut HP:324/709 MP:129/140
+3-Naga HP:147/199 MP:39/39
+4-Virtue HP:144/240 MP:232/232
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pale Rider HP:693/693 MP:288/310
+2-Magatsuhi HP:851/851 MP:170/170
+3-Hachiman HP:851/851 MP:170/170
+4-Nue HP:341/341 MP:67/67
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:170/170
+C-Python HP:637/637 MP:272/286
+D-Demonee-Ho HP:706/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:324/709 MP:129/140
+C-Naga HP:147/199 MP:39/39
+D-Virtue HP:144/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Tamaki
+3-Python
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Raphael HP:623/623 MP:279/279
+2-Pale Rider HP:693/693 MP:288/310
+3-Hachiman HP:851/851 MP:170/170
+4-Nue HP:341/341 MP:67/67
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:170/170
+C-Python HP:637/637 MP:272/286
+D-Demonee-Ho HP:706/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:324/709 MP:129/140
+C-Naga HP:147/199 MP:39/39
+D-Virtue HP:144/240 MP:232/232
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Python
+3-Magatsuhi
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:170/170
+C-Python HP:637/637 MP:272/286
+D-Demonee-Ho HP:706/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:324/709 MP:129/140
+C-Naga HP:147/199 MP:39/39
+D-Virtue HP:144/240 MP:232/232
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Virtue
+3-Kyouji
+4-Naga
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:170/170
+C-Python HP:637/637 MP:272/286
+D-Demonee-Ho HP:706/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:324/709 MP:129/140
+C-Naga HP:147/199 MP:39/39
+D-Virtue HP:144/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Virtue
+2-Kyouji
+3-Naga
+4-Ammut
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Tamaki HP:934/999 MP:522/542
+2-Magatsuhi HP:851/851 MP:170/170
+3-Python HP:637/637 MP:272/286
+4-Demonee-Ho HP:706/804 MP:160/160
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Virtue ataca a Tamaki
+Tamaki es resistente el ataque de Virtue
+Tamaki recibe 12 de daño
+Tamaki termina con HP:922/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:922/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:170/170
+C-Python HP:637/637 MP:272/286
+D-Demonee-Ho HP:706/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:324/709 MP:129/140
+C-Naga HP:147/199 MP:39/39
+D-Virtue HP:144/240 MP:232/232
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Naga
+3-Ammut
+4-Virtue
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Tamaki HP:922/999 MP:522/542
+2-Magatsuhi HP:851/851 MP:170/170
+3-Python HP:637/637 MP:272/286
+4-Demonee-Ho HP:706/804 MP:160/160
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kyouji dispara a Python
+Python recibe 911 de daño
+Python termina con HP:0/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:922/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:170/170
+C-
+D-Demonee-Ho HP:706/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:324/709 MP:129/140
+C-Naga HP:147/199 MP:39/39
+D-Virtue HP:144/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Ammut
+3-Virtue
+4-Kyouji
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ometeotl HP:324/324 MP:301/315
+2-Asherah HP:433/433 MP:195/195
+3-Tam Lin HP:218/218 MP:43/43
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ometeotl HP:324/324 MP:301/315
+2-Asherah HP:433/433 MP:195/195
+3-Tam Lin HP:218/218 MP:43/43
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:922/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:170/170
+C-
+D-Demonee-Ho HP:706/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:324/709 MP:129/140
+C-Naga HP:147/199 MP:39/39
+D-Virtue HP:144/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ammut
+2-Virtue
+3-Kyouji
+4-Naga
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Tamaki HP:922/999 MP:522/542
+2-Magatsuhi HP:851/851 MP:170/170
+3-Demonee-Ho HP:706/804 MP:160/160
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ammut ataca a Demonee-Ho
+Demonee-Ho es resistente el ataque de Ammut
+Demonee-Ho recibe 71 de daño
+Ammut ataca a Demonee-Ho
+Demonee-Ho es resistente el ataque de Ammut
+Demonee-Ho recibe 71 de daño
+Ammut ataca a Demonee-Ho
+Demonee-Ho es resistente el ataque de Ammut
+Demonee-Ho recibe 71 de daño
+Demonee-Ho termina con HP:493/804
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:922/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:170/170
+C-
+D-Demonee-Ho HP:493/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:324/709 MP:118/140
+C-Naga HP:147/199 MP:39/39
+D-Virtue HP:144/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Virtue
+2-Kyouji
+3-Naga
+4-Ammut
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ometeotl HP:324/324 MP:301/315
+2-Asherah HP:433/433 MP:195/195
+3-Tam Lin HP:218/218 MP:43/43
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tam Lin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:922/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:170/170
+C-
+D-Demonee-Ho HP:493/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:324/709 MP:118/140
+C-Naga HP:147/199 MP:39/39
+D-Tam Lin HP:218/218 MP:43/43
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+2-Naga
+3-Ammut
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Tamaki HP:922/999 MP:522/542
+2-Magatsuhi HP:851/851 MP:170/170
+3-Demonee-Ho HP:493/804 MP:160/160
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji ataca a Tamaki
+Tamaki es resistente el ataque de Kyouji
+Tamaki recibe 307 de daño
+Tamaki termina con HP:615/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:615/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:170/170
+C-
+D-Demonee-Ho HP:493/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:324/709 MP:118/140
+C-Naga HP:147/199 MP:39/39
+D-Tam Lin HP:218/218 MP:43/43
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Demonee-Ho
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kyouji HP:999/999 MP:0/0
+2-Ammut HP:324/709 MP:118/140
+3-Naga HP:147/199 MP:39/39
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi lanza hielo a Ammut
+Ammut es débil contra el ataque de Magatsuhi
+Ammut recibe 186 de daño
+Ammut termina con HP:138/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:615/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-Demonee-Ho HP:493/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:138/709 MP:118/140
+C-Naga HP:147/199 MP:39/39
+D-Tam Lin HP:218/218 MP:43/43
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Tamaki
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kyouji HP:999/999 MP:0/0
+2-Ammut HP:138/709 MP:118/140
+3-Naga HP:147/199 MP:39/39
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Demonee-Ho ataca a Tam Lin
+Tam Lin recibe 62 de daño
+Tam Lin termina con HP:156/218
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:615/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-Demonee-Ho HP:493/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:138/709 MP:118/140
+C-Naga HP:147/199 MP:39/39
+D-Tam Lin HP:156/218 MP:43/43
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Magatsuhi
+3-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Stigma Attack MP:20
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kyouji HP:999/999 MP:0/0
+2-Ammut HP:138/709 MP:118/140
+3-Naga HP:147/199 MP:39/39
+4-Tam Lin HP:156/218 MP:43/43
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki dispara a Naga
+Naga recibe 15 de daño
+Naga termina con HP:132/199
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:615/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-Demonee-Ho HP:493/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Ammut HP:138/709 MP:118/140
+C-Naga HP:132/199 MP:39/39
+D-Tam Lin HP:156/218 MP:43/43
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Demonee-Ho
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kyouji HP:999/999 MP:0/0
+2-Ammut HP:138/709 MP:118/140
+3-Naga HP:132/199 MP:39/39
+4-Tam Lin HP:156/218 MP:43/43
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Kyouji
+Kyouji recibe 65 de daño
+Kyouji termina con HP:934/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:615/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-Demonee-Ho HP:493/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Ammut HP:138/709 MP:118/140
+C-Naga HP:132/199 MP:39/39
+D-Tam Lin HP:156/218 MP:43/43
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Kyouji
+3-Tam Lin
+4-Naga
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ometeotl HP:324/324 MP:301/315
+2-Asherah HP:433/433 MP:195/195
+3-Virtue HP:144/240 MP:232/232
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Asherah ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:615/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-Demonee-Ho HP:493/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:132/199 MP:39/39
+D-Tam Lin HP:156/218 MP:43/43
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+2-Tam Lin
+3-Naga
+4-Asherah
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Tamaki HP:615/999 MP:522/542
+2-Magatsuhi HP:851/851 MP:156/170
+3-Demonee-Ho HP:493/804 MP:160/160
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:615/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-Demonee-Ho HP:493/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:132/199 MP:39/39
+D-Tam Lin HP:156/218 MP:43/43
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Naga
+3-Asherah
+4-Kyouji
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Tamaki HP:615/999 MP:522/542
+2-Magatsuhi HP:851/851 MP:156/170
+3-Demonee-Ho HP:493/804 MP:160/160
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Tamaki HP:615/999 MP:522/542
+2-Magatsuhi HP:851/851 MP:156/170
+3-Demonee-Ho HP:493/804 MP:160/160
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ataca a Tamaki
+Tamaki es resistente el ataque de Tam Lin
+Tamaki recibe 7 de daño
+Tamaki termina con HP:608/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:608/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-Demonee-Ho HP:493/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:132/199 MP:39/39
+D-Tam Lin HP:156/218 MP:43/43
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Asherah
+3-Kyouji
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:608/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-Demonee-Ho HP:493/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:132/199 MP:39/39
+D-Tam Lin HP:156/218 MP:43/43
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Asherah
+2-Kyouji
+3-Tam Lin
+4-Naga
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:608/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-Demonee-Ho HP:493/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:132/199 MP:39/39
+D-Tam Lin HP:156/218 MP:43/43
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Tam Lin
+3-Naga
+4-Asherah
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Tamaki HP:608/999 MP:522/542
+2-Magatsuhi HP:851/851 MP:156/170
+3-Demonee-Ho HP:493/804 MP:160/160
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kyouji dispara a Demonee-Ho
+Demonee-Ho es resistente el ataque de Kyouji
+Demonee-Ho recibe 455 de daño
+Demonee-Ho termina con HP:38/804
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:608/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-Demonee-Ho HP:38/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:132/199 MP:39/39
+D-Tam Lin HP:156/218 MP:43/43
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Demonee-Ho
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Raphael HP:623/623 MP:279/279
+2-Pale Rider HP:693/693 MP:288/310
+3-Hachiman HP:851/851 MP:170/170
+4-Nue HP:341/341 MP:67/67
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:608/999 MP:522/542
+B-Raphael HP:623/623 MP:279/279
+C-
+D-Demonee-Ho HP:38/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:132/199 MP:39/39
+D-Tam Lin HP:156/218 MP:43/43
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Tamaki
+3-Raphael
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kyouji HP:934/999 MP:0/0
+2-Asherah HP:433/433 MP:195/195
+3-Naga HP:132/199 MP:39/39
+4-Tam Lin HP:156/218 MP:43/43
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:608/999 MP:522/542
+B-Raphael HP:623/623 MP:279/279
+C-
+D-Demonee-Ho HP:38/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:132/199 MP:39/39
+D-Tam Lin HP:156/218 MP:43/43
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Raphael
+3-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kyouji HP:934/999 MP:0/0
+2-Asherah HP:433/433 MP:195/195
+3-Naga HP:132/199 MP:39/39
+4-Tam Lin HP:156/218 MP:43/43
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki dispara a Kyouji
+Kyouji bloquea el ataque de Tamaki
+Kyouji termina con HP:934/999
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:608/999 MP:522/542
+B-Raphael HP:623/623 MP:279/279
+C-
+D-Demonee-Ho HP:38/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:132/199 MP:39/39
+D-Tam Lin HP:156/218 MP:43/43
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Kyouji
+3-Tam Lin
+4-Naga
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Tamaki HP:608/999 MP:522/542
+2-Raphael HP:623/623 MP:279/279
+3-Demonee-Ho HP:38/804 MP:160/160
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Asherah ataca a Raphael
+Raphael recibe 35 de daño
+Raphael termina con HP:588/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:608/999 MP:522/542
+B-Raphael HP:588/623 MP:279/279
+C-
+D-Demonee-Ho HP:38/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:132/199 MP:39/39
+D-Tam Lin HP:156/218 MP:43/43
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Tam Lin
+3-Naga
+4-Asherah
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Tamaki HP:608/999 MP:522/542
+2-Raphael HP:588/623 MP:279/279
+3-Demonee-Ho HP:38/804 MP:160/160
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji dispara a Tamaki
+Tamaki es resistente el ataque de Kyouji
+Tamaki recibe 455 de daño
+Tamaki termina con HP:153/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Raphael HP:588/623 MP:279/279
+C-
+D-Demonee-Ho HP:38/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:132/199 MP:39/39
+D-Tam Lin HP:156/218 MP:43/43
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Naga
+3-Asherah
+4-Kyouji
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Tamaki HP:153/999 MP:522/542
+2-Raphael HP:588/623 MP:279/279
+3-Demonee-Ho HP:38/804 MP:160/160
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Tamaki HP:153/999 MP:522/542
+2-Raphael HP:588/623 MP:279/279
+3-Demonee-Ho HP:38/804 MP:160/160
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tam Lin ataca a Demonee-Ho
+Demonee-Ho es resistente el ataque de Tam Lin
+Demonee-Ho recibe 23 de daño
+Demonee-Ho termina con HP:15/804
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Raphael HP:588/623 MP:279/279
+C-
+D-Demonee-Ho HP:15/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:132/199 MP:39/39
+D-Tam Lin HP:156/218 MP:38/43
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Asherah
+3-Kyouji
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Tamaki HP:153/999 MP:522/542
+2-Raphael HP:588/623 MP:279/279
+3-Demonee-Ho HP:15/804 MP:160/160
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Naga ataca a Demonee-Ho
+Demonee-Ho es resistente el ataque de Naga
+Demonee-Ho recibe 6 de daño
+Demonee-Ho termina con HP:9/804
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Raphael HP:588/623 MP:279/279
+C-
+D-Demonee-Ho HP:9/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:132/199 MP:39/39
+D-Tam Lin HP:156/218 MP:38/43
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Demonee-Ho
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Kyouji HP:934/999 MP:0/0
+2-Asherah HP:433/433 MP:195/195
+3-Naga HP:132/199 MP:39/39
+4-Tam Lin HP:156/218 MP:38/43
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Raphael ataca a Naga
+Naga recibe 52 de daño
+Naga termina con HP:80/199
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Raphael HP:588/623 MP:279/279
+C-
+D-Demonee-Ho HP:9/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:80/199 MP:39/39
+D-Tam Lin HP:156/218 MP:38/43
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Tamaki
+3-Raphael
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Raphael HP:588/623 MP:279/279
+C-
+D-Demonee-Ho HP:9/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:80/199 MP:39/39
+D-Tam Lin HP:156/218 MP:38/43
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Raphael
+3-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kyouji HP:934/999 MP:0/0
+2-Asherah HP:433/433 MP:195/195
+3-Naga HP:80/199 MP:39/39
+4-Tam Lin HP:156/218 MP:38/43
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki dispara a Kyouji
+Kyouji bloquea el ataque de Tamaki
+Kyouji termina con HP:934/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Raphael HP:588/623 MP:279/279
+C-
+D-Demonee-Ho HP:9/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:80/199 MP:39/39
+D-Tam Lin HP:156/218 MP:38/43
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Kyouji
+3-Tam Lin
+4-Naga
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ammut HP:138/709 MP:118/140
+2-Ometeotl HP:324/324 MP:301/315
+3-Virtue HP:144/240 MP:232/232
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Raphael HP:588/623 MP:279/279
+C-
+D-Demonee-Ho HP:9/804 MP:160/160
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Ammut HP:138/709 MP:118/140
+C-Naga HP:80/199 MP:39/39
+D-Tam Lin HP:156/218 MP:38/43
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+2-Tam Lin
+3-Naga
+4-Ammut
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Tamaki HP:153/999 MP:522/542
+2-Raphael HP:588/623 MP:279/279
+3-Demonee-Ho HP:9/804 MP:160/160
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kyouji ataca a Demonee-Ho
+Demonee-Ho es resistente el ataque de Kyouji
+Demonee-Ho recibe 307 de daño
+Demonee-Ho termina con HP:0/804
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Raphael HP:588/623 MP:279/279
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Ammut HP:138/709 MP:118/140
+C-Naga HP:80/199 MP:39/39
+D-Tam Lin HP:156/218 MP:38/43
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Naga
+3-Ammut
+4-Kyouji
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ometeotl HP:324/324 MP:301/315
+2-Asherah HP:433/433 MP:195/195
+3-Virtue HP:144/240 MP:232/232
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Virtue ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Raphael HP:588/623 MP:279/279
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Ammut HP:138/709 MP:118/140
+C-Naga HP:80/199 MP:39/39
+D-Virtue HP:144/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Naga
+2-Ammut
+3-Kyouji
+4-Virtue
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ometeotl HP:324/324 MP:301/315
+2-Asherah HP:433/433 MP:195/195
+3-Tam Lin HP:156/218 MP:38/43
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tam Lin ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Raphael HP:588/623 MP:279/279
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Ammut HP:138/709 MP:118/140
+C-Tam Lin HP:156/218 MP:38/43
+D-Virtue HP:144/240 MP:232/232
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Kyouji
+3-Virtue
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Naga HP:80/199 MP:39/39
+2-Ometeotl HP:324/324 MP:301/315
+3-Asherah HP:433/433 MP:195/195
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Asherah ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Raphael HP:588/623 MP:279/279
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Tam Lin HP:156/218 MP:38/43
+D-Virtue HP:144/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+2-Virtue
+3-Tam Lin
+4-Asherah
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ammut HP:138/709 MP:118/140
+2-Naga HP:80/199 MP:39/39
+3-Ometeotl HP:324/324 MP:301/315
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Asherah HP:433/433 MP:195/195 (Puesto 2)
+2-Tam Lin HP:156/218 MP:38/43 (Puesto 3)
+3-Virtue HP:144/240 MP:232/232 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ammut ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Raphael HP:588/623 MP:279/279
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Ammut HP:138/709 MP:118/140
+D-Virtue HP:144/240 MP:232/232
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Virtue
+2-Ammut
+3-Asherah
+4-Kyouji
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Naga HP:80/199 MP:39/39
+2-Ometeotl HP:324/324 MP:301/315
+3-Tam Lin HP:156/218 MP:38/43
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tam Lin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Raphael HP:588/623 MP:279/279
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Ammut HP:138/709 MP:118/140
+D-Tam Lin HP:156/218 MP:38/43
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ammut
+2-Asherah
+3-Kyouji
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Raphael HP:588/623 MP:279/279
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Ammut HP:138/709 MP:118/140
+D-Tam Lin HP:156/218 MP:38/43
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pale Rider HP:693/693 MP:288/310
+2-Magatsuhi HP:851/851 MP:156/170
+3-Hachiman HP:851/851 MP:170/170
+4-Nue HP:341/341 MP:67/67
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Ammut HP:138/709 MP:118/140
+D-Tam Lin HP:156/218 MP:38/43
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kyouji HP:934/999 MP:0/0
+2-Asherah HP:433/433 MP:195/195
+3-Ammut HP:138/709 MP:118/140
+4-Tam Lin HP:156/218 MP:38/43
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki ataca a Ammut
+Ammut recibe 18 de daño
+Ammut termina con HP:120/709
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Ammut HP:120/709 MP:118/140
+D-Tam Lin HP:156/218 MP:38/43
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Raphael HP:588/623 MP:279/279
+2-Pale Rider HP:693/693 MP:288/310
+3-Hachiman HP:851/851 MP:170/170
+4-Nue HP:341/341 MP:67/67
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nue ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Nue HP:341/341 MP:67/67
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Ammut HP:120/709 MP:118/140
+D-Tam Lin HP:156/218 MP:38/43
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Nue
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Nue HP:341/341 MP:67/67
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Ammut HP:120/709 MP:118/140
+D-Tam Lin HP:156/218 MP:38/43
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Asherah
+3-Kyouji
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Naga HP:80/199 MP:39/39
+2-Ometeotl HP:324/324 MP:301/315
+3-Virtue HP:144/240 MP:232/232
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Naga HP:80/199 MP:39/39
+2-Ometeotl HP:324/324 MP:301/315
+3-Virtue HP:144/240 MP:232/232
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:522/542
+B-Nue HP:341/341 MP:67/67
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:80/199 MP:39/39
+D-Tam Lin HP:156/218 MP:38/43
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Asherah
+2-Kyouji
+3-Tam Lin
+4-Naga
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Tamaki HP:153/999 MP:522/542
+2-Nue HP:341/341 MP:67/67
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Tamaki
+Tamaki es resistente el ataque de Asherah
+Tamaki recibe 17 de daño
+Tamaki termina con HP:136/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:136/999 MP:522/542
+B-Nue HP:341/341 MP:67/67
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:80/199 MP:39/39
+D-Tam Lin HP:156/218 MP:38/43
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Tam Lin
+3-Naga
+4-Asherah
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Tamaki HP:136/999 MP:522/542
+2-Nue HP:341/341 MP:67/67
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kyouji dispara a Nue
+Nue es débil contra el ataque de Kyouji
+Nue recibe 1366 de daño
+Nue termina con HP:0/341
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:136/999 MP:522/542
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:80/199 MP:39/39
+D-Tam Lin HP:156/218 MP:38/43
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Naga
+3-Asherah
+4-Kyouji
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ammut HP:120/709 MP:118/140
+2-Ometeotl HP:324/324 MP:301/315
+3-Virtue HP:144/240 MP:232/232
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:136/999 MP:522/542
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:80/199 MP:39/39
+D-Ammut HP:120/709 MP:118/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Asherah
+3-Kyouji
+4-Ammut
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Naga use
+1-Lunge MP:6
+2-Bufu MP:5
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Tamaki HP:136/999 MP:522/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ataca a Tamaki
+Tamaki es resistente el ataque de Naga
+Tamaki recibe 21 de daño
+Tamaki termina con HP:115/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:115/999 MP:522/542
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:80/199 MP:33/39
+D-Ammut HP:120/709 MP:118/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Kyouji
+3-Ammut
+4-Naga
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:115/999 MP:522/542
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:934/999 MP:0/0
+B-Asherah HP:433/433 MP:195/195
+C-Naga HP:80/199 MP:33/39
+D-Ammut HP:120/709 MP:118/140
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+2-Ammut
+3-Naga
+4-Asherah
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Tamaki HP:115/999 MP:522/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji dispara a Tamaki
+Tamaki es resistente el ataque de Kyouji
+Tamaki recibe 455 de daño
+Tamaki termina con HP:0/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Kyouji (J2)

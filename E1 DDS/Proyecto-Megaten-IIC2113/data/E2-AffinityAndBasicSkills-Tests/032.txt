@@ -1,0 +1,1046 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 31
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:131/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:315/315 MP:306/306
+D-Plasma HP:179/179 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Kotone
+3-Naga
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Yu HP:597/597 MP:347/347
+2-Azrael HP:338/338 MP:328/328
+3-Tlazolteotl HP:315/315 MP:306/306
+4-Plasma HP:179/179 MP:172/172
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Yamata-no-Orochi lanza hielo a Plasma
+Plasma es débil contra el ataque de Yamata-no-Orochi
+Plasma recibe 164 de daño
+Plasma termina con HP:15/179
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:315/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Naga
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Bufula MP:8
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Yu HP:597/597 MP:347/347
+2-Azrael HP:338/338 MP:328/328
+3-Tlazolteotl HP:315/315 MP:306/306
+4-Plasma HP:15/179 MP:172/172
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kotone lanza hielo a Tlazolteotl
+Tlazolteotl absorbe 93 daño
+Tlazolteotl termina con HP:315/315
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:315/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Azrael
+3-Tlazolteotl
+4-Plasma
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kotone HP:597/597 MP:339/347
+2-Naga HP:199/199 MP:39/39
+3-Yamata-no-Orochi HP:662/662 MP:117/131
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Kotone
+Kotone es resistente el ataque de Yu
+Kotone recibe 24 de daño
+Kotone termina con HP:573/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:573/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:315/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Tlazolteotl
+3-Plasma
+4-Yu
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Kotone HP:573/597 MP:339/347
+2-Naga HP:199/199 MP:39/39
+3-Yamata-no-Orochi HP:662/662 MP:117/131
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ataca a Kotone
+Kotone es resistente el ataque de Azrael
+Kotone recibe 18 de daño
+Kotone termina con HP:555/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:555/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:315/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Plasma
+3-Yu
+4-Azrael
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Kotone HP:555/597 MP:339/347
+2-Naga HP:199/199 MP:39/39
+3-Yamata-no-Orochi HP:662/662 MP:117/131
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl ataca a Kotone
+Kotone es resistente el ataque de Tlazolteotl
+Kotone recibe 16 de daño
+Kotone termina con HP:539/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:539/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:315/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Yu
+3-Azrael
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Plasma
+1-Kotone HP:539/597 MP:339/347
+2-Naga HP:199/199 MP:39/39
+3-Yamata-no-Orochi HP:662/662 MP:117/131
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Plasma ataca a Kotone
+Kotone es resistente el ataque de Plasma
+Kotone recibe 9 de daño
+Kotone termina con HP:530/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:530/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:315/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Kotone
+3-Naga
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Yu HP:597/597 MP:347/347
+2-Azrael HP:338/338 MP:328/328
+3-Tlazolteotl HP:315/315 MP:306/306
+4-Plasma HP:15/179 MP:172/172
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yamata-no-Orochi ataca a Tlazolteotl
+Tlazolteotl recibe 50 de daño
+Tlazolteotl termina con HP:265/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:530/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:265/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Naga
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Yu HP:597/597 MP:347/347
+2-Azrael HP:338/338 MP:328/328
+3-Tlazolteotl HP:265/315 MP:306/306
+4-Plasma HP:15/179 MP:172/172
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kotone ataca a Tlazolteotl
+Tlazolteotl recibe 38 de daño
+Tlazolteotl termina con HP:227/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:530/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:227/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Yamata-no-Orochi
+3-Kotone
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Yu HP:597/597 MP:347/347
+2-Azrael HP:338/338 MP:328/328
+3-Tlazolteotl HP:227/315 MP:306/306
+4-Plasma HP:15/179 MP:172/172
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Naga ataca a Tlazolteotl
+Tlazolteotl recibe 12 de daño
+Tlazolteotl termina con HP:215/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:530/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:215/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Azrael
+3-Tlazolteotl
+4-Plasma
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kotone HP:530/597 MP:339/347
+2-Naga HP:199/199 MP:39/39
+3-Yamata-no-Orochi HP:662/662 MP:117/131
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Kotone
+Kotone es resistente el ataque de Yu
+Kotone recibe 24 de daño
+Kotone termina con HP:506/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:506/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:215/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Tlazolteotl
+3-Plasma
+4-Yu
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Kotone HP:506/597 MP:339/347
+2-Naga HP:199/199 MP:39/39
+3-Yamata-no-Orochi HP:662/662 MP:117/131
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ataca a Kotone
+Kotone es resistente el ataque de Azrael
+Kotone recibe 18 de daño
+Kotone termina con HP:488/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:215/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Plasma
+3-Yu
+4-Azrael
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Kotone HP:488/597 MP:339/347
+2-Naga HP:199/199 MP:39/39
+3-Yamata-no-Orochi HP:662/662 MP:117/131
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl ataca a Kotone
+Kotone es resistente el ataque de Tlazolteotl
+Kotone recibe 16 de daño
+Kotone termina con HP:472/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:215/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Yu
+3-Azrael
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Plasma
+1-Kotone HP:472/597 MP:339/347
+2-Naga HP:199/199 MP:39/39
+3-Yamata-no-Orochi HP:662/662 MP:117/131
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Plasma ataca a Kotone
+Kotone es resistente el ataque de Plasma
+Kotone recibe 9 de daño
+Kotone termina con HP:463/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:463/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:215/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Kotone
+3-Naga
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Yu HP:597/597 MP:347/347
+2-Azrael HP:338/338 MP:328/328
+3-Tlazolteotl HP:215/315 MP:306/306
+4-Plasma HP:15/179 MP:172/172
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yamata-no-Orochi ataca a Tlazolteotl
+Tlazolteotl recibe 50 de daño
+Tlazolteotl termina con HP:165/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:463/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:165/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Naga
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Yu HP:597/597 MP:347/347
+2-Azrael HP:338/338 MP:328/328
+3-Tlazolteotl HP:165/315 MP:306/306
+4-Plasma HP:15/179 MP:172/172
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kotone ataca a Tlazolteotl
+Tlazolteotl recibe 38 de daño
+Tlazolteotl termina con HP:127/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:463/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:127/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Yamata-no-Orochi
+3-Kotone
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Yu HP:597/597 MP:347/347
+2-Azrael HP:338/338 MP:328/328
+3-Tlazolteotl HP:127/315 MP:306/306
+4-Plasma HP:15/179 MP:172/172
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Naga ataca a Tlazolteotl
+Tlazolteotl recibe 12 de daño
+Tlazolteotl termina con HP:115/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:463/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:115/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Azrael
+3-Tlazolteotl
+4-Plasma
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kotone HP:463/597 MP:339/347
+2-Naga HP:199/199 MP:39/39
+3-Yamata-no-Orochi HP:662/662 MP:117/131
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Kotone
+Kotone es resistente el ataque de Yu
+Kotone recibe 24 de daño
+Kotone termina con HP:439/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:439/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:115/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Tlazolteotl
+3-Plasma
+4-Yu
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Kotone HP:439/597 MP:339/347
+2-Naga HP:199/199 MP:39/39
+3-Yamata-no-Orochi HP:662/662 MP:117/131
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ataca a Kotone
+Kotone es resistente el ataque de Azrael
+Kotone recibe 18 de daño
+Kotone termina con HP:421/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:421/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:115/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Plasma
+3-Yu
+4-Azrael
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Kotone HP:421/597 MP:339/347
+2-Naga HP:199/199 MP:39/39
+3-Yamata-no-Orochi HP:662/662 MP:117/131
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl ataca a Kotone
+Kotone es resistente el ataque de Tlazolteotl
+Kotone recibe 16 de daño
+Kotone termina con HP:405/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:405/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:115/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Yu
+3-Azrael
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Plasma
+1-Kotone HP:405/597 MP:339/347
+2-Naga HP:199/199 MP:39/39
+3-Yamata-no-Orochi HP:662/662 MP:117/131
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Plasma ataca a Kotone
+Kotone es resistente el ataque de Plasma
+Kotone recibe 9 de daño
+Kotone termina con HP:396/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:396/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:115/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Kotone
+3-Naga
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Yu HP:597/597 MP:347/347
+2-Azrael HP:338/338 MP:328/328
+3-Tlazolteotl HP:115/315 MP:306/306
+4-Plasma HP:15/179 MP:172/172
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yamata-no-Orochi ataca a Tlazolteotl
+Tlazolteotl recibe 50 de daño
+Tlazolteotl termina con HP:65/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:396/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:65/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Naga
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Bufula MP:8
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Yu HP:597/597 MP:347/347
+2-Azrael HP:338/338 MP:328/328
+3-Tlazolteotl HP:65/315 MP:306/306
+4-Plasma HP:15/179 MP:172/172
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kotone lanza hielo a Tlazolteotl
+Tlazolteotl absorbe 93 daño
+Tlazolteotl termina con HP:158/315
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:396/597 MP:331/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Azrael HP:338/338 MP:328/328
+C-Tlazolteotl HP:158/315 MP:306/306
+D-Plasma HP:15/179 MP:172/172
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Azrael
+3-Tlazolteotl
+4-Plasma
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Yu (J2) se rinde
+----------------------------------------
+Ganador: Kotone (J1)

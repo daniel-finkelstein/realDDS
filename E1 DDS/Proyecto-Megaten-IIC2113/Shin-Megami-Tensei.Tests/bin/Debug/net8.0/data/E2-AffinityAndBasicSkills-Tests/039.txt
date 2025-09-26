@@ -1,0 +1,2010 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 38
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Ziodyne MP:14
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nahobino HP:453/453 MP:389/389
+2-Nue HP:341/341 MP:67/67
+3-Lilith HP:380/380 MP:369/369
+4-Hitokoto-Nushi HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu lanza electricidad a Nue
+Nue absorbe 129 daño
+Nue termina con HP:341/341
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Nahobino
+3-Hitokoto-Nushi
+4-Nue
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Hitokoto-Nushi
+3-Nue
+4-Lilith
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hitokoto-Nushi
+2-Nue
+3-Lilith
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Hitokoto-Nushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nue
+2-Lilith
+3-Nahobino
+4-Hitokoto-Nushi
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Nahobino
+3-Hitokoto-Nushi
+4-Nue
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Hitokoto-Nushi
+3-Nue
+4-Lilith
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hitokoto-Nushi
+2-Nue
+3-Lilith
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Hitokoto-Nushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nue
+2-Lilith
+3-Nahobino
+4-Hitokoto-Nushi
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Ziodyne MP:14
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nahobino HP:453/453 MP:389/389
+2-Nue HP:341/341 MP:67/67
+3-Lilith HP:380/380 MP:369/369
+4-Hitokoto-Nushi HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza electricidad a Nahobino
+Nahobino es débil contra el ataque de Yu
+Nahobino recibe 194 de daño
+Nahobino termina con HP:259/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Hamsa
+3-Yu
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Nahobino HP:259/453 MP:389/389
+2-Nue HP:341/341 MP:67/67
+3-Lilith HP:380/380 MP:369/369
+4-Hitokoto-Nushi HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Bai Suzhen ataca a Nue
+Nue recibe 16 de daño
+Nue termina con HP:325/341
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:325/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hamsa
+2-Yu
+3-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hamsa use
+1-Zio MP:5
+2-Dia MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hamsa
+1-Nahobino HP:259/453 MP:389/389
+2-Nue HP:325/341 MP:67/67
+3-Lilith HP:380/380 MP:369/369
+4-Hitokoto-Nushi HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hamsa lanza electricidad a Nue
+Nue absorbe 26 daño
+Nue termina con HP:341/341
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Nahobino
+3-Hitokoto-Nushi
+4-Nue
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Hitokoto-Nushi
+3-Nue
+4-Lilith
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hitokoto-Nushi
+2-Nue
+3-Lilith
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Hitokoto-Nushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nue
+2-Lilith
+3-Nahobino
+4-Hitokoto-Nushi
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Nahobino
+3-Hitokoto-Nushi
+4-Nue
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Hitokoto-Nushi
+3-Nue
+4-Lilith
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hitokoto-Nushi
+2-Nue
+3-Lilith
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Hitokoto-Nushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nue
+2-Lilith
+3-Nahobino
+4-Hitokoto-Nushi
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:341/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nahobino HP:259/453 MP:389/389
+2-Nue HP:341/341 MP:67/67
+3-Lilith HP:380/380 MP:369/369
+4-Hitokoto-Nushi HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Nue
+Nue recibe 49 de daño
+Nue termina con HP:292/341
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:292/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Hamsa
+3-Yu
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Nahobino HP:259/453 MP:389/389
+2-Nue HP:292/341 MP:67/67
+3-Lilith HP:380/380 MP:369/369
+4-Hitokoto-Nushi HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Bai Suzhen ataca a Nue
+Nue recibe 16 de daño
+Nue termina con HP:276/341
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:276/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hamsa
+2-Yu
+3-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hamsa
+1-Nahobino HP:259/453 MP:389/389
+2-Nue HP:276/341 MP:67/67
+3-Lilith HP:380/380 MP:369/369
+4-Hitokoto-Nushi HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hamsa ataca a Nue
+Nue recibe 5 de daño
+Nue termina con HP:271/341
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:271/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Nahobino
+3-Hitokoto-Nushi
+4-Nue
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:271/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Hitokoto-Nushi
+3-Nue
+4-Lilith
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:271/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hitokoto-Nushi
+2-Nue
+3-Lilith
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Hitokoto-Nushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:271/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nue
+2-Lilith
+3-Nahobino
+4-Hitokoto-Nushi
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:271/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Nahobino
+3-Hitokoto-Nushi
+4-Nue
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:271/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Hitokoto-Nushi
+3-Nue
+4-Lilith
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:271/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hitokoto-Nushi
+2-Nue
+3-Lilith
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Hitokoto-Nushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:271/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nue
+2-Lilith
+3-Nahobino
+4-Hitokoto-Nushi
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:271/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nahobino HP:259/453 MP:389/389
+2-Nue HP:271/341 MP:67/67
+3-Lilith HP:380/380 MP:369/369
+4-Hitokoto-Nushi HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Nue
+Nue recibe 49 de daño
+Nue termina con HP:222/341
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:222/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Hamsa
+3-Yu
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Nahobino HP:259/453 MP:389/389
+2-Nue HP:222/341 MP:67/67
+3-Lilith HP:380/380 MP:369/369
+4-Hitokoto-Nushi HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Bai Suzhen ataca a Nue
+Nue recibe 16 de daño
+Nue termina con HP:206/341
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:206/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hamsa
+2-Yu
+3-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hamsa
+1-Nahobino HP:259/453 MP:389/389
+2-Nue HP:206/341 MP:67/67
+3-Lilith HP:380/380 MP:369/369
+4-Hitokoto-Nushi HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hamsa ataca a Nue
+Nue recibe 5 de daño
+Nue termina con HP:201/341
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:201/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Nahobino
+3-Hitokoto-Nushi
+4-Nue
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:201/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Hitokoto-Nushi
+3-Nue
+4-Lilith
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:201/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hitokoto-Nushi
+2-Nue
+3-Lilith
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Hitokoto-Nushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:201/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nue
+2-Lilith
+3-Nahobino
+4-Hitokoto-Nushi
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:201/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Nahobino
+3-Hitokoto-Nushi
+4-Nue
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:201/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Hitokoto-Nushi
+3-Nue
+4-Lilith
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:201/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hitokoto-Nushi
+2-Nue
+3-Lilith
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Hitokoto-Nushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:201/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nue
+2-Lilith
+3-Nahobino
+4-Hitokoto-Nushi
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:201/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nahobino HP:259/453 MP:389/389
+2-Nue HP:201/341 MP:67/67
+3-Lilith HP:380/380 MP:369/369
+4-Hitokoto-Nushi HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Nue
+Nue recibe 49 de daño
+Nue termina con HP:152/341
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:152/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Hamsa
+3-Yu
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Nahobino HP:259/453 MP:389/389
+2-Nue HP:152/341 MP:67/67
+3-Lilith HP:380/380 MP:369/369
+4-Hitokoto-Nushi HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Bai Suzhen ataca a Nue
+Nue recibe 16 de daño
+Nue termina con HP:136/341
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:136/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hamsa
+2-Yu
+3-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hamsa
+1-Nahobino HP:259/453 MP:389/389
+2-Nue HP:136/341 MP:67/67
+3-Lilith HP:380/380 MP:369/369
+4-Hitokoto-Nushi HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hamsa ataca a Nue
+Nue recibe 5 de daño
+Nue termina con HP:131/341
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:131/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Nahobino
+3-Hitokoto-Nushi
+4-Nue
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:131/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Hitokoto-Nushi
+3-Nue
+4-Lilith
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:131/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hitokoto-Nushi
+2-Nue
+3-Lilith
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Hitokoto-Nushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:131/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nue
+2-Lilith
+3-Nahobino
+4-Hitokoto-Nushi
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:131/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Nahobino
+3-Hitokoto-Nushi
+4-Nue
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:131/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Hitokoto-Nushi
+3-Nue
+4-Lilith
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:131/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hitokoto-Nushi
+2-Nue
+3-Lilith
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Hitokoto-Nushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:131/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nue
+2-Lilith
+3-Nahobino
+4-Hitokoto-Nushi
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:131/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nahobino HP:259/453 MP:389/389
+2-Nue HP:131/341 MP:67/67
+3-Lilith HP:380/380 MP:369/369
+4-Hitokoto-Nushi HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Nue
+Nue recibe 49 de daño
+Nue termina con HP:82/341
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:82/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Hamsa
+3-Yu
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bai Suzhen use
+1-Zionga MP:8
+2-Binding Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Nahobino HP:259/453 MP:389/389
+2-Nue HP:82/341 MP:67/67
+3-Lilith HP:380/380 MP:369/369
+4-Hitokoto-Nushi HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Bai Suzhen lanza electricidad a Nue
+Nue absorbe 70 daño
+Nue termina con HP:152/341
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:152/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Nahobino
+3-Hitokoto-Nushi
+4-Nue
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Nue HP:152/341 MP:67/67
+C-Lilith HP:380/380 MP:369/369
+D-Hitokoto-Nushi HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Hitokoto-Nushi
+3-Nue
+4-Lilith
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Nahobino (J2) se rinde
+----------------------------------------
+Ganador: Yu (J1)

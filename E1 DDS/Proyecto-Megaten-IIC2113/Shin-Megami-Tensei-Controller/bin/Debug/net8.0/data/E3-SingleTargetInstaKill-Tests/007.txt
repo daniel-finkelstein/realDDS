@@ -1,0 +1,203 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+INPUT: 6
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Dybbuk HP:66/66 MP:63/63
+C-Pisaca HP:454/454 MP:90/90
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-Throne HP:504/504 MP:225/225
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Tamaki
+3-Dybbuk
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pisaca use
+1-Bind Voice MP:15
+2-Life Drain MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Itsuki HP:1136/1136 MP:413/413
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Throne HP:504/504 MP:225/225
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Pisaca ataca con oscuridad a Ishtar
+Ishtar es débil contra el ataque de Pisaca
+Ishtar ha sido eliminado
+Ishtar termina con HP:0/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Dybbuk HP:66/66 MP:63/63
+C-Pisaca HP:454/454 MP:80/90
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-Throne HP:504/504 MP:225/225
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Dybbuk
+3-Pisaca
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Mudoon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Itsuki HP:1136/1136 MP:413/413
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Throne HP:504/504 MP:225/225
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki ataca con oscuridad a Quetzalcoatl
+Quetzalcoatl es débil contra el ataque de Tamaki
+Quetzalcoatl ha sido eliminado
+Quetzalcoatl termina con HP:0/553
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:532/542
+B-Dybbuk HP:66/66 MP:63/63
+C-Pisaca HP:454/454 MP:80/90
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-
+C-Throne HP:504/504 MP:225/225
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Pisaca
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Dybbuk use
+1-Mudo MP:6
+2-Patra MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Itsuki HP:1136/1136 MP:413/413
+2-Throne HP:504/504 MP:225/225
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Dybbuk ataca con oscuridad a Throne
+Throne es débil contra el ataque de Dybbuk
+Throne ha sido eliminado
+Throne termina con HP:0/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:532/542
+B-Dybbuk HP:66/66 MP:57/63
+C-Pisaca HP:454/454 MP:80/90
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Pisaca
+2-Tamaki
+3-Dybbuk
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pisaca use
+1-Bind Voice MP:15
+2-Life Drain MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Itsuki HP:1136/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ataca con oscuridad a Itsuki
+Itsuki ha sido eliminado
+Itsuki termina con HP:0/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Tamaki (J1)

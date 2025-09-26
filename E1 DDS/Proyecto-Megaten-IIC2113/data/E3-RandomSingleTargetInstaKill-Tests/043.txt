@@ -1,0 +1,3468 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 42
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Red Rider HP:917/917 MP:183/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Lilith HP:380/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Joker
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Red Rider HP:917/917 MP:183/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Lilith HP:380/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Ishtar
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:971/971 MP:527/527
+2-Lilith HP:380/380 MP:369/369
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Flynn
+Flynn recibe 39 de daño
+Flynn termina con HP:932/971
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Red Rider HP:917/917 MP:183/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:527/527
+B-Lilith HP:380/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Red Rider
+3-Joker
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Flynn HP:932/971 MP:527/527
+2-Lilith HP:380/380 MP:369/369
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Ishtar ataca a Lilith
+Lilith recibe 27 de daño
+Lilith termina con HP:353/380
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Red Rider HP:917/917 MP:183/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:527/527
+B-Lilith HP:353/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Joker
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Flynn HP:932/971 MP:527/527
+2-Lilith HP:353/380 MP:369/369
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Flynn HP:932/971 MP:527/527
+2-Lilith HP:353/380 MP:369/369
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Red Rider lanza fuego a Flynn
+Flynn recibe 154 de daño
+Flynn termina con HP:778/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Red Rider HP:917/917 MP:161/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:778/971 MP:527/527
+B-Lilith HP:353/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Lilith
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:597/597 MP:347/347
+2-Red Rider HP:917/917 MP:161/183
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:597/597 MP:347/347
+2-Red Rider HP:917/917 MP:161/183
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Joker
+Joker recibe 88 de daño
+Joker termina con HP:509/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:347/347
+B-Red Rider HP:917/917 MP:161/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:778/971 MP:527/527
+B-Lilith HP:353/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Flynn
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:347/347
+B-Red Rider HP:917/917 MP:161/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:778/971 MP:527/527
+B-Lilith HP:353/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Lilith
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:347/347
+B-Red Rider HP:917/917 MP:161/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:778/971 MP:527/527
+B-Lilith HP:353/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Joker
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Flynn HP:778/971 MP:527/527
+2-Lilith HP:353/380 MP:369/369
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Flynn HP:778/971 MP:527/527
+2-Lilith HP:353/380 MP:369/369
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Red Rider ataca a Flynn
+Flynn recibe 71 de daño
+Flynn termina con HP:707/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:347/347
+B-Red Rider HP:917/917 MP:161/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:707/971 MP:527/527
+B-Lilith HP:353/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ishtar
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Mudo MP:6
+2-Bufula MP:8
+3-Mortal Jihad MP:13
+4-Diarahan MP:16
+5-Axel Claw MP:15
+6-Zandyne MP:14
+7-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:509/597 MP:347/347
+2-Red Rider HP:917/917 MP:161/183
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker cura a Joker
+Joker recibe 597 de HP
+Joker termina con HP:597/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:331/347
+B-Red Rider HP:917/917 MP:161/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:707/971 MP:527/527
+B-Lilith HP:353/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Red Rider
+3-Joker
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:331/347
+B-Red Rider HP:917/917 MP:161/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:707/971 MP:527/527
+B-Lilith HP:353/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Red Rider
+2-Joker
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Flynn HP:707/971 MP:527/527
+2-Lilith HP:353/380 MP:369/369
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Flynn HP:707/971 MP:527/527
+2-Lilith HP:353/380 MP:369/369
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Flynn HP:707/971 MP:527/527
+2-Lilith HP:353/380 MP:369/369
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Flynn HP:707/971 MP:527/527
+2-Lilith HP:353/380 MP:369/369
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Red Rider ataca a Flynn
+Flynn recibe 71 de daño
+Flynn termina con HP:636/971
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:331/347
+B-Red Rider HP:917/917 MP:161/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:636/971 MP:527/527
+B-Lilith HP:353/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Lilith
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:597/597 MP:331/347
+2-Red Rider HP:917/917 MP:161/183
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Ishtar
+Ishtar recibe 88 de daño
+Ishtar termina con HP:170/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:331/347
+B-Red Rider HP:917/917 MP:161/183
+C-Ishtar HP:170/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:636/971 MP:527/527
+B-Lilith HP:353/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Flynn
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:331/347
+B-Red Rider HP:917/917 MP:161/183
+C-Ishtar HP:170/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:636/971 MP:527/527
+B-Lilith HP:353/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Lilith
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:597/597 MP:331/347
+2-Red Rider HP:917/917 MP:161/183
+3-Ishtar HP:170/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Joker
+Joker recibe 88 de daño
+Joker termina con HP:509/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:917/917 MP:161/183
+C-Ishtar HP:170/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:636/971 MP:527/527
+B-Lilith HP:353/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Joker
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:917/917 MP:161/183
+C-Ishtar HP:170/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:636/971 MP:527/527
+B-Lilith HP:353/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Ishtar
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:636/971 MP:527/527
+2-Lilith HP:353/380 MP:369/369
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:636/971 MP:527/527
+2-Lilith HP:353/380 MP:369/369
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Lilith
+Lilith recibe 28 de daño
+Lilith termina con HP:325/380
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:917/917 MP:161/183
+C-Ishtar HP:170/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:636/971 MP:527/527
+B-Lilith HP:325/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Red Rider
+3-Joker
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Flynn HP:636/971 MP:527/527
+2-Lilith HP:325/380 MP:369/369
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Flynn
+Flynn recibe 27 de daño
+Flynn termina con HP:609/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:917/917 MP:161/183
+C-Ishtar HP:170/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:609/971 MP:527/527
+B-Lilith HP:325/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Joker
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:917/917 MP:161/183
+C-Ishtar HP:170/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:609/971 MP:527/527
+B-Lilith HP:325/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Ishtar
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:609/971 MP:527/527
+2-Lilith HP:325/380 MP:369/369
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Flynn
+Flynn recibe 39 de daño
+Flynn termina con HP:570/971
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:917/917 MP:161/183
+C-Ishtar HP:170/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:570/971 MP:527/527
+B-Lilith HP:325/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Lilith
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:509/597 MP:331/347
+2-Red Rider HP:917/917 MP:161/183
+3-Ishtar HP:170/258 MP:251/251
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:917/917 MP:161/183
+C-Ishtar HP:170/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:570/971 MP:527/527
+B-Lilith HP:325/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+2-Flynn
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lilith
+1-Joker HP:509/597 MP:331/347
+2-Red Rider HP:917/917 MP:161/183
+3-Ishtar HP:170/258 MP:251/251
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lilith ataca a Ishtar
+Ishtar recibe 40 de daño
+Ishtar termina con HP:130/258
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:917/917 MP:161/183
+C-Ishtar HP:130/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:570/971 MP:527/527
+B-Lilith HP:325/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Lilith
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:509/597 MP:331/347
+2-Red Rider HP:917/917 MP:161/183
+3-Ishtar HP:130/258 MP:251/251
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:509/597 MP:331/347
+2-Red Rider HP:917/917 MP:161/183
+3-Ishtar HP:130/258 MP:251/251
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Red Rider
+Red Rider es resistente el ataque de Flynn
+Red Rider recibe 55 de daño
+Red Rider termina con HP:862/917
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:862/917 MP:161/183
+C-Ishtar HP:130/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:570/971 MP:527/527
+B-Lilith HP:325/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Joker
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Flynn HP:570/971 MP:527/527
+2-Lilith HP:325/380 MP:369/369
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:862/917 MP:161/183
+C-Ishtar HP:130/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:570/971 MP:527/527
+B-Lilith HP:325/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Ishtar
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:570/971 MP:527/527
+2-Lilith HP:325/380 MP:369/369
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Lilith
+Lilith recibe 28 de daño
+Lilith termina con HP:297/380
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:862/917 MP:161/183
+C-Ishtar HP:130/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:570/971 MP:527/527
+B-Lilith HP:297/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Red Rider
+3-Joker
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Flynn HP:570/971 MP:527/527
+2-Lilith HP:297/380 MP:369/369
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Flynn
+Flynn recibe 27 de daño
+Flynn termina con HP:543/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:862/917 MP:161/183
+C-Ishtar HP:130/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:543/971 MP:527/527
+B-Lilith HP:297/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Joker
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:862/917 MP:161/183
+C-Ishtar HP:130/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:543/971 MP:527/527
+B-Lilith HP:297/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Ishtar
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:862/917 MP:161/183
+C-Ishtar HP:130/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:543/971 MP:527/527
+B-Lilith HP:297/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Lilith
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:862/917 MP:161/183
+C-Ishtar HP:130/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:543/971 MP:527/527
+B-Lilith HP:297/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+2-Flynn
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:862/917 MP:161/183
+C-Ishtar HP:130/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:543/971 MP:527/527
+B-Lilith HP:297/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Lilith
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:509/597 MP:331/347
+2-Red Rider HP:862/917 MP:161/183
+3-Ishtar HP:130/258 MP:251/251
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Red Rider
+Red Rider recibe 88 de daño
+Red Rider termina con HP:774/917
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:774/917 MP:161/183
+C-Ishtar HP:130/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:543/971 MP:527/527
+B-Lilith HP:297/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Joker
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Flynn HP:543/971 MP:527/527
+2-Lilith HP:297/380 MP:369/369
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Red Rider lanza fuego a Flynn
+Flynn recibe 154 de daño
+Flynn termina con HP:389/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:774/917 MP:139/183
+C-Ishtar HP:130/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:389/971 MP:527/527
+B-Lilith HP:297/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ishtar
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:774/917 MP:139/183
+C-Ishtar HP:130/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:389/971 MP:527/527
+B-Lilith HP:297/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ishtar
+2-Red Rider
+3-Joker
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:774/917 MP:139/183
+C-Ishtar HP:130/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:389/971 MP:527/527
+B-Lilith HP:297/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Joker
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:774/917 MP:139/183
+C-Ishtar HP:130/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:389/971 MP:527/527
+B-Lilith HP:297/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Ishtar
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:774/917 MP:139/183
+C-Ishtar HP:130/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:389/971 MP:527/527
+B-Lilith HP:297/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Lilith
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:509/597 MP:331/347
+2-Red Rider HP:774/917 MP:139/183
+3-Ishtar HP:130/258 MP:251/251
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Ishtar
+Ishtar recibe 88 de daño
+Ishtar termina con HP:42/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:774/917 MP:139/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:389/971 MP:527/527
+B-Lilith HP:297/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Flynn
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:774/917 MP:139/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:389/971 MP:527/527
+B-Lilith HP:297/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Lilith
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:774/917 MP:139/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:389/971 MP:527/527
+B-Lilith HP:297/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Joker
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Flynn HP:389/971 MP:527/527
+2-Lilith HP:297/380 MP:369/369
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Red Rider ataca a Flynn
+Flynn recibe 71 de daño
+Flynn termina con HP:318/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:774/917 MP:139/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:318/971 MP:527/527
+B-Lilith HP:297/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ishtar
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:318/971 MP:527/527
+2-Lilith HP:297/380 MP:369/369
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:318/971 MP:527/527
+2-Lilith HP:297/380 MP:369/369
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Lilith
+Lilith recibe 28 de daño
+Lilith termina con HP:269/380
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:774/917 MP:139/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:318/971 MP:527/527
+B-Lilith HP:269/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Red Rider
+3-Joker
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Flynn HP:318/971 MP:527/527
+2-Lilith HP:269/380 MP:369/369
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Flynn
+Flynn recibe 27 de daño
+Flynn termina con HP:291/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:509/597 MP:331/347
+B-Red Rider HP:774/917 MP:139/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:291/971 MP:527/527
+B-Lilith HP:269/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Lilith
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:509/597 MP:331/347
+2-Red Rider HP:774/917 MP:139/183
+3-Ishtar HP:42/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Joker
+Joker recibe 110 de daño
+Joker termina con HP:399/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:399/597 MP:331/347
+B-Red Rider HP:774/917 MP:139/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:291/971 MP:527/527
+B-Lilith HP:269/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Flynn
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lilith
+1-Joker HP:399/597 MP:331/347
+2-Red Rider HP:774/917 MP:139/183
+3-Ishtar HP:42/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Lilith ataca a Joker
+Joker recibe 40 de daño
+Joker termina con HP:359/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:331/347
+B-Red Rider HP:774/917 MP:139/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:291/971 MP:527/527
+B-Lilith HP:269/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Joker
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Flynn HP:291/971 MP:527/527
+2-Lilith HP:269/380 MP:369/369
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Red Rider lanza fuego a Lilith
+Lilith es resistente el ataque de Red Rider
+Lilith recibe 77 de daño
+Lilith termina con HP:192/380
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:331/347
+B-Red Rider HP:774/917 MP:117/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:291/971 MP:527/527
+B-Lilith HP:192/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ishtar
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:291/971 MP:527/527
+2-Lilith HP:192/380 MP:369/369
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Flynn
+Flynn recibe 39 de daño
+Flynn termina con HP:252/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:331/347
+B-Red Rider HP:774/917 MP:117/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:252/971 MP:527/527
+B-Lilith HP:192/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Red Rider
+3-Joker
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Flynn HP:252/971 MP:527/527
+2-Lilith HP:192/380 MP:369/369
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Ishtar ataca a Lilith
+Lilith recibe 27 de daño
+Lilith termina con HP:165/380
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:331/347
+B-Red Rider HP:774/917 MP:117/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:252/971 MP:527/527
+B-Lilith HP:165/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Lilith
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:331/347
+B-Red Rider HP:774/917 MP:117/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:252/971 MP:527/527
+B-Lilith HP:165/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+2-Flynn
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lilith use
+1-Lullaby MP:11
+2-Spirit Drain MP:5
+3-Charm Lightning MP:45
+4-Mediarahan MP:40
+5-Invitation MP:45
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lilith
+1-Joker HP:359/597 MP:331/347
+2-Red Rider HP:774/917 MP:117/183
+3-Ishtar HP:42/258 MP:251/251
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:331/347
+B-Red Rider HP:774/917 MP:117/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:252/971 MP:527/527
+B-Lilith HP:165/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Lilith
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Hamaon MP:10
+2-Needle Shot MP:4
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:359/597 MP:331/347
+2-Red Rider HP:774/917 MP:117/183
+3-Ishtar HP:42/258 MP:251/251
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca con luz a Red Rider
+Red Rider bloquea el ataque de Flynn
+Red Rider termina con HP:774/917
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:331/347
+B-Red Rider HP:774/917 MP:117/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:252/971 MP:517/527
+B-Lilith HP:165/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Joker
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Flynn HP:252/971 MP:517/527
+2-Lilith HP:165/380 MP:369/369
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Red Rider lanza fuego a Flynn
+Flynn recibe 154 de daño
+Flynn termina con HP:98/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:331/347
+B-Red Rider HP:774/917 MP:95/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:98/971 MP:517/527
+B-Lilith HP:165/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ishtar
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Mudo MP:6
+2-Bufula MP:8
+3-Mortal Jihad MP:13
+4-Diarahan MP:16
+5-Axel Claw MP:15
+6-Zandyne MP:14
+7-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:98/971 MP:517/527
+2-Lilith HP:165/380 MP:369/369
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Lilith
+Lilith es débil contra el ataque de Joker
+Lilith recibe 58 de daño
+Lilith termina con HP:107/380
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:331/347
+B-Red Rider HP:774/917 MP:95/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:98/971 MP:517/527
+B-Lilith HP:107/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ishtar
+2-Red Rider
+3-Joker
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:331/347
+B-Red Rider HP:774/917 MP:95/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:98/971 MP:517/527
+B-Lilith HP:107/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Joker
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Flynn HP:98/971 MP:517/527
+2-Lilith HP:107/380 MP:369/369
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Red Rider lanza fuego a Flynn
+Flynn recibe 154 de daño
+Flynn termina con HP:0/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:331/347
+B-Red Rider HP:774/917 MP:73/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:517/527
+B-Lilith HP:107/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:331/347
+B-Red Rider HP:774/917 MP:73/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:517/527
+B-Lilith HP:107/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lilith
+1-Joker HP:359/597 MP:331/347
+2-Red Rider HP:774/917 MP:73/183
+3-Ishtar HP:42/258 MP:251/251
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:331/347
+B-Red Rider HP:774/917 MP:73/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:517/527
+B-Lilith HP:107/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Joker
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-War Cry MP:45
+2-Purple Smoke MP:14
+3-Trisagion MP:22
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Lilith HP:107/380 MP:369/369
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-War Cry MP:45
+2-Purple Smoke MP:14
+3-Trisagion MP:22
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:331/347
+B-Red Rider HP:774/917 MP:73/183
+C-Ishtar HP:42/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:517/527
+B-Lilith HP:107/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Ishtar
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Mudo MP:6
+2-Bufula MP:8
+3-Mortal Jihad MP:13
+4-Diarahan MP:16
+5-Axel Claw MP:15
+6-Zandyne MP:14
+7-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:359/597 MP:331/347
+2-Red Rider HP:774/917 MP:73/183
+3-Ishtar HP:42/258 MP:251/251
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker cura a Ishtar
+Ishtar recibe 258 de HP
+Ishtar termina con HP:258/258
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:315/347
+B-Red Rider HP:774/917 MP:73/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:517/527
+B-Lilith HP:107/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Red Rider
+3-Joker
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:315/347
+B-Red Rider HP:774/917 MP:73/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:517/527
+B-Lilith HP:107/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Red Rider
+2-Joker
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-War Cry MP:45
+2-Purple Smoke MP:14
+3-Trisagion MP:22
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Lilith HP:107/380 MP:369/369
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-War Cry MP:45
+2-Purple Smoke MP:14
+3-Trisagion MP:22
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Lilith HP:107/380 MP:369/369
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Red Rider ataca a Lilith
+Lilith recibe 71 de daño
+Lilith termina con HP:36/380
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:315/347
+B-Red Rider HP:774/917 MP:73/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:517/527
+B-Lilith HP:36/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ishtar
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:315/347
+B-Red Rider HP:774/917 MP:73/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:517/527
+B-Lilith HP:36/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ishtar
+2-Red Rider
+3-Joker
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:315/347
+B-Red Rider HP:774/917 MP:73/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:517/527
+B-Lilith HP:36/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:315/347
+B-Red Rider HP:774/917 MP:73/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:517/527
+B-Lilith HP:36/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lilith use
+1-Lullaby MP:11
+2-Spirit Drain MP:5
+3-Charm Lightning MP:45
+4-Mediarahan MP:40
+5-Invitation MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lilith use
+1-Lullaby MP:11
+2-Spirit Drain MP:5
+3-Charm Lightning MP:45
+4-Mediarahan MP:40
+5-Invitation MP:45
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:315/347
+B-Red Rider HP:774/917 MP:73/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:517/527
+B-Lilith HP:36/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Joker
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-War Cry MP:45
+2-Purple Smoke MP:14
+3-Trisagion MP:22
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:315/347
+B-Red Rider HP:774/917 MP:73/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:517/527
+B-Lilith HP:36/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Ishtar
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:315/347
+B-Red Rider HP:774/917 MP:73/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:517/527
+B-Lilith HP:36/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Red Rider
+3-Joker
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Lilith HP:36/380 MP:369/369
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Lilith
+Lilith recibe 27 de daño
+Lilith termina con HP:9/380
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:315/347
+B-Red Rider HP:774/917 MP:73/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:517/527
+B-Lilith HP:9/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Joker
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-War Cry MP:45
+2-Purple Smoke MP:14
+3-Trisagion MP:22
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:359/597 MP:315/347
+B-Red Rider HP:774/917 MP:73/183
+C-Ishtar HP:258/258 MP:251/251
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:517/527
+B-Lilith HP:9/380 MP:369/369
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Ishtar
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Mudo MP:6
+2-Bufula MP:8
+3-Mortal Jihad MP:13
+4-Diarahan MP:16
+5-Axel Claw MP:15
+6-Zandyne MP:14
+7-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:359/597 MP:315/347
+2-Red Rider HP:774/917 MP:73/183
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Lilith HP:9/380 MP:369/369
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Lilith HP:9/380 MP:369/369
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Lilith HP:9/380 MP:369/369
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Lilith
+Lilith recibe 28 de daño
+Lilith termina con HP:0/380
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Joker (J1)

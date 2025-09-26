@@ -1,0 +1,702 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+INPUT: 1
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Archangel HP:265/265 MP:52/52
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Taraka HP:624/624 MP:124/124
+C-Strix HP:189/189 MP:85/85
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Archangel
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Archangel HP:265/265 MP:52/52
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Taraka HP:624/624 MP:124/124
+C-Strix HP:189/189 MP:85/85
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Archangel use
+1-Hama MP:6
+2-Heat Wave MP:11
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Joker HP:597/597 MP:347/347
+2-Taraka HP:624/624 MP:124/124
+3-Strix HP:189/189 MP:85/85
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Archangel ataca con luz a Taraka
+Archangel ha fallado el ataque
+Taraka termina con HP:624/624
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Archangel HP:265/265 MP:46/52
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Taraka HP:624/624 MP:124/124
+C-Strix HP:189/189 MP:85/85
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Archangel
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hama MP:6
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:597/597 MP:347/347
+2-Taraka HP:624/624 MP:124/124
+3-Strix HP:189/189 MP:85/85
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend ataca con luz a Taraka
+Taraka ha sido eliminado
+Taraka termina con HP:0/624
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:828/834
+B-Archangel HP:265/265 MP:46/52
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-
+C-Strix HP:189/189 MP:85/85
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Strix
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Demi-Fiend HP:1227/1227 MP:828/834
+2-Archangel HP:265/265 MP:46/52
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Joker
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:828/834
+B-Archangel HP:265/265 MP:46/52
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-
+C-Strix HP:189/189 MP:85/85
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Archangel
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hama MP:6
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:597/597 MP:347/347
+2-Strix HP:189/189 MP:85/85
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend ataca con luz a Strix
+Strix ha sido eliminado
+Strix termina con HP:0/189
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:822/834
+B-Archangel HP:265/265 MP:46/52
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Joker HP:597/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Archangel ataca a Joker
+Joker recibe 18 de daño
+Joker termina con HP:579/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:822/834
+B-Archangel HP:265/265 MP:46/52
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:579/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Demi-Fiend HP:1227/1227 MP:822/834
+2-Archangel HP:265/265 MP:46/52
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Joker
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:822/834
+B-Archangel HP:265/265 MP:46/52
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:579/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Archangel
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:579/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Joker
+Joker recibe 168 de daño
+Joker termina con HP:411/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:822/834
+B-Archangel HP:265/265 MP:46/52
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:411/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Joker HP:411/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Archangel ataca a Joker
+Joker recibe 18 de daño
+Joker termina con HP:393/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:822/834
+B-Archangel HP:265/265 MP:46/52
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:393/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Demi-Fiend HP:1227/1227 MP:822/834
+2-Archangel HP:265/265 MP:46/52
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Joker
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:822/834
+B-Archangel HP:265/265 MP:46/52
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:393/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Archangel
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:393/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Joker
+Joker recibe 168 de daño
+Joker termina con HP:225/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:822/834
+B-Archangel HP:265/265 MP:46/52
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:225/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Joker HP:225/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Archangel ataca a Joker
+Joker recibe 18 de daño
+Joker termina con HP:207/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:822/834
+B-Archangel HP:265/265 MP:46/52
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:207/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Demi-Fiend HP:1227/1227 MP:822/834
+2-Archangel HP:265/265 MP:46/52
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Joker
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:822/834
+B-Archangel HP:265/265 MP:46/52
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:207/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Archangel
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:207/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Joker
+Joker recibe 168 de daño
+Joker termina con HP:39/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:822/834
+B-Archangel HP:265/265 MP:46/52
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:39/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Joker HP:39/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Archangel ataca a Joker
+Joker recibe 18 de daño
+Joker termina con HP:21/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:822/834
+B-Archangel HP:265/265 MP:46/52
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:21/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Demi-Fiend HP:1227/1227 MP:822/834
+2-Archangel HP:265/265 MP:46/52
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Joker
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:822/834
+B-Archangel HP:265/265 MP:46/52
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:21/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Archangel
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:21/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Joker
+Joker recibe 168 de daño
+Joker termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Demi-Fiend (J1)

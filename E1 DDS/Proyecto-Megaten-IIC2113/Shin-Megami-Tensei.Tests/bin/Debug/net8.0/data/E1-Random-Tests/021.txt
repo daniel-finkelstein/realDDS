@@ -1,0 +1,3621 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 20
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Tiamat HP:305/305 MP:296/296
+C-Raphael HP:623/623 MP:279/279
+D-Dantalion HP:197/197 MP:190/190
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mandrake HP:224/224 MP:99/99
+C-Knocker HP:126/126 MP:55/55
+D-Manticore HP:385/385 MP:172/172
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Tiamat
+4-Dantalion
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:971/971 MP:527/527
+2-Mandrake HP:224/224 MP:99/99
+3-Knocker HP:126/126 MP:55/55
+4-Manticore HP:385/385 MP:172/172
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Raphael ataca a Manticore
+Manticore recibe 52 de daño
+Manticore termina con HP:333/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Tiamat HP:305/305 MP:296/296
+C-Raphael HP:623/623 MP:279/279
+D-Dantalion HP:197/197 MP:190/190
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mandrake HP:224/224 MP:99/99
+C-Knocker HP:126/126 MP:55/55
+D-Manticore HP:333/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tiamat
+3-Dantalion
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:971/971 MP:527/527
+2-Mandrake HP:224/224 MP:99/99
+3-Knocker HP:126/126 MP:55/55
+4-Manticore HP:333/385 MP:172/172
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Knocker
+Knocker recibe 45 de daño
+Knocker termina con HP:81/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Tiamat HP:305/305 MP:296/296
+C-Raphael HP:623/623 MP:279/279
+D-Dantalion HP:197/197 MP:190/190
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mandrake HP:224/224 MP:99/99
+C-Knocker HP:81/126 MP:55/55
+D-Manticore HP:333/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Dantalion
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Flynn HP:971/971 MP:527/527
+2-Mandrake HP:224/224 MP:99/99
+3-Knocker HP:81/126 MP:55/55
+4-Manticore HP:333/385 MP:172/172
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tiamat ataca a Mandrake
+Mandrake recibe 32 de daño
+Mandrake termina con HP:192/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Tiamat HP:305/305 MP:296/296
+C-Raphael HP:623/623 MP:279/279
+D-Dantalion HP:197/197 MP:190/190
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mandrake HP:192/224 MP:99/99
+C-Knocker HP:81/126 MP:55/55
+D-Manticore HP:333/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dantalion
+2-Raphael
+3-Itsuki
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Dantalion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dantalion
+1-Flynn HP:971/971 MP:527/527
+2-Mandrake HP:192/224 MP:99/99
+3-Knocker HP:81/126 MP:55/55
+4-Manticore HP:333/385 MP:172/172
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Dantalion ataca a Mandrake
+Mandrake recibe 20 de daño
+Mandrake termina con HP:172/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Tiamat HP:305/305 MP:296/296
+C-Raphael HP:623/623 MP:279/279
+D-Dantalion HP:197/197 MP:190/190
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:81/126 MP:55/55
+D-Manticore HP:333/385 MP:172/172
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+3-Mandrake
+4-Knocker
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:1136/1136 MP:413/413
+2-Tiamat HP:305/305 MP:296/296
+3-Raphael HP:623/623 MP:279/279
+4-Dantalion HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Flynn dispara a Dantalion
+Dantalion recibe 110 de daño
+Dantalion termina con HP:87/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Tiamat HP:305/305 MP:296/296
+C-Raphael HP:623/623 MP:279/279
+D-Dantalion HP:87/197 MP:190/190
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:81/126 MP:55/55
+D-Manticore HP:333/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Mandrake
+3-Knocker
+4-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:1136/1136 MP:413/413
+2-Tiamat HP:305/305 MP:296/296
+3-Raphael HP:623/623 MP:279/279
+4-Dantalion HP:87/197 MP:190/190
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:1136/1136 MP:413/413
+2-Tiamat HP:305/305 MP:296/296
+3-Raphael HP:623/623 MP:279/279
+4-Dantalion HP:87/197 MP:190/190
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:1105/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Tiamat HP:305/305 MP:296/296
+C-Raphael HP:623/623 MP:279/279
+D-Dantalion HP:87/197 MP:190/190
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:81/126 MP:55/55
+D-Manticore HP:333/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+2-Knocker
+3-Flynn
+4-Manticore
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Itsuki HP:1105/1136 MP:413/413
+2-Tiamat HP:305/305 MP:296/296
+3-Raphael HP:623/623 MP:279/279
+4-Dantalion HP:87/197 MP:190/190
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Mandrake ataca a Raphael
+Raphael recibe 17 de daño
+Raphael termina con HP:606/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Tiamat HP:305/305 MP:296/296
+C-Raphael HP:606/623 MP:279/279
+D-Dantalion HP:87/197 MP:190/190
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:81/126 MP:55/55
+D-Manticore HP:333/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Knocker
+2-Flynn
+3-Manticore
+4-Mandrake
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Itsuki HP:1105/1136 MP:413/413
+2-Tiamat HP:305/305 MP:296/296
+3-Raphael HP:606/623 MP:279/279
+4-Dantalion HP:87/197 MP:190/190
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Knocker ataca a Tiamat
+Tiamat recibe 8 de daño
+Tiamat termina con HP:297/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Tiamat HP:297/305 MP:296/296
+C-Raphael HP:606/623 MP:279/279
+D-Dantalion HP:87/197 MP:190/190
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:81/126 MP:55/55
+D-Manticore HP:333/385 MP:172/172
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Tiamat
+4-Dantalion
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:971/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:81/126 MP:55/55
+4-Manticore HP:333/385 MP:172/172
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Flynn
+Flynn recibe 52 de daño
+Flynn termina con HP:919/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Tiamat HP:297/305 MP:296/296
+C-Raphael HP:606/623 MP:279/279
+D-Dantalion HP:87/197 MP:190/190
+Equipo de Flynn (J2)
+A-Flynn HP:919/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:81/126 MP:55/55
+D-Manticore HP:333/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tiamat
+3-Dantalion
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:919/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:81/126 MP:55/55
+4-Manticore HP:333/385 MP:172/172
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:858/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Tiamat HP:297/305 MP:296/296
+C-Raphael HP:606/623 MP:279/279
+D-Dantalion HP:87/197 MP:190/190
+Equipo de Flynn (J2)
+A-Flynn HP:858/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:81/126 MP:55/55
+D-Manticore HP:333/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Dantalion
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Flynn HP:858/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:81/126 MP:55/55
+4-Manticore HP:333/385 MP:172/172
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tiamat ataca a Flynn
+Flynn recibe 32 de daño
+Flynn termina con HP:826/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Tiamat HP:297/305 MP:296/296
+C-Raphael HP:606/623 MP:279/279
+D-Dantalion HP:87/197 MP:190/190
+Equipo de Flynn (J2)
+A-Flynn HP:826/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:81/126 MP:55/55
+D-Manticore HP:333/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dantalion
+2-Raphael
+3-Itsuki
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Dantalion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dantalion
+1-Flynn HP:826/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:81/126 MP:55/55
+4-Manticore HP:333/385 MP:172/172
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Dantalion ataca a Manticore
+Manticore recibe 20 de daño
+Manticore termina con HP:313/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Tiamat HP:297/305 MP:296/296
+C-Raphael HP:606/623 MP:279/279
+D-Dantalion HP:87/197 MP:190/190
+Equipo de Flynn (J2)
+A-Flynn HP:826/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:81/126 MP:55/55
+D-Manticore HP:313/385 MP:172/172
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+3-Mandrake
+4-Knocker
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:1105/1136 MP:413/413
+2-Tiamat HP:297/305 MP:296/296
+3-Raphael HP:606/623 MP:279/279
+4-Dantalion HP:87/197 MP:190/190
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Flynn dispara a Dantalion
+Dantalion recibe 110 de daño
+Dantalion termina con HP:0/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Tiamat HP:297/305 MP:296/296
+C-Raphael HP:606/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:826/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:81/126 MP:55/55
+D-Manticore HP:313/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Mandrake
+3-Knocker
+4-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:1105/1136 MP:413/413
+2-Tiamat HP:297/305 MP:296/296
+3-Raphael HP:606/623 MP:279/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Manticore ataca a Raphael
+Raphael recibe 31 de daño
+Raphael termina con HP:575/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Tiamat HP:297/305 MP:296/296
+C-Raphael HP:575/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:826/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:81/126 MP:55/55
+D-Manticore HP:313/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+2-Knocker
+3-Flynn
+4-Manticore
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Itsuki HP:1105/1136 MP:413/413
+2-Tiamat HP:297/305 MP:296/296
+3-Raphael HP:575/623 MP:279/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mandrake ataca a Tiamat
+Tiamat recibe 17 de daño
+Tiamat termina con HP:280/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Tiamat HP:280/305 MP:296/296
+C-Raphael HP:575/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:826/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:81/126 MP:55/55
+D-Manticore HP:313/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Knocker
+2-Flynn
+3-Manticore
+4-Mandrake
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Itsuki HP:1105/1136 MP:413/413
+2-Tiamat HP:280/305 MP:296/296
+3-Raphael HP:575/623 MP:279/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Knocker ataca a Tiamat
+Tiamat recibe 8 de daño
+Tiamat termina con HP:272/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Tiamat HP:272/305 MP:296/296
+C-Raphael HP:575/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:826/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:81/126 MP:55/55
+D-Manticore HP:313/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Tiamat
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:826/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:81/126 MP:55/55
+4-Manticore HP:313/385 MP:172/172
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:826/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:81/126 MP:55/55
+4-Manticore HP:313/385 MP:172/172
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:826/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:81/126 MP:55/55
+4-Manticore HP:313/385 MP:172/172
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Flynn
+Flynn recibe 52 de daño
+Flynn termina con HP:774/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Tiamat HP:272/305 MP:296/296
+C-Raphael HP:575/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:774/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:81/126 MP:55/55
+D-Manticore HP:313/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tiamat
+3-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:774/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:81/126 MP:55/55
+4-Manticore HP:313/385 MP:172/172
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:774/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:81/126 MP:55/55
+4-Manticore HP:313/385 MP:172/172
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Knocker
+Knocker recibe 61 de daño
+Knocker termina con HP:20/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Tiamat HP:272/305 MP:296/296
+C-Raphael HP:575/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:774/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:313/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Raphael
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Flynn HP:774/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:20/126 MP:55/55
+4-Manticore HP:313/385 MP:172/172
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tiamat ataca a Flynn
+Flynn recibe 32 de daño
+Flynn termina con HP:742/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1105/1136 MP:413/413
+B-Tiamat HP:272/305 MP:296/296
+C-Raphael HP:575/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:742/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:313/385 MP:172/172
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+3-Mandrake
+4-Knocker
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:1105/1136 MP:413/413
+2-Tiamat HP:272/305 MP:296/296
+3-Raphael HP:575/623 MP:279/279
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:995/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:995/1136 MP:413/413
+B-Tiamat HP:272/305 MP:296/296
+C-Raphael HP:575/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:742/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:313/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Mandrake
+3-Knocker
+4-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:995/1136 MP:413/413
+2-Tiamat HP:272/305 MP:296/296
+3-Raphael HP:575/623 MP:279/279
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:964/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:964/1136 MP:413/413
+B-Tiamat HP:272/305 MP:296/296
+C-Raphael HP:575/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:742/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:313/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+2-Knocker
+3-Flynn
+4-Manticore
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Itsuki HP:964/1136 MP:413/413
+2-Tiamat HP:272/305 MP:296/296
+3-Raphael HP:575/623 MP:279/279
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Itsuki HP:964/1136 MP:413/413
+2-Tiamat HP:272/305 MP:296/296
+3-Raphael HP:575/623 MP:279/279
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mandrake ataca a Itsuki
+Itsuki recibe 17 de daño
+Itsuki termina con HP:947/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:947/1136 MP:413/413
+B-Tiamat HP:272/305 MP:296/296
+C-Raphael HP:575/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:742/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:313/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Knocker
+2-Flynn
+3-Manticore
+4-Mandrake
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Itsuki HP:947/1136 MP:413/413
+2-Tiamat HP:272/305 MP:296/296
+3-Raphael HP:575/623 MP:279/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Knocker ataca a Raphael
+Raphael recibe 8 de daño
+Raphael termina con HP:567/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:947/1136 MP:413/413
+B-Tiamat HP:272/305 MP:296/296
+C-Raphael HP:567/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:742/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:313/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Tiamat
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:742/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:20/126 MP:55/55
+4-Manticore HP:313/385 MP:172/172
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Raphael ataca a Manticore
+Manticore recibe 52 de daño
+Manticore termina con HP:261/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:947/1136 MP:413/413
+B-Tiamat HP:272/305 MP:296/296
+C-Raphael HP:567/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:742/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:261/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tiamat
+3-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:742/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:20/126 MP:55/55
+4-Manticore HP:261/385 MP:172/172
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Flynn
+Flynn recibe 45 de daño
+Flynn termina con HP:697/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:947/1136 MP:413/413
+B-Tiamat HP:272/305 MP:296/296
+C-Raphael HP:567/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:697/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:261/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Raphael
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Flynn HP:697/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:20/126 MP:55/55
+4-Manticore HP:261/385 MP:172/172
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tiamat ataca a Flynn
+Flynn recibe 32 de daño
+Flynn termina con HP:665/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:947/1136 MP:413/413
+B-Tiamat HP:272/305 MP:296/296
+C-Raphael HP:567/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:665/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:261/385 MP:172/172
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+3-Mandrake
+4-Knocker
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:947/1136 MP:413/413
+2-Tiamat HP:272/305 MP:296/296
+3-Raphael HP:567/623 MP:279/279
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:837/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:837/1136 MP:413/413
+B-Tiamat HP:272/305 MP:296/296
+C-Raphael HP:567/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:665/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:261/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Mandrake
+3-Knocker
+4-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:837/1136 MP:413/413
+2-Tiamat HP:272/305 MP:296/296
+3-Raphael HP:567/623 MP:279/279
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:837/1136 MP:413/413
+2-Tiamat HP:272/305 MP:296/296
+3-Raphael HP:567/623 MP:279/279
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:806/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:806/1136 MP:413/413
+B-Tiamat HP:272/305 MP:296/296
+C-Raphael HP:567/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:665/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:261/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+2-Knocker
+3-Flynn
+4-Manticore
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Itsuki HP:806/1136 MP:413/413
+2-Tiamat HP:272/305 MP:296/296
+3-Raphael HP:567/623 MP:279/279
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Itsuki HP:806/1136 MP:413/413
+2-Tiamat HP:272/305 MP:296/296
+3-Raphael HP:567/623 MP:279/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mandrake ataca a Tiamat
+Tiamat recibe 17 de daño
+Tiamat termina con HP:255/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:806/1136 MP:413/413
+B-Tiamat HP:255/305 MP:296/296
+C-Raphael HP:567/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:665/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:261/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Knocker
+2-Flynn
+3-Manticore
+4-Mandrake
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Itsuki HP:806/1136 MP:413/413
+2-Tiamat HP:255/305 MP:296/296
+3-Raphael HP:567/623 MP:279/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Knocker ataca a Raphael
+Raphael recibe 8 de daño
+Raphael termina con HP:559/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:806/1136 MP:413/413
+B-Tiamat HP:255/305 MP:296/296
+C-Raphael HP:559/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:665/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:261/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Tiamat
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:665/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:20/126 MP:55/55
+4-Manticore HP:261/385 MP:172/172
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Raphael ataca a Manticore
+Manticore recibe 52 de daño
+Manticore termina con HP:209/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:806/1136 MP:413/413
+B-Tiamat HP:255/305 MP:296/296
+C-Raphael HP:559/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:665/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:209/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tiamat
+3-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:665/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:20/126 MP:55/55
+4-Manticore HP:209/385 MP:172/172
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Flynn
+Flynn recibe 45 de daño
+Flynn termina con HP:620/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:806/1136 MP:413/413
+B-Tiamat HP:255/305 MP:296/296
+C-Raphael HP:559/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:620/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:209/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Raphael
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Flynn HP:620/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:20/126 MP:55/55
+4-Manticore HP:209/385 MP:172/172
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tiamat ataca a Manticore
+Manticore recibe 32 de daño
+Manticore termina con HP:177/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:806/1136 MP:413/413
+B-Tiamat HP:255/305 MP:296/296
+C-Raphael HP:559/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:620/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:177/385 MP:172/172
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+3-Mandrake
+4-Knocker
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:806/1136 MP:413/413
+2-Tiamat HP:255/305 MP:296/296
+3-Raphael HP:559/623 MP:279/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Raphael
+Raphael recibe 88 de daño
+Raphael termina con HP:471/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:806/1136 MP:413/413
+B-Tiamat HP:255/305 MP:296/296
+C-Raphael HP:471/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:620/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:177/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Mandrake
+3-Knocker
+4-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:806/1136 MP:413/413
+2-Tiamat HP:255/305 MP:296/296
+3-Raphael HP:471/623 MP:279/279
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:806/1136 MP:413/413
+2-Tiamat HP:255/305 MP:296/296
+3-Raphael HP:471/623 MP:279/279
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:806/1136 MP:413/413
+2-Tiamat HP:255/305 MP:296/296
+3-Raphael HP:471/623 MP:279/279
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:775/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:775/1136 MP:413/413
+B-Tiamat HP:255/305 MP:296/296
+C-Raphael HP:471/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:620/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:177/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+2-Knocker
+3-Flynn
+4-Manticore
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Itsuki HP:775/1136 MP:413/413
+2-Tiamat HP:255/305 MP:296/296
+3-Raphael HP:471/623 MP:279/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mandrake ataca a Tiamat
+Tiamat recibe 17 de daño
+Tiamat termina con HP:238/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:775/1136 MP:413/413
+B-Tiamat HP:238/305 MP:296/296
+C-Raphael HP:471/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:620/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:177/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Knocker
+2-Flynn
+3-Manticore
+4-Mandrake
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Itsuki HP:775/1136 MP:413/413
+2-Tiamat HP:238/305 MP:296/296
+3-Raphael HP:471/623 MP:279/279
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Knocker ataca a Itsuki
+Itsuki recibe 8 de daño
+Itsuki termina con HP:767/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:767/1136 MP:413/413
+B-Tiamat HP:238/305 MP:296/296
+C-Raphael HP:471/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:620/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:177/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Tiamat
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:620/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:20/126 MP:55/55
+4-Manticore HP:177/385 MP:172/172
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Raphael ataca a Manticore
+Manticore recibe 52 de daño
+Manticore termina con HP:125/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:767/1136 MP:413/413
+B-Tiamat HP:238/305 MP:296/296
+C-Raphael HP:471/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:620/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:125/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tiamat
+3-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:620/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:20/126 MP:55/55
+4-Manticore HP:125/385 MP:172/172
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Flynn
+Flynn recibe 45 de daño
+Flynn termina con HP:575/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:767/1136 MP:413/413
+B-Tiamat HP:238/305 MP:296/296
+C-Raphael HP:471/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:575/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-Knocker HP:20/126 MP:55/55
+D-Manticore HP:125/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Raphael
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Flynn HP:575/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Knocker HP:20/126 MP:55/55
+4-Manticore HP:125/385 MP:172/172
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tiamat ataca a Knocker
+Knocker recibe 32 de daño
+Knocker termina con HP:0/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:767/1136 MP:413/413
+B-Tiamat HP:238/305 MP:296/296
+C-Raphael HP:471/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:575/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-
+D-Manticore HP:125/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+3-Mandrake
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:767/1136 MP:413/413
+2-Tiamat HP:238/305 MP:296/296
+3-Raphael HP:471/623 MP:279/279
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:767/1136 MP:413/413
+2-Tiamat HP:238/305 MP:296/296
+3-Raphael HP:471/623 MP:279/279
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:657/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:657/1136 MP:413/413
+B-Tiamat HP:238/305 MP:296/296
+C-Raphael HP:471/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:575/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-
+D-Manticore HP:125/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Mandrake
+3-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:657/1136 MP:413/413
+2-Tiamat HP:238/305 MP:296/296
+3-Raphael HP:471/623 MP:279/279
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:626/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:626/1136 MP:413/413
+B-Tiamat HP:238/305 MP:296/296
+C-Raphael HP:471/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:575/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-
+D-Manticore HP:125/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+2-Flynn
+3-Manticore
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Itsuki HP:626/1136 MP:413/413
+2-Tiamat HP:238/305 MP:296/296
+3-Raphael HP:471/623 MP:279/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mandrake ataca a Tiamat
+Tiamat recibe 17 de daño
+Tiamat termina con HP:221/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:626/1136 MP:413/413
+B-Tiamat HP:221/305 MP:296/296
+C-Raphael HP:471/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:575/971 MP:527/527
+B-Mandrake HP:172/224 MP:99/99
+C-
+D-Manticore HP:125/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Tiamat
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:575/971 MP:527/527
+2-Mandrake HP:172/224 MP:99/99
+3-Manticore HP:125/385 MP:172/172
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael ataca a Mandrake
+Mandrake recibe 52 de daño
+Mandrake termina con HP:120/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:626/1136 MP:413/413
+B-Tiamat HP:221/305 MP:296/296
+C-Raphael HP:471/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:575/971 MP:527/527
+B-Mandrake HP:120/224 MP:99/99
+C-
+D-Manticore HP:125/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tiamat
+3-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:575/971 MP:527/527
+2-Mandrake HP:120/224 MP:99/99
+3-Manticore HP:125/385 MP:172/172
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:514/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:626/1136 MP:413/413
+B-Tiamat HP:221/305 MP:296/296
+C-Raphael HP:471/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:514/971 MP:527/527
+B-Mandrake HP:120/224 MP:99/99
+C-
+D-Manticore HP:125/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Raphael
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Flynn HP:514/971 MP:527/527
+2-Mandrake HP:120/224 MP:99/99
+3-Manticore HP:125/385 MP:172/172
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Flynn HP:514/971 MP:527/527
+2-Mandrake HP:120/224 MP:99/99
+3-Manticore HP:125/385 MP:172/172
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Flynn HP:514/971 MP:527/527
+2-Mandrake HP:120/224 MP:99/99
+3-Manticore HP:125/385 MP:172/172
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tiamat ataca a Mandrake
+Mandrake recibe 32 de daño
+Mandrake termina con HP:88/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:626/1136 MP:413/413
+B-Tiamat HP:221/305 MP:296/296
+C-Raphael HP:471/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:514/971 MP:527/527
+B-Mandrake HP:88/224 MP:99/99
+C-
+D-Manticore HP:125/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+3-Mandrake
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:626/1136 MP:413/413
+2-Tiamat HP:221/305 MP:296/296
+3-Raphael HP:471/623 MP:279/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Tiamat
+Tiamat recibe 110 de daño
+Tiamat termina con HP:111/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:626/1136 MP:413/413
+B-Tiamat HP:111/305 MP:296/296
+C-Raphael HP:471/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:514/971 MP:527/527
+B-Mandrake HP:88/224 MP:99/99
+C-
+D-Manticore HP:125/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Mandrake
+3-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:626/1136 MP:413/413
+2-Tiamat HP:111/305 MP:296/296
+3-Raphael HP:471/623 MP:279/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Manticore ataca a Raphael
+Raphael recibe 31 de daño
+Raphael termina con HP:440/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:626/1136 MP:413/413
+B-Tiamat HP:111/305 MP:296/296
+C-Raphael HP:440/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:514/971 MP:527/527
+B-Mandrake HP:88/224 MP:99/99
+C-
+D-Manticore HP:125/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+2-Flynn
+3-Manticore
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Itsuki HP:626/1136 MP:413/413
+2-Tiamat HP:111/305 MP:296/296
+3-Raphael HP:440/623 MP:279/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Mandrake ataca a Raphael
+Raphael recibe 17 de daño
+Raphael termina con HP:423/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:626/1136 MP:413/413
+B-Tiamat HP:111/305 MP:296/296
+C-Raphael HP:423/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:514/971 MP:527/527
+B-Mandrake HP:88/224 MP:99/99
+C-
+D-Manticore HP:125/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Tiamat
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:514/971 MP:527/527
+2-Mandrake HP:88/224 MP:99/99
+3-Manticore HP:125/385 MP:172/172
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael ataca a Mandrake
+Mandrake recibe 52 de daño
+Mandrake termina con HP:36/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:626/1136 MP:413/413
+B-Tiamat HP:111/305 MP:296/296
+C-Raphael HP:423/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:514/971 MP:527/527
+B-Mandrake HP:36/224 MP:99/99
+C-
+D-Manticore HP:125/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tiamat
+3-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:514/971 MP:527/527
+2-Mandrake HP:36/224 MP:99/99
+3-Manticore HP:125/385 MP:172/172
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Manticore
+Manticore recibe 61 de daño
+Manticore termina con HP:64/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:626/1136 MP:413/413
+B-Tiamat HP:111/305 MP:296/296
+C-Raphael HP:423/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:514/971 MP:527/527
+B-Mandrake HP:36/224 MP:99/99
+C-
+D-Manticore HP:64/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Raphael
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Flynn HP:514/971 MP:527/527
+2-Mandrake HP:36/224 MP:99/99
+3-Manticore HP:64/385 MP:172/172
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tiamat ataca a Mandrake
+Mandrake recibe 32 de daño
+Mandrake termina con HP:4/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:626/1136 MP:413/413
+B-Tiamat HP:111/305 MP:296/296
+C-Raphael HP:423/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:514/971 MP:527/527
+B-Mandrake HP:4/224 MP:99/99
+C-
+D-Manticore HP:64/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+3-Mandrake
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:626/1136 MP:413/413
+2-Tiamat HP:111/305 MP:296/296
+3-Raphael HP:423/623 MP:279/279
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:626/1136 MP:413/413
+2-Tiamat HP:111/305 MP:296/296
+3-Raphael HP:423/623 MP:279/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Raphael
+Raphael recibe 88 de daño
+Raphael termina con HP:335/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:626/1136 MP:413/413
+B-Tiamat HP:111/305 MP:296/296
+C-Raphael HP:335/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:514/971 MP:527/527
+B-Mandrake HP:4/224 MP:99/99
+C-
+D-Manticore HP:64/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Mandrake
+3-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:626/1136 MP:413/413
+2-Tiamat HP:111/305 MP:296/296
+3-Raphael HP:335/623 MP:279/279
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:626/1136 MP:413/413
+2-Tiamat HP:111/305 MP:296/296
+3-Raphael HP:335/623 MP:279/279
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:626/1136 MP:413/413
+2-Tiamat HP:111/305 MP:296/296
+3-Raphael HP:335/623 MP:279/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Manticore ataca a Tiamat
+Tiamat recibe 31 de daño
+Tiamat termina con HP:80/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:626/1136 MP:413/413
+B-Tiamat HP:80/305 MP:296/296
+C-Raphael HP:335/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:514/971 MP:527/527
+B-Mandrake HP:4/224 MP:99/99
+C-
+D-Manticore HP:64/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+2-Flynn
+3-Manticore
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Itsuki HP:626/1136 MP:413/413
+2-Tiamat HP:80/305 MP:296/296
+3-Raphael HP:335/623 MP:279/279
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mandrake ataca a Itsuki
+Itsuki recibe 17 de daño
+Itsuki termina con HP:609/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:609/1136 MP:413/413
+B-Tiamat HP:80/305 MP:296/296
+C-Raphael HP:335/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:514/971 MP:527/527
+B-Mandrake HP:4/224 MP:99/99
+C-
+D-Manticore HP:64/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Tiamat
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:514/971 MP:527/527
+2-Mandrake HP:4/224 MP:99/99
+3-Manticore HP:64/385 MP:172/172
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Flynn
+Flynn recibe 52 de daño
+Flynn termina con HP:462/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:609/1136 MP:413/413
+B-Tiamat HP:80/305 MP:296/296
+C-Raphael HP:335/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:462/971 MP:527/527
+B-Mandrake HP:4/224 MP:99/99
+C-
+D-Manticore HP:64/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tiamat
+3-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:462/971 MP:527/527
+2-Mandrake HP:4/224 MP:99/99
+3-Manticore HP:64/385 MP:172/172
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Manticore
+Manticore recibe 45 de daño
+Manticore termina con HP:19/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:609/1136 MP:413/413
+B-Tiamat HP:80/305 MP:296/296
+C-Raphael HP:335/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:462/971 MP:527/527
+B-Mandrake HP:4/224 MP:99/99
+C-
+D-Manticore HP:19/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Raphael
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Flynn HP:462/971 MP:527/527
+2-Mandrake HP:4/224 MP:99/99
+3-Manticore HP:19/385 MP:172/172
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Flynn HP:462/971 MP:527/527
+2-Mandrake HP:4/224 MP:99/99
+3-Manticore HP:19/385 MP:172/172
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tiamat ataca a Flynn
+Flynn recibe 32 de daño
+Flynn termina con HP:430/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:609/1136 MP:413/413
+B-Tiamat HP:80/305 MP:296/296
+C-Raphael HP:335/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:430/971 MP:527/527
+B-Mandrake HP:4/224 MP:99/99
+C-
+D-Manticore HP:19/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+3-Mandrake
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:609/1136 MP:413/413
+2-Tiamat HP:80/305 MP:296/296
+3-Raphael HP:335/623 MP:279/279
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:609/1136 MP:413/413
+2-Tiamat HP:80/305 MP:296/296
+3-Raphael HP:335/623 MP:279/279
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Itsuki
+Itsuki recibe 88 de daño
+Itsuki termina con HP:521/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:521/1136 MP:413/413
+B-Tiamat HP:80/305 MP:296/296
+C-Raphael HP:335/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:430/971 MP:527/527
+B-Mandrake HP:4/224 MP:99/99
+C-
+D-Manticore HP:19/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Mandrake
+3-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Itsuki HP:521/1136 MP:413/413
+2-Tiamat HP:80/305 MP:296/296
+3-Raphael HP:335/623 MP:279/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Manticore ataca a Tiamat
+Tiamat recibe 31 de daño
+Tiamat termina con HP:49/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:521/1136 MP:413/413
+B-Tiamat HP:49/305 MP:296/296
+C-Raphael HP:335/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:430/971 MP:527/527
+B-Mandrake HP:4/224 MP:99/99
+C-
+D-Manticore HP:19/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+2-Flynn
+3-Manticore
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Itsuki HP:521/1136 MP:413/413
+2-Tiamat HP:49/305 MP:296/296
+3-Raphael HP:335/623 MP:279/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Mandrake ataca a Raphael
+Raphael recibe 17 de daño
+Raphael termina con HP:318/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:521/1136 MP:413/413
+B-Tiamat HP:49/305 MP:296/296
+C-Raphael HP:318/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:430/971 MP:527/527
+B-Mandrake HP:4/224 MP:99/99
+C-
+D-Manticore HP:19/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Tiamat
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:430/971 MP:527/527
+2-Mandrake HP:4/224 MP:99/99
+3-Manticore HP:19/385 MP:172/172
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Flynn
+Flynn recibe 52 de daño
+Flynn termina con HP:378/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:521/1136 MP:413/413
+B-Tiamat HP:49/305 MP:296/296
+C-Raphael HP:318/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:378/971 MP:527/527
+B-Mandrake HP:4/224 MP:99/99
+C-
+D-Manticore HP:19/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tiamat
+3-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:378/971 MP:527/527
+2-Mandrake HP:4/224 MP:99/99
+3-Manticore HP:19/385 MP:172/172
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Manticore
+Manticore recibe 45 de daño
+Manticore termina con HP:0/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:521/1136 MP:413/413
+B-Tiamat HP:49/305 MP:296/296
+C-Raphael HP:318/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:378/971 MP:527/527
+B-Mandrake HP:4/224 MP:99/99
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Raphael
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Flynn HP:378/971 MP:527/527
+2-Mandrake HP:4/224 MP:99/99
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Flynn HP:378/971 MP:527/527
+2-Mandrake HP:4/224 MP:99/99
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Tiamat ataca a Mandrake
+Mandrake recibe 32 de daño
+Mandrake termina con HP:0/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:521/1136 MP:413/413
+B-Tiamat HP:49/305 MP:296/296
+C-Raphael HP:318/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:378/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:521/1136 MP:413/413
+2-Tiamat HP:49/305 MP:296/296
+3-Raphael HP:318/623 MP:279/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Tiamat
+Tiamat recibe 110 de daño
+Tiamat termina con HP:0/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:521/1136 MP:413/413
+B-
+C-Raphael HP:318/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:378/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:378/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:378/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Flynn
+Flynn recibe 52 de daño
+Flynn termina con HP:326/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:521/1136 MP:413/413
+B-
+C-Raphael HP:318/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:326/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:326/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:265/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:521/1136 MP:413/413
+B-
+C-Raphael HP:318/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:265/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:521/1136 MP:413/413
+2-Raphael HP:318/623 MP:279/279
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:521/1136 MP:413/413
+2-Raphael HP:318/623 MP:279/279
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:411/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:411/1136 MP:413/413
+B-
+C-Raphael HP:318/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:265/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:265/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:265/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Flynn
+Flynn recibe 52 de daño
+Flynn termina con HP:213/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:411/1136 MP:413/413
+B-
+C-Raphael HP:318/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:213/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:213/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:152/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:411/1136 MP:413/413
+B-
+C-Raphael HP:318/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:152/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:411/1136 MP:413/413
+2-Raphael HP:318/623 MP:279/279
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:301/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:301/1136 MP:413/413
+B-
+C-Raphael HP:318/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:152/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:152/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Flynn
+Flynn recibe 52 de daño
+Flynn termina con HP:100/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:301/1136 MP:413/413
+B-
+C-Raphael HP:318/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:100/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:100/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:100/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Flynn
+Flynn recibe 45 de daño
+Flynn termina con HP:55/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:301/1136 MP:413/413
+B-
+C-Raphael HP:318/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:55/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:301/1136 MP:413/413
+2-Raphael HP:318/623 MP:279/279
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Raphael
+Raphael recibe 88 de daño
+Raphael termina con HP:230/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:301/1136 MP:413/413
+B-
+C-Raphael HP:230/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:55/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:55/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:55/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:55/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:55/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Flynn
+Flynn recibe 52 de daño
+Flynn termina con HP:3/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:301/1136 MP:413/413
+B-
+C-Raphael HP:230/623 MP:279/279
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:3/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:3/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Flynn
+Flynn recibe 45 de daño
+Flynn termina con HP:0/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Itsuki (J1)

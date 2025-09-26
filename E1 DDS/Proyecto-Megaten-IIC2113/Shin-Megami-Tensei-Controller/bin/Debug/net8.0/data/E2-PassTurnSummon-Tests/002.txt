@@ -1,0 +1,1115 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+INPUT: 1
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ammut HP:709/709 MP:140/140
+2-Wendigo HP:331/331 MP:66/66
+3-Balor HP:492/492 MP:98/98
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Dormarth HP:277/277 MP:269/269 (Puesto 2)
+2-Kabuso HP:137/137 MP:131/131 (Puesto 3)
+3-Inugami HP:214/214 MP:109/109 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Wendigo HP:331/331 MP:66/66
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Wendigo
+2-Inugami
+3-Kabuso
+4-Yu
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Dormarth HP:277/277 MP:269/269
+2-Ammut HP:709/709 MP:140/140
+3-Balor HP:492/492 MP:98/98
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ammut ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ammut HP:709/709 MP:140/140
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Yu
+4-Ammut
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Nanashi HP:140/140 MP:411/411
+2-Bishamonten HP:700/700 MP:139/139
+3-Heimdall HP:581/581 MP:261/261
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Nanashi
+Nanashi recibe 17 de daño
+Nanashi termina con HP:123/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ammut HP:709/709 MP:140/140
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:123/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Yu
+3-Ammut
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Nanashi HP:123/140 MP:411/411
+2-Bishamonten HP:700/700 MP:139/139
+3-Heimdall HP:581/581 MP:261/261
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kabuso ataca a Nanashi
+Nanashi recibe 13 de daño
+Nanashi termina con HP:110/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ammut HP:709/709 MP:140/140
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:110/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Ammut
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Dormarth HP:277/277 MP:269/269
+2-Wendigo HP:331/331 MP:66/66
+3-Balor HP:492/492 MP:98/98
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Ammut HP:709/709 MP:140/140 (Puesto 2)
+2-Kabuso HP:137/137 MP:131/131 (Puesto 3)
+3-Inugami HP:214/214 MP:109/109 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Balor ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Balor HP:492/492 MP:98/98
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:110/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Balor
+2-Inugami
+3-Kabuso
+4-Yu
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Dormarth HP:277/277 MP:269/269
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:110/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Bishamonten
+3-Asherah
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Yu HP:597/597 MP:347/347
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Heimdall ataca a Dormarth
+Dormarth recibe 48 de daño
+Dormarth termina con HP:229/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Dormarth HP:229/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:110/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Asherah
+3-Nanashi
+4-Heimdall
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Yu HP:597/597 MP:347/347
+2-Dormarth HP:229/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Bishamonten ataca a Dormarth
+Dormarth recibe 53 de daño
+Dormarth termina con HP:176/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Dormarth HP:176/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:110/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Nanashi
+3-Heimdall
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Yu HP:597/597 MP:347/347
+2-Dormarth HP:176/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Asherah ataca a Dormarth
+Dormarth recibe 35 de daño
+Dormarth termina con HP:141/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Dormarth HP:141/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:110/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Heimdall
+3-Bishamonten
+4-Asherah
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Yu HP:597/597 MP:347/347
+2-Dormarth HP:141/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi ataca a Dormarth
+Dormarth recibe 92 de daño
+Dormarth termina con HP:49/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Dormarth HP:49/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:110/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nanashi HP:110/140 MP:411/411
+2-Bishamonten HP:700/700 MP:139/139
+3-Heimdall HP:581/581 MP:261/261
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Nanashi
+Nanashi recibe 49 de daño
+Nanashi termina con HP:61/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Dormarth HP:49/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:61/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Kabuso
+4-Yu
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Nanashi HP:61/140 MP:411/411
+2-Bishamonten HP:700/700 MP:139/139
+3-Heimdall HP:581/581 MP:261/261
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Nanashi
+Nanashi recibe 29 de daño
+Nanashi termina con HP:32/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Dormarth HP:49/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:32/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Yu
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Nanashi HP:32/140 MP:411/411
+2-Bishamonten HP:700/700 MP:139/139
+3-Heimdall HP:581/581 MP:261/261
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Nanashi
+Nanashi recibe 17 de daño
+Nanashi termina con HP:15/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Dormarth HP:49/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:15/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Yu
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Nanashi HP:15/140 MP:411/411
+2-Bishamonten HP:700/700 MP:139/139
+3-Heimdall HP:581/581 MP:261/261
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kabuso ataca a Nanashi
+Nanashi recibe 13 de daño
+Nanashi termina con HP:2/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Dormarth HP:49/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:2/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Bishamonten
+3-Asherah
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Yu HP:597/597 MP:347/347
+2-Dormarth HP:49/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Heimdall ataca a Dormarth
+Dormarth recibe 48 de daño
+Dormarth termina con HP:1/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Dormarth HP:1/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:2/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Asherah
+3-Nanashi
+4-Heimdall
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Yu HP:597/597 MP:347/347
+2-Dormarth HP:1/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Bishamonten ataca a Dormarth
+Dormarth recibe 53 de daño
+Dormarth termina con HP:0/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:2/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Nanashi
+3-Heimdall
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Yu HP:597/597 MP:347/347
+2-Kabuso HP:137/137 MP:131/131
+3-Inugami HP:214/214 MP:109/109
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Yu
+Yu es resistente el ataque de Asherah
+Yu recibe 17 de daño
+Yu termina con HP:580/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:580/597 MP:347/347
+B-
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:2/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Heimdall
+3-Bishamonten
+4-Asherah
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Yu HP:580/597 MP:347/347
+2-Kabuso HP:137/137 MP:131/131
+3-Inugami HP:214/214 MP:109/109
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Yu
+Yu es resistente el ataque de Nanashi
+Yu recibe 46 de daño
+Yu termina con HP:534/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:534/597 MP:347/347
+B-
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:2/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Inugami
+3-Kabuso
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ammut HP:709/709 MP:140/140
+2-Wendigo HP:331/331 MP:66/66
+3-Balor HP:492/492 MP:98/98
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Kabuso HP:137/137 MP:131/131 (Puesto 3)
+3-Inugami HP:214/214 MP:109/109 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:534/597 MP:347/347
+B-Ammut HP:709/709 MP:140/140
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nanashi (J2)
+A-Nanashi HP:2/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Ammut
+4-Yu
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Wendigo HP:331/331 MP:66/66
+2-Balor HP:492/492 MP:98/98
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Balor ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:534/597 MP:347/347
+B-Ammut HP:709/709 MP:140/140
+C-Kabuso HP:137/137 MP:131/131
+D-Balor HP:492/492 MP:98/98
+Equipo de Nanashi (J2)
+A-Nanashi HP:2/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Ammut
+3-Yu
+4-Balor
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Nanashi HP:2/140 MP:411/411
+2-Bishamonten HP:700/700 MP:139/139
+3-Heimdall HP:581/581 MP:261/261
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kabuso ataca a Nanashi
+Nanashi recibe 13 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:534/597 MP:347/347
+B-Ammut HP:709/709 MP:140/140
+C-Kabuso HP:137/137 MP:131/131
+D-Balor HP:492/492 MP:98/98
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Bishamonten HP:700/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Yu
+3-Balor
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Bishamonten HP:700/700 MP:139/139
+2-Heimdall HP:581/581 MP:261/261
+3-Asherah HP:433/433 MP:195/195
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Bishamonten
+Bishamonten recibe 54 de daño
+Bishamonten termina con HP:646/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:534/597 MP:347/347
+B-Ammut HP:709/709 MP:140/140
+C-Kabuso HP:137/137 MP:131/131
+D-Balor HP:492/492 MP:98/98
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Bishamonten HP:646/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Bishamonten
+3-Asherah
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Yu HP:534/597 MP:347/347
+2-Ammut HP:709/709 MP:140/140
+3-Kabuso HP:137/137 MP:131/131
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Heimdall ataca a Yu
+Yu es resistente el ataque de Heimdall
+Yu recibe 24 de daño
+Yu termina con HP:510/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:510/597 MP:347/347
+B-Ammut HP:709/709 MP:140/140
+C-Kabuso HP:137/137 MP:131/131
+D-Balor HP:492/492 MP:98/98
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Bishamonten HP:646/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Asherah
+3-Heimdall
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Yu HP:510/597 MP:347/347
+2-Ammut HP:709/709 MP:140/140
+3-Kabuso HP:137/137 MP:131/131
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Bishamonten ataca a Yu
+Yu es resistente el ataque de Bishamonten
+Yu recibe 26 de daño
+Yu termina con HP:484/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:484/597 MP:347/347
+B-Ammut HP:709/709 MP:140/140
+C-Kabuso HP:137/137 MP:131/131
+D-Balor HP:492/492 MP:98/98
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Bishamonten HP:646/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Heimdall
+3-Bishamonten
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Yu HP:484/597 MP:347/347
+2-Ammut HP:709/709 MP:140/140
+3-Kabuso HP:137/137 MP:131/131
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Yu
+Yu es resistente el ataque de Asherah
+Yu recibe 17 de daño
+Yu termina con HP:467/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:467/597 MP:347/347
+B-Ammut HP:709/709 MP:140/140
+C-Kabuso HP:137/137 MP:131/131
+D-Balor HP:492/492 MP:98/98
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Bishamonten HP:646/700 MP:139/139
+C-Heimdall HP:581/581 MP:261/261
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Ammut
+3-Balor
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Yu (J1) se rinde
+----------------------------------------
+Ganador: Nanashi (J2)

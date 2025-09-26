@@ -1,0 +1,1343 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 33
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Gu Huo Niao HP:122/122 MP:117/117
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Yu HP:597/597 MP:347/347
+2-Throne HP:504/504 MP:225/225
+3-Gu Huo Niao HP:122/122 MP:117/117
+4-Persephone HP:315/315 MP:306/306
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji ataca a Yu
+Yu es resistente el ataque de Kyouji
+Yu recibe 307 de daño
+Yu termina con HP:290/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Gu Huo Niao HP:122/122 MP:117/117
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Throne
+3-Persephone
+4-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Gram Slice MP:5
+2-Grand Tack MP:11
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Gu Huo Niao HP:122/122 MP:117/117
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Throne
+2-Persephone
+3-Gu Huo Niao
+4-Yu
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Gu Huo Niao HP:122/122 MP:117/117
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Gu Huo Niao
+3-Yu
+4-Throne
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Kyouji HP:999/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Kyouji HP:999/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Kyouji HP:999/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Kyouji
+Kyouji recibe 33 de daño
+Kyouji termina con HP:966/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:966/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Gu Huo Niao HP:122/122 MP:117/117
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Yu
+3-Throne
+4-Persephone
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gu Huo Niao use
+1-Agilao MP:8
+2-Patra MP:5
+3-Lullaby MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gu Huo Niao use
+1-Agilao MP:8
+2-Patra MP:5
+3-Lullaby MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gu Huo Niao
+1-Kyouji HP:966/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:966/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Gu Huo Niao HP:122/122 MP:117/117
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Throne
+3-Persephone
+4-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kyouji HP:966/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kyouji HP:966/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:966/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Gu Huo Niao HP:122/122 MP:117/117
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Persephone
+3-Gu Huo Niao
+4-Yu
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Kyouji HP:966/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Throne use
+1-Agidyne MP:14
+2-Mahamaon MP:30
+3-Mediarahan MP:40
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Kyouji HP:966/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:966/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Gu Huo Niao HP:122/122 MP:117/117
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Gu Huo Niao
+3-Yu
+4-Throne
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Kyouji HP:966/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:966/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Gu Huo Niao HP:122/122 MP:117/117
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Yu HP:290/597 MP:347/347
+2-Throne HP:504/504 MP:225/225
+3-Gu Huo Niao HP:122/122 MP:117/117
+4-Persephone HP:315/315 MP:306/306
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kyouji ataca a Gu Huo Niao
+Gu Huo Niao recibe 614 de daño
+Gu Huo Niao termina con HP:0/122
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:966/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Throne
+3-Persephone
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kyouji HP:966/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Gram Slice MP:5
+2-Grand Tack MP:11
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kyouji HP:966/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Gram Slice MP:5
+2-Grand Tack MP:11
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kyouji HP:966/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca con oscuridad a Kyouji
+Kyouji bloquea el ataque de Yu
+Kyouji termina con HP:966/999
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:966/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:337/347
+B-Throne HP:504/504 MP:225/225
+C-
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Persephone
+3-Yu
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lailah HP:212/212 MP:205/205
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lailah ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:966/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:337/347
+B-Lailah HP:212/212 MP:205/205
+C-
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Yu
+3-Lailah
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Kyouji HP:966/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Throne HP:504/504 MP:225/225
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Kyouji HP:966/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Kyouji HP:966/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:966/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:337/347
+B-Lailah HP:212/212 MP:205/205
+C-
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Yu HP:290/597 MP:337/347
+2-Lailah HP:212/212 MP:205/205
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Yu HP:290/597 MP:337/347
+2-Lailah HP:212/212 MP:205/205
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kyouji ataca a Lailah
+Lailah recibe 614 de daño
+Lailah termina con HP:0/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:966/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:337/347
+B-
+C-
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Persephone
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:966/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:337/347
+B-
+C-
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Yu
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Throne HP:504/504 MP:225/225
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Throne HP:504/504 MP:225/225
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:966/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:337/347
+B-
+C-
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Persephone
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kyouji HP:966/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Gram Slice MP:5
+2-Grand Tack MP:11
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kyouji HP:966/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Kyouji
+Kyouji bloquea el ataque de Yu
+Kyouji termina con HP:966/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:966/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:326/347
+B-
+C-
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:966/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:326/347
+B-
+C-
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:966/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:326/347
+B-
+C-
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Persephone
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kyouji HP:966/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Gram Slice MP:5
+2-Grand Tack MP:11
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kyouji HP:966/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kyouji HP:966/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Gram Slice MP:5
+2-Grand Tack MP:11
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kyouji HP:966/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Kyouji
+Kyouji recibe 89 de daño
+Kyouji termina con HP:877/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:877/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:321/347
+B-
+C-
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Yu
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Kyouji HP:877/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone lanza hielo a Kyouji
+Kyouji es resistente el ataque de Persephone
+Kyouji recibe 56 de daño
+Kyouji termina con HP:821/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:821/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:321/347
+B-
+C-
+D-Persephone HP:315/315 MP:292/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:821/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:321/347
+B-
+C-
+D-Persephone HP:315/315 MP:292/306
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Yu HP:290/597 MP:321/347
+2-Persephone HP:315/315 MP:292/306
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kyouji ataca a Persephone
+Persephone recibe 614 de daño
+Persephone termina con HP:0/315
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:821/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:321/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Gram Slice MP:5
+2-Grand Tack MP:11
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kyouji HP:821/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Kyouji
+Kyouji recibe 89 de daño
+Kyouji termina con HP:732/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:732/999 MP:0/0
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:290/597 MP:316/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Yu HP:290/597 MP:316/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji ataca a Yu
+Yu es resistente el ataque de Kyouji
+Yu recibe 307 de daño
+Yu termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Kyouji (J1)

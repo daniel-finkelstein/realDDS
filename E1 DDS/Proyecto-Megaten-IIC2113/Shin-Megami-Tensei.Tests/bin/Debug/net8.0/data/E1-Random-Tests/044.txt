@@ -1,0 +1,3871 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 43
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Wendigo HP:331/331 MP:66/66
+C-Chupacabra HP:217/217 MP:97/97
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Lorelei HP:291/291 MP:283/283
+C-Mou-Ryo HP:238/238 MP:107/107
+D-Nergal HP:644/644 MP:288/288
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Inugami
+3-Chupacabra
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:453/453 MP:389/389
+2-Lorelei HP:291/291 MP:283/283
+3-Mou-Ryo HP:238/238 MP:107/107
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:453/453 MP:389/389
+2-Lorelei HP:291/291 MP:283/283
+3-Mou-Ryo HP:238/238 MP:107/107
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Nergal
+Nergal recibe 61 de daño
+Nergal termina con HP:583/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Wendigo HP:331/331 MP:66/66
+C-Chupacabra HP:217/217 MP:97/97
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Lorelei HP:291/291 MP:283/283
+C-Mou-Ryo HP:238/238 MP:107/107
+D-Nergal HP:583/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Chupacabra
+3-Wendigo
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Nahobino HP:453/453 MP:389/389
+2-Lorelei HP:291/291 MP:283/283
+3-Mou-Ryo HP:238/238 MP:107/107
+4-Nergal HP:583/644 MP:288/288
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Inugami ataca a Mou-Ryo
+Mou-Ryo recibe 17 de daño
+Mou-Ryo termina con HP:221/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Wendigo HP:331/331 MP:66/66
+C-Chupacabra HP:217/217 MP:97/97
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Lorelei HP:291/291 MP:283/283
+C-Mou-Ryo HP:221/238 MP:107/107
+D-Nergal HP:583/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chupacabra
+2-Wendigo
+3-Itsuki
+4-Inugami
+----------------------------------------
+Seleccione una acción para Chupacabra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chupacabra
+1-Nahobino HP:453/453 MP:389/389
+2-Lorelei HP:291/291 MP:283/283
+3-Mou-Ryo HP:221/238 MP:107/107
+4-Nergal HP:583/644 MP:288/288
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Chupacabra ataca a Lorelei
+Lorelei recibe 16 de daño
+Lorelei termina con HP:275/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Wendigo HP:331/331 MP:66/66
+C-Chupacabra HP:217/217 MP:97/97
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Lorelei HP:275/291 MP:283/283
+C-Mou-Ryo HP:221/238 MP:107/107
+D-Nergal HP:583/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Itsuki
+3-Inugami
+4-Chupacabra
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nahobino HP:453/453 MP:389/389
+2-Lorelei HP:275/291 MP:283/283
+3-Mou-Ryo HP:221/238 MP:107/107
+4-Nergal HP:583/644 MP:288/288
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Wendigo ataca a Nergal
+Nergal recibe 23 de daño
+Nergal termina con HP:560/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Wendigo HP:331/331 MP:66/66
+C-Chupacabra HP:217/217 MP:97/97
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Lorelei HP:275/291 MP:283/283
+C-Mou-Ryo HP:221/238 MP:107/107
+D-Nergal HP:560/644 MP:288/288
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Lorelei
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Itsuki HP:1136/1136 MP:413/413
+2-Wendigo HP:331/331 MP:66/66
+3-Chupacabra HP:217/217 MP:97/97
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nergal ataca a Chupacabra
+Chupacabra recibe 54 de daño
+Chupacabra termina con HP:163/217
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Wendigo HP:331/331 MP:66/66
+C-Chupacabra HP:163/217 MP:97/97
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Lorelei HP:275/291 MP:283/283
+C-Mou-Ryo HP:221/238 MP:107/107
+D-Nergal HP:560/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lorelei
+3-Mou-Ryo
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1136/1136 MP:413/413
+2-Wendigo HP:331/331 MP:66/66
+3-Chupacabra HP:163/217 MP:97/97
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Chupacabra
+Chupacabra recibe 29 de daño
+Chupacabra termina con HP:134/217
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Wendigo HP:331/331 MP:66/66
+C-Chupacabra HP:134/217 MP:97/97
+D-Inugami HP:214/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Lorelei HP:275/291 MP:283/283
+C-Mou-Ryo HP:221/238 MP:107/107
+D-Nergal HP:560/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Mou-Ryo
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Itsuki HP:1136/1136 MP:413/413
+2-Wendigo HP:331/331 MP:66/66
+3-Chupacabra HP:134/217 MP:97/97
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Lorelei ataca a Inugami
+Inugami recibe 30 de daño
+Inugami termina con HP:184/214
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Wendigo HP:331/331 MP:66/66
+C-Chupacabra HP:134/217 MP:97/97
+D-Inugami HP:184/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Lorelei HP:275/291 MP:283/283
+C-Mou-Ryo HP:221/238 MP:107/107
+D-Nergal HP:560/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Nergal
+3-Nahobino
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Itsuki HP:1136/1136 MP:413/413
+2-Wendigo HP:331/331 MP:66/66
+3-Chupacabra HP:134/217 MP:97/97
+4-Inugami HP:184/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Mou-Ryo ataca a Itsuki
+Itsuki recibe 18 de daño
+Itsuki termina con HP:1118/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1118/1136 MP:413/413
+B-Wendigo HP:331/331 MP:66/66
+C-Chupacabra HP:134/217 MP:97/97
+D-Inugami HP:184/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Lorelei HP:275/291 MP:283/283
+C-Mou-Ryo HP:221/238 MP:107/107
+D-Nergal HP:560/644 MP:288/288
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Inugami
+3-Chupacabra
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:453/453 MP:389/389
+2-Lorelei HP:275/291 MP:283/283
+3-Mou-Ryo HP:221/238 MP:107/107
+4-Nergal HP:560/644 MP:288/288
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Nahobino
+Nahobino recibe 45 de daño
+Nahobino termina con HP:408/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1118/1136 MP:413/413
+B-Wendigo HP:331/331 MP:66/66
+C-Chupacabra HP:134/217 MP:97/97
+D-Inugami HP:184/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Lorelei HP:275/291 MP:283/283
+C-Mou-Ryo HP:221/238 MP:107/107
+D-Nergal HP:560/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Chupacabra
+3-Wendigo
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Nahobino HP:408/453 MP:389/389
+2-Lorelei HP:275/291 MP:283/283
+3-Mou-Ryo HP:221/238 MP:107/107
+4-Nergal HP:560/644 MP:288/288
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Inugami ataca a Lorelei
+Lorelei recibe 17 de daño
+Lorelei termina con HP:258/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1118/1136 MP:413/413
+B-Wendigo HP:331/331 MP:66/66
+C-Chupacabra HP:134/217 MP:97/97
+D-Inugami HP:184/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:221/238 MP:107/107
+D-Nergal HP:560/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chupacabra
+2-Wendigo
+3-Itsuki
+4-Inugami
+----------------------------------------
+Seleccione una acción para Chupacabra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chupacabra
+1-Nahobino HP:408/453 MP:389/389
+2-Lorelei HP:258/291 MP:283/283
+3-Mou-Ryo HP:221/238 MP:107/107
+4-Nergal HP:560/644 MP:288/288
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Chupacabra ataca a Nahobino
+Nahobino recibe 16 de daño
+Nahobino termina con HP:392/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1118/1136 MP:413/413
+B-Wendigo HP:331/331 MP:66/66
+C-Chupacabra HP:134/217 MP:97/97
+D-Inugami HP:184/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:392/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:221/238 MP:107/107
+D-Nergal HP:560/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Itsuki
+3-Inugami
+4-Chupacabra
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nahobino HP:392/453 MP:389/389
+2-Lorelei HP:258/291 MP:283/283
+3-Mou-Ryo HP:221/238 MP:107/107
+4-Nergal HP:560/644 MP:288/288
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Wendigo ataca a Nergal
+Nergal recibe 23 de daño
+Nergal termina con HP:537/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1118/1136 MP:413/413
+B-Wendigo HP:331/331 MP:66/66
+C-Chupacabra HP:134/217 MP:97/97
+D-Inugami HP:184/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:392/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:221/238 MP:107/107
+D-Nergal HP:537/644 MP:288/288
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Lorelei
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Itsuki HP:1118/1136 MP:413/413
+2-Wendigo HP:331/331 MP:66/66
+3-Chupacabra HP:134/217 MP:97/97
+4-Inugami HP:184/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nergal ataca a Wendigo
+Wendigo recibe 54 de daño
+Wendigo termina con HP:277/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1118/1136 MP:413/413
+B-Wendigo HP:277/331 MP:66/66
+C-Chupacabra HP:134/217 MP:97/97
+D-Inugami HP:184/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:392/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:221/238 MP:107/107
+D-Nergal HP:537/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lorelei
+3-Mou-Ryo
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1118/1136 MP:413/413
+2-Wendigo HP:277/331 MP:66/66
+3-Chupacabra HP:134/217 MP:97/97
+4-Inugami HP:184/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:1035/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1035/1136 MP:413/413
+B-Wendigo HP:277/331 MP:66/66
+C-Chupacabra HP:134/217 MP:97/97
+D-Inugami HP:184/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:392/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:221/238 MP:107/107
+D-Nergal HP:537/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Mou-Ryo
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Itsuki HP:1035/1136 MP:413/413
+2-Wendigo HP:277/331 MP:66/66
+3-Chupacabra HP:134/217 MP:97/97
+4-Inugami HP:184/214 MP:109/109
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Lorelei ataca a Chupacabra
+Chupacabra recibe 30 de daño
+Chupacabra termina con HP:104/217
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1035/1136 MP:413/413
+B-Wendigo HP:277/331 MP:66/66
+C-Chupacabra HP:104/217 MP:97/97
+D-Inugami HP:184/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:392/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:221/238 MP:107/107
+D-Nergal HP:537/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Nergal
+3-Nahobino
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Itsuki HP:1035/1136 MP:413/413
+2-Wendigo HP:277/331 MP:66/66
+3-Chupacabra HP:104/217 MP:97/97
+4-Inugami HP:184/214 MP:109/109
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Mou-Ryo ataca a Chupacabra
+Chupacabra recibe 18 de daño
+Chupacabra termina con HP:86/217
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1035/1136 MP:413/413
+B-Wendigo HP:277/331 MP:66/66
+C-Chupacabra HP:86/217 MP:97/97
+D-Inugami HP:184/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:392/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:221/238 MP:107/107
+D-Nergal HP:537/644 MP:288/288
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Inugami
+3-Chupacabra
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:392/453 MP:389/389
+2-Lorelei HP:258/291 MP:283/283
+3-Mou-Ryo HP:221/238 MP:107/107
+4-Nergal HP:537/644 MP:288/288
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki ataca a Nergal
+Nergal recibe 45 de daño
+Nergal termina con HP:492/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1035/1136 MP:413/413
+B-Wendigo HP:277/331 MP:66/66
+C-Chupacabra HP:86/217 MP:97/97
+D-Inugami HP:184/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:392/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:221/238 MP:107/107
+D-Nergal HP:492/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Chupacabra
+3-Wendigo
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Nahobino HP:392/453 MP:389/389
+2-Lorelei HP:258/291 MP:283/283
+3-Mou-Ryo HP:221/238 MP:107/107
+4-Nergal HP:492/644 MP:288/288
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Nahobino
+Nahobino recibe 17 de daño
+Nahobino termina con HP:375/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1035/1136 MP:413/413
+B-Wendigo HP:277/331 MP:66/66
+C-Chupacabra HP:86/217 MP:97/97
+D-Inugami HP:184/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:375/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:221/238 MP:107/107
+D-Nergal HP:492/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chupacabra
+2-Wendigo
+3-Itsuki
+4-Inugami
+----------------------------------------
+Seleccione una acción para Chupacabra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chupacabra
+1-Nahobino HP:375/453 MP:389/389
+2-Lorelei HP:258/291 MP:283/283
+3-Mou-Ryo HP:221/238 MP:107/107
+4-Nergal HP:492/644 MP:288/288
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Chupacabra ataca a Mou-Ryo
+Mou-Ryo recibe 16 de daño
+Mou-Ryo termina con HP:205/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1035/1136 MP:413/413
+B-Wendigo HP:277/331 MP:66/66
+C-Chupacabra HP:86/217 MP:97/97
+D-Inugami HP:184/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:375/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:205/238 MP:107/107
+D-Nergal HP:492/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Itsuki
+3-Inugami
+4-Chupacabra
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nahobino HP:375/453 MP:389/389
+2-Lorelei HP:258/291 MP:283/283
+3-Mou-Ryo HP:205/238 MP:107/107
+4-Nergal HP:492/644 MP:288/288
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Wendigo ataca a Nergal
+Nergal recibe 23 de daño
+Nergal termina con HP:469/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1035/1136 MP:413/413
+B-Wendigo HP:277/331 MP:66/66
+C-Chupacabra HP:86/217 MP:97/97
+D-Inugami HP:184/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:375/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:205/238 MP:107/107
+D-Nergal HP:469/644 MP:288/288
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Lorelei
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Itsuki HP:1035/1136 MP:413/413
+2-Wendigo HP:277/331 MP:66/66
+3-Chupacabra HP:86/217 MP:97/97
+4-Inugami HP:184/214 MP:109/109
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nergal ataca a Chupacabra
+Chupacabra recibe 54 de daño
+Chupacabra termina con HP:32/217
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1035/1136 MP:413/413
+B-Wendigo HP:277/331 MP:66/66
+C-Chupacabra HP:32/217 MP:97/97
+D-Inugami HP:184/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:375/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:205/238 MP:107/107
+D-Nergal HP:469/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lorelei
+3-Mou-Ryo
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1035/1136 MP:413/413
+2-Wendigo HP:277/331 MP:66/66
+3-Chupacabra HP:32/217 MP:97/97
+4-Inugami HP:184/214 MP:109/109
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Chupacabra
+Chupacabra recibe 29 de daño
+Chupacabra termina con HP:3/217
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1035/1136 MP:413/413
+B-Wendigo HP:277/331 MP:66/66
+C-Chupacabra HP:3/217 MP:97/97
+D-Inugami HP:184/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:375/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:205/238 MP:107/107
+D-Nergal HP:469/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Mou-Ryo
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Itsuki HP:1035/1136 MP:413/413
+2-Wendigo HP:277/331 MP:66/66
+3-Chupacabra HP:3/217 MP:97/97
+4-Inugami HP:184/214 MP:109/109
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Itsuki HP:1035/1136 MP:413/413
+2-Wendigo HP:277/331 MP:66/66
+3-Chupacabra HP:3/217 MP:97/97
+4-Inugami HP:184/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Lorelei ataca a Wendigo
+Wendigo recibe 30 de daño
+Wendigo termina con HP:247/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1035/1136 MP:413/413
+B-Wendigo HP:247/331 MP:66/66
+C-Chupacabra HP:3/217 MP:97/97
+D-Inugami HP:184/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:375/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:205/238 MP:107/107
+D-Nergal HP:469/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Nergal
+3-Nahobino
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Itsuki HP:1035/1136 MP:413/413
+2-Wendigo HP:247/331 MP:66/66
+3-Chupacabra HP:3/217 MP:97/97
+4-Inugami HP:184/214 MP:109/109
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Mou-Ryo ataca a Inugami
+Inugami recibe 18 de daño
+Inugami termina con HP:166/214
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1035/1136 MP:413/413
+B-Wendigo HP:247/331 MP:66/66
+C-Chupacabra HP:3/217 MP:97/97
+D-Inugami HP:166/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:375/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:205/238 MP:107/107
+D-Nergal HP:469/644 MP:288/288
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Inugami
+3-Chupacabra
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:375/453 MP:389/389
+2-Lorelei HP:258/291 MP:283/283
+3-Mou-Ryo HP:205/238 MP:107/107
+4-Nergal HP:469/644 MP:288/288
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:375/453 MP:389/389
+2-Lorelei HP:258/291 MP:283/283
+3-Mou-Ryo HP:205/238 MP:107/107
+4-Nergal HP:469/644 MP:288/288
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Nahobino
+Nahobino recibe 61 de daño
+Nahobino termina con HP:314/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1035/1136 MP:413/413
+B-Wendigo HP:247/331 MP:66/66
+C-Chupacabra HP:3/217 MP:97/97
+D-Inugami HP:166/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:314/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:205/238 MP:107/107
+D-Nergal HP:469/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Chupacabra
+3-Wendigo
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Nahobino HP:314/453 MP:389/389
+2-Lorelei HP:258/291 MP:283/283
+3-Mou-Ryo HP:205/238 MP:107/107
+4-Nergal HP:469/644 MP:288/288
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Inugami ataca a Mou-Ryo
+Mou-Ryo recibe 17 de daño
+Mou-Ryo termina con HP:188/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1035/1136 MP:413/413
+B-Wendigo HP:247/331 MP:66/66
+C-Chupacabra HP:3/217 MP:97/97
+D-Inugami HP:166/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:314/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:188/238 MP:107/107
+D-Nergal HP:469/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chupacabra
+2-Wendigo
+3-Itsuki
+4-Inugami
+----------------------------------------
+Seleccione una acción para Chupacabra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chupacabra
+1-Nahobino HP:314/453 MP:389/389
+2-Lorelei HP:258/291 MP:283/283
+3-Mou-Ryo HP:188/238 MP:107/107
+4-Nergal HP:469/644 MP:288/288
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Chupacabra ataca a Mou-Ryo
+Mou-Ryo recibe 16 de daño
+Mou-Ryo termina con HP:172/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1035/1136 MP:413/413
+B-Wendigo HP:247/331 MP:66/66
+C-Chupacabra HP:3/217 MP:97/97
+D-Inugami HP:166/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:314/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:172/238 MP:107/107
+D-Nergal HP:469/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Itsuki
+3-Inugami
+4-Chupacabra
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nahobino HP:314/453 MP:389/389
+2-Lorelei HP:258/291 MP:283/283
+3-Mou-Ryo HP:172/238 MP:107/107
+4-Nergal HP:469/644 MP:288/288
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Wendigo ataca a Mou-Ryo
+Mou-Ryo recibe 23 de daño
+Mou-Ryo termina con HP:149/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1035/1136 MP:413/413
+B-Wendigo HP:247/331 MP:66/66
+C-Chupacabra HP:3/217 MP:97/97
+D-Inugami HP:166/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:314/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:149/238 MP:107/107
+D-Nergal HP:469/644 MP:288/288
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Lorelei
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Itsuki HP:1035/1136 MP:413/413
+2-Wendigo HP:247/331 MP:66/66
+3-Chupacabra HP:3/217 MP:97/97
+4-Inugami HP:166/214 MP:109/109
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nergal ataca a Inugami
+Inugami recibe 54 de daño
+Inugami termina con HP:112/214
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1035/1136 MP:413/413
+B-Wendigo HP:247/331 MP:66/66
+C-Chupacabra HP:3/217 MP:97/97
+D-Inugami HP:112/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:314/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:149/238 MP:107/107
+D-Nergal HP:469/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lorelei
+3-Mou-Ryo
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1035/1136 MP:413/413
+2-Wendigo HP:247/331 MP:66/66
+3-Chupacabra HP:3/217 MP:97/97
+4-Inugami HP:112/214 MP:109/109
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nahobino ataca a Inugami
+Inugami recibe 29 de daño
+Inugami termina con HP:83/214
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1035/1136 MP:413/413
+B-Wendigo HP:247/331 MP:66/66
+C-Chupacabra HP:3/217 MP:97/97
+D-Inugami HP:83/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:314/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:149/238 MP:107/107
+D-Nergal HP:469/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Mou-Ryo
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Itsuki HP:1035/1136 MP:413/413
+2-Wendigo HP:247/331 MP:66/66
+3-Chupacabra HP:3/217 MP:97/97
+4-Inugami HP:83/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Lorelei ataca a Itsuki
+Itsuki recibe 30 de daño
+Itsuki termina con HP:1005/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1005/1136 MP:413/413
+B-Wendigo HP:247/331 MP:66/66
+C-Chupacabra HP:3/217 MP:97/97
+D-Inugami HP:83/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:314/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:149/238 MP:107/107
+D-Nergal HP:469/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Nergal
+3-Nahobino
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Itsuki HP:1005/1136 MP:413/413
+2-Wendigo HP:247/331 MP:66/66
+3-Chupacabra HP:3/217 MP:97/97
+4-Inugami HP:83/214 MP:109/109
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Mou-Ryo ataca a Chupacabra
+Chupacabra recibe 18 de daño
+Chupacabra termina con HP:0/217
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1005/1136 MP:413/413
+B-Wendigo HP:247/331 MP:66/66
+C-
+D-Inugami HP:83/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:314/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:149/238 MP:107/107
+D-Nergal HP:469/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Inugami
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:314/453 MP:389/389
+2-Lorelei HP:258/291 MP:283/283
+3-Mou-Ryo HP:149/238 MP:107/107
+4-Nergal HP:469/644 MP:288/288
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Nergal
+Nergal recibe 61 de daño
+Nergal termina con HP:408/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1005/1136 MP:413/413
+B-Wendigo HP:247/331 MP:66/66
+C-
+D-Inugami HP:83/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:314/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:149/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Wendigo
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Nahobino HP:314/453 MP:389/389
+2-Lorelei HP:258/291 MP:283/283
+3-Mou-Ryo HP:149/238 MP:107/107
+4-Nergal HP:408/644 MP:288/288
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Nahobino HP:314/453 MP:389/389
+2-Lorelei HP:258/291 MP:283/283
+3-Mou-Ryo HP:149/238 MP:107/107
+4-Nergal HP:408/644 MP:288/288
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Nahobino
+Nahobino recibe 17 de daño
+Nahobino termina con HP:297/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1005/1136 MP:413/413
+B-Wendigo HP:247/331 MP:66/66
+C-
+D-Inugami HP:83/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:297/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:149/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Itsuki
+3-Inugami
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nahobino HP:297/453 MP:389/389
+2-Lorelei HP:258/291 MP:283/283
+3-Mou-Ryo HP:149/238 MP:107/107
+4-Nergal HP:408/644 MP:288/288
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Wendigo ataca a Mou-Ryo
+Mou-Ryo recibe 23 de daño
+Mou-Ryo termina con HP:126/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1005/1136 MP:413/413
+B-Wendigo HP:247/331 MP:66/66
+C-
+D-Inugami HP:83/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:297/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Lorelei
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Itsuki HP:1005/1136 MP:413/413
+2-Wendigo HP:247/331 MP:66/66
+3-Inugami HP:83/214 MP:109/109
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nergal ataca a Wendigo
+Wendigo recibe 54 de daño
+Wendigo termina con HP:193/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1005/1136 MP:413/413
+B-Wendigo HP:193/331 MP:66/66
+C-
+D-Inugami HP:83/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:297/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lorelei
+3-Mou-Ryo
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1005/1136 MP:413/413
+2-Wendigo HP:193/331 MP:66/66
+3-Inugami HP:83/214 MP:109/109
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Inugami
+Inugami recibe 29 de daño
+Inugami termina con HP:54/214
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1005/1136 MP:413/413
+B-Wendigo HP:193/331 MP:66/66
+C-
+D-Inugami HP:54/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:297/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Mou-Ryo
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Itsuki HP:1005/1136 MP:413/413
+2-Wendigo HP:193/331 MP:66/66
+3-Inugami HP:54/214 MP:109/109
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Itsuki HP:1005/1136 MP:413/413
+2-Wendigo HP:193/331 MP:66/66
+3-Inugami HP:54/214 MP:109/109
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Itsuki HP:1005/1136 MP:413/413
+2-Wendigo HP:193/331 MP:66/66
+3-Inugami HP:54/214 MP:109/109
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Lorelei ataca a Wendigo
+Wendigo recibe 30 de daño
+Wendigo termina con HP:163/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1005/1136 MP:413/413
+B-Wendigo HP:163/331 MP:66/66
+C-
+D-Inugami HP:54/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:297/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Nergal
+3-Nahobino
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Itsuki HP:1005/1136 MP:413/413
+2-Wendigo HP:163/331 MP:66/66
+3-Inugami HP:54/214 MP:109/109
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mou-Ryo ataca a Wendigo
+Wendigo recibe 18 de daño
+Wendigo termina con HP:145/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1005/1136 MP:413/413
+B-Wendigo HP:145/331 MP:66/66
+C-
+D-Inugami HP:54/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:297/453 MP:389/389
+B-Lorelei HP:258/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Inugami
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:297/453 MP:389/389
+2-Lorelei HP:258/291 MP:283/283
+3-Mou-Ryo HP:126/238 MP:107/107
+4-Nergal HP:408/644 MP:288/288
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Lorelei
+Lorelei recibe 45 de daño
+Lorelei termina con HP:213/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1005/1136 MP:413/413
+B-Wendigo HP:145/331 MP:66/66
+C-
+D-Inugami HP:54/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:297/453 MP:389/389
+B-Lorelei HP:213/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Wendigo
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Nahobino HP:297/453 MP:389/389
+2-Lorelei HP:213/291 MP:283/283
+3-Mou-Ryo HP:126/238 MP:107/107
+4-Nergal HP:408/644 MP:288/288
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Inugami ataca a Lorelei
+Lorelei recibe 17 de daño
+Lorelei termina con HP:196/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1005/1136 MP:413/413
+B-Wendigo HP:145/331 MP:66/66
+C-
+D-Inugami HP:54/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:297/453 MP:389/389
+B-Lorelei HP:196/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Itsuki
+3-Inugami
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nahobino HP:297/453 MP:389/389
+2-Lorelei HP:196/291 MP:283/283
+3-Mou-Ryo HP:126/238 MP:107/107
+4-Nergal HP:408/644 MP:288/288
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Nahobino
+Nahobino recibe 23 de daño
+Nahobino termina con HP:274/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1005/1136 MP:413/413
+B-Wendigo HP:145/331 MP:66/66
+C-
+D-Inugami HP:54/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:389/389
+B-Lorelei HP:196/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Lorelei
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Itsuki HP:1005/1136 MP:413/413
+2-Wendigo HP:145/331 MP:66/66
+3-Inugami HP:54/214 MP:109/109
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nergal ataca a Wendigo
+Wendigo recibe 54 de daño
+Wendigo termina con HP:91/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1005/1136 MP:413/413
+B-Wendigo HP:91/331 MP:66/66
+C-
+D-Inugami HP:54/214 MP:109/109
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:389/389
+B-Lorelei HP:196/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lorelei
+3-Mou-Ryo
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1005/1136 MP:413/413
+2-Wendigo HP:91/331 MP:66/66
+3-Inugami HP:54/214 MP:109/109
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino dispara a Inugami
+Inugami recibe 83 de daño
+Inugami termina con HP:0/214
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1005/1136 MP:413/413
+B-Wendigo HP:91/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:389/389
+B-Lorelei HP:196/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Mou-Ryo
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Itsuki HP:1005/1136 MP:413/413
+2-Wendigo HP:91/331 MP:66/66
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Lorelei ataca a Itsuki
+Itsuki recibe 30 de daño
+Itsuki termina con HP:975/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:975/1136 MP:413/413
+B-Wendigo HP:91/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:389/389
+B-Lorelei HP:196/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Nergal
+3-Nahobino
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Itsuki HP:975/1136 MP:413/413
+2-Wendigo HP:91/331 MP:66/66
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mou-Ryo ataca a Wendigo
+Wendigo recibe 18 de daño
+Wendigo termina con HP:73/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:975/1136 MP:413/413
+B-Wendigo HP:73/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:389/389
+B-Lorelei HP:196/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Wendigo
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:274/453 MP:389/389
+2-Lorelei HP:196/291 MP:283/283
+3-Mou-Ryo HP:126/238 MP:107/107
+4-Nergal HP:408/644 MP:288/288
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Nahobino
+Nahobino recibe 61 de daño
+Nahobino termina con HP:213/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:975/1136 MP:413/413
+B-Wendigo HP:73/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:213/453 MP:389/389
+B-Lorelei HP:196/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nahobino HP:213/453 MP:389/389
+2-Lorelei HP:196/291 MP:283/283
+3-Mou-Ryo HP:126/238 MP:107/107
+4-Nergal HP:408/644 MP:288/288
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nahobino HP:213/453 MP:389/389
+2-Lorelei HP:196/291 MP:283/283
+3-Mou-Ryo HP:126/238 MP:107/107
+4-Nergal HP:408/644 MP:288/288
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Wendigo ataca a Lorelei
+Lorelei recibe 23 de daño
+Lorelei termina con HP:173/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:975/1136 MP:413/413
+B-Wendigo HP:73/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:213/453 MP:389/389
+B-Lorelei HP:173/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Lorelei
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Itsuki HP:975/1136 MP:413/413
+2-Wendigo HP:73/331 MP:66/66
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:921/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:921/1136 MP:413/413
+B-Wendigo HP:73/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:213/453 MP:389/389
+B-Lorelei HP:173/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lorelei
+3-Mou-Ryo
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:921/1136 MP:413/413
+2-Wendigo HP:73/331 MP:66/66
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca a Wendigo
+Wendigo recibe 29 de daño
+Wendigo termina con HP:44/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:921/1136 MP:413/413
+B-Wendigo HP:44/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:213/453 MP:389/389
+B-Lorelei HP:173/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Mou-Ryo
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Itsuki HP:921/1136 MP:413/413
+2-Wendigo HP:44/331 MP:66/66
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Lorelei ataca a Itsuki
+Itsuki recibe 30 de daño
+Itsuki termina con HP:891/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:891/1136 MP:413/413
+B-Wendigo HP:44/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:213/453 MP:389/389
+B-Lorelei HP:173/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Nergal
+3-Nahobino
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Itsuki HP:891/1136 MP:413/413
+2-Wendigo HP:44/331 MP:66/66
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Itsuki HP:891/1136 MP:413/413
+2-Wendigo HP:44/331 MP:66/66
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Itsuki HP:891/1136 MP:413/413
+2-Wendigo HP:44/331 MP:66/66
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mou-Ryo ataca a Wendigo
+Wendigo recibe 18 de daño
+Wendigo termina con HP:26/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:891/1136 MP:413/413
+B-Wendigo HP:26/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:213/453 MP:389/389
+B-Lorelei HP:173/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Wendigo
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:213/453 MP:389/389
+2-Lorelei HP:173/291 MP:283/283
+3-Mou-Ryo HP:126/238 MP:107/107
+4-Nergal HP:408/644 MP:288/288
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Lorelei
+Lorelei recibe 61 de daño
+Lorelei termina con HP:112/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:891/1136 MP:413/413
+B-Wendigo HP:26/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:213/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nahobino HP:213/453 MP:389/389
+2-Lorelei HP:112/291 MP:283/283
+3-Mou-Ryo HP:126/238 MP:107/107
+4-Nergal HP:408/644 MP:288/288
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Nahobino
+Nahobino recibe 23 de daño
+Nahobino termina con HP:190/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:891/1136 MP:413/413
+B-Wendigo HP:26/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:190/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Lorelei
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Itsuki HP:891/1136 MP:413/413
+2-Wendigo HP:26/331 MP:66/66
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:837/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:837/1136 MP:413/413
+B-Wendigo HP:26/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:190/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lorelei
+3-Mou-Ryo
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:837/1136 MP:413/413
+2-Wendigo HP:26/331 MP:66/66
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:754/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:754/1136 MP:413/413
+B-Wendigo HP:26/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:190/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Mou-Ryo
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Itsuki HP:754/1136 MP:413/413
+2-Wendigo HP:26/331 MP:66/66
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Lorelei ataca a Itsuki
+Itsuki recibe 30 de daño
+Itsuki termina con HP:724/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:724/1136 MP:413/413
+B-Wendigo HP:26/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:190/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Nergal
+3-Nahobino
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Itsuki HP:724/1136 MP:413/413
+2-Wendigo HP:26/331 MP:66/66
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mou-Ryo ataca a Wendigo
+Wendigo recibe 18 de daño
+Wendigo termina con HP:8/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:724/1136 MP:413/413
+B-Wendigo HP:8/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:190/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:408/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Wendigo
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:190/453 MP:389/389
+2-Lorelei HP:112/291 MP:283/283
+3-Mou-Ryo HP:126/238 MP:107/107
+4-Nergal HP:408/644 MP:288/288
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki ataca a Nergal
+Nergal recibe 45 de daño
+Nergal termina con HP:363/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:724/1136 MP:413/413
+B-Wendigo HP:8/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:190/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:363/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Nahobino HP:190/453 MP:389/389
+2-Lorelei HP:112/291 MP:283/283
+3-Mou-Ryo HP:126/238 MP:107/107
+4-Nergal HP:363/644 MP:288/288
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Wendigo ataca a Nergal
+Nergal recibe 23 de daño
+Nergal termina con HP:340/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:724/1136 MP:413/413
+B-Wendigo HP:8/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:190/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:340/644 MP:288/288
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Lorelei
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Itsuki HP:724/1136 MP:413/413
+2-Wendigo HP:8/331 MP:66/66
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:670/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:670/1136 MP:413/413
+B-Wendigo HP:8/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:190/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:340/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lorelei
+3-Mou-Ryo
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:670/1136 MP:413/413
+2-Wendigo HP:8/331 MP:66/66
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:670/1136 MP:413/413
+2-Wendigo HP:8/331 MP:66/66
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:587/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:587/1136 MP:413/413
+B-Wendigo HP:8/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:190/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:340/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Mou-Ryo
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Itsuki HP:587/1136 MP:413/413
+2-Wendigo HP:8/331 MP:66/66
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Lorelei ataca a Itsuki
+Itsuki recibe 30 de daño
+Itsuki termina con HP:557/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:557/1136 MP:413/413
+B-Wendigo HP:8/331 MP:66/66
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:190/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:340/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Nergal
+3-Nahobino
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Itsuki HP:557/1136 MP:413/413
+2-Wendigo HP:8/331 MP:66/66
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mou-Ryo ataca a Wendigo
+Wendigo recibe 18 de daño
+Wendigo termina con HP:0/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:557/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:190/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:126/238 MP:107/107
+D-Nergal HP:340/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:190/453 MP:389/389
+2-Lorelei HP:112/291 MP:283/283
+3-Mou-Ryo HP:126/238 MP:107/107
+4-Nergal HP:340/644 MP:288/288
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Mou-Ryo
+Mou-Ryo recibe 45 de daño
+Mou-Ryo termina con HP:81/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:557/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:190/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:81/238 MP:107/107
+D-Nergal HP:340/644 MP:288/288
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Lorelei
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Itsuki HP:557/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Itsuki HP:557/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:503/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:503/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:190/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:81/238 MP:107/107
+D-Nergal HP:340/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lorelei
+3-Mou-Ryo
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:503/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:503/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:503/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:474/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:474/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:190/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:81/238 MP:107/107
+D-Nergal HP:340/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Mou-Ryo
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Itsuki HP:474/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lorelei ataca a Itsuki
+Itsuki recibe 30 de daño
+Itsuki termina con HP:444/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:444/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:190/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:81/238 MP:107/107
+D-Nergal HP:340/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Nergal
+3-Nahobino
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Itsuki HP:444/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Itsuki HP:444/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mou-Ryo ataca a Itsuki
+Itsuki recibe 18 de daño
+Itsuki termina con HP:426/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:426/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:190/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:81/238 MP:107/107
+D-Nergal HP:340/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:190/453 MP:389/389
+2-Lorelei HP:112/291 MP:283/283
+3-Mou-Ryo HP:81/238 MP:107/107
+4-Nergal HP:340/644 MP:288/288
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Nahobino
+Nahobino recibe 61 de daño
+Nahobino termina con HP:129/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:426/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:129/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:81/238 MP:107/107
+D-Nergal HP:340/644 MP:288/288
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Lorelei
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Itsuki HP:426/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Itsuki HP:426/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Itsuki HP:426/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:372/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:372/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:129/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:81/238 MP:107/107
+D-Nergal HP:340/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lorelei
+3-Mou-Ryo
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:372/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:343/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:343/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:129/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:81/238 MP:107/107
+D-Nergal HP:340/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Mou-Ryo
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Itsuki HP:343/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Itsuki HP:343/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lorelei ataca a Itsuki
+Itsuki recibe 30 de daño
+Itsuki termina con HP:313/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:313/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:129/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:81/238 MP:107/107
+D-Nergal HP:340/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Nergal
+3-Nahobino
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Itsuki HP:313/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mou-Ryo ataca a Itsuki
+Itsuki recibe 18 de daño
+Itsuki termina con HP:295/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:295/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:129/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:81/238 MP:107/107
+D-Nergal HP:340/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:129/453 MP:389/389
+2-Lorelei HP:112/291 MP:283/283
+3-Mou-Ryo HP:81/238 MP:107/107
+4-Nergal HP:340/644 MP:288/288
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Nergal
+Nergal recibe 61 de daño
+Nergal termina con HP:279/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:295/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:129/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:81/238 MP:107/107
+D-Nergal HP:279/644 MP:288/288
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Lorelei
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Itsuki HP:295/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Itsuki HP:295/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Itsuki HP:295/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:241/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:241/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:129/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:81/238 MP:107/107
+D-Nergal HP:279/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lorelei
+3-Mou-Ryo
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:241/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:212/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:212/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:129/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:81/238 MP:107/107
+D-Nergal HP:279/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Mou-Ryo
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Itsuki HP:212/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lorelei ataca a Itsuki
+Itsuki recibe 30 de daño
+Itsuki termina con HP:182/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:182/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:129/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:81/238 MP:107/107
+D-Nergal HP:279/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Nergal
+3-Nahobino
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Itsuki HP:182/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mou-Ryo ataca a Itsuki
+Itsuki recibe 18 de daño
+Itsuki termina con HP:164/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:164/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:129/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:81/238 MP:107/107
+D-Nergal HP:279/644 MP:288/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:129/453 MP:389/389
+2-Lorelei HP:112/291 MP:283/283
+3-Mou-Ryo HP:81/238 MP:107/107
+4-Nergal HP:279/644 MP:288/288
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Nahobino
+Nahobino recibe 45 de daño
+Nahobino termina con HP:84/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:164/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:84/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:81/238 MP:107/107
+D-Nergal HP:279/644 MP:288/288
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Lorelei
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Itsuki HP:164/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:110/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:110/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:84/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:81/238 MP:107/107
+D-Nergal HP:279/644 MP:288/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lorelei
+3-Mou-Ryo
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:110/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:110/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:27/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:27/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:84/453 MP:389/389
+B-Lorelei HP:112/291 MP:283/283
+C-Mou-Ryo HP:81/238 MP:107/107
+D-Nergal HP:279/644 MP:288/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Mou-Ryo
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Itsuki HP:27/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Itsuki HP:27/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lorelei ataca a Itsuki
+Itsuki recibe 30 de daño
+Itsuki termina con HP:0/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Nahobino (J2)

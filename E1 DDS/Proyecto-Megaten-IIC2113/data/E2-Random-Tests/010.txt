@@ -1,0 +1,2380 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+INPUT: 9
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Chagrin HP:67/67 MP:72/72
+C-Ometeotl HP:324/324 MP:315/315
+D-Anzu HP:596/596 MP:118/118
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Ometeotl HP:324/324 MP:315/315
+C-Gu Huo Niao HP:122/122 MP:117/117
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Anzu
+3-Ometeotl
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Nanashi HP:140/140 MP:411/411
+2-Ometeotl HP:324/324 MP:315/315
+3-Gu Huo Niao HP:122/122 MP:117/117
+4-Bai Suzhen HP:155/155 MP:149/149
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Nanashi
+Nanashi recibe 57 de daño
+Nanashi termina con HP:83/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Chagrin HP:67/67 MP:72/72
+C-Ometeotl HP:324/324 MP:315/315
+D-Anzu HP:596/596 MP:118/118
+Equipo de Nanashi (J2)
+A-Nanashi HP:83/140 MP:411/411
+B-Ometeotl HP:324/324 MP:315/315
+C-Gu Huo Niao HP:122/122 MP:117/117
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Ometeotl
+3-Chagrin
+4-Makoto
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Nanashi HP:83/140 MP:411/411
+2-Ometeotl HP:324/324 MP:315/315
+3-Gu Huo Niao HP:122/122 MP:117/117
+4-Bai Suzhen HP:155/155 MP:149/149
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Anzu ataca a Gu Huo Niao
+Gu Huo Niao recibe 44 de daño
+Gu Huo Niao termina con HP:78/122
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Chagrin HP:67/67 MP:72/72
+C-Ometeotl HP:324/324 MP:315/315
+D-Anzu HP:596/596 MP:118/118
+Equipo de Nanashi (J2)
+A-Nanashi HP:83/140 MP:411/411
+B-Ometeotl HP:324/324 MP:315/315
+C-Gu Huo Niao HP:78/122 MP:117/117
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Chagrin
+3-Makoto
+4-Anzu
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Nanashi HP:83/140 MP:411/411
+2-Ometeotl HP:324/324 MP:315/315
+3-Gu Huo Niao HP:78/122 MP:117/117
+4-Bai Suzhen HP:155/155 MP:149/149
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ometeotl lanza fuego a Ometeotl
+Ometeotl es resistente el ataque de Ometeotl
+Ometeotl recibe 65 de daño
+Ometeotl termina con HP:259/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Chagrin HP:67/67 MP:72/72
+C-Ometeotl HP:324/324 MP:301/315
+D-Anzu HP:596/596 MP:118/118
+Equipo de Nanashi (J2)
+A-Nanashi HP:83/140 MP:411/411
+B-Ometeotl HP:259/324 MP:315/315
+C-Gu Huo Niao HP:78/122 MP:117/117
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chagrin
+2-Makoto
+3-Anzu
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Chagrin HP:67/67 MP:72/72
+C-Ometeotl HP:324/324 MP:301/315
+D-Anzu HP:596/596 MP:118/118
+Equipo de Nanashi (J2)
+A-Nanashi HP:83/140 MP:411/411
+B-Ometeotl HP:259/324 MP:315/315
+C-Gu Huo Niao HP:78/122 MP:117/117
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Anzu
+3-Ometeotl
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nue HP:341/341 MP:67/67
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nue HP:341/341 MP:67/67
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Zandyne MP:14
+2-Tathlum Shot MP:7
+3-Bufu MP:5
+4-Recarm MP:20
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Nanashi HP:83/140 MP:411/411
+2-Ometeotl HP:259/324 MP:315/315
+3-Gu Huo Niao HP:78/122 MP:117/117
+4-Bai Suzhen HP:155/155 MP:149/149
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto lanza hielo a Nanashi
+Nanashi es resistente el ataque de Makoto
+Nanashi recibe 35 de daño
+Nanashi termina con HP:48/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:342/347
+B-Chagrin HP:67/67 MP:72/72
+C-Ometeotl HP:324/324 MP:301/315
+D-Anzu HP:596/596 MP:118/118
+Equipo de Nanashi (J2)
+A-Nanashi HP:48/140 MP:411/411
+B-Ometeotl HP:259/324 MP:315/315
+C-Gu Huo Niao HP:78/122 MP:117/117
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Nanashi
+3-Bai Suzhen
+4-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Makoto HP:597/597 MP:342/347
+2-Chagrin HP:67/67 MP:72/72
+3-Ometeotl HP:324/324 MP:301/315
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ometeotl ataca a Chagrin
+Chagrin recibe 34 de daño
+Chagrin termina con HP:33/67
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:342/347
+B-Chagrin HP:33/67 MP:72/72
+C-Ometeotl HP:324/324 MP:301/315
+D-Anzu HP:596/596 MP:118/118
+Equipo de Nanashi (J2)
+A-Nanashi HP:48/140 MP:411/411
+B-Ometeotl HP:259/324 MP:315/315
+C-Gu Huo Niao HP:78/122 MP:117/117
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Bai Suzhen
+3-Gu Huo Niao
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:342/347
+B-Chagrin HP:33/67 MP:72/72
+C-Ometeotl HP:324/324 MP:301/315
+D-Anzu HP:596/596 MP:118/118
+Equipo de Nanashi (J2)
+A-Nanashi HP:48/140 MP:411/411
+B-Ometeotl HP:259/324 MP:315/315
+C-Gu Huo Niao HP:78/122 MP:117/117
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Gu Huo Niao
+3-Ometeotl
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:342/347
+B-Chagrin HP:33/67 MP:72/72
+C-Ometeotl HP:324/324 MP:301/315
+D-Anzu HP:596/596 MP:118/118
+Equipo de Nanashi (J2)
+A-Nanashi HP:48/140 MP:411/411
+B-Ometeotl HP:259/324 MP:315/315
+C-Gu Huo Niao HP:78/122 MP:117/117
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Ometeotl
+3-Nanashi
+4-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gu Huo Niao
+1-Makoto HP:597/597 MP:342/347
+2-Chagrin HP:33/67 MP:72/72
+3-Ometeotl HP:324/324 MP:301/315
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Gu Huo Niao ataca a Anzu
+Anzu recibe 12 de daño
+Anzu termina con HP:584/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:342/347
+B-Chagrin HP:33/67 MP:72/72
+C-Ometeotl HP:324/324 MP:301/315
+D-Anzu HP:584/596 MP:118/118
+Equipo de Nanashi (J2)
+A-Nanashi HP:48/140 MP:411/411
+B-Ometeotl HP:259/324 MP:315/315
+C-Gu Huo Niao HP:78/122 MP:117/117
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Nanashi
+3-Bai Suzhen
+4-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Makoto HP:597/597 MP:342/347
+2-Chagrin HP:33/67 MP:72/72
+3-Ometeotl HP:324/324 MP:301/315
+4-Anzu HP:584/596 MP:118/118
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:342/347
+B-Chagrin HP:33/67 MP:72/72
+C-Ometeotl HP:324/324 MP:301/315
+D-Anzu HP:584/596 MP:118/118
+Equipo de Nanashi (J2)
+A-Nanashi HP:48/140 MP:411/411
+B-Ometeotl HP:259/324 MP:315/315
+C-Gu Huo Niao HP:78/122 MP:117/117
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Bai Suzhen
+3-Gu Huo Niao
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Samarecarm MP:40
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Makoto HP:597/597 MP:342/347
+2-Chagrin HP:33/67 MP:72/72
+3-Ometeotl HP:324/324 MP:301/315
+4-Anzu HP:584/596 MP:118/118
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi dispara a Ometeotl
+Ometeotl recibe 31 de daño
+Ometeotl termina con HP:293/324
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:342/347
+B-Chagrin HP:33/67 MP:72/72
+C-Ometeotl HP:293/324 MP:301/315
+D-Anzu HP:584/596 MP:118/118
+Equipo de Nanashi (J2)
+A-Nanashi HP:48/140 MP:411/411
+B-Ometeotl HP:259/324 MP:315/315
+C-Gu Huo Niao HP:78/122 MP:117/117
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Anzu
+3-Ometeotl
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Nanashi HP:48/140 MP:411/411
+2-Ometeotl HP:259/324 MP:315/315
+3-Gu Huo Niao HP:78/122 MP:117/117
+4-Bai Suzhen HP:155/155 MP:149/149
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto ataca a Gu Huo Niao
+Gu Huo Niao recibe 38 de daño
+Gu Huo Niao termina con HP:40/122
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:342/347
+B-Chagrin HP:33/67 MP:72/72
+C-Ometeotl HP:293/324 MP:301/315
+D-Anzu HP:584/596 MP:118/118
+Equipo de Nanashi (J2)
+A-Nanashi HP:48/140 MP:411/411
+B-Ometeotl HP:259/324 MP:315/315
+C-Gu Huo Niao HP:40/122 MP:117/117
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Ometeotl
+3-Chagrin
+4-Makoto
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nue HP:341/341 MP:67/67
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nue HP:341/341 MP:67/67
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:342/347
+B-Chagrin HP:33/67 MP:72/72
+C-Ometeotl HP:293/324 MP:301/315
+D-Anzu HP:584/596 MP:118/118
+Equipo de Nanashi (J2)
+A-Nanashi HP:48/140 MP:411/411
+B-Ometeotl HP:259/324 MP:315/315
+C-Gu Huo Niao HP:40/122 MP:117/117
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Chagrin
+3-Makoto
+4-Anzu
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nue HP:341/341 MP:67/67
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nue ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:342/347
+B-Chagrin HP:33/67 MP:72/72
+C-Nue HP:341/341 MP:67/67
+D-Anzu HP:584/596 MP:118/118
+Equipo de Nanashi (J2)
+A-Nanashi HP:48/140 MP:411/411
+B-Ometeotl HP:259/324 MP:315/315
+C-Gu Huo Niao HP:40/122 MP:117/117
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chagrin
+2-Makoto
+3-Anzu
+4-Nue
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ometeotl HP:293/324 MP:301/315
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ometeotl ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:342/347
+B-Ometeotl HP:293/324 MP:301/315
+C-Nue HP:341/341 MP:67/67
+D-Anzu HP:584/596 MP:118/118
+Equipo de Nanashi (J2)
+A-Nanashi HP:48/140 MP:411/411
+B-Ometeotl HP:259/324 MP:315/315
+C-Gu Huo Niao HP:40/122 MP:117/117
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Anzu
+3-Nue
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Nanashi HP:48/140 MP:411/411
+2-Ometeotl HP:259/324 MP:315/315
+3-Gu Huo Niao HP:40/122 MP:117/117
+4-Bai Suzhen HP:155/155 MP:149/149
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Nanashi
+Nanashi recibe 57 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:342/347
+B-Ometeotl HP:293/324 MP:301/315
+C-Nue HP:341/341 MP:67/67
+D-Anzu HP:584/596 MP:118/118
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:259/324 MP:315/315
+C-Gu Huo Niao HP:40/122 MP:117/117
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Nue
+3-Ometeotl
+4-Makoto
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:33/67 MP:72/72
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Chagrin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:342/347
+B-Ometeotl HP:293/324 MP:301/315
+C-Nue HP:341/341 MP:67/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:259/324 MP:315/315
+C-Gu Huo Niao HP:40/122 MP:117/117
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nue
+2-Ometeotl
+3-Makoto
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nue use
+1-Scratch Dance MP:9
+2-Zionga MP:8
+3-Shock MP:21
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nue
+1-Ometeotl HP:259/324 MP:315/315
+2-Gu Huo Niao HP:40/122 MP:117/117
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nue lanza electricidad a Gu Huo Niao
+Gu Huo Niao recibe 62 de daño
+Gu Huo Niao termina con HP:0/122
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:342/347
+B-Ometeotl HP:293/324 MP:301/315
+C-Nue HP:341/341 MP:59/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:259/324 MP:315/315
+C-
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Makoto HP:597/597 MP:342/347
+2-Ometeotl HP:293/324 MP:301/315
+3-Nue HP:341/341 MP:59/67
+4-Chagrin HP:33/67 MP:72/72
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ometeotl lanza fuego a Ometeotl
+Ometeotl es resistente el ataque de Ometeotl
+Ometeotl recibe 65 de daño
+Ometeotl termina con HP:228/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:342/347
+B-Ometeotl HP:228/324 MP:301/315
+C-Nue HP:341/341 MP:59/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:259/324 MP:301/315
+C-
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Ometeotl
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:342/347
+B-Ometeotl HP:228/324 MP:301/315
+C-Nue HP:341/341 MP:59/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:259/324 MP:301/315
+C-
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Makoto HP:597/597 MP:342/347
+2-Ometeotl HP:228/324 MP:301/315
+3-Nue HP:341/341 MP:59/67
+4-Chagrin HP:33/67 MP:72/72
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ometeotl ataca a Makoto
+Makoto es resistente el ataque de Ometeotl
+Makoto recibe 17 de daño
+Makoto termina con HP:580/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:342/347
+B-Ometeotl HP:228/324 MP:301/315
+C-Nue HP:341/341 MP:59/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:259/324 MP:301/315
+C-
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Ometeotl
+3-Nue
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Zandyne MP:14
+2-Tathlum Shot MP:7
+3-Bufu MP:5
+4-Recarm MP:20
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Ometeotl HP:259/324 MP:301/315
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto lanza viento a Ometeotl
+Ometeotl recibe 115 de daño
+Ometeotl termina con HP:144/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:228/324 MP:301/315
+C-Nue HP:341/341 MP:59/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:144/324 MP:301/315
+C-
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Nue
+3-Chagrin
+4-Makoto
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Ometeotl HP:144/324 MP:301/315
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:228/324 MP:301/315
+C-Nue HP:341/341 MP:59/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:144/324 MP:301/315
+C-
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nue
+2-Chagrin
+3-Makoto
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nue
+1-Ometeotl HP:144/324 MP:301/315
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nue use
+1-Scratch Dance MP:9
+2-Zionga MP:8
+3-Shock MP:21
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nue
+1-Ometeotl HP:144/324 MP:301/315
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nue
+1-Ometeotl HP:144/324 MP:301/315
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nue ataca a Ometeotl
+Ometeotl recibe 24 de daño
+Ometeotl termina con HP:120/324
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:228/324 MP:301/315
+C-Nue HP:341/341 MP:59/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:120/324 MP:301/315
+C-
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chagrin
+2-Makoto
+3-Ometeotl
+4-Nue
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chagrin
+1-Ometeotl HP:120/324 MP:301/315
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Chagrin ataca a Ometeotl
+Ometeotl recibe 5 de daño
+Ometeotl termina con HP:115/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:228/324 MP:301/315
+C-Nue HP:341/341 MP:59/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:115/324 MP:301/315
+C-
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Ometeotl
+3-Nue
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Ometeotl HP:115/324 MP:301/315
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Ometeotl
+Ometeotl recibe 57 de daño
+Ometeotl termina con HP:58/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:228/324 MP:301/315
+C-Nue HP:341/341 MP:59/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:58/324 MP:301/315
+C-
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Makoto HP:580/597 MP:328/347
+2-Ometeotl HP:228/324 MP:301/315
+3-Nue HP:341/341 MP:59/67
+4-Chagrin HP:33/67 MP:72/72
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ometeotl ataca a Ometeotl
+Ometeotl recibe 34 de daño
+Ometeotl termina con HP:194/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:194/324 MP:301/315
+C-Nue HP:341/341 MP:59/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:58/324 MP:301/315
+C-
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Ometeotl
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:194/324 MP:301/315
+C-Nue HP:341/341 MP:59/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:58/324 MP:301/315
+C-
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Makoto HP:580/597 MP:328/347
+2-Ometeotl HP:194/324 MP:301/315
+3-Nue HP:341/341 MP:59/67
+4-Chagrin HP:33/67 MP:72/72
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ometeotl lanza hielo a Ometeotl
+Ometeotl es resistente el ataque de Ometeotl
+Ometeotl recibe 65 de daño
+Ometeotl termina con HP:129/324
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:129/324 MP:301/315
+C-Nue HP:341/341 MP:59/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:58/324 MP:287/315
+C-
+D-Bai Suzhen HP:155/155 MP:149/149
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Ometeotl
+3-Nue
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Ometeotl HP:58/324 MP:287/315
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto dispara a Bai Suzhen
+Bai Suzhen recibe 57 de daño
+Bai Suzhen termina con HP:98/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:129/324 MP:301/315
+C-Nue HP:341/341 MP:59/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:58/324 MP:287/315
+C-
+D-Bai Suzhen HP:98/155 MP:149/149
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Nue
+3-Chagrin
+4-Makoto
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Ometeotl HP:58/324 MP:287/315
+2-Bai Suzhen HP:98/155 MP:149/149
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ometeotl ataca a Ometeotl
+Ometeotl recibe 34 de daño
+Ometeotl termina con HP:24/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:129/324 MP:301/315
+C-Nue HP:341/341 MP:59/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:24/324 MP:287/315
+C-
+D-Bai Suzhen HP:98/155 MP:149/149
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nue
+2-Chagrin
+3-Makoto
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nue use
+1-Scratch Dance MP:9
+2-Zionga MP:8
+3-Shock MP:21
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nue
+1-Ometeotl HP:24/324 MP:287/315
+2-Bai Suzhen HP:98/155 MP:149/149
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nue lanza electricidad a Bai Suzhen
+Bai Suzhen recibe 62 de daño
+Bai Suzhen termina con HP:36/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:129/324 MP:301/315
+C-Nue HP:341/341 MP:51/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:24/324 MP:287/315
+C-
+D-Bai Suzhen HP:36/155 MP:149/149
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chagrin
+2-Makoto
+3-Ometeotl
+4-Nue
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:129/324 MP:301/315
+C-Nue HP:341/341 MP:51/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:24/324 MP:287/315
+C-
+D-Bai Suzhen HP:36/155 MP:149/149
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Ometeotl
+3-Nue
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Zandyne MP:14
+2-Tathlum Shot MP:7
+3-Bufu MP:5
+4-Recarm MP:20
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anzu HP:584/596 MP:118/118
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:129/324 MP:301/315
+C-Nue HP:341/341 MP:51/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:24/324 MP:287/315
+C-
+D-Bai Suzhen HP:36/155 MP:149/149
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Makoto HP:580/597 MP:328/347
+2-Ometeotl HP:129/324 MP:301/315
+3-Nue HP:341/341 MP:51/67
+4-Chagrin HP:33/67 MP:72/72
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ometeotl ataca a Nue
+Nue recibe 34 de daño
+Nue termina con HP:307/341
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:129/324 MP:301/315
+C-Nue HP:307/341 MP:51/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:24/324 MP:287/315
+C-
+D-Bai Suzhen HP:36/155 MP:149/149
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Ometeotl
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:129/324 MP:301/315
+C-Nue HP:307/341 MP:51/67
+D-Chagrin HP:33/67 MP:72/72
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:24/324 MP:287/315
+C-
+D-Bai Suzhen HP:36/155 MP:149/149
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Makoto HP:580/597 MP:328/347
+2-Ometeotl HP:129/324 MP:301/315
+3-Nue HP:307/341 MP:51/67
+4-Chagrin HP:33/67 MP:72/72
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ometeotl ataca a Chagrin
+Chagrin recibe 34 de daño
+Chagrin termina con HP:0/67
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:129/324 MP:301/315
+C-Nue HP:307/341 MP:51/67
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:24/324 MP:287/315
+C-
+D-Bai Suzhen HP:36/155 MP:149/149
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Ometeotl
+3-Nue
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anzu HP:584/596 MP:118/118
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Ometeotl HP:129/324 MP:301/315 (Puesto 2)
+2-Nue HP:307/341 MP:51/67 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Anzu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Anzu HP:584/596 MP:118/118
+C-Nue HP:307/341 MP:51/67
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:24/324 MP:287/315
+C-
+D-Bai Suzhen HP:36/155 MP:149/149
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anzu
+2-Nue
+3-Makoto
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Ometeotl HP:24/324 MP:287/315
+2-Bai Suzhen HP:36/155 MP:149/149
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ometeotl HP:129/324 MP:301/315
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ometeotl ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:129/324 MP:301/315
+C-Nue HP:307/341 MP:51/67
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:24/324 MP:287/315
+C-
+D-Bai Suzhen HP:36/155 MP:149/149
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nue
+2-Makoto
+3-Ometeotl
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nue
+1-Ometeotl HP:24/324 MP:287/315
+2-Bai Suzhen HP:36/155 MP:149/149
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:129/324 MP:301/315
+C-Nue HP:307/341 MP:51/67
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:24/324 MP:287/315
+C-
+D-Bai Suzhen HP:36/155 MP:149/149
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Ometeotl
+3-Nue
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Ometeotl HP:24/324 MP:287/315
+2-Bai Suzhen HP:36/155 MP:149/149
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto ataca a Bai Suzhen
+Bai Suzhen recibe 38 de daño
+Bai Suzhen termina con HP:0/155
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Ometeotl HP:129/324 MP:301/315
+C-Nue HP:307/341 MP:51/67
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:24/324 MP:287/315
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Nue
+3-Makoto
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anzu HP:584/596 MP:118/118
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anzu HP:584/596 MP:118/118
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Anzu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Anzu HP:584/596 MP:118/118
+C-Nue HP:307/341 MP:51/67
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:24/324 MP:287/315
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nue
+2-Makoto
+3-Anzu
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Anzu HP:584/596 MP:118/118
+C-Nue HP:307/341 MP:51/67
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:24/324 MP:287/315
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Anzu HP:584/596 MP:118/118
+C-Nue HP:307/341 MP:51/67
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:24/324 MP:287/315
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Makoto HP:580/597 MP:328/347
+2-Anzu HP:584/596 MP:118/118
+3-Nue HP:307/341 MP:51/67
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:580/597 MP:328/347
+B-Anzu HP:584/596 MP:118/118
+C-Nue HP:307/341 MP:51/67
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Ometeotl HP:24/324 MP:287/315
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Anzu
+3-Nue
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Zandyne MP:14
+2-Tathlum Shot MP:7
+3-Bufu MP:5
+4-Recarm MP:20
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Ometeotl HP:24/324 MP:287/315
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto lanza hielo a Ometeotl
+Ometeotl es resistente el ataque de Makoto
+Ometeotl recibe 35 de daño
+Ometeotl termina con HP:0/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Makoto (J1)

@@ -1,0 +1,411 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 32
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Lailah HP:212/212 MP:205/205
+C-Gabriel HP:455/455 MP:442/442
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Ziodyne MP:14
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nahobino HP:453/453 MP:389/389
+2-Lailah HP:212/212 MP:205/205
+3-Gabriel HP:455/455 MP:442/442
+4-Scathach HP:343/343 MP:153/153
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Yu lanza electricidad a Scathach
+Scathach es débil contra el ataque de Yu
+Scathach recibe 194 de daño
+Scathach termina con HP:149/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Lailah HP:212/212 MP:205/205
+C-Gabriel HP:455/455 MP:442/442
+D-Scathach HP:149/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Hamsa
+3-Yu
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bai Suzhen use
+1-Zionga MP:8
+2-Binding Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Nahobino HP:453/453 MP:389/389
+2-Lailah HP:212/212 MP:205/205
+3-Gabriel HP:455/455 MP:442/442
+4-Scathach HP:149/343 MP:153/153
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Bai Suzhen lanza electricidad a Nahobino
+Nahobino es débil contra el ataque de Bai Suzhen
+Nahobino recibe 106 de daño
+Nahobino termina con HP:347/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:347/453 MP:389/389
+B-Lailah HP:212/212 MP:205/205
+C-Gabriel HP:455/455 MP:442/442
+D-Scathach HP:149/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Hamsa
+2-Yu
+3-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hamsa use
+1-Zio MP:5
+2-Dia MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hamsa
+1-Nahobino HP:347/453 MP:389/389
+2-Lailah HP:212/212 MP:205/205
+3-Gabriel HP:455/455 MP:442/442
+4-Scathach HP:149/343 MP:153/153
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hamsa lanza electricidad a Lailah
+Lailah es débil contra el ataque de Hamsa
+Lailah recibe 40 de daño
+Lailah termina con HP:172/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:347/453 MP:389/389
+B-Lailah HP:172/212 MP:205/205
+C-Gabriel HP:455/455 MP:442/442
+D-Scathach HP:149/343 MP:153/153
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Ziodyne MP:14
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nahobino HP:347/453 MP:389/389
+2-Lailah HP:172/212 MP:205/205
+3-Gabriel HP:455/455 MP:442/442
+4-Scathach HP:149/343 MP:153/153
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yu lanza electricidad a Gabriel
+Gabriel es débil contra el ataque de Yu
+Gabriel recibe 194 de daño
+Gabriel termina con HP:261/455
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:347/453 MP:389/389
+B-Lailah HP:172/212 MP:205/205
+C-Gabriel HP:261/455 MP:442/442
+D-Scathach HP:149/343 MP:153/153
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Hamsa
+3-Yu
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bai Suzhen use
+1-Zionga MP:8
+2-Binding Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Nahobino HP:347/453 MP:389/389
+2-Lailah HP:172/212 MP:205/205
+3-Gabriel HP:261/455 MP:442/442
+4-Scathach HP:149/343 MP:153/153
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Bai Suzhen lanza electricidad a Nahobino
+Nahobino es débil contra el ataque de Bai Suzhen
+Nahobino recibe 106 de daño
+Nahobino termina con HP:241/453
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:241/453 MP:389/389
+B-Lailah HP:172/212 MP:205/205
+C-Gabriel HP:261/455 MP:442/442
+D-Scathach HP:149/343 MP:153/153
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hamsa
+2-Yu
+3-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hamsa use
+1-Zio MP:5
+2-Dia MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hamsa
+1-Nahobino HP:241/453 MP:389/389
+2-Lailah HP:172/212 MP:205/205
+3-Gabriel HP:261/455 MP:442/442
+4-Scathach HP:149/343 MP:153/153
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Hamsa lanza electricidad a Nahobino
+Nahobino es débil contra el ataque de Hamsa
+Nahobino recibe 40 de daño
+Nahobino termina con HP:201/453
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:30/40
+C-Bai Suzhen HP:155/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:201/453 MP:389/389
+B-Lailah HP:172/212 MP:205/205
+C-Gabriel HP:261/455 MP:442/442
+D-Scathach HP:149/343 MP:153/153
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Nahobino
+3-Scathach
+4-Lailah
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:319/347
+B-Hamsa HP:91/91 MP:30/40
+C-Bai Suzhen HP:155/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:201/453 MP:389/389
+B-Lailah HP:172/212 MP:205/205
+C-Gabriel HP:261/455 MP:442/442
+D-Scathach HP:149/343 MP:153/153
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Scathach
+3-Lailah
+4-Gabriel
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Nahobino (J2) se rinde
+----------------------------------------
+Ganador: Yu (J1)

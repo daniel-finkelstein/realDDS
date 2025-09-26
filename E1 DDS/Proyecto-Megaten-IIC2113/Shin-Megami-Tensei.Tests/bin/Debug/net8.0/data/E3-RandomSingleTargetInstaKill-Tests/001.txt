@@ -1,0 +1,1782 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 0
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Nidhoggr HP:681/681 MP:135/135
+C-Hel HP:254/254 MP:246/246
+D-Virtue HP:240/240 MP:232/232
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Raphael HP:623/623 MP:279/279
+C-Bai Suzhen HP:155/155 MP:149/149
+D-Gurulu HP:371/371 MP:166/166
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nidhoggr
+3-Hel
+4-Virtue
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hachiman HP:851/851 MP:170/170
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Nidhoggr HP:681/681 MP:135/135 (Puesto 2)
+2-Hel HP:254/254 MP:246/246 (Puesto 3)
+3-Virtue HP:240/240 MP:232/232 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hachiman ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Nidhoggr HP:681/681 MP:135/135
+C-Hel HP:254/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Raphael HP:623/623 MP:279/279
+C-Bai Suzhen HP:155/155 MP:149/149
+D-Gurulu HP:371/371 MP:166/166
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Hel
+3-Hachiman
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Kei HP:760/760 MP:398/398
+2-Raphael HP:623/623 MP:279/279
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Gurulu HP:371/371 MP:166/166
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ataca a Kei
+Kei es resistente el ataque de Nidhoggr
+Kei recibe 26 de daño
+Kei termina con HP:734/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Nidhoggr HP:681/681 MP:135/135
+C-Hel HP:254/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:734/760 MP:398/398
+B-Raphael HP:623/623 MP:279/279
+C-Bai Suzhen HP:155/155 MP:149/149
+D-Gurulu HP:371/371 MP:166/166
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Hachiman
+3-Shujinko
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Nidhoggr HP:681/681 MP:135/135
+C-Hel HP:254/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:734/760 MP:398/398
+B-Raphael HP:623/623 MP:279/279
+C-Bai Suzhen HP:155/155 MP:149/149
+D-Gurulu HP:371/371 MP:166/166
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Shujinko
+3-Nidhoggr
+4-Hel
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Virtue HP:240/240 MP:232/232
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Nidhoggr HP:681/681 MP:135/135
+C-Hel HP:254/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:734/760 MP:398/398
+B-Raphael HP:623/623 MP:279/279
+C-Bai Suzhen HP:155/155 MP:149/149
+D-Gurulu HP:371/371 MP:166/166
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nidhoggr
+3-Hel
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Nidhoggr HP:681/681 MP:135/135
+C-Hel HP:254/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:734/760 MP:398/398
+B-Raphael HP:623/623 MP:279/279
+C-Bai Suzhen HP:155/155 MP:149/149
+D-Gurulu HP:371/371 MP:166/166
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Hel
+3-Hachiman
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Kei HP:734/760 MP:398/398
+2-Raphael HP:623/623 MP:279/279
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Gurulu HP:371/371 MP:166/166
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nidhoggr ataca a Gurulu
+Gurulu recibe 52 de daño
+Gurulu termina con HP:319/371
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Nidhoggr HP:681/681 MP:135/135
+C-Hel HP:254/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:734/760 MP:398/398
+B-Raphael HP:623/623 MP:279/279
+C-Bai Suzhen HP:155/155 MP:149/149
+D-Gurulu HP:319/371 MP:166/166
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Hachiman
+3-Shujinko
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Kei HP:734/760 MP:398/398
+2-Raphael HP:623/623 MP:279/279
+3-Bai Suzhen HP:155/155 MP:149/149
+4-Gurulu HP:319/371 MP:166/166
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Hel ataca a Gurulu
+Gurulu recibe 26 de daño
+Gurulu termina con HP:293/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Nidhoggr HP:681/681 MP:135/135
+C-Hel HP:254/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:734/760 MP:398/398
+B-Raphael HP:623/623 MP:279/279
+C-Bai Suzhen HP:155/155 MP:149/149
+D-Gurulu HP:293/371 MP:166/166
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Gurulu
+3-Bai Suzhen
+4-Kei
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Nidhoggr HP:681/681 MP:135/135
+C-Hel HP:254/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:734/760 MP:398/398
+B-Raphael HP:623/623 MP:279/279
+C-Bai Suzhen HP:155/155 MP:149/149
+D-Gurulu HP:293/371 MP:166/166
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gurulu
+2-Bai Suzhen
+3-Kei
+4-Raphael
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Shujinko HP:1317/1317 MP:625/625
+2-Nidhoggr HP:681/681 MP:135/135
+3-Hel HP:254/254 MP:246/246
+4-Hachiman HP:851/851 MP:170/170
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Gurulu ataca a Hel
+Hel recibe 30 de daño
+Hel termina con HP:224/254
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Nidhoggr HP:681/681 MP:135/135
+C-Hel HP:224/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:734/760 MP:398/398
+B-Raphael HP:623/623 MP:279/279
+C-Bai Suzhen HP:155/155 MP:149/149
+D-Gurulu HP:293/371 MP:166/166
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Kei
+3-Raphael
+4-Gurulu
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Jueyuan HP:154/154 MP:68/68
+2-Python HP:637/637 MP:286/286
+3-Arachne HP:350/350 MP:157/157
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Vetala ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Nidhoggr HP:681/681 MP:135/135
+C-Hel HP:224/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:734/760 MP:398/398
+B-Raphael HP:623/623 MP:279/279
+C-Vetala HP:794/794 MP:157/157
+D-Gurulu HP:293/371 MP:166/166
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Raphael
+3-Gurulu
+4-Vetala
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Bai Suzhen HP:155/155 MP:149/149
+2-Jueyuan HP:154/154 MP:68/68
+3-Python HP:637/637 MP:286/286
+4-Arachne HP:350/350 MP:157/157
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Raphael HP:623/623 MP:279/279 (Puesto 2)
+2-Vetala HP:794/794 MP:157/157 (Puesto 3)
+3-Gurulu HP:293/371 MP:166/166 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Jueyuan ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Nidhoggr HP:681/681 MP:135/135
+C-Hel HP:224/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:734/760 MP:398/398
+B-Raphael HP:623/623 MP:279/279
+C-Vetala HP:794/794 MP:157/157
+D-Jueyuan HP:154/154 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Jueyuan
+3-Vetala
+4-Kei
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Bai Suzhen HP:155/155 MP:149/149
+2-Gurulu HP:293/371 MP:166/166
+3-Python HP:637/637 MP:286/286
+4-Arachne HP:350/350 MP:157/157
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Arachne ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Nidhoggr HP:681/681 MP:135/135
+C-Hel HP:224/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:734/760 MP:398/398
+B-Arachne HP:350/350 MP:157/157
+C-Vetala HP:794/794 MP:157/157
+D-Jueyuan HP:154/154 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Jueyuan
+2-Vetala
+3-Kei
+4-Arachne
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Raphael HP:623/623 MP:279/279
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Gurulu HP:293/371 MP:166/166
+4-Python HP:637/637 MP:286/286
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Python ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Nidhoggr HP:681/681 MP:135/135
+C-Hel HP:224/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:734/760 MP:398/398
+B-Arachne HP:350/350 MP:157/157
+C-Vetala HP:794/794 MP:157/157
+D-Python HP:637/637 MP:286/286
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Kei
+3-Arachne
+4-Python
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vetala use
+1-Nihil Claw MP:11
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Nidhoggr HP:681/681 MP:135/135
+C-Hel HP:224/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:734/760 MP:398/398
+B-Arachne HP:350/350 MP:157/157
+C-Vetala HP:794/794 MP:157/157
+D-Python HP:637/637 MP:286/286
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Arachne
+3-Python
+4-Vetala
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Mudoon MP:10
+2-Deadly Wind MP:22
+3-Agi MP:5
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Shujinko HP:1317/1317 MP:625/625
+2-Nidhoggr HP:681/681 MP:135/135
+3-Hel HP:224/254 MP:246/246
+4-Hachiman HP:851/851 MP:170/170
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei ataca con oscuridad a Hel
+Hel bloquea el ataque de Kei
+Hel termina con HP:224/254
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Nidhoggr HP:681/681 MP:135/135
+C-Hel HP:224/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:734/760 MP:388/398
+B-Arachne HP:350/350 MP:157/157
+C-Vetala HP:794/794 MP:157/157
+D-Python HP:637/637 MP:286/286
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Hachiman
+3-Nidhoggr
+4-Hel
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kei HP:734/760 MP:388/398
+2-Arachne HP:350/350 MP:157/157
+3-Vetala HP:794/794 MP:157/157
+4-Python HP:637/637 MP:286/286
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca con luz a Kei
+Kei es resistente el ataque de Shujinko
+Kei ha sido eliminado
+Kei termina con HP:0/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Nidhoggr HP:681/681 MP:135/135
+C-Hel HP:224/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-Arachne HP:350/350 MP:157/157
+C-Vetala HP:794/794 MP:157/157
+D-Python HP:637/637 MP:286/286
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Nidhoggr
+3-Hel
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Virtue HP:240/240 MP:232/232
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Nidhoggr HP:681/681 MP:135/135
+C-Hel HP:224/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-Arachne HP:350/350 MP:157/157
+C-Vetala HP:794/794 MP:157/157
+D-Python HP:637/637 MP:286/286
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Hel
+3-Shujinko
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Arachne HP:350/350 MP:157/157
+2-Vetala HP:794/794 MP:157/157
+3-Python HP:637/637 MP:286/286
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nidhoggr dispara a Vetala
+Vetala recibe 129 de daño
+Vetala termina con HP:665/794
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Nidhoggr HP:681/681 MP:124/135
+C-Hel HP:224/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-Arachne HP:350/350 MP:157/157
+C-Vetala HP:665/794 MP:157/157
+D-Python HP:637/637 MP:286/286
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Shujinko
+3-Hachiman
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Arachne HP:350/350 MP:157/157
+2-Vetala HP:665/794 MP:157/157
+3-Python HP:637/637 MP:286/286
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hel ataca a Python
+Python recibe 26 de daño
+Python termina con HP:611/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Nidhoggr HP:681/681 MP:124/135
+C-Hel HP:224/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-Arachne HP:350/350 MP:157/157
+C-Vetala HP:665/794 MP:157/157
+D-Python HP:611/637 MP:286/286
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Hachiman
+3-Nidhoggr
+4-Hel
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Nidhoggr HP:681/681 MP:124/135
+C-Hel HP:224/254 MP:246/246
+D-Hachiman HP:851/851 MP:170/170
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-Arachne HP:350/350 MP:157/157
+C-Vetala HP:665/794 MP:157/157
+D-Python HP:611/637 MP:286/286
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Nidhoggr
+3-Hel
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Arachne HP:350/350 MP:157/157
+2-Vetala HP:665/794 MP:157/157
+3-Python HP:611/637 MP:286/286
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Arachne
+Arachne recibe 163 de daño
+Arachne termina con HP:187/350
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Nidhoggr HP:681/681 MP:124/135
+C-Hel HP:224/254 MP:246/246
+D-Hachiman HP:851/851 MP:158/170
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-Arachne HP:187/350 MP:157/157
+C-Vetala HP:665/794 MP:157/157
+D-Python HP:611/637 MP:286/286
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Vetala
+3-Arachne
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Python
+1-Shujinko HP:1317/1317 MP:615/625
+2-Nidhoggr HP:681/681 MP:124/135
+3-Hel HP:224/254 MP:246/246
+4-Hachiman HP:851/851 MP:158/170
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Python lanza hielo a Nidhoggr
+Nidhoggr devuelve 135 daño a Python
+Python termina con HP:476/637
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Nidhoggr HP:681/681 MP:124/135
+C-Hel HP:224/254 MP:246/246
+D-Hachiman HP:851/851 MP:158/170
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-Arachne HP:187/350 MP:157/157
+C-Vetala HP:665/794 MP:157/157
+D-Python HP:476/637 MP:272/286
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Hachiman
+3-Nidhoggr
+4-Hel
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Arachne HP:187/350 MP:157/157
+2-Vetala HP:665/794 MP:157/157
+3-Python HP:476/637 MP:272/286
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca con luz a Arachne
+Arachne ha sido eliminado
+Arachne termina con HP:0/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:605/625
+B-Nidhoggr HP:681/681 MP:124/135
+C-Hel HP:224/254 MP:246/246
+D-Hachiman HP:851/851 MP:158/170
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-
+C-Vetala HP:665/794 MP:157/157
+D-Python HP:476/637 MP:272/286
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Nidhoggr
+3-Hel
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Vetala HP:665/794 MP:157/157
+2-Python HP:476/637 MP:272/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Vetala HP:665/794 MP:157/157
+2-Python HP:476/637 MP:272/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Virtue HP:240/240 MP:232/232
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Virtue HP:240/240 MP:232/232
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Virtue ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:605/625
+B-Nidhoggr HP:681/681 MP:124/135
+C-Hel HP:224/254 MP:246/246
+D-Virtue HP:240/240 MP:232/232
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-
+C-Vetala HP:665/794 MP:157/157
+D-Python HP:476/637 MP:272/286
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Hel
+3-Shujinko
+4-Virtue
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Vetala HP:665/794 MP:157/157
+2-Python HP:476/637 MP:272/286
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr dispara a Vetala
+Vetala recibe 129 de daño
+Vetala termina con HP:536/794
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:605/625
+B-Nidhoggr HP:681/681 MP:113/135
+C-Hel HP:224/254 MP:246/246
+D-Virtue HP:240/240 MP:232/232
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-
+C-Vetala HP:536/794 MP:157/157
+D-Python HP:476/637 MP:272/286
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Shujinko
+3-Virtue
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hachiman HP:851/851 MP:158/170
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Vetala HP:536/794 MP:157/157
+2-Python HP:476/637 MP:272/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:605/625
+B-Nidhoggr HP:681/681 MP:113/135
+C-Hel HP:224/254 MP:246/246
+D-Virtue HP:240/240 MP:232/232
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-
+C-Vetala HP:536/794 MP:157/157
+D-Python HP:476/637 MP:272/286
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Virtue
+3-Nidhoggr
+4-Hel
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Vetala HP:536/794 MP:157/157
+2-Python HP:476/637 MP:272/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hachiman HP:851/851 MP:158/170
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Vetala HP:536/794 MP:157/157
+2-Python HP:476/637 MP:272/286
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko ataca con luz a Python
+Python es débil contra el ataque de Shujinko
+Python ha sido eliminado
+Python termina con HP:0/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:595/625
+B-Nidhoggr HP:681/681 MP:113/135
+C-Hel HP:224/254 MP:246/246
+D-Virtue HP:240/240 MP:232/232
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-
+C-Vetala HP:536/794 MP:157/157
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Virtue
+2-Nidhoggr
+3-Hel
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Vetala HP:536/794 MP:157/157
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Virtue ataca a Vetala
+Vetala recibe 25 de daño
+Vetala termina con HP:511/794
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:595/625
+B-Nidhoggr HP:681/681 MP:113/135
+C-Hel HP:224/254 MP:246/246
+D-Virtue HP:240/240 MP:232/232
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-
+C-Vetala HP:511/794 MP:157/157
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Hel
+3-Shujinko
+4-Virtue
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Vetala HP:511/794 MP:157/157
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ataca a Vetala
+Vetala recibe 52 de daño
+Vetala termina con HP:459/794
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:595/625
+B-Nidhoggr HP:681/681 MP:113/135
+C-Hel HP:224/254 MP:246/246
+D-Virtue HP:240/240 MP:232/232
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-
+C-Vetala HP:459/794 MP:157/157
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:595/625
+B-Nidhoggr HP:681/681 MP:113/135
+C-Hel HP:224/254 MP:246/246
+D-Virtue HP:240/240 MP:232/232
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-
+C-Vetala HP:459/794 MP:157/157
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Vetala
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Raphael HP:623/623 MP:279/279
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Gurulu HP:293/371 MP:166/166
+4-Jueyuan HP:154/154 MP:68/68
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Jueyuan ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:595/625
+B-Nidhoggr HP:681/681 MP:113/135
+C-Hel HP:224/254 MP:246/246
+D-Virtue HP:240/240 MP:232/232
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nidhoggr
+3-Hel
+4-Virtue
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:595/625
+B-Nidhoggr HP:681/681 MP:113/135
+C-Hel HP:224/254 MP:246/246
+D-Virtue HP:240/240 MP:232/232
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Hel
+3-Virtue
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Jueyuan HP:154/154 MP:68/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Jueyuan HP:154/154 MP:68/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ataca a Jueyuan
+Jueyuan recibe 52 de daño
+Jueyuan termina con HP:102/154
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:595/625
+B-Nidhoggr HP:681/681 MP:113/135
+C-Hel HP:224/254 MP:246/246
+D-Virtue HP:240/240 MP:232/232
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-
+C-Jueyuan HP:102/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Virtue
+3-Shujinko
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Jueyuan HP:102/154 MP:68/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hachiman HP:851/851 MP:158/170
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:595/625
+B-Nidhoggr HP:681/681 MP:113/135
+C-Hel HP:224/254 MP:246/246
+D-Virtue HP:240/240 MP:232/232
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-
+C-Jueyuan HP:102/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Virtue
+2-Shujinko
+3-Nidhoggr
+4-Hel
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Virtue use
+1-Sabbatma MP:20
+2-Tetraja MP:15
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Jueyuan HP:102/154 MP:68/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Virtue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Virtue
+1-Jueyuan HP:102/154 MP:68/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Virtue ataca a Jueyuan
+Jueyuan recibe 25 de daño
+Jueyuan termina con HP:77/154
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:595/625
+B-Nidhoggr HP:681/681 MP:113/135
+C-Hel HP:224/254 MP:246/246
+D-Virtue HP:240/240 MP:232/232
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:388/398
+B-
+C-Jueyuan HP:77/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nidhoggr
+3-Hel
+4-Virtue
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Jueyuan HP:77/154 MP:68/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Jueyuan HP:77/154 MP:68/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko dispara a Jueyuan
+Jueyuan recibe 228 de daño
+Jueyuan termina con HP:0/154
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Shujinko (J1)

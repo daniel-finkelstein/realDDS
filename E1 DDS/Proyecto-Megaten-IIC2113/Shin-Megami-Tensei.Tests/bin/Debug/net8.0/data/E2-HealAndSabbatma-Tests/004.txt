@@ -1,0 +1,747 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+INPUT: 3
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Patrimpas HP:155/155 MP:149/149
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hua Po HP:113/113 MP:108/108
+C-Pale Rider HP:693/693 MP:310/310
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Patrimpas
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Hua Po HP:113/113 MP:108/108
+3-Pale Rider HP:693/693 MP:310/310
+4-Scathach HP:343/343 MP:153/153
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Tadano
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Patrimpas HP:155/155 MP:149/149
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hua Po HP:113/113 MP:108/108
+C-Pale Rider HP:693/693 MP:310/310
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Scathach
+4-Hua Po
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:388/388 MP:193/193
+2-Patrimpas HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Tadano
+Tadano es resistente el ataque de Demi-Fiend
+Tadano recibe 84 de daño
+Tadano termina con HP:304/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:304/388 MP:193/193
+B-Patrimpas HP:155/155 MP:149/149
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hua Po HP:113/113 MP:108/108
+C-Pale Rider HP:693/693 MP:310/310
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Scathach
+3-Hua Po
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Tadano HP:304/388 MP:193/193
+2-Patrimpas HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider ataca a Tadano
+Tadano es resistente el ataque de Pale Rider
+Tadano recibe 29 de daño
+Tadano termina con HP:275/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:275/388 MP:193/193
+B-Patrimpas HP:155/155 MP:149/149
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hua Po HP:113/113 MP:108/108
+C-Pale Rider HP:693/693 MP:310/310
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Hua Po
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Tadano HP:275/388 MP:193/193
+2-Patrimpas HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Scathach ataca a Tadano
+Tadano es resistente el ataque de Scathach
+Tadano recibe 13 de daño
+Tadano termina con HP:262/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:262/388 MP:193/193
+B-Patrimpas HP:155/155 MP:149/149
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hua Po HP:113/113 MP:108/108
+C-Pale Rider HP:693/693 MP:310/310
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hua Po
+2-Demi-Fiend
+3-Pale Rider
+4-Scathach
+----------------------------------------
+Seleccione una acción para Hua Po
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hua Po
+1-Tadano HP:262/388 MP:193/193
+2-Patrimpas HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Hua Po ataca a Tadano
+Tadano es resistente el ataque de Hua Po
+Tadano recibe 6 de daño
+Tadano termina con HP:256/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:256/388 MP:193/193
+B-Patrimpas HP:155/155 MP:149/149
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hua Po HP:113/113 MP:108/108
+C-Pale Rider HP:693/693 MP:310/310
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Patrimpas
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Hua Po HP:113/113 MP:108/108
+3-Pale Rider HP:693/693 MP:310/310
+4-Scathach HP:343/343 MP:153/153
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Tadano
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:256/388 MP:193/193
+B-Patrimpas HP:155/155 MP:149/149
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hua Po HP:113/113 MP:108/108
+C-Pale Rider HP:693/693 MP:310/310
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Scathach
+4-Hua Po
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:256/388 MP:193/193
+2-Patrimpas HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Tadano
+Tadano es resistente el ataque de Demi-Fiend
+Tadano recibe 84 de daño
+Tadano termina con HP:172/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:172/388 MP:193/193
+B-Patrimpas HP:155/155 MP:149/149
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hua Po HP:113/113 MP:108/108
+C-Pale Rider HP:693/693 MP:310/310
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Scathach
+3-Hua Po
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Tadano HP:172/388 MP:193/193
+2-Patrimpas HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider ataca a Tadano
+Tadano es resistente el ataque de Pale Rider
+Tadano recibe 29 de daño
+Tadano termina con HP:143/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:143/388 MP:193/193
+B-Patrimpas HP:155/155 MP:149/149
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hua Po HP:113/113 MP:108/108
+C-Pale Rider HP:693/693 MP:310/310
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Hua Po
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Tadano HP:143/388 MP:193/193
+2-Patrimpas HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Scathach ataca a Tadano
+Tadano es resistente el ataque de Scathach
+Tadano recibe 13 de daño
+Tadano termina con HP:130/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:130/388 MP:193/193
+B-Patrimpas HP:155/155 MP:149/149
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hua Po HP:113/113 MP:108/108
+C-Pale Rider HP:693/693 MP:310/310
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hua Po
+2-Demi-Fiend
+3-Pale Rider
+4-Scathach
+----------------------------------------
+Seleccione una acción para Hua Po
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hua Po
+1-Tadano HP:130/388 MP:193/193
+2-Patrimpas HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Hua Po ataca a Tadano
+Tadano es resistente el ataque de Hua Po
+Tadano recibe 6 de daño
+Tadano termina con HP:124/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:124/388 MP:193/193
+B-Patrimpas HP:155/155 MP:149/149
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hua Po HP:113/113 MP:108/108
+C-Pale Rider HP:693/693 MP:310/310
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Patrimpas
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Hua Po HP:113/113 MP:108/108
+3-Pale Rider HP:693/693 MP:310/310
+4-Scathach HP:343/343 MP:153/153
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Tadano
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:124/388 MP:193/193
+B-Patrimpas HP:155/155 MP:149/149
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hua Po HP:113/113 MP:108/108
+C-Pale Rider HP:693/693 MP:310/310
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Scathach
+4-Hua Po
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:124/388 MP:193/193
+2-Patrimpas HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Tadano
+Tadano es resistente el ataque de Demi-Fiend
+Tadano recibe 84 de daño
+Tadano termina con HP:40/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:40/388 MP:193/193
+B-Patrimpas HP:155/155 MP:149/149
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hua Po HP:113/113 MP:108/108
+C-Pale Rider HP:693/693 MP:310/310
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Scathach
+3-Hua Po
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Tadano HP:40/388 MP:193/193
+2-Patrimpas HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider ataca a Tadano
+Tadano es resistente el ataque de Pale Rider
+Tadano recibe 29 de daño
+Tadano termina con HP:11/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:11/388 MP:193/193
+B-Patrimpas HP:155/155 MP:149/149
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hua Po HP:113/113 MP:108/108
+C-Pale Rider HP:693/693 MP:310/310
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Hua Po
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Tadano HP:11/388 MP:193/193
+2-Patrimpas HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Scathach ataca a Tadano
+Tadano es resistente el ataque de Scathach
+Tadano recibe 13 de daño
+Tadano termina con HP:0/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Patrimpas HP:155/155 MP:149/149
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hua Po HP:113/113 MP:108/108
+C-Pale Rider HP:693/693 MP:310/310
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hua Po
+2-Demi-Fiend
+3-Pale Rider
+4-Scathach
+----------------------------------------
+Seleccione una acción para Hua Po
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Patrimpas HP:155/155 MP:149/149
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hua Po HP:113/113 MP:108/108
+C-Pale Rider HP:693/693 MP:310/310
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Scathach
+4-Hua Po
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Patrimpas HP:155/155 MP:149/149
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hua Po HP:113/113 MP:108/108
+C-Pale Rider HP:693/693 MP:310/310
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patrimpas
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Patrimpas use
+1-Zanma MP:8
+2-Mazan MP:11
+3-Recarm MP:20
+4-Tetraja MP:15
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Tadano HP:0/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Patrimpas revive a Tadano
+Tadano recibe 194 de HP
+Tadano termina con HP:194/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:194/388 MP:193/193
+B-Patrimpas HP:155/155 MP:129/149
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hua Po HP:113/113 MP:108/108
+C-Pale Rider HP:693/693 MP:310/310
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Scathach
+4-Hua Po
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Demi-Fiend (J2) se rinde
+----------------------------------------
+Ganador: Tadano (J1)

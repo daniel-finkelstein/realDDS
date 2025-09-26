@@ -1,0 +1,5595 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+INPUT: 60
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:258/258 MP:251/251
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Kingu HP:464/464 MP:91/91
+C-Balor HP:492/492 MP:98/98
+D-Demonee-Ho HP:804/804 MP:160/160
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Israfel
+3-Patrimpas
+4-Melchom
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Itsuki HP:1136/1136 MP:413/413
+2-Kingu HP:464/464 MP:91/91
+3-Balor HP:492/492 MP:98/98
+4-Demonee-Ho HP:804/804 MP:160/160
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Zan MP:5
+2-Needle Shot MP:4
+3-Ziodyne MP:14
+4-Deadly Wind MP:22
+5-Samarecarm MP:40
+6-Zionga MP:8
+7-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Itsuki HP:1136/1136 MP:413/413
+2-Kingu HP:464/464 MP:91/91
+3-Balor HP:492/492 MP:98/98
+4-Demonee-Ho HP:804/804 MP:160/160
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Itsuki HP:1136/1136 MP:413/413
+2-Kingu HP:464/464 MP:91/91
+3-Balor HP:492/492 MP:98/98
+4-Demonee-Ho HP:804/804 MP:160/160
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone dispara a Itsuki
+Itsuki recibe 57 de daño
+Itsuki termina con HP:1079/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:258/258 MP:251/251
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Kingu HP:464/464 MP:91/91
+C-Balor HP:492/492 MP:98/98
+D-Demonee-Ho HP:804/804 MP:160/160
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Patrimpas
+3-Melchom
+4-Kotone
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:258/258 MP:251/251
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Kingu HP:464/464 MP:91/91
+C-Balor HP:492/492 MP:98/98
+D-Demonee-Ho HP:804/804 MP:160/160
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Patrimpas
+2-Melchom
+3-Kotone
+4-Israfel
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Itsuki HP:1079/1136 MP:413/413
+2-Kingu HP:464/464 MP:91/91
+3-Balor HP:492/492 MP:98/98
+4-Demonee-Ho HP:804/804 MP:160/160
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Patrimpas ataca a Kingu
+Kingu recibe 16 de daño
+Kingu termina con HP:448/464
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:258/258 MP:251/251
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Balor HP:492/492 MP:98/98
+D-Demonee-Ho HP:804/804 MP:160/160
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Melchom
+2-Kotone
+3-Israfel
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Melchom
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Melchom
+1-Itsuki HP:1079/1136 MP:413/413
+2-Kingu HP:448/464 MP:91/91
+3-Balor HP:492/492 MP:98/98
+4-Demonee-Ho HP:804/804 MP:160/160
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Melchom ataca a Itsuki
+Itsuki recibe 6 de daño
+Itsuki termina con HP:1073/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:258/258 MP:251/251
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Itsuki (J2)
+A-Itsuki HP:1073/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Balor HP:492/492 MP:98/98
+D-Demonee-Ho HP:804/804 MP:160/160
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Israfel
+3-Patrimpas
+4-Melchom
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Itsuki HP:1073/1136 MP:413/413
+2-Kingu HP:448/464 MP:91/91
+3-Balor HP:492/492 MP:98/98
+4-Demonee-Ho HP:804/804 MP:160/160
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:67/67 MP:72/72
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:67/67 MP:72/72
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Melchom HP:71/71 MP:67/67 (Puesto 2)
+2-Israfel HP:258/258 MP:251/251 (Puesto 3)
+3-Patrimpas HP:155/155 MP:149/149 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Chagrin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Chagrin HP:67/67 MP:72/72
+C-Israfel HP:258/258 MP:251/251
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Itsuki (J2)
+A-Itsuki HP:1073/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Balor HP:492/492 MP:98/98
+D-Demonee-Ho HP:804/804 MP:160/160
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Patrimpas
+3-Chagrin
+4-Kotone
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Israfel use
+1-Mabufula MP:20
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Itsuki HP:1073/1136 MP:413/413
+2-Kingu HP:448/464 MP:91/91
+3-Balor HP:492/492 MP:98/98
+4-Demonee-Ho HP:804/804 MP:160/160
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Israfel ataca a Itsuki
+Itsuki recibe 27 de daño
+Itsuki termina con HP:1046/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Chagrin HP:67/67 MP:72/72
+C-Israfel HP:258/258 MP:251/251
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Balor HP:492/492 MP:98/98
+D-Demonee-Ho HP:804/804 MP:160/160
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Itsuki
+3-Balor
+4-Kingu
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kotone HP:597/597 MP:347/347
+2-Chagrin HP:67/67 MP:72/72
+3-Israfel HP:258/258 MP:251/251
+4-Patrimpas HP:155/155 MP:149/149
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Demonee-Ho ataca a Chagrin
+Chagrin recibe 62 de daño
+Chagrin termina con HP:5/67
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Chagrin HP:5/67 MP:72/72
+C-Israfel HP:258/258 MP:251/251
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Balor HP:492/492 MP:98/98
+D-Demonee-Ho HP:804/804 MP:160/160
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Balor
+3-Kingu
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Chagrin HP:5/67 MP:72/72
+C-Israfel HP:258/258 MP:251/251
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Balor HP:492/492 MP:98/98
+D-Demonee-Ho HP:804/804 MP:160/160
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Balor
+2-Kingu
+3-Demonee-Ho
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Kotone HP:597/597 MP:347/347
+2-Chagrin HP:5/67 MP:72/72
+3-Israfel HP:258/258 MP:251/251
+4-Patrimpas HP:155/155 MP:149/149
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Kotone HP:597/597 MP:347/347
+2-Chagrin HP:5/67 MP:72/72
+3-Israfel HP:258/258 MP:251/251
+4-Patrimpas HP:155/155 MP:149/149
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Balor ataca a Israfel
+Israfel recibe 36 de daño
+Israfel termina con HP:222/258
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Chagrin HP:5/67 MP:72/72
+C-Israfel HP:222/258 MP:251/251
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Balor HP:492/492 MP:98/98
+D-Demonee-Ho HP:804/804 MP:160/160
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Demonee-Ho
+3-Itsuki
+4-Balor
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Chagrin HP:5/67 MP:72/72
+C-Israfel HP:222/258 MP:251/251
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Balor HP:492/492 MP:98/98
+D-Demonee-Ho HP:804/804 MP:160/160
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Itsuki
+3-Balor
+4-Kingu
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kotone HP:597/597 MP:347/347
+2-Chagrin HP:5/67 MP:72/72
+3-Israfel HP:222/258 MP:251/251
+4-Patrimpas HP:155/155 MP:149/149
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Chagrin HP:5/67 MP:72/72
+C-Israfel HP:222/258 MP:251/251
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Balor HP:492/492 MP:98/98
+D-Demonee-Ho HP:804/804 MP:160/160
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Balor
+3-Kingu
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:597/597 MP:347/347
+2-Chagrin HP:5/67 MP:72/72
+3-Israfel HP:222/258 MP:251/251
+4-Patrimpas HP:155/155 MP:149/149
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Israfel
+Israfel recibe 45 de daño
+Israfel termina con HP:177/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Chagrin HP:5/67 MP:72/72
+C-Israfel HP:177/258 MP:251/251
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Balor HP:492/492 MP:98/98
+D-Demonee-Ho HP:804/804 MP:160/160
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Israfel
+3-Patrimpas
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Melchom HP:71/71 MP:67/67
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Chagrin HP:5/67 MP:72/72 (Puesto 2)
+2-Israfel HP:177/258 MP:251/251 (Puesto 3)
+3-Patrimpas HP:155/155 MP:149/149 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Melchom ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:177/258 MP:251/251
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Balor HP:492/492 MP:98/98
+D-Demonee-Ho HP:804/804 MP:160/160
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Patrimpas
+3-Melchom
+4-Kotone
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Itsuki HP:1046/1136 MP:413/413
+2-Kingu HP:448/464 MP:91/91
+3-Balor HP:492/492 MP:98/98
+4-Demonee-Ho HP:804/804 MP:160/160
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Israfel use
+1-Mabufula MP:20
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Israfel use
+1-Mabufula MP:20
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:5/67 MP:72/72
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Israfel use
+1-Mabufula MP:20
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Kotone HP:597/597 MP:347/347
+2-Melchom HP:71/71 MP:67/67
+3-Israfel HP:177/258 MP:251/251
+4-Patrimpas HP:155/155 MP:149/149
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:177/258 MP:251/251
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Balor HP:492/492 MP:98/98
+D-Demonee-Ho HP:804/804 MP:160/160
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patrimpas
+2-Melchom
+3-Kotone
+4-Israfel
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Itsuki HP:1046/1136 MP:413/413
+2-Kingu HP:448/464 MP:91/91
+3-Balor HP:492/492 MP:98/98
+4-Demonee-Ho HP:804/804 MP:160/160
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Patrimpas ataca a Balor
+Balor recibe 16 de daño
+Balor termina con HP:476/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:177/258 MP:251/251
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Balor HP:476/492 MP:98/98
+D-Demonee-Ho HP:804/804 MP:160/160
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Melchom
+2-Kotone
+3-Israfel
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Melchom
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Melchom
+1-Itsuki HP:1046/1136 MP:413/413
+2-Kingu HP:448/464 MP:91/91
+3-Balor HP:476/492 MP:98/98
+4-Demonee-Ho HP:804/804 MP:160/160
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Melchom
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Melchom
+1-Itsuki HP:1046/1136 MP:413/413
+2-Kingu HP:448/464 MP:91/91
+3-Balor HP:476/492 MP:98/98
+4-Demonee-Ho HP:804/804 MP:160/160
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Melchom ataca a Demonee-Ho
+Demonee-Ho es resistente el ataque de Melchom
+Demonee-Ho recibe 3 de daño
+Demonee-Ho termina con HP:801/804
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:177/258 MP:251/251
+D-Patrimpas HP:155/155 MP:149/149
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Balor HP:476/492 MP:98/98
+D-Demonee-Ho HP:801/804 MP:160/160
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Israfel
+3-Patrimpas
+4-Melchom
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:5/67 MP:72/72
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:5/67 MP:72/72
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Melchom HP:71/71 MP:67/67 (Puesto 2)
+2-Israfel HP:177/258 MP:251/251 (Puesto 3)
+3-Patrimpas HP:155/155 MP:149/149 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Chagrin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:177/258 MP:251/251
+D-Chagrin HP:5/67 MP:72/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Balor HP:476/492 MP:98/98
+D-Demonee-Ho HP:801/804 MP:160/160
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Chagrin
+3-Melchom
+4-Kotone
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Israfel use
+1-Mabufula MP:20
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Kotone HP:597/597 MP:347/347
+2-Melchom HP:71/71 MP:67/67
+3-Israfel HP:177/258 MP:251/251
+4-Chagrin HP:5/67 MP:72/72
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Israfel cura a Israfel
+Israfel recibe 258 de HP
+Israfel termina con HP:258/258
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:258/258 MP:235/251
+D-Chagrin HP:5/67 MP:72/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Balor HP:476/492 MP:98/98
+D-Demonee-Ho HP:801/804 MP:160/160
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Itsuki
+3-Balor
+4-Kingu
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Israfel HP:258/258 MP:251/251
+2-Lord Nan Dou HP:549/549 MP:108/108
+3-Atropos HP:277/277 MP:269/269
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:258/258 MP:235/251
+D-Chagrin HP:5/67 MP:72/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Balor HP:476/492 MP:98/98
+D-Demonee-Ho HP:801/804 MP:160/160
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Balor
+3-Kingu
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Israfel HP:258/258 MP:251/251
+2-Lord Nan Dou HP:549/549 MP:108/108
+3-Atropos HP:277/277 MP:269/269
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Kingu HP:448/464 MP:91/91 (Puesto 2)
+2-Balor HP:476/492 MP:98/98 (Puesto 3)
+3-Demonee-Ho HP:801/804 MP:160/160 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Atropos ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:258/258 MP:235/251
+D-Chagrin HP:5/67 MP:72/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Balor HP:476/492 MP:98/98
+D-Atropos HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Kingu
+3-Atropos
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:801/804 MP:160/160
+2-Israfel HP:258/258 MP:251/251
+3-Lord Nan Dou HP:549/549 MP:108/108
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lord Nan Dou ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:258/258 MP:235/251
+D-Chagrin HP:5/67 MP:72/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Atropos HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Atropos
+3-Itsuki
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:258/258 MP:235/251
+D-Chagrin HP:5/67 MP:72/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Atropos HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Itsuki
+3-Lord Nan Dou
+4-Kingu
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Kotone HP:597/597 MP:347/347
+2-Melchom HP:71/71 MP:67/67
+3-Israfel HP:258/258 MP:235/251
+4-Chagrin HP:5/67 MP:72/72
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Kotone
+Kotone es resistente el ataque de Atropos
+Kotone recibe 14 de daño
+Kotone termina con HP:583/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:258/258 MP:235/251
+D-Chagrin HP:5/67 MP:72/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:413/413
+B-Kingu HP:448/464 MP:91/91
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Atropos HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lord Nan Dou
+3-Kingu
+4-Atropos
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Sabbatma MP:20
+2-Mortal Jihad MP:13
+3-Diarama MP:9
+4-Invitation MP:45
+5-Berserker God MP:12
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:583/597 MP:347/347
+2-Melchom HP:71/71 MP:67/67
+3-Israfel HP:258/258 MP:235/251
+4-Chagrin HP:5/67 MP:72/72
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Israfel
+Israfel recibe 133 de daño
+Israfel termina con HP:125/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:125/258 MP:235/251
+D-Chagrin HP:5/67 MP:72/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Kingu HP:448/464 MP:91/91
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Atropos HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Israfel
+3-Chagrin
+4-Melchom
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Zan MP:5
+2-Needle Shot MP:4
+3-Ziodyne MP:14
+4-Deadly Wind MP:22
+5-Samarecarm MP:40
+6-Zionga MP:8
+7-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Itsuki HP:1046/1136 MP:400/413
+2-Kingu HP:448/464 MP:91/91
+3-Lord Nan Dou HP:549/549 MP:108/108
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:125/258 MP:235/251
+D-Chagrin HP:5/67 MP:72/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Kingu HP:448/464 MP:91/91
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Atropos HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Chagrin
+3-Melchom
+4-Kotone
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Israfel use
+1-Mabufula MP:20
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Itsuki HP:1046/1136 MP:400/413
+2-Kingu HP:448/464 MP:91/91
+3-Lord Nan Dou HP:549/549 MP:108/108
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Israfel ataca a Kingu
+Kingu recibe 27 de daño
+Kingu termina con HP:421/464
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:125/258 MP:235/251
+D-Chagrin HP:5/67 MP:72/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Kingu HP:421/464 MP:91/91
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Atropos HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chagrin
+2-Melchom
+3-Kotone
+4-Israfel
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chagrin use
+1-Needle Shot MP:4
+2-Zio MP:5
+3-Rakunda MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Chagrin
+1-Itsuki HP:1046/1136 MP:400/413
+2-Kingu HP:421/464 MP:91/91
+3-Lord Nan Dou HP:549/549 MP:108/108
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Chagrin lanza electricidad a Atropos
+Atropos recibe 26 de daño
+Atropos termina con HP:251/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:125/258 MP:235/251
+D-Chagrin HP:5/67 MP:67/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Kingu HP:421/464 MP:91/91
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Atropos HP:251/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Melchom
+2-Kotone
+3-Israfel
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Melchom
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:125/258 MP:235/251
+D-Chagrin HP:5/67 MP:67/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Kingu HP:421/464 MP:91/91
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Atropos HP:251/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Israfel
+3-Chagrin
+4-Melchom
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Itsuki HP:1046/1136 MP:400/413
+2-Kingu HP:421/464 MP:91/91
+3-Lord Nan Dou HP:549/549 MP:108/108
+4-Atropos HP:251/277 MP:269/269
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kotone dispara a Atropos
+Atropos recibe 57 de daño
+Atropos termina con HP:194/277
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:125/258 MP:235/251
+D-Chagrin HP:5/67 MP:67/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Kingu HP:421/464 MP:91/91
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Chagrin
+3-Melchom
+4-Kotone
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:125/258 MP:235/251
+D-Chagrin HP:5/67 MP:67/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Kingu HP:421/464 MP:91/91
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chagrin
+2-Melchom
+3-Kotone
+4-Israfel
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chagrin use
+1-Needle Shot MP:4
+2-Zio MP:5
+3-Rakunda MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chagrin
+1-Itsuki HP:1046/1136 MP:400/413
+2-Kingu HP:421/464 MP:91/91
+3-Lord Nan Dou HP:549/549 MP:108/108
+4-Atropos HP:194/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Chagrin dispara a Lord Nan Dou
+Lord Nan Dou recibe 25 de daño
+Lord Nan Dou termina con HP:524/549
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:347/347
+B-Melchom HP:71/71 MP:67/67
+C-Israfel HP:125/258 MP:235/251
+D-Chagrin HP:5/67 MP:63/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Kingu HP:421/464 MP:91/91
+C-Lord Nan Dou HP:524/549 MP:108/108
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lord Nan Dou
+3-Kingu
+4-Atropos
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:476/492 MP:98/98
+2-Demonee-Ho HP:801/804 MP:160/160
+3-Israfel HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:583/597 MP:347/347
+2-Melchom HP:71/71 MP:67/67
+3-Israfel HP:125/258 MP:235/251
+4-Chagrin HP:5/67 MP:63/72
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Melchom
+Melchom recibe 45 de daño
+Melchom termina con HP:26/71
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:347/347
+B-Melchom HP:26/71 MP:67/67
+C-Israfel HP:125/258 MP:235/251
+D-Chagrin HP:5/67 MP:63/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Kingu HP:421/464 MP:91/91
+C-Lord Nan Dou HP:524/549 MP:108/108
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Kingu
+3-Atropos
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:476/492 MP:98/98
+2-Demonee-Ho HP:801/804 MP:160/160
+3-Israfel HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:347/347
+B-Melchom HP:26/71 MP:67/67
+C-Israfel HP:125/258 MP:235/251
+D-Chagrin HP:5/67 MP:63/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Kingu HP:421/464 MP:91/91
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Atropos
+3-Itsuki
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:347/347
+B-Melchom HP:26/71 MP:67/67
+C-Israfel HP:125/258 MP:235/251
+D-Chagrin HP:5/67 MP:63/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Kingu HP:421/464 MP:91/91
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Itsuki
+3-Demonee-Ho
+4-Kingu
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:347/347
+B-Melchom HP:26/71 MP:67/67
+C-Israfel HP:125/258 MP:235/251
+D-Chagrin HP:5/67 MP:63/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Kingu HP:421/464 MP:91/91
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Demonee-Ho
+3-Kingu
+4-Atropos
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:476/492 MP:98/98
+2-Israfel HP:258/258 MP:251/251
+3-Lord Nan Dou HP:524/549 MP:108/108
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:476/492 MP:98/98
+2-Israfel HP:258/258 MP:251/251
+3-Lord Nan Dou HP:524/549 MP:108/108
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Kingu HP:421/464 MP:91/91 (Puesto 2)
+2-Demonee-Ho HP:801/804 MP:160/160 (Puesto 3)
+3-Atropos HP:194/277 MP:269/269 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:347/347
+B-Melchom HP:26/71 MP:67/67
+C-Israfel HP:125/258 MP:235/251
+D-Chagrin HP:5/67 MP:63/72
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Lord Nan Dou
+3-Atropos
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kotone HP:583/597 MP:347/347
+2-Melchom HP:26/71 MP:67/67
+3-Israfel HP:125/258 MP:235/251
+4-Chagrin HP:5/67 MP:63/72
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Demonee-Ho ataca a Chagrin
+Chagrin recibe 62 de daño
+Chagrin termina con HP:0/67
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:347/347
+B-Melchom HP:26/71 MP:67/67
+C-Israfel HP:125/258 MP:235/251
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Israfel
+3-Melchom
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:347/347
+B-Melchom HP:26/71 MP:67/67
+C-Israfel HP:125/258 MP:235/251
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Melchom
+3-Kotone
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:347/347
+B-Melchom HP:26/71 MP:67/67
+C-Israfel HP:125/258 MP:235/251
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Melchom
+2-Kotone
+3-Israfel
+----------------------------------------
+Seleccione una acción para Melchom
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Patrimpas HP:155/155 MP:149/149
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Melchom
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:347/347
+B-Melchom HP:26/71 MP:67/67
+C-Israfel HP:125/258 MP:235/251
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Israfel
+3-Melchom
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Zan MP:5
+2-Needle Shot MP:4
+3-Ziodyne MP:14
+4-Deadly Wind MP:22
+5-Samarecarm MP:40
+6-Zionga MP:8
+7-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Chagrin HP:0/67 MP:63/72
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone revive a Chagrin
+Chagrin recibe 67 de HP
+Chagrin termina con HP:67/67
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:307/347
+B-Melchom HP:26/71 MP:67/67
+C-Israfel HP:125/258 MP:235/251
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Melchom
+3-Kotone
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Patrimpas HP:155/155 MP:149/149
+2-Chagrin HP:67/67 MP:63/72
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Patrimpas HP:155/155 MP:149/149
+2-Chagrin HP:67/67 MP:63/72
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Patrimpas ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:307/347
+B-Melchom HP:26/71 MP:67/67
+C-Patrimpas HP:155/155 MP:149/149
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Melchom
+2-Kotone
+3-Patrimpas
+----------------------------------------
+Seleccione una acción para Melchom
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:307/347
+B-Melchom HP:26/71 MP:67/67
+C-Patrimpas HP:155/155 MP:149/149
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Itsuki
+3-Lord Nan Dou
+4-Atropos
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kotone HP:583/597 MP:307/347
+2-Melchom HP:26/71 MP:67/67
+3-Patrimpas HP:155/155 MP:149/149
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Demonee-Ho ataca a Melchom
+Melchom recibe 62 de daño
+Melchom termina con HP:0/71
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:307/347
+B-
+C-Patrimpas HP:155/155 MP:149/149
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:400/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lord Nan Dou
+3-Atropos
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:421/464 MP:91/91
+2-Balor HP:476/492 MP:98/98
+3-Israfel HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Lord Nan Dou HP:524/549 MP:108/108 (Puesto 2)
+2-Demonee-Ho HP:801/804 MP:160/160 (Puesto 3)
+3-Atropos HP:194/277 MP:269/269 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Sabbatma MP:20
+2-Mortal Jihad MP:13
+3-Diarama MP:9
+4-Invitation MP:45
+5-Berserker God MP:12
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:421/464 MP:91/91
+2-Balor HP:476/492 MP:98/98
+3-Israfel HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Lord Nan Dou HP:524/549 MP:108/108 (Puesto 2)
+2-Demonee-Ho HP:801/804 MP:160/160 (Puesto 3)
+3-Atropos HP:194/277 MP:269/269 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:421/464 MP:91/91
+2-Balor HP:476/492 MP:98/98
+3-Israfel HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Sabbatma MP:20
+2-Mortal Jihad MP:13
+3-Diarama MP:9
+4-Invitation MP:45
+5-Berserker God MP:12
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:583/597 MP:307/347
+2-Patrimpas HP:155/155 MP:149/149
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Patrimpas
+Patrimpas recibe 133 de daño
+Patrimpas termina con HP:22/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:583/597 MP:307/347
+B-
+C-Patrimpas HP:22/155 MP:149/149
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:387/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Atropos
+3-Demonee-Ho
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kotone HP:583/597 MP:307/347
+2-Patrimpas HP:22/155 MP:149/149
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kotone HP:583/597 MP:307/347
+2-Patrimpas HP:22/155 MP:149/149
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ataca a Kotone
+Kotone es resistente el ataque de Lord Nan Dou
+Kotone recibe 20 de daño
+Kotone termina con HP:563/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:563/597 MP:307/347
+B-
+C-Patrimpas HP:22/155 MP:149/149
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:387/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Demonee-Ho
+3-Itsuki
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:421/464 MP:91/91
+2-Balor HP:476/492 MP:98/98
+3-Israfel HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Israfel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:563/597 MP:307/347
+B-
+C-Patrimpas HP:22/155 MP:149/149
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:387/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Israfel HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Itsuki
+3-Lord Nan Dou
+4-Israfel
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kotone HP:563/597 MP:307/347
+2-Patrimpas HP:22/155 MP:149/149
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demonee-Ho ataca a Patrimpas
+Patrimpas recibe 62 de daño
+Patrimpas termina con HP:0/155
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:563/597 MP:307/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:387/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Israfel HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Zan MP:5
+2-Needle Shot MP:4
+3-Ziodyne MP:14
+4-Deadly Wind MP:22
+5-Samarecarm MP:40
+6-Zionga MP:8
+7-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Melchom HP:0/71 MP:67/67
+2-Patrimpas HP:0/155 MP:149/149
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone revive a Melchom
+Melchom recibe 71 de HP
+Melchom termina con HP:71/71
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:563/597 MP:267/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:387/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Israfel HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Itsuki
+3-Lord Nan Dou
+4-Israfel
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:563/597 MP:267/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:387/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Israfel HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lord Nan Dou
+3-Israfel
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:563/597 MP:267/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:387/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Israfel HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Israfel
+3-Demonee-Ho
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:563/597 MP:267/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:387/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Israfel HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Demonee-Ho
+3-Itsuki
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:421/464 MP:91/91
+2-Balor HP:476/492 MP:98/98
+3-Atropos HP:194/277 MP:269/269
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Balor ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:563/597 MP:267/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:387/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Balor HP:476/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Itsuki
+3-Lord Nan Dou
+4-Balor
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kotone HP:563/597 MP:267/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ataca a Kotone
+Kotone es resistente el ataque de Demonee-Ho
+Kotone recibe 31 de daño
+Kotone termina con HP:532/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:532/597 MP:267/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:387/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Balor HP:476/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lord Nan Dou
+3-Balor
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Sabbatma MP:20
+2-Mortal Jihad MP:13
+3-Diarama MP:9
+4-Invitation MP:45
+5-Berserker God MP:12
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:1046/1136 MP:387/413
+2-Lord Nan Dou HP:524/549 MP:108/108
+3-Demonee-Ho HP:801/804 MP:160/160
+4-Balor HP:476/492 MP:98/98
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki cura a Balor
+Balor recibe 246 de HP
+Balor termina con HP:492/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:532/597 MP:267/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:378/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:532/597 MP:267/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:378/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Itsuki HP:1046/1136 MP:378/413
+2-Lord Nan Dou HP:524/549 MP:108/108
+3-Demonee-Ho HP:801/804 MP:160/160
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kotone dispara a Balor
+Balor recibe 57 de daño
+Balor termina con HP:435/492
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:532/597 MP:267/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:378/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Balor HP:435/492 MP:98/98
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Itsuki
+3-Lord Nan Dou
+4-Balor
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kotone HP:532/597 MP:267/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ataca a Kotone
+Kotone es resistente el ataque de Demonee-Ho
+Kotone recibe 31 de daño
+Kotone termina con HP:501/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:501/597 MP:267/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:378/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Balor HP:435/492 MP:98/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lord Nan Dou
+3-Balor
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:421/464 MP:91/91
+2-Israfel HP:258/258 MP:251/251
+3-Atropos HP:194/277 MP:269/269
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:421/464 MP:91/91
+2-Israfel HP:258/258 MP:251/251
+3-Atropos HP:194/277 MP:269/269
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Lord Nan Dou HP:524/549 MP:108/108 (Puesto 2)
+2-Demonee-Ho HP:801/804 MP:160/160 (Puesto 3)
+3-Balor HP:435/492 MP:98/98 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:501/597 MP:267/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Kotone
+Kotone es resistente el ataque de Itsuki
+Kotone recibe 30 de daño
+Kotone termina con HP:471/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:471/597 MP:267/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:378/413
+B-Lord Nan Dou HP:524/549 MP:108/108
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Balor HP:435/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Balor
+3-Demonee-Ho
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:421/464 MP:91/91
+2-Israfel HP:258/258 MP:251/251
+3-Atropos HP:194/277 MP:269/269
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:471/597 MP:267/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:378/413
+B-Kingu HP:421/464 MP:91/91
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Balor HP:435/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Balor
+2-Demonee-Ho
+3-Itsuki
+4-Kingu
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Kotone HP:471/597 MP:267/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Balor lanza fuego a Kotone
+Kotone es resistente el ataque de Balor
+Kotone recibe 46 de daño
+Kotone termina con HP:425/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:425/597 MP:267/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:378/413
+B-Kingu HP:421/464 MP:91/91
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Balor HP:435/492 MP:84/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Itsuki
+3-Kingu
+4-Balor
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Israfel HP:258/258 MP:251/251
+2-Lord Nan Dou HP:524/549 MP:108/108
+3-Atropos HP:194/277 MP:269/269
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Israfel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:425/597 MP:267/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:378/413
+B-Kingu HP:421/464 MP:91/91
+C-Israfel HP:258/258 MP:251/251
+D-Balor HP:435/492 MP:84/98
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Kingu
+3-Balor
+4-Israfel
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Sabbatma MP:20
+2-Mortal Jihad MP:13
+3-Diarama MP:9
+4-Invitation MP:45
+5-Berserker God MP:12
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:1046/1136 MP:378/413
+2-Kingu HP:421/464 MP:91/91
+3-Israfel HP:258/258 MP:251/251
+4-Balor HP:435/492 MP:84/98
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:425/597 MP:267/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:801/804 MP:160/160
+2-Lord Nan Dou HP:524/549 MP:108/108
+3-Atropos HP:194/277 MP:269/269
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Kingu HP:421/464 MP:91/91 (Puesto 2)
+2-Israfel HP:258/258 MP:251/251 (Puesto 3)
+3-Balor HP:435/492 MP:84/98 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:425/597 MP:267/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Sabbatma MP:20
+2-Mortal Jihad MP:13
+3-Diarama MP:9
+4-Invitation MP:45
+5-Berserker God MP:12
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:801/804 MP:160/160
+2-Lord Nan Dou HP:524/549 MP:108/108
+3-Atropos HP:194/277 MP:269/269
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Kingu HP:421/464 MP:91/91 (Puesto 2)
+2-Israfel HP:258/258 MP:251/251 (Puesto 3)
+3-Balor HP:435/492 MP:84/98 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lord Nan Dou ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:425/597 MP:267/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Kingu HP:421/464 MP:91/91
+C-Israfel HP:258/258 MP:251/251
+D-Lord Nan Dou HP:524/549 MP:108/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Melchom HP:71/71 MP:67/67
+2-Israfel HP:125/258 MP:235/251
+3-Chagrin HP:67/67 MP:63/72
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Zan MP:5
+2-Needle Shot MP:4
+3-Ziodyne MP:14
+4-Deadly Wind MP:22
+5-Samarecarm MP:40
+6-Zionga MP:8
+7-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Itsuki HP:1046/1136 MP:358/413
+2-Kingu HP:421/464 MP:91/91
+3-Israfel HP:258/258 MP:251/251
+4-Lord Nan Dou HP:524/549 MP:108/108
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone lanza electricidad a Kingu
+Kingu bloquea el ataque de Kotone
+Kingu termina con HP:421/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:425/597 MP:253/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Kingu HP:421/464 MP:91/91
+C-Israfel HP:258/258 MP:251/251
+D-Lord Nan Dou HP:524/549 MP:108/108
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lord Nan Dou
+3-Kingu
+4-Israfel
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:435/492 MP:84/98
+2-Demonee-Ho HP:801/804 MP:160/160
+3-Atropos HP:194/277 MP:269/269
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Kingu HP:421/464 MP:91/91 (Puesto 2)
+2-Israfel HP:258/258 MP:251/251 (Puesto 3)
+3-Lord Nan Dou HP:524/549 MP:108/108 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:425/597 MP:253/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Kingu HP:421/464 MP:91/91
+C-Israfel HP:258/258 MP:251/251
+D-Lord Nan Dou HP:524/549 MP:108/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Kingu
+3-Israfel
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:435/492 MP:84/98
+2-Demonee-Ho HP:801/804 MP:160/160
+3-Atropos HP:194/277 MP:269/269
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kotone HP:425/597 MP:253/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ataca a Kotone
+Kotone es resistente el ataque de Lord Nan Dou
+Kotone recibe 64 de daño
+Kotone termina con HP:361/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:361/597 MP:253/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Kingu HP:421/464 MP:91/91
+C-Israfel HP:258/258 MP:251/251
+D-Lord Nan Dou HP:524/549 MP:96/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Israfel
+3-Itsuki
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:361/597 MP:253/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Kingu HP:421/464 MP:91/91
+C-Israfel HP:258/258 MP:251/251
+D-Lord Nan Dou HP:524/549 MP:96/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Itsuki
+3-Lord Nan Dou
+4-Kingu
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Kotone HP:361/597 MP:253/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Israfel ataca a Kotone
+Kotone es resistente el ataque de Israfel
+Kotone recibe 13 de daño
+Kotone termina con HP:348/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:348/597 MP:253/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Kingu HP:421/464 MP:91/91
+C-Israfel HP:258/258 MP:251/251
+D-Lord Nan Dou HP:524/549 MP:96/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lord Nan Dou
+3-Kingu
+4-Israfel
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:435/492 MP:84/98
+2-Demonee-Ho HP:801/804 MP:160/160
+3-Atropos HP:194/277 MP:269/269
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kingu HP:421/464 MP:91/91 (Puesto 2)
+2-Israfel HP:258/258 MP:251/251 (Puesto 3)
+3-Lord Nan Dou HP:524/549 MP:96/108 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Balor ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:348/597 MP:253/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Kingu HP:421/464 MP:91/91
+C-Balor HP:435/492 MP:84/98
+D-Lord Nan Dou HP:524/549 MP:96/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Kingu
+3-Balor
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:801/804 MP:160/160
+2-Israfel HP:258/258 MP:251/251
+3-Atropos HP:194/277 MP:269/269
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kotone HP:348/597 MP:253/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ataca a Kotone
+Kotone es resistente el ataque de Lord Nan Dou
+Kotone recibe 20 de daño
+Kotone termina con HP:328/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:328/597 MP:253/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Kingu HP:421/464 MP:91/91
+C-Balor HP:435/492 MP:84/98
+D-Lord Nan Dou HP:524/549 MP:96/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Balor
+3-Itsuki
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:328/597 MP:253/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Kingu HP:421/464 MP:91/91
+C-Balor HP:435/492 MP:84/98
+D-Lord Nan Dou HP:524/549 MP:96/108
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Balor
+2-Itsuki
+3-Lord Nan Dou
+4-Kingu
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:328/597 MP:253/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Kingu HP:421/464 MP:91/91
+C-Balor HP:435/492 MP:84/98
+D-Lord Nan Dou HP:524/549 MP:96/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Zan MP:5
+2-Needle Shot MP:4
+3-Ziodyne MP:14
+4-Deadly Wind MP:22
+5-Samarecarm MP:40
+6-Zionga MP:8
+7-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Itsuki HP:1046/1136 MP:358/413
+2-Kingu HP:421/464 MP:91/91
+3-Balor HP:435/492 MP:84/98
+4-Lord Nan Dou HP:524/549 MP:96/108
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Zan MP:5
+2-Needle Shot MP:4
+3-Ziodyne MP:14
+4-Deadly Wind MP:22
+5-Samarecarm MP:40
+6-Zionga MP:8
+7-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Itsuki HP:1046/1136 MP:358/413
+2-Kingu HP:421/464 MP:91/91
+3-Balor HP:435/492 MP:84/98
+4-Lord Nan Dou HP:524/549 MP:96/108
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone lanza viento a Kingu
+Kingu bloquea el ataque de Kotone
+Kingu termina con HP:421/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:328/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Kingu HP:421/464 MP:91/91
+C-Balor HP:435/492 MP:84/98
+D-Lord Nan Dou HP:524/549 MP:96/108
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lord Nan Dou
+3-Balor
+4-Kingu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:801/804 MP:160/160
+2-Israfel HP:258/258 MP:251/251
+3-Atropos HP:194/277 MP:269/269
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Kingu HP:421/464 MP:91/91 (Puesto 2)
+2-Balor HP:435/492 MP:84/98 (Puesto 3)
+3-Lord Nan Dou HP:524/549 MP:96/108 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Israfel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:328/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Kingu HP:421/464 MP:91/91
+C-Israfel HP:258/258 MP:251/251
+D-Lord Nan Dou HP:524/549 MP:96/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Israfel
+3-Kingu
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kotone HP:328/597 MP:248/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:328/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Kingu HP:421/464 MP:91/91
+C-Israfel HP:258/258 MP:251/251
+D-Lord Nan Dou HP:524/549 MP:96/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Kingu
+3-Itsuki
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:435/492 MP:84/98
+2-Demonee-Ho HP:801/804 MP:160/160
+3-Atropos HP:194/277 MP:269/269
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Balor ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:328/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Kingu HP:421/464 MP:91/91
+C-Balor HP:435/492 MP:84/98
+D-Lord Nan Dou HP:524/549 MP:96/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Itsuki
+3-Lord Nan Dou
+4-Balor
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Kotone HP:328/597 MP:248/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ataca a Kotone
+Kotone es resistente el ataque de Kingu
+Kotone recibe 17 de daño
+Kotone termina con HP:311/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:311/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Kingu HP:421/464 MP:91/91
+C-Balor HP:435/492 MP:84/98
+D-Lord Nan Dou HP:524/549 MP:96/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lord Nan Dou
+3-Balor
+4-Kingu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:801/804 MP:160/160
+2-Israfel HP:258/258 MP:251/251
+3-Atropos HP:194/277 MP:269/269
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Kingu HP:421/464 MP:91/91 (Puesto 2)
+2-Balor HP:435/492 MP:84/98 (Puesto 3)
+3-Lord Nan Dou HP:524/549 MP:96/108 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:311/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Atropos HP:194/277 MP:269/269
+C-Balor HP:435/492 MP:84/98
+D-Lord Nan Dou HP:524/549 MP:96/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Balor
+3-Atropos
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:421/464 MP:91/91
+2-Demonee-Ho HP:801/804 MP:160/160
+3-Israfel HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Israfel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:311/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Atropos HP:194/277 MP:269/269
+C-Balor HP:435/492 MP:84/98
+D-Israfel HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Atropos
+3-Itsuki
+4-Israfel
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:421/464 MP:91/91
+2-Demonee-Ho HP:801/804 MP:160/160
+3-Lord Nan Dou HP:524/549 MP:96/108
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:311/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Atropos HP:194/277 MP:269/269
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Israfel HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Atropos
+2-Itsuki
+3-Israfel
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:421/464 MP:91/91
+2-Balor HP:435/492 MP:84/98
+3-Lord Nan Dou HP:524/549 MP:96/108
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Balor ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:311/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Balor HP:435/492 MP:84/98
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Israfel HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:311/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Balor HP:435/492 MP:84/98
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Israfel HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Itsuki HP:1046/1136 MP:358/413
+2-Balor HP:435/492 MP:84/98
+3-Demonee-Ho HP:801/804 MP:160/160
+4-Israfel HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kotone ataca a Israfel
+Israfel recibe 38 de daño
+Israfel termina con HP:220/258
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:311/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Balor HP:435/492 MP:84/98
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Israfel HP:220/258 MP:251/251
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Itsuki
+3-Balor
+4-Israfel
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:311/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Balor HP:435/492 MP:84/98
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Israfel HP:220/258 MP:251/251
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Balor
+3-Israfel
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:311/597 MP:248/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:421/464 MP:91/91
+2-Lord Nan Dou HP:524/549 MP:96/108
+3-Atropos HP:194/277 MP:269/269
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Balor HP:435/492 MP:84/98 (Puesto 2)
+2-Demonee-Ho HP:801/804 MP:160/160 (Puesto 3)
+3-Israfel HP:220/258 MP:251/251 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Atropos ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:311/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Balor HP:435/492 MP:84/98
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Atropos
+3-Demonee-Ho
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Kotone HP:311/597 MP:248/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Balor lanza fuego a Kotone
+Kotone es resistente el ataque de Balor
+Kotone recibe 46 de daño
+Kotone termina con HP:265/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:265/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Balor HP:435/492 MP:70/98
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Demonee-Ho
+3-Itsuki
+4-Balor
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Atropos use
+1-Hamaon MP:10
+2-Tathlum Shot MP:7
+3-Ziodyne MP:14
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Kotone HP:265/597 MP:248/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Kotone
+Kotone es resistente el ataque de Atropos
+Kotone recibe 14 de daño
+Kotone termina con HP:251/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:251/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Balor HP:435/492 MP:70/98
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Itsuki
+3-Balor
+4-Atropos
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kotone HP:251/597 MP:248/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ataca a Kotone
+Kotone es resistente el ataque de Demonee-Ho
+Kotone recibe 31 de daño
+Kotone termina con HP:220/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:220/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Balor HP:435/492 MP:70/98
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:194/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Itsuki HP:1046/1136 MP:358/413
+2-Balor HP:435/492 MP:70/98
+3-Demonee-Ho HP:801/804 MP:160/160
+4-Atropos HP:194/277 MP:269/269
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kotone dispara a Atropos
+Atropos recibe 57 de daño
+Atropos termina con HP:137/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:220/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Balor HP:435/492 MP:70/98
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:137/277 MP:269/269
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Itsuki
+3-Balor
+4-Atropos
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kotone HP:220/597 MP:248/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:220/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Balor HP:435/492 MP:70/98
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:137/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Balor
+3-Atropos
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Sabbatma MP:20
+2-Mortal Jihad MP:13
+3-Diarama MP:9
+4-Invitation MP:45
+5-Berserker God MP:12
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:220/597 MP:248/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:220/597 MP:248/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Kotone
+Kotone es resistente el ataque de Itsuki
+Kotone recibe 22 de daño
+Kotone termina con HP:198/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:198/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Balor HP:435/492 MP:70/98
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:137/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Atropos
+3-Demonee-Ho
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:421/464 MP:91/91
+2-Israfel HP:220/258 MP:251/251
+3-Lord Nan Dou HP:524/549 MP:96/108
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Israfel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:198/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Israfel HP:220/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:137/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Atropos
+2-Demonee-Ho
+3-Itsuki
+4-Israfel
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:198/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Israfel HP:220/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:137/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Itsuki
+3-Israfel
+4-Atropos
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:198/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:358/413
+B-Israfel HP:220/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:137/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Israfel
+3-Atropos
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:198/597 MP:248/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Sabbatma MP:20
+2-Mortal Jihad MP:13
+3-Diarama MP:9
+4-Invitation MP:45
+5-Berserker God MP:12
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:198/597 MP:248/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Kotone
+Kotone es resistente el ataque de Itsuki
+Kotone recibe 66 de daño
+Kotone termina con HP:132/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:132/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:345/413
+B-Israfel HP:220/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:137/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Atropos
+3-Demonee-Ho
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Israfel use
+1-Mabufula MP:20
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:132/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:345/413
+B-Israfel HP:220/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:137/277 MP:269/269
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Atropos
+2-Demonee-Ho
+3-Itsuki
+4-Israfel
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Atropos use
+1-Hamaon MP:10
+2-Tathlum Shot MP:7
+3-Ziodyne MP:14
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:132/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:345/413
+B-Israfel HP:220/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:137/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Itsuki HP:1046/1136 MP:345/413
+2-Israfel HP:220/258 MP:251/251
+3-Demonee-Ho HP:801/804 MP:160/160
+4-Atropos HP:137/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone dispara a Israfel
+Israfel recibe 57 de daño
+Israfel termina con HP:163/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:132/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:345/413
+B-Israfel HP:163/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:137/277 MP:269/269
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Itsuki
+3-Atropos
+4-Israfel
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kotone HP:132/597 MP:248/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:132/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:345/413
+B-Israfel HP:163/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:137/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Atropos
+3-Israfel
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:132/597 MP:248/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Kotone
+Kotone es resistente el ataque de Itsuki
+Kotone recibe 22 de daño
+Kotone termina con HP:110/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:110/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:345/413
+B-Israfel HP:163/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:137/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Israfel
+3-Demonee-Ho
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Atropos use
+1-Hamaon MP:10
+2-Tathlum Shot MP:7
+3-Ziodyne MP:14
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Kotone HP:110/597 MP:248/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos lanza viento a Kotone
+Kotone es resistente el ataque de Atropos
+Kotone recibe 59 de daño
+Kotone termina con HP:51/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:51/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:345/413
+B-Israfel HP:163/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:137/277 MP:255/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Demonee-Ho
+3-Itsuki
+4-Atropos
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Kotone HP:51/597 MP:248/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Kotone HP:51/597 MP:248/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Israfel ataca a Kotone
+Kotone es resistente el ataque de Israfel
+Kotone recibe 13 de daño
+Kotone termina con HP:38/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:38/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:345/413
+B-Israfel HP:163/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:137/277 MP:255/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Itsuki
+3-Atropos
+4-Israfel
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kotone HP:38/597 MP:248/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:38/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:345/413
+B-Israfel HP:163/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:137/277 MP:255/269
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Atropos
+3-Israfel
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:38/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:345/413
+B-Israfel HP:163/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:137/277 MP:255/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Itsuki HP:1046/1136 MP:345/413
+2-Israfel HP:163/258 MP:251/251
+3-Demonee-Ho HP:801/804 MP:160/160
+4-Atropos HP:137/277 MP:255/269
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kotone ataca a Atropos
+Atropos recibe 38 de daño
+Atropos termina con HP:99/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:38/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:345/413
+B-Israfel HP:163/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:99/277 MP:255/269
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Itsuki
+3-Atropos
+4-Israfel
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:38/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:345/413
+B-Israfel HP:163/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:99/277 MP:255/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Atropos
+3-Israfel
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:38/597 MP:248/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:38/597 MP:248/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:38/597 MP:248/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:38/597 MP:248/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Kotone
+Kotone es resistente el ataque de Itsuki
+Kotone recibe 30 de daño
+Kotone termina con HP:8/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:8/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:345/413
+B-Israfel HP:163/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Atropos HP:99/277 MP:255/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Israfel
+3-Demonee-Ho
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:421/464 MP:91/91
+2-Balor HP:435/492 MP:70/98
+3-Lord Nan Dou HP:524/549 MP:96/108
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Balor ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:8/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:345/413
+B-Israfel HP:163/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Balor HP:435/492 MP:70/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Demonee-Ho
+3-Itsuki
+4-Balor
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Israfel use
+1-Mabufula MP:20
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Israfel use
+1-Mabufula MP:20
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Itsuki HP:1046/1136 MP:345/413
+2-Israfel HP:163/258 MP:251/251
+3-Demonee-Ho HP:801/804 MP:160/160
+4-Balor HP:435/492 MP:70/98
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:421/464 MP:91/91
+2-Lord Nan Dou HP:524/549 MP:96/108
+3-Atropos HP:99/277 MP:255/269
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Kotone HP:8/597 MP:248/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:8/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:345/413
+B-Israfel HP:163/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Balor HP:435/492 MP:70/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Itsuki
+3-Balor
+4-Israfel
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:8/597 MP:248/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1046/1136 MP:345/413
+B-Israfel HP:163/258 MP:251/251
+C-Demonee-Ho HP:801/804 MP:160/160
+D-Balor HP:435/492 MP:70/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Balor
+3-Israfel
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:8/597 MP:248/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Kotone
+Kotone es resistente el ataque de Itsuki
+Kotone recibe 22 de daño
+Kotone termina con HP:0/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Itsuki (J2)

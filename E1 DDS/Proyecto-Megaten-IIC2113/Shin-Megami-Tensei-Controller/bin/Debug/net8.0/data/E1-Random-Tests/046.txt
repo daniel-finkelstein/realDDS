@@ -1,0 +1,4378 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 45
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Tsuchigumo HP:280/280 MP:126/126
+C-Dormarth HP:277/277 MP:269/269
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Ishtar HP:258/258 MP:251/251
+C-Ose HP:454/454 MP:90/90
+D-Kazfiel HP:469/469 MP:211/211
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Joker
+3-Dormarth
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Joker HP:597/597 MP:347/347
+2-Ishtar HP:258/258 MP:251/251
+3-Ose HP:454/454 MP:90/90
+4-Kazfiel HP:469/469 MP:211/211
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Black Maria ataca a Joker
+Joker recibe 36 de daño
+Joker termina con HP:561/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Tsuchigumo HP:280/280 MP:126/126
+C-Dormarth HP:277/277 MP:269/269
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:561/597 MP:347/347
+B-Ishtar HP:258/258 MP:251/251
+C-Ose HP:454/454 MP:90/90
+D-Kazfiel HP:469/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Tsuchigumo
+4-Black Maria
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:561/597 MP:347/347
+2-Ishtar HP:258/258 MP:251/251
+3-Ose HP:454/454 MP:90/90
+4-Kazfiel HP:469/469 MP:211/211
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Ose
+Ose recibe 39 de daño
+Ose termina con HP:415/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Tsuchigumo HP:280/280 MP:126/126
+C-Dormarth HP:277/277 MP:269/269
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:561/597 MP:347/347
+B-Ishtar HP:258/258 MP:251/251
+C-Ose HP:415/454 MP:90/90
+D-Kazfiel HP:469/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Tsuchigumo
+3-Black Maria
+4-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Joker HP:561/597 MP:347/347
+2-Ishtar HP:258/258 MP:251/251
+3-Ose HP:415/454 MP:90/90
+4-Kazfiel HP:469/469 MP:211/211
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Dormarth ataca a Ose
+Ose recibe 29 de daño
+Ose termina con HP:386/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Tsuchigumo HP:280/280 MP:126/126
+C-Dormarth HP:277/277 MP:269/269
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:561/597 MP:347/347
+B-Ishtar HP:258/258 MP:251/251
+C-Ose HP:386/454 MP:90/90
+D-Kazfiel HP:469/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Black Maria
+3-Joker
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Joker HP:561/597 MP:347/347
+2-Ishtar HP:258/258 MP:251/251
+3-Ose HP:386/454 MP:90/90
+4-Kazfiel HP:469/469 MP:211/211
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tsuchigumo ataca a Kazfiel
+Kazfiel recibe 22 de daño
+Kazfiel termina con HP:447/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Tsuchigumo HP:280/280 MP:126/126
+C-Dormarth HP:277/277 MP:269/269
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:561/597 MP:347/347
+B-Ishtar HP:258/258 MP:251/251
+C-Ose HP:386/454 MP:90/90
+D-Kazfiel HP:447/469 MP:211/211
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Joker
+3-Ose
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:597/597 MP:347/347
+2-Tsuchigumo HP:280/280 MP:126/126
+3-Dormarth HP:277/277 MP:269/269
+4-Black Maria HP:348/348 MP:337/337
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kazfiel ataca a Tsuchigumo
+Tsuchigumo recibe 38 de daño
+Tsuchigumo termina con HP:242/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Tsuchigumo HP:242/280 MP:126/126
+C-Dormarth HP:277/277 MP:269/269
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:561/597 MP:347/347
+B-Ishtar HP:258/258 MP:251/251
+C-Ose HP:386/454 MP:90/90
+D-Kazfiel HP:447/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ose
+3-Ishtar
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:597/597 MP:347/347
+2-Tsuchigumo HP:242/280 MP:126/126
+3-Dormarth HP:277/277 MP:269/269
+4-Black Maria HP:348/348 MP:337/337
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Tsuchigumo
+Tsuchigumo recibe 39 de daño
+Tsuchigumo termina con HP:203/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Tsuchigumo HP:203/280 MP:126/126
+C-Dormarth HP:277/277 MP:269/269
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:561/597 MP:347/347
+B-Ishtar HP:258/258 MP:251/251
+C-Ose HP:386/454 MP:90/90
+D-Kazfiel HP:447/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Ishtar
+3-Kazfiel
+4-Joker
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:597/597 MP:347/347
+2-Tsuchigumo HP:203/280 MP:126/126
+3-Dormarth HP:277/277 MP:269/269
+4-Black Maria HP:348/348 MP:337/337
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ose ataca a Tsuchigumo
+Tsuchigumo recibe 33 de daño
+Tsuchigumo termina con HP:170/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Tsuchigumo HP:170/280 MP:126/126
+C-Dormarth HP:277/277 MP:269/269
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:561/597 MP:347/347
+B-Ishtar HP:258/258 MP:251/251
+C-Ose HP:386/454 MP:90/90
+D-Kazfiel HP:447/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Kazfiel
+3-Joker
+4-Ose
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Joker HP:597/597 MP:347/347
+2-Tsuchigumo HP:170/280 MP:126/126
+3-Dormarth HP:277/277 MP:269/269
+4-Black Maria HP:348/348 MP:337/337
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ishtar ataca a Dormarth
+Dormarth recibe 27 de daño
+Dormarth termina con HP:250/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Tsuchigumo HP:170/280 MP:126/126
+C-Dormarth HP:250/277 MP:269/269
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:561/597 MP:347/347
+B-Ishtar HP:258/258 MP:251/251
+C-Ose HP:386/454 MP:90/90
+D-Kazfiel HP:447/469 MP:211/211
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Joker
+3-Dormarth
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Joker HP:561/597 MP:347/347
+2-Ishtar HP:258/258 MP:251/251
+3-Ose HP:386/454 MP:90/90
+4-Kazfiel HP:447/469 MP:211/211
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Black Maria ataca a Joker
+Joker recibe 36 de daño
+Joker termina con HP:525/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Tsuchigumo HP:170/280 MP:126/126
+C-Dormarth HP:250/277 MP:269/269
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:525/597 MP:347/347
+B-Ishtar HP:258/258 MP:251/251
+C-Ose HP:386/454 MP:90/90
+D-Kazfiel HP:447/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Tsuchigumo
+4-Black Maria
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:525/597 MP:347/347
+2-Ishtar HP:258/258 MP:251/251
+3-Ose HP:386/454 MP:90/90
+4-Kazfiel HP:447/469 MP:211/211
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker dispara a Kazfiel
+Kazfiel recibe 39 de daño
+Kazfiel termina con HP:408/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Tsuchigumo HP:170/280 MP:126/126
+C-Dormarth HP:250/277 MP:269/269
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:525/597 MP:347/347
+B-Ishtar HP:258/258 MP:251/251
+C-Ose HP:386/454 MP:90/90
+D-Kazfiel HP:408/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Tsuchigumo
+3-Black Maria
+4-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Joker HP:525/597 MP:347/347
+2-Ishtar HP:258/258 MP:251/251
+3-Ose HP:386/454 MP:90/90
+4-Kazfiel HP:408/469 MP:211/211
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Dormarth ataca a Ishtar
+Ishtar recibe 29 de daño
+Ishtar termina con HP:229/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Tsuchigumo HP:170/280 MP:126/126
+C-Dormarth HP:250/277 MP:269/269
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:525/597 MP:347/347
+B-Ishtar HP:229/258 MP:251/251
+C-Ose HP:386/454 MP:90/90
+D-Kazfiel HP:408/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Black Maria
+3-Joker
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Joker HP:525/597 MP:347/347
+2-Ishtar HP:229/258 MP:251/251
+3-Ose HP:386/454 MP:90/90
+4-Kazfiel HP:408/469 MP:211/211
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tsuchigumo ataca a Ishtar
+Ishtar recibe 22 de daño
+Ishtar termina con HP:207/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Tsuchigumo HP:170/280 MP:126/126
+C-Dormarth HP:250/277 MP:269/269
+D-Black Maria HP:348/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:525/597 MP:347/347
+B-Ishtar HP:207/258 MP:251/251
+C-Ose HP:386/454 MP:90/90
+D-Kazfiel HP:408/469 MP:211/211
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Joker
+3-Ose
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:597/597 MP:347/347
+2-Tsuchigumo HP:170/280 MP:126/126
+3-Dormarth HP:250/277 MP:269/269
+4-Black Maria HP:348/348 MP:337/337
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kazfiel ataca a Black Maria
+Black Maria recibe 38 de daño
+Black Maria termina con HP:310/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Tsuchigumo HP:170/280 MP:126/126
+C-Dormarth HP:250/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:525/597 MP:347/347
+B-Ishtar HP:207/258 MP:251/251
+C-Ose HP:386/454 MP:90/90
+D-Kazfiel HP:408/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ose
+3-Ishtar
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:597/597 MP:347/347
+2-Tsuchigumo HP:170/280 MP:126/126
+3-Dormarth HP:250/277 MP:269/269
+4-Black Maria HP:310/348 MP:337/337
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:597/597 MP:347/347
+2-Tsuchigumo HP:170/280 MP:126/126
+3-Dormarth HP:250/277 MP:269/269
+4-Black Maria HP:310/348 MP:337/337
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:597/597 MP:347/347
+2-Tsuchigumo HP:170/280 MP:126/126
+3-Dormarth HP:250/277 MP:269/269
+4-Black Maria HP:310/348 MP:337/337
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Joker
+Joker recibe 28 de daño
+Joker termina con HP:569/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Tsuchigumo HP:170/280 MP:126/126
+C-Dormarth HP:250/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:525/597 MP:347/347
+B-Ishtar HP:207/258 MP:251/251
+C-Ose HP:386/454 MP:90/90
+D-Kazfiel HP:408/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Ishtar
+3-Kazfiel
+4-Joker
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:569/597 MP:347/347
+2-Tsuchigumo HP:170/280 MP:126/126
+3-Dormarth HP:250/277 MP:269/269
+4-Black Maria HP:310/348 MP:337/337
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ose ataca a Dormarth
+Dormarth recibe 33 de daño
+Dormarth termina con HP:217/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Tsuchigumo HP:170/280 MP:126/126
+C-Dormarth HP:217/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:525/597 MP:347/347
+B-Ishtar HP:207/258 MP:251/251
+C-Ose HP:386/454 MP:90/90
+D-Kazfiel HP:408/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Kazfiel
+3-Joker
+4-Ose
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Joker HP:569/597 MP:347/347
+2-Tsuchigumo HP:170/280 MP:126/126
+3-Dormarth HP:217/277 MP:269/269
+4-Black Maria HP:310/348 MP:337/337
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ishtar ataca a Tsuchigumo
+Tsuchigumo recibe 27 de daño
+Tsuchigumo termina con HP:143/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Tsuchigumo HP:143/280 MP:126/126
+C-Dormarth HP:217/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:525/597 MP:347/347
+B-Ishtar HP:207/258 MP:251/251
+C-Ose HP:386/454 MP:90/90
+D-Kazfiel HP:408/469 MP:211/211
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Joker
+3-Dormarth
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Joker HP:525/597 MP:347/347
+2-Ishtar HP:207/258 MP:251/251
+3-Ose HP:386/454 MP:90/90
+4-Kazfiel HP:408/469 MP:211/211
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Black Maria ataca a Ose
+Ose recibe 36 de daño
+Ose termina con HP:350/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Tsuchigumo HP:143/280 MP:126/126
+C-Dormarth HP:217/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:525/597 MP:347/347
+B-Ishtar HP:207/258 MP:251/251
+C-Ose HP:350/454 MP:90/90
+D-Kazfiel HP:408/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Tsuchigumo
+4-Black Maria
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:525/597 MP:347/347
+2-Ishtar HP:207/258 MP:251/251
+3-Ose HP:350/454 MP:90/90
+4-Kazfiel HP:408/469 MP:211/211
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker ataca a Kazfiel
+Kazfiel recibe 28 de daño
+Kazfiel termina con HP:380/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Tsuchigumo HP:143/280 MP:126/126
+C-Dormarth HP:217/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:525/597 MP:347/347
+B-Ishtar HP:207/258 MP:251/251
+C-Ose HP:350/454 MP:90/90
+D-Kazfiel HP:380/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Tsuchigumo
+3-Black Maria
+4-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Joker HP:525/597 MP:347/347
+2-Ishtar HP:207/258 MP:251/251
+3-Ose HP:350/454 MP:90/90
+4-Kazfiel HP:380/469 MP:211/211
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Joker HP:525/597 MP:347/347
+2-Ishtar HP:207/258 MP:251/251
+3-Ose HP:350/454 MP:90/90
+4-Kazfiel HP:380/469 MP:211/211
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Joker
+Joker recibe 29 de daño
+Joker termina con HP:496/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Tsuchigumo HP:143/280 MP:126/126
+C-Dormarth HP:217/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:496/597 MP:347/347
+B-Ishtar HP:207/258 MP:251/251
+C-Ose HP:350/454 MP:90/90
+D-Kazfiel HP:380/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Black Maria
+3-Joker
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Joker HP:496/597 MP:347/347
+2-Ishtar HP:207/258 MP:251/251
+3-Ose HP:350/454 MP:90/90
+4-Kazfiel HP:380/469 MP:211/211
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tsuchigumo ataca a Joker
+Joker recibe 22 de daño
+Joker termina con HP:474/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Tsuchigumo HP:143/280 MP:126/126
+C-Dormarth HP:217/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:474/597 MP:347/347
+B-Ishtar HP:207/258 MP:251/251
+C-Ose HP:350/454 MP:90/90
+D-Kazfiel HP:380/469 MP:211/211
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Joker
+3-Ose
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:569/597 MP:347/347
+2-Tsuchigumo HP:143/280 MP:126/126
+3-Dormarth HP:217/277 MP:269/269
+4-Black Maria HP:310/348 MP:337/337
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:569/597 MP:347/347
+2-Tsuchigumo HP:143/280 MP:126/126
+3-Dormarth HP:217/277 MP:269/269
+4-Black Maria HP:310/348 MP:337/337
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ataca a Joker
+Joker recibe 38 de daño
+Joker termina con HP:531/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:531/597 MP:347/347
+B-Tsuchigumo HP:143/280 MP:126/126
+C-Dormarth HP:217/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:474/597 MP:347/347
+B-Ishtar HP:207/258 MP:251/251
+C-Ose HP:350/454 MP:90/90
+D-Kazfiel HP:380/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ose
+3-Ishtar
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:531/597 MP:347/347
+2-Tsuchigumo HP:143/280 MP:126/126
+3-Dormarth HP:217/277 MP:269/269
+4-Black Maria HP:310/348 MP:337/337
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Joker
+Joker recibe 28 de daño
+Joker termina con HP:503/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:503/597 MP:347/347
+B-Tsuchigumo HP:143/280 MP:126/126
+C-Dormarth HP:217/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:474/597 MP:347/347
+B-Ishtar HP:207/258 MP:251/251
+C-Ose HP:350/454 MP:90/90
+D-Kazfiel HP:380/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Ishtar
+3-Kazfiel
+4-Joker
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:503/597 MP:347/347
+2-Tsuchigumo HP:143/280 MP:126/126
+3-Dormarth HP:217/277 MP:269/269
+4-Black Maria HP:310/348 MP:337/337
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ose ataca a Tsuchigumo
+Tsuchigumo recibe 33 de daño
+Tsuchigumo termina con HP:110/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:503/597 MP:347/347
+B-Tsuchigumo HP:110/280 MP:126/126
+C-Dormarth HP:217/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:474/597 MP:347/347
+B-Ishtar HP:207/258 MP:251/251
+C-Ose HP:350/454 MP:90/90
+D-Kazfiel HP:380/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Kazfiel
+3-Joker
+4-Ose
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Joker HP:503/597 MP:347/347
+2-Tsuchigumo HP:110/280 MP:126/126
+3-Dormarth HP:217/277 MP:269/269
+4-Black Maria HP:310/348 MP:337/337
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Joker
+Joker recibe 27 de daño
+Joker termina con HP:476/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:476/597 MP:347/347
+B-Tsuchigumo HP:110/280 MP:126/126
+C-Dormarth HP:217/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:474/597 MP:347/347
+B-Ishtar HP:207/258 MP:251/251
+C-Ose HP:350/454 MP:90/90
+D-Kazfiel HP:380/469 MP:211/211
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Joker
+3-Dormarth
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Joker HP:474/597 MP:347/347
+2-Ishtar HP:207/258 MP:251/251
+3-Ose HP:350/454 MP:90/90
+4-Kazfiel HP:380/469 MP:211/211
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Joker HP:474/597 MP:347/347
+2-Ishtar HP:207/258 MP:251/251
+3-Ose HP:350/454 MP:90/90
+4-Kazfiel HP:380/469 MP:211/211
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Black Maria ataca a Joker
+Joker recibe 36 de daño
+Joker termina con HP:438/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:476/597 MP:347/347
+B-Tsuchigumo HP:110/280 MP:126/126
+C-Dormarth HP:217/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:438/597 MP:347/347
+B-Ishtar HP:207/258 MP:251/251
+C-Ose HP:350/454 MP:90/90
+D-Kazfiel HP:380/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Tsuchigumo
+4-Black Maria
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:438/597 MP:347/347
+2-Ishtar HP:207/258 MP:251/251
+3-Ose HP:350/454 MP:90/90
+4-Kazfiel HP:380/469 MP:211/211
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker ataca a Kazfiel
+Kazfiel recibe 28 de daño
+Kazfiel termina con HP:352/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:476/597 MP:347/347
+B-Tsuchigumo HP:110/280 MP:126/126
+C-Dormarth HP:217/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:438/597 MP:347/347
+B-Ishtar HP:207/258 MP:251/251
+C-Ose HP:350/454 MP:90/90
+D-Kazfiel HP:352/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Tsuchigumo
+3-Black Maria
+4-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Joker HP:438/597 MP:347/347
+2-Ishtar HP:207/258 MP:251/251
+3-Ose HP:350/454 MP:90/90
+4-Kazfiel HP:352/469 MP:211/211
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Dormarth ataca a Ishtar
+Ishtar recibe 29 de daño
+Ishtar termina con HP:178/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:476/597 MP:347/347
+B-Tsuchigumo HP:110/280 MP:126/126
+C-Dormarth HP:217/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:438/597 MP:347/347
+B-Ishtar HP:178/258 MP:251/251
+C-Ose HP:350/454 MP:90/90
+D-Kazfiel HP:352/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Black Maria
+3-Joker
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Joker HP:438/597 MP:347/347
+2-Ishtar HP:178/258 MP:251/251
+3-Ose HP:350/454 MP:90/90
+4-Kazfiel HP:352/469 MP:211/211
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tsuchigumo ataca a Ishtar
+Ishtar recibe 22 de daño
+Ishtar termina con HP:156/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:476/597 MP:347/347
+B-Tsuchigumo HP:110/280 MP:126/126
+C-Dormarth HP:217/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:438/597 MP:347/347
+B-Ishtar HP:156/258 MP:251/251
+C-Ose HP:350/454 MP:90/90
+D-Kazfiel HP:352/469 MP:211/211
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Joker
+3-Ose
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:476/597 MP:347/347
+2-Tsuchigumo HP:110/280 MP:126/126
+3-Dormarth HP:217/277 MP:269/269
+4-Black Maria HP:310/348 MP:337/337
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kazfiel ataca a Tsuchigumo
+Tsuchigumo recibe 38 de daño
+Tsuchigumo termina con HP:72/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:476/597 MP:347/347
+B-Tsuchigumo HP:72/280 MP:126/126
+C-Dormarth HP:217/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:438/597 MP:347/347
+B-Ishtar HP:156/258 MP:251/251
+C-Ose HP:350/454 MP:90/90
+D-Kazfiel HP:352/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ose
+3-Ishtar
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:476/597 MP:347/347
+2-Tsuchigumo HP:72/280 MP:126/126
+3-Dormarth HP:217/277 MP:269/269
+4-Black Maria HP:310/348 MP:337/337
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Joker
+Joker recibe 28 de daño
+Joker termina con HP:448/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:448/597 MP:347/347
+B-Tsuchigumo HP:72/280 MP:126/126
+C-Dormarth HP:217/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:438/597 MP:347/347
+B-Ishtar HP:156/258 MP:251/251
+C-Ose HP:350/454 MP:90/90
+D-Kazfiel HP:352/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Ishtar
+3-Kazfiel
+4-Joker
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:448/597 MP:347/347
+2-Tsuchigumo HP:72/280 MP:126/126
+3-Dormarth HP:217/277 MP:269/269
+4-Black Maria HP:310/348 MP:337/337
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ose ataca a Dormarth
+Dormarth recibe 33 de daño
+Dormarth termina con HP:184/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:448/597 MP:347/347
+B-Tsuchigumo HP:72/280 MP:126/126
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:310/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:438/597 MP:347/347
+B-Ishtar HP:156/258 MP:251/251
+C-Ose HP:350/454 MP:90/90
+D-Kazfiel HP:352/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Kazfiel
+3-Joker
+4-Ose
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Joker HP:448/597 MP:347/347
+2-Tsuchigumo HP:72/280 MP:126/126
+3-Dormarth HP:184/277 MP:269/269
+4-Black Maria HP:310/348 MP:337/337
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Joker HP:448/597 MP:347/347
+2-Tsuchigumo HP:72/280 MP:126/126
+3-Dormarth HP:184/277 MP:269/269
+4-Black Maria HP:310/348 MP:337/337
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ishtar ataca a Black Maria
+Black Maria recibe 27 de daño
+Black Maria termina con HP:283/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:448/597 MP:347/347
+B-Tsuchigumo HP:72/280 MP:126/126
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:283/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:438/597 MP:347/347
+B-Ishtar HP:156/258 MP:251/251
+C-Ose HP:350/454 MP:90/90
+D-Kazfiel HP:352/469 MP:211/211
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Joker
+3-Dormarth
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Joker HP:438/597 MP:347/347
+2-Ishtar HP:156/258 MP:251/251
+3-Ose HP:350/454 MP:90/90
+4-Kazfiel HP:352/469 MP:211/211
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Black Maria ataca a Ishtar
+Ishtar recibe 36 de daño
+Ishtar termina con HP:120/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:448/597 MP:347/347
+B-Tsuchigumo HP:72/280 MP:126/126
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:283/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:438/597 MP:347/347
+B-Ishtar HP:120/258 MP:251/251
+C-Ose HP:350/454 MP:90/90
+D-Kazfiel HP:352/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Tsuchigumo
+4-Black Maria
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:438/597 MP:347/347
+2-Ishtar HP:120/258 MP:251/251
+3-Ose HP:350/454 MP:90/90
+4-Kazfiel HP:352/469 MP:211/211
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:438/597 MP:347/347
+2-Ishtar HP:120/258 MP:251/251
+3-Ose HP:350/454 MP:90/90
+4-Kazfiel HP:352/469 MP:211/211
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Ishtar
+Ishtar recibe 28 de daño
+Ishtar termina con HP:92/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:448/597 MP:347/347
+B-Tsuchigumo HP:72/280 MP:126/126
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:283/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:438/597 MP:347/347
+B-Ishtar HP:92/258 MP:251/251
+C-Ose HP:350/454 MP:90/90
+D-Kazfiel HP:352/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Tsuchigumo
+3-Black Maria
+4-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Joker HP:438/597 MP:347/347
+2-Ishtar HP:92/258 MP:251/251
+3-Ose HP:350/454 MP:90/90
+4-Kazfiel HP:352/469 MP:211/211
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Joker HP:438/597 MP:347/347
+2-Ishtar HP:92/258 MP:251/251
+3-Ose HP:350/454 MP:90/90
+4-Kazfiel HP:352/469 MP:211/211
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Dormarth ataca a Ose
+Ose recibe 29 de daño
+Ose termina con HP:321/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:448/597 MP:347/347
+B-Tsuchigumo HP:72/280 MP:126/126
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:283/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:438/597 MP:347/347
+B-Ishtar HP:92/258 MP:251/251
+C-Ose HP:321/454 MP:90/90
+D-Kazfiel HP:352/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Black Maria
+3-Joker
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Joker HP:438/597 MP:347/347
+2-Ishtar HP:92/258 MP:251/251
+3-Ose HP:321/454 MP:90/90
+4-Kazfiel HP:352/469 MP:211/211
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tsuchigumo ataca a Joker
+Joker recibe 22 de daño
+Joker termina con HP:416/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:448/597 MP:347/347
+B-Tsuchigumo HP:72/280 MP:126/126
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:283/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:416/597 MP:347/347
+B-Ishtar HP:92/258 MP:251/251
+C-Ose HP:321/454 MP:90/90
+D-Kazfiel HP:352/469 MP:211/211
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Joker
+3-Ose
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:448/597 MP:347/347
+2-Tsuchigumo HP:72/280 MP:126/126
+3-Dormarth HP:184/277 MP:269/269
+4-Black Maria HP:283/348 MP:337/337
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ataca a Joker
+Joker recibe 38 de daño
+Joker termina con HP:410/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:410/597 MP:347/347
+B-Tsuchigumo HP:72/280 MP:126/126
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:283/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:416/597 MP:347/347
+B-Ishtar HP:92/258 MP:251/251
+C-Ose HP:321/454 MP:90/90
+D-Kazfiel HP:352/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ose
+3-Ishtar
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:410/597 MP:347/347
+2-Tsuchigumo HP:72/280 MP:126/126
+3-Dormarth HP:184/277 MP:269/269
+4-Black Maria HP:283/348 MP:337/337
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker dispara a Black Maria
+Black Maria recibe 39 de daño
+Black Maria termina con HP:244/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:410/597 MP:347/347
+B-Tsuchigumo HP:72/280 MP:126/126
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:244/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:416/597 MP:347/347
+B-Ishtar HP:92/258 MP:251/251
+C-Ose HP:321/454 MP:90/90
+D-Kazfiel HP:352/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Ishtar
+3-Kazfiel
+4-Joker
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:410/597 MP:347/347
+2-Tsuchigumo HP:72/280 MP:126/126
+3-Dormarth HP:184/277 MP:269/269
+4-Black Maria HP:244/348 MP:337/337
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ose ataca a Tsuchigumo
+Tsuchigumo recibe 33 de daño
+Tsuchigumo termina con HP:39/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:410/597 MP:347/347
+B-Tsuchigumo HP:39/280 MP:126/126
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:244/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:416/597 MP:347/347
+B-Ishtar HP:92/258 MP:251/251
+C-Ose HP:321/454 MP:90/90
+D-Kazfiel HP:352/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Kazfiel
+3-Joker
+4-Ose
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Joker HP:410/597 MP:347/347
+2-Tsuchigumo HP:39/280 MP:126/126
+3-Dormarth HP:184/277 MP:269/269
+4-Black Maria HP:244/348 MP:337/337
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Joker HP:410/597 MP:347/347
+2-Tsuchigumo HP:39/280 MP:126/126
+3-Dormarth HP:184/277 MP:269/269
+4-Black Maria HP:244/348 MP:337/337
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Joker HP:410/597 MP:347/347
+2-Tsuchigumo HP:39/280 MP:126/126
+3-Dormarth HP:184/277 MP:269/269
+4-Black Maria HP:244/348 MP:337/337
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ishtar ataca a Black Maria
+Black Maria recibe 27 de daño
+Black Maria termina con HP:217/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:410/597 MP:347/347
+B-Tsuchigumo HP:39/280 MP:126/126
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:217/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:416/597 MP:347/347
+B-Ishtar HP:92/258 MP:251/251
+C-Ose HP:321/454 MP:90/90
+D-Kazfiel HP:352/469 MP:211/211
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Joker
+3-Dormarth
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Joker HP:416/597 MP:347/347
+2-Ishtar HP:92/258 MP:251/251
+3-Ose HP:321/454 MP:90/90
+4-Kazfiel HP:352/469 MP:211/211
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Black Maria ataca a Kazfiel
+Kazfiel recibe 36 de daño
+Kazfiel termina con HP:316/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:410/597 MP:347/347
+B-Tsuchigumo HP:39/280 MP:126/126
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:217/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:416/597 MP:347/347
+B-Ishtar HP:92/258 MP:251/251
+C-Ose HP:321/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Tsuchigumo
+4-Black Maria
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:416/597 MP:347/347
+2-Ishtar HP:92/258 MP:251/251
+3-Ose HP:321/454 MP:90/90
+4-Kazfiel HP:316/469 MP:211/211
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Ishtar
+Ishtar recibe 39 de daño
+Ishtar termina con HP:53/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:410/597 MP:347/347
+B-Tsuchigumo HP:39/280 MP:126/126
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:217/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:416/597 MP:347/347
+B-Ishtar HP:53/258 MP:251/251
+C-Ose HP:321/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Tsuchigumo
+3-Black Maria
+4-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Joker HP:416/597 MP:347/347
+2-Ishtar HP:53/258 MP:251/251
+3-Ose HP:321/454 MP:90/90
+4-Kazfiel HP:316/469 MP:211/211
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Joker
+Joker recibe 29 de daño
+Joker termina con HP:387/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:410/597 MP:347/347
+B-Tsuchigumo HP:39/280 MP:126/126
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:217/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:387/597 MP:347/347
+B-Ishtar HP:53/258 MP:251/251
+C-Ose HP:321/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Black Maria
+3-Joker
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Joker HP:387/597 MP:347/347
+2-Ishtar HP:53/258 MP:251/251
+3-Ose HP:321/454 MP:90/90
+4-Kazfiel HP:316/469 MP:211/211
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tsuchigumo ataca a Ishtar
+Ishtar recibe 22 de daño
+Ishtar termina con HP:31/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:410/597 MP:347/347
+B-Tsuchigumo HP:39/280 MP:126/126
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:217/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:387/597 MP:347/347
+B-Ishtar HP:31/258 MP:251/251
+C-Ose HP:321/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Joker
+3-Ose
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:410/597 MP:347/347
+2-Tsuchigumo HP:39/280 MP:126/126
+3-Dormarth HP:184/277 MP:269/269
+4-Black Maria HP:217/348 MP:337/337
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kazfiel ataca a Tsuchigumo
+Tsuchigumo recibe 38 de daño
+Tsuchigumo termina con HP:1/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:410/597 MP:347/347
+B-Tsuchigumo HP:1/280 MP:126/126
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:217/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:387/597 MP:347/347
+B-Ishtar HP:31/258 MP:251/251
+C-Ose HP:321/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ose
+3-Ishtar
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:410/597 MP:347/347
+2-Tsuchigumo HP:1/280 MP:126/126
+3-Dormarth HP:184/277 MP:269/269
+4-Black Maria HP:217/348 MP:337/337
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker ataca a Black Maria
+Black Maria recibe 28 de daño
+Black Maria termina con HP:189/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:410/597 MP:347/347
+B-Tsuchigumo HP:1/280 MP:126/126
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:189/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:387/597 MP:347/347
+B-Ishtar HP:31/258 MP:251/251
+C-Ose HP:321/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Ishtar
+3-Kazfiel
+4-Joker
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:410/597 MP:347/347
+2-Tsuchigumo HP:1/280 MP:126/126
+3-Dormarth HP:184/277 MP:269/269
+4-Black Maria HP:189/348 MP:337/337
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ose ataca a Tsuchigumo
+Tsuchigumo recibe 33 de daño
+Tsuchigumo termina con HP:0/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:410/597 MP:347/347
+B-
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:189/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:387/597 MP:347/347
+B-Ishtar HP:31/258 MP:251/251
+C-Ose HP:321/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Kazfiel
+3-Joker
+4-Ose
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Joker HP:410/597 MP:347/347
+2-Dormarth HP:184/277 MP:269/269
+3-Black Maria HP:189/348 MP:337/337
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Joker HP:410/597 MP:347/347
+2-Dormarth HP:184/277 MP:269/269
+3-Black Maria HP:189/348 MP:337/337
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ishtar ataca a Black Maria
+Black Maria recibe 27 de daño
+Black Maria termina con HP:162/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:410/597 MP:347/347
+B-
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:162/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:387/597 MP:347/347
+B-Ishtar HP:31/258 MP:251/251
+C-Ose HP:321/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Joker
+3-Dormarth
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Joker HP:387/597 MP:347/347
+2-Ishtar HP:31/258 MP:251/251
+3-Ose HP:321/454 MP:90/90
+4-Kazfiel HP:316/469 MP:211/211
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Black Maria ataca a Ose
+Ose recibe 36 de daño
+Ose termina con HP:285/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:410/597 MP:347/347
+B-
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:162/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:387/597 MP:347/347
+B-Ishtar HP:31/258 MP:251/251
+C-Ose HP:285/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Black Maria
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:387/597 MP:347/347
+2-Ishtar HP:31/258 MP:251/251
+3-Ose HP:285/454 MP:90/90
+4-Kazfiel HP:316/469 MP:211/211
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Joker
+Joker recibe 39 de daño
+Joker termina con HP:348/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:410/597 MP:347/347
+B-
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:162/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:348/597 MP:347/347
+B-Ishtar HP:31/258 MP:251/251
+C-Ose HP:285/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Black Maria
+3-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Joker HP:348/597 MP:347/347
+2-Ishtar HP:31/258 MP:251/251
+3-Ose HP:285/454 MP:90/90
+4-Kazfiel HP:316/469 MP:211/211
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Dormarth ataca a Ose
+Ose recibe 29 de daño
+Ose termina con HP:256/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:410/597 MP:347/347
+B-
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:162/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:348/597 MP:347/347
+B-Ishtar HP:31/258 MP:251/251
+C-Ose HP:256/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Joker
+3-Ose
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:410/597 MP:347/347
+2-Dormarth HP:184/277 MP:269/269
+3-Black Maria HP:162/348 MP:337/337
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ataca a Joker
+Joker recibe 38 de daño
+Joker termina con HP:372/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:372/597 MP:347/347
+B-
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:162/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:348/597 MP:347/347
+B-Ishtar HP:31/258 MP:251/251
+C-Ose HP:256/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ose
+3-Ishtar
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:372/597 MP:347/347
+2-Dormarth HP:184/277 MP:269/269
+3-Black Maria HP:162/348 MP:337/337
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Joker
+Joker recibe 39 de daño
+Joker termina con HP:333/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:333/597 MP:347/347
+B-
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:162/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:348/597 MP:347/347
+B-Ishtar HP:31/258 MP:251/251
+C-Ose HP:256/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Ishtar
+3-Kazfiel
+4-Joker
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:333/597 MP:347/347
+2-Dormarth HP:184/277 MP:269/269
+3-Black Maria HP:162/348 MP:337/337
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ose ataca a Joker
+Joker recibe 33 de daño
+Joker termina con HP:300/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:300/597 MP:347/347
+B-
+C-Dormarth HP:184/277 MP:269/269
+D-Black Maria HP:162/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:348/597 MP:347/347
+B-Ishtar HP:31/258 MP:251/251
+C-Ose HP:256/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Kazfiel
+3-Joker
+4-Ose
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Joker HP:300/597 MP:347/347
+2-Dormarth HP:184/277 MP:269/269
+3-Black Maria HP:162/348 MP:337/337
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Joker HP:300/597 MP:347/347
+2-Dormarth HP:184/277 MP:269/269
+3-Black Maria HP:162/348 MP:337/337
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ishtar ataca a Dormarth
+Dormarth recibe 27 de daño
+Dormarth termina con HP:157/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:300/597 MP:347/347
+B-
+C-Dormarth HP:157/277 MP:269/269
+D-Black Maria HP:162/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:348/597 MP:347/347
+B-Ishtar HP:31/258 MP:251/251
+C-Ose HP:256/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Joker
+3-Dormarth
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Joker HP:348/597 MP:347/347
+2-Ishtar HP:31/258 MP:251/251
+3-Ose HP:256/454 MP:90/90
+4-Kazfiel HP:316/469 MP:211/211
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Black Maria ataca a Ishtar
+Ishtar recibe 36 de daño
+Ishtar termina con HP:0/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:300/597 MP:347/347
+B-
+C-Dormarth HP:157/277 MP:269/269
+D-Black Maria HP:162/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:348/597 MP:347/347
+B-
+C-Ose HP:256/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Black Maria
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:348/597 MP:347/347
+2-Ose HP:256/454 MP:90/90
+3-Kazfiel HP:316/469 MP:211/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Ose
+Ose recibe 28 de daño
+Ose termina con HP:228/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:300/597 MP:347/347
+B-
+C-Dormarth HP:157/277 MP:269/269
+D-Black Maria HP:162/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:348/597 MP:347/347
+B-
+C-Ose HP:228/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Black Maria
+3-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Joker HP:348/597 MP:347/347
+2-Ose HP:228/454 MP:90/90
+3-Kazfiel HP:316/469 MP:211/211
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Joker
+Joker recibe 29 de daño
+Joker termina con HP:319/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:300/597 MP:347/347
+B-
+C-Dormarth HP:157/277 MP:269/269
+D-Black Maria HP:162/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:319/597 MP:347/347
+B-
+C-Ose HP:228/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Joker
+3-Ose
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:300/597 MP:347/347
+2-Dormarth HP:157/277 MP:269/269
+3-Black Maria HP:162/348 MP:337/337
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ataca a Joker
+Joker recibe 38 de daño
+Joker termina con HP:262/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:262/597 MP:347/347
+B-
+C-Dormarth HP:157/277 MP:269/269
+D-Black Maria HP:162/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:319/597 MP:347/347
+B-
+C-Ose HP:228/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ose
+3-Kazfiel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:262/597 MP:347/347
+2-Dormarth HP:157/277 MP:269/269
+3-Black Maria HP:162/348 MP:337/337
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Joker
+Joker recibe 39 de daño
+Joker termina con HP:223/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:223/597 MP:347/347
+B-
+C-Dormarth HP:157/277 MP:269/269
+D-Black Maria HP:162/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:319/597 MP:347/347
+B-
+C-Ose HP:228/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Kazfiel
+3-Joker
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:223/597 MP:347/347
+2-Dormarth HP:157/277 MP:269/269
+3-Black Maria HP:162/348 MP:337/337
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:223/597 MP:347/347
+2-Dormarth HP:157/277 MP:269/269
+3-Black Maria HP:162/348 MP:337/337
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ose ataca a Dormarth
+Dormarth recibe 33 de daño
+Dormarth termina con HP:124/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:223/597 MP:347/347
+B-
+C-Dormarth HP:124/277 MP:269/269
+D-Black Maria HP:162/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:319/597 MP:347/347
+B-
+C-Ose HP:228/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Joker
+3-Dormarth
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Joker HP:319/597 MP:347/347
+2-Ose HP:228/454 MP:90/90
+3-Kazfiel HP:316/469 MP:211/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Black Maria ataca a Ose
+Ose recibe 36 de daño
+Ose termina con HP:192/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:223/597 MP:347/347
+B-
+C-Dormarth HP:124/277 MP:269/269
+D-Black Maria HP:162/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:319/597 MP:347/347
+B-
+C-Ose HP:192/454 MP:90/90
+D-Kazfiel HP:316/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Black Maria
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:319/597 MP:347/347
+2-Ose HP:192/454 MP:90/90
+3-Kazfiel HP:316/469 MP:211/211
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca a Kazfiel
+Kazfiel recibe 28 de daño
+Kazfiel termina con HP:288/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:223/597 MP:347/347
+B-
+C-Dormarth HP:124/277 MP:269/269
+D-Black Maria HP:162/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:319/597 MP:347/347
+B-
+C-Ose HP:192/454 MP:90/90
+D-Kazfiel HP:288/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Black Maria
+3-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Joker HP:319/597 MP:347/347
+2-Ose HP:192/454 MP:90/90
+3-Kazfiel HP:288/469 MP:211/211
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Joker HP:319/597 MP:347/347
+2-Ose HP:192/454 MP:90/90
+3-Kazfiel HP:288/469 MP:211/211
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Dormarth ataca a Kazfiel
+Kazfiel recibe 29 de daño
+Kazfiel termina con HP:259/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:223/597 MP:347/347
+B-
+C-Dormarth HP:124/277 MP:269/269
+D-Black Maria HP:162/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:319/597 MP:347/347
+B-
+C-Ose HP:192/454 MP:90/90
+D-Kazfiel HP:259/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Joker
+3-Ose
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:223/597 MP:347/347
+2-Dormarth HP:124/277 MP:269/269
+3-Black Maria HP:162/348 MP:337/337
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kazfiel ataca a Black Maria
+Black Maria recibe 38 de daño
+Black Maria termina con HP:124/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:223/597 MP:347/347
+B-
+C-Dormarth HP:124/277 MP:269/269
+D-Black Maria HP:124/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:319/597 MP:347/347
+B-
+C-Ose HP:192/454 MP:90/90
+D-Kazfiel HP:259/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ose
+3-Kazfiel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:223/597 MP:347/347
+2-Dormarth HP:124/277 MP:269/269
+3-Black Maria HP:124/348 MP:337/337
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Black Maria
+Black Maria recibe 39 de daño
+Black Maria termina con HP:85/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:223/597 MP:347/347
+B-
+C-Dormarth HP:124/277 MP:269/269
+D-Black Maria HP:85/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:319/597 MP:347/347
+B-
+C-Ose HP:192/454 MP:90/90
+D-Kazfiel HP:259/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Kazfiel
+3-Joker
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:223/597 MP:347/347
+2-Dormarth HP:124/277 MP:269/269
+3-Black Maria HP:85/348 MP:337/337
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ose ataca a Dormarth
+Dormarth recibe 33 de daño
+Dormarth termina con HP:91/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:223/597 MP:347/347
+B-
+C-Dormarth HP:91/277 MP:269/269
+D-Black Maria HP:85/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:319/597 MP:347/347
+B-
+C-Ose HP:192/454 MP:90/90
+D-Kazfiel HP:259/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Joker
+3-Dormarth
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Joker HP:319/597 MP:347/347
+2-Ose HP:192/454 MP:90/90
+3-Kazfiel HP:259/469 MP:211/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Black Maria ataca a Ose
+Ose recibe 36 de daño
+Ose termina con HP:156/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:223/597 MP:347/347
+B-
+C-Dormarth HP:91/277 MP:269/269
+D-Black Maria HP:85/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:319/597 MP:347/347
+B-
+C-Ose HP:156/454 MP:90/90
+D-Kazfiel HP:259/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Black Maria
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:319/597 MP:347/347
+2-Ose HP:156/454 MP:90/90
+3-Kazfiel HP:259/469 MP:211/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Ose
+Ose recibe 39 de daño
+Ose termina con HP:117/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:223/597 MP:347/347
+B-
+C-Dormarth HP:91/277 MP:269/269
+D-Black Maria HP:85/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:319/597 MP:347/347
+B-
+C-Ose HP:117/454 MP:90/90
+D-Kazfiel HP:259/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Black Maria
+3-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Joker HP:319/597 MP:347/347
+2-Ose HP:117/454 MP:90/90
+3-Kazfiel HP:259/469 MP:211/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Dormarth ataca a Ose
+Ose recibe 29 de daño
+Ose termina con HP:88/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:223/597 MP:347/347
+B-
+C-Dormarth HP:91/277 MP:269/269
+D-Black Maria HP:85/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:319/597 MP:347/347
+B-
+C-Ose HP:88/454 MP:90/90
+D-Kazfiel HP:259/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Joker
+3-Ose
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:223/597 MP:347/347
+2-Dormarth HP:91/277 MP:269/269
+3-Black Maria HP:85/348 MP:337/337
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:223/597 MP:347/347
+2-Dormarth HP:91/277 MP:269/269
+3-Black Maria HP:85/348 MP:337/337
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ataca a Joker
+Joker recibe 38 de daño
+Joker termina con HP:185/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:185/597 MP:347/347
+B-
+C-Dormarth HP:91/277 MP:269/269
+D-Black Maria HP:85/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:319/597 MP:347/347
+B-
+C-Ose HP:88/454 MP:90/90
+D-Kazfiel HP:259/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ose
+3-Kazfiel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:185/597 MP:347/347
+2-Dormarth HP:91/277 MP:269/269
+3-Black Maria HP:85/348 MP:337/337
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:185/597 MP:347/347
+2-Dormarth HP:91/277 MP:269/269
+3-Black Maria HP:85/348 MP:337/337
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Dormarth
+Dormarth recibe 28 de daño
+Dormarth termina con HP:63/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:185/597 MP:347/347
+B-
+C-Dormarth HP:63/277 MP:269/269
+D-Black Maria HP:85/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:319/597 MP:347/347
+B-
+C-Ose HP:88/454 MP:90/90
+D-Kazfiel HP:259/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Kazfiel
+3-Joker
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:185/597 MP:347/347
+2-Dormarth HP:63/277 MP:269/269
+3-Black Maria HP:85/348 MP:337/337
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:185/597 MP:347/347
+2-Dormarth HP:63/277 MP:269/269
+3-Black Maria HP:85/348 MP:337/337
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ose ataca a Black Maria
+Black Maria recibe 33 de daño
+Black Maria termina con HP:52/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:185/597 MP:347/347
+B-
+C-Dormarth HP:63/277 MP:269/269
+D-Black Maria HP:52/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:319/597 MP:347/347
+B-
+C-Ose HP:88/454 MP:90/90
+D-Kazfiel HP:259/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Joker
+3-Dormarth
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Joker HP:319/597 MP:347/347
+2-Ose HP:88/454 MP:90/90
+3-Kazfiel HP:259/469 MP:211/211
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Black Maria ataca a Joker
+Joker recibe 36 de daño
+Joker termina con HP:283/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:185/597 MP:347/347
+B-
+C-Dormarth HP:63/277 MP:269/269
+D-Black Maria HP:52/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:283/597 MP:347/347
+B-
+C-Ose HP:88/454 MP:90/90
+D-Kazfiel HP:259/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Black Maria
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:283/597 MP:347/347
+2-Ose HP:88/454 MP:90/90
+3-Kazfiel HP:259/469 MP:211/211
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca a Kazfiel
+Kazfiel recibe 28 de daño
+Kazfiel termina con HP:231/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:185/597 MP:347/347
+B-
+C-Dormarth HP:63/277 MP:269/269
+D-Black Maria HP:52/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:283/597 MP:347/347
+B-
+C-Ose HP:88/454 MP:90/90
+D-Kazfiel HP:231/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Black Maria
+3-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Joker HP:283/597 MP:347/347
+2-Ose HP:88/454 MP:90/90
+3-Kazfiel HP:231/469 MP:211/211
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Dormarth ataca a Kazfiel
+Kazfiel recibe 29 de daño
+Kazfiel termina con HP:202/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:185/597 MP:347/347
+B-
+C-Dormarth HP:63/277 MP:269/269
+D-Black Maria HP:52/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:283/597 MP:347/347
+B-
+C-Ose HP:88/454 MP:90/90
+D-Kazfiel HP:202/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Joker
+3-Ose
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:185/597 MP:347/347
+2-Dormarth HP:63/277 MP:269/269
+3-Black Maria HP:52/348 MP:337/337
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kazfiel ataca a Dormarth
+Dormarth recibe 38 de daño
+Dormarth termina con HP:25/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:185/597 MP:347/347
+B-
+C-Dormarth HP:25/277 MP:269/269
+D-Black Maria HP:52/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:283/597 MP:347/347
+B-
+C-Ose HP:88/454 MP:90/90
+D-Kazfiel HP:202/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ose
+3-Kazfiel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:185/597 MP:347/347
+2-Dormarth HP:25/277 MP:269/269
+3-Black Maria HP:52/348 MP:337/337
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:185/597 MP:347/347
+2-Dormarth HP:25/277 MP:269/269
+3-Black Maria HP:52/348 MP:337/337
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Black Maria
+Black Maria recibe 39 de daño
+Black Maria termina con HP:13/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:185/597 MP:347/347
+B-
+C-Dormarth HP:25/277 MP:269/269
+D-Black Maria HP:13/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:283/597 MP:347/347
+B-
+C-Ose HP:88/454 MP:90/90
+D-Kazfiel HP:202/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Kazfiel
+3-Joker
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:185/597 MP:347/347
+2-Dormarth HP:25/277 MP:269/269
+3-Black Maria HP:13/348 MP:337/337
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ose ataca a Joker
+Joker recibe 33 de daño
+Joker termina con HP:152/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:152/597 MP:347/347
+B-
+C-Dormarth HP:25/277 MP:269/269
+D-Black Maria HP:13/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:283/597 MP:347/347
+B-
+C-Ose HP:88/454 MP:90/90
+D-Kazfiel HP:202/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Joker
+3-Dormarth
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Joker HP:283/597 MP:347/347
+2-Ose HP:88/454 MP:90/90
+3-Kazfiel HP:202/469 MP:211/211
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Black Maria ataca a Joker
+Joker recibe 36 de daño
+Joker termina con HP:247/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:152/597 MP:347/347
+B-
+C-Dormarth HP:25/277 MP:269/269
+D-Black Maria HP:13/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:247/597 MP:347/347
+B-
+C-Ose HP:88/454 MP:90/90
+D-Kazfiel HP:202/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Black Maria
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:247/597 MP:347/347
+2-Ose HP:88/454 MP:90/90
+3-Kazfiel HP:202/469 MP:211/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Ose
+Ose recibe 28 de daño
+Ose termina con HP:60/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:152/597 MP:347/347
+B-
+C-Dormarth HP:25/277 MP:269/269
+D-Black Maria HP:13/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:247/597 MP:347/347
+B-
+C-Ose HP:60/454 MP:90/90
+D-Kazfiel HP:202/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Black Maria
+3-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Joker HP:247/597 MP:347/347
+2-Ose HP:60/454 MP:90/90
+3-Kazfiel HP:202/469 MP:211/211
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Joker HP:247/597 MP:347/347
+2-Ose HP:60/454 MP:90/90
+3-Kazfiel HP:202/469 MP:211/211
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Joker HP:247/597 MP:347/347
+2-Ose HP:60/454 MP:90/90
+3-Kazfiel HP:202/469 MP:211/211
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Joker
+Joker recibe 29 de daño
+Joker termina con HP:218/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:152/597 MP:347/347
+B-
+C-Dormarth HP:25/277 MP:269/269
+D-Black Maria HP:13/348 MP:337/337
+Equipo de Joker (J2)
+A-Joker HP:218/597 MP:347/347
+B-
+C-Ose HP:60/454 MP:90/90
+D-Kazfiel HP:202/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Joker
+3-Ose
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:152/597 MP:347/347
+2-Dormarth HP:25/277 MP:269/269
+3-Black Maria HP:13/348 MP:337/337
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kazfiel ataca a Black Maria
+Black Maria recibe 38 de daño
+Black Maria termina con HP:0/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:152/597 MP:347/347
+B-
+C-Dormarth HP:25/277 MP:269/269
+D-
+Equipo de Joker (J2)
+A-Joker HP:218/597 MP:347/347
+B-
+C-Ose HP:60/454 MP:90/90
+D-Kazfiel HP:202/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ose
+3-Kazfiel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:152/597 MP:347/347
+2-Dormarth HP:25/277 MP:269/269
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:152/597 MP:347/347
+2-Dormarth HP:25/277 MP:269/269
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:152/597 MP:347/347
+2-Dormarth HP:25/277 MP:269/269
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:152/597 MP:347/347
+2-Dormarth HP:25/277 MP:269/269
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Dormarth
+Dormarth recibe 28 de daño
+Dormarth termina con HP:0/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:152/597 MP:347/347
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:218/597 MP:347/347
+B-
+C-Ose HP:60/454 MP:90/90
+D-Kazfiel HP:202/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Kazfiel
+3-Joker
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:152/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ose ataca a Joker
+Joker recibe 33 de daño
+Joker termina con HP:119/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:119/597 MP:347/347
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:218/597 MP:347/347
+B-
+C-Ose HP:60/454 MP:90/90
+D-Kazfiel HP:202/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:218/597 MP:347/347
+2-Ose HP:60/454 MP:90/90
+3-Kazfiel HP:202/469 MP:211/211
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:218/597 MP:347/347
+2-Ose HP:60/454 MP:90/90
+3-Kazfiel HP:202/469 MP:211/211
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:218/597 MP:347/347
+2-Ose HP:60/454 MP:90/90
+3-Kazfiel HP:202/469 MP:211/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Ose
+Ose recibe 28 de daño
+Ose termina con HP:32/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:119/597 MP:347/347
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:218/597 MP:347/347
+B-
+C-Ose HP:32/454 MP:90/90
+D-Kazfiel HP:202/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Joker
+3-Ose
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:119/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:119/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:119/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:119/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ataca a Joker
+Joker recibe 38 de daño
+Joker termina con HP:81/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:81/597 MP:347/347
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:218/597 MP:347/347
+B-
+C-Ose HP:32/454 MP:90/90
+D-Kazfiel HP:202/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ose
+3-Kazfiel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:81/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Joker
+Joker recibe 39 de daño
+Joker termina con HP:42/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:42/597 MP:347/347
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:218/597 MP:347/347
+B-
+C-Ose HP:32/454 MP:90/90
+D-Kazfiel HP:202/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Kazfiel
+3-Joker
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:42/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:42/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:42/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ose ataca a Joker
+Joker recibe 33 de daño
+Joker termina con HP:9/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:9/597 MP:347/347
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:218/597 MP:347/347
+B-
+C-Ose HP:32/454 MP:90/90
+D-Kazfiel HP:202/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Joker HP:218/597 MP:347/347
+2-Ose HP:32/454 MP:90/90
+3-Kazfiel HP:202/469 MP:211/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Ose
+Ose recibe 39 de daño
+Ose termina con HP:0/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:9/597 MP:347/347
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:218/597 MP:347/347
+B-
+C-
+D-Kazfiel HP:202/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Joker
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:9/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ataca a Joker
+Joker recibe 38 de daño
+Joker termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Joker (J2)

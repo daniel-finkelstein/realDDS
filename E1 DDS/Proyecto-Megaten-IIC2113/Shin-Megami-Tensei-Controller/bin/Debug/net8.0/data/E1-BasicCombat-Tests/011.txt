@@ -1,0 +1,1650 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+INPUT: 10
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Angel HP:61/61 MP:58/58
+C-Chagrin HP:67/67 MP:72/72
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Melchom HP:71/71 MP:67/67
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Chagrin
+3-Angel
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:971/971 MP:527/527
+2-Melchom HP:71/71 MP:67/67
+3-Dybbuk HP:66/66 MP:63/63
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Melchom
+Melchom recibe 61 de daño
+Melchom termina con HP:10/71
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Angel HP:61/61 MP:58/58
+C-Chagrin HP:67/67 MP:72/72
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Melchom HP:10/71 MP:67/67
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chagrin
+2-Angel
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chagrin
+1-Flynn HP:971/971 MP:527/527
+2-Melchom HP:10/71 MP:67/67
+3-Dybbuk HP:66/66 MP:63/63
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Chagrin ataca a Melchom
+Melchom recibe 5 de daño
+Melchom termina con HP:5/71
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Angel HP:61/61 MP:58/58
+C-Chagrin HP:67/67 MP:72/72
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Melchom HP:5/71 MP:67/67
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Angel
+2-Itsuki
+3-Chagrin
+----------------------------------------
+Seleccione una acción para Angel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Angel
+1-Flynn HP:971/971 MP:527/527
+2-Melchom HP:5/71 MP:67/67
+3-Dybbuk HP:66/66 MP:63/63
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Angel ataca a Melchom
+Melchom recibe 5 de daño
+Melchom termina con HP:0/71
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Angel HP:61/61 MP:58/58
+C-Chagrin HP:67/67 MP:72/72
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dybbuk
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:1136/1136 MP:413/413
+2-Angel HP:61/61 MP:58/58
+3-Chagrin HP:67/67 MP:72/72
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Angel
+Angel recibe 110 de daño
+Angel termina con HP:0/61
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-
+C-Chagrin HP:67/67 MP:72/72
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Flynn
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Itsuki HP:1136/1136 MP:413/413
+2-Chagrin HP:67/67 MP:72/72
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Dybbuk ataca a Chagrin
+Chagrin recibe 5 de daño
+Chagrin termina con HP:62/67
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-
+C-Chagrin HP:62/67 MP:72/72
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Chagrin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:971/971 MP:527/527
+2-Dybbuk HP:66/66 MP:63/63
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:910/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-
+C-Chagrin HP:62/67 MP:72/72
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:910/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chagrin
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chagrin
+1-Flynn HP:910/971 MP:527/527
+2-Dybbuk HP:66/66 MP:63/63
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Chagrin ataca a Flynn
+Flynn recibe 5 de daño
+Flynn termina con HP:905/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-
+C-Chagrin HP:62/67 MP:72/72
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:905/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dybbuk
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:1136/1136 MP:413/413
+2-Chagrin HP:62/67 MP:72/72
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Chagrin
+Chagrin recibe 110 de daño
+Chagrin termina con HP:0/67
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:905/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Flynn
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Itsuki HP:1136/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Dybbuk ataca a Itsuki
+Itsuki recibe 5 de daño
+Itsuki termina con HP:1131/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1131/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:905/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:905/971 MP:527/527
+2-Dybbuk HP:66/66 MP:63/63
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:844/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1131/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:844/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dybbuk
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:1131/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:1021/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1021/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:844/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Flynn
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Itsuki HP:1021/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Dybbuk ataca a Itsuki
+Itsuki recibe 5 de daño
+Itsuki termina con HP:1016/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1016/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:844/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:844/971 MP:527/527
+2-Dybbuk HP:66/66 MP:63/63
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:783/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1016/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:783/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dybbuk
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:1016/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:906/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:906/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:783/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Flynn
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Itsuki HP:906/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Dybbuk ataca a Itsuki
+Itsuki recibe 5 de daño
+Itsuki termina con HP:901/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:901/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:783/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:783/971 MP:527/527
+2-Dybbuk HP:66/66 MP:63/63
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:722/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:901/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:722/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dybbuk
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:901/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:791/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:791/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:722/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Flynn
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Itsuki HP:791/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Dybbuk ataca a Itsuki
+Itsuki recibe 5 de daño
+Itsuki termina con HP:786/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:786/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:722/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:722/971 MP:527/527
+2-Dybbuk HP:66/66 MP:63/63
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:661/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:786/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:661/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dybbuk
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:786/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:676/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:676/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:661/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Flynn
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Itsuki HP:676/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Dybbuk ataca a Itsuki
+Itsuki recibe 5 de daño
+Itsuki termina con HP:671/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:671/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:661/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:661/971 MP:527/527
+2-Dybbuk HP:66/66 MP:63/63
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:600/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:671/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:600/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dybbuk
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:671/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:561/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:561/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:600/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Flynn
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Itsuki HP:561/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Dybbuk ataca a Itsuki
+Itsuki recibe 5 de daño
+Itsuki termina con HP:556/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:556/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:600/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:600/971 MP:527/527
+2-Dybbuk HP:66/66 MP:63/63
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:539/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:556/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:539/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dybbuk
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:556/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:446/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:446/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:539/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Flynn
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Itsuki HP:446/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Dybbuk ataca a Itsuki
+Itsuki recibe 5 de daño
+Itsuki termina con HP:441/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:441/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:539/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:539/971 MP:527/527
+2-Dybbuk HP:66/66 MP:63/63
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:478/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:441/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:478/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dybbuk
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:441/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:331/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:331/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:478/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Flynn
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Itsuki HP:331/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Dybbuk ataca a Itsuki
+Itsuki recibe 5 de daño
+Itsuki termina con HP:326/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:326/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:478/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:478/971 MP:527/527
+2-Dybbuk HP:66/66 MP:63/63
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:417/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:326/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:417/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dybbuk
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:326/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:216/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:216/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:417/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Flynn
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Itsuki HP:216/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Dybbuk ataca a Itsuki
+Itsuki recibe 5 de daño
+Itsuki termina con HP:211/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:211/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:417/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:417/971 MP:527/527
+2-Dybbuk HP:66/66 MP:63/63
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:356/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:211/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:356/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dybbuk
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:211/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:101/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:101/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:356/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Flynn
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Itsuki HP:101/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Dybbuk ataca a Itsuki
+Itsuki recibe 5 de daño
+Itsuki termina con HP:96/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:96/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:356/971 MP:527/527
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:356/971 MP:527/527
+2-Dybbuk HP:66/66 MP:63/63
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Dybbuk
+Dybbuk recibe 61 de daño
+Dybbuk termina con HP:5/66
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:96/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:356/971 MP:527/527
+B-
+C-Dybbuk HP:5/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dybbuk
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:96/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Itsuki
+Itsuki recibe 88 de daño
+Itsuki termina con HP:8/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:8/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:356/971 MP:527/527
+B-
+C-Dybbuk HP:5/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Flynn
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Itsuki HP:8/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Dybbuk ataca a Itsuki
+Itsuki recibe 5 de daño
+Itsuki termina con HP:3/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:3/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:356/971 MP:527/527
+B-
+C-Dybbuk HP:5/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:356/971 MP:527/527
+2-Dybbuk HP:5/66 MP:63/63
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Dybbuk
+Dybbuk recibe 61 de daño
+Dybbuk termina con HP:0/66
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:3/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:356/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:3/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Itsuki
+Itsuki recibe 88 de daño
+Itsuki termina con HP:0/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Flynn (J2)

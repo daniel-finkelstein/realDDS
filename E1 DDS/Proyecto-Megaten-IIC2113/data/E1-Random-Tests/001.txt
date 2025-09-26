@@ -1,0 +1,3059 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 0
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Yurlungur HP:202/202 MP:196/196
+D-Kabuso HP:137/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ancient of Days HP:498/498 MP:484/484
+C-Aniel HP:567/567 MP:255/255
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Xi Wangmu
+3-Yurlungur
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:1136/1136 MP:413/413
+2-Ancient of Days HP:498/498 MP:484/484
+3-Aniel HP:567/567 MP:255/255
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Ancient of Days
+Ancient of Days recibe 110 de daño
+Ancient of Days termina con HP:388/498
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Yurlungur HP:202/202 MP:196/196
+D-Kabuso HP:137/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:567/567 MP:255/255
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Yurlungur
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:1136/1136 MP:413/413
+2-Ancient of Days HP:388/498 MP:484/484
+3-Aniel HP:567/567 MP:255/255
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ataca a Itsuki
+Itsuki recibe 44 de daño
+Itsuki termina con HP:1092/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Yurlungur HP:202/202 MP:196/196
+D-Kabuso HP:137/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:1092/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:567/567 MP:255/255
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Kabuso
+3-Flynn
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Itsuki HP:1092/1136 MP:413/413
+2-Ancient of Days HP:388/498 MP:484/484
+3-Aniel HP:567/567 MP:255/255
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yurlungur ataca a Itsuki
+Itsuki recibe 20 de daño
+Itsuki termina con HP:1072/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Yurlungur HP:202/202 MP:196/196
+D-Kabuso HP:137/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:567/567 MP:255/255
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Xi Wangmu
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Itsuki HP:1072/1136 MP:413/413
+2-Ancient of Days HP:388/498 MP:484/484
+3-Aniel HP:567/567 MP:255/255
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kabuso ataca a Itsuki
+Itsuki recibe 13 de daño
+Itsuki termina con HP:1059/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Yurlungur HP:202/202 MP:196/196
+D-Kabuso HP:137/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:1059/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:567/567 MP:255/255
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ancient of Days
+2-Aniel
+3-Itsuki
+4-Anubis
+----------------------------------------
+Seleccione una acción para Ancient of Days
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ancient of Days
+1-Flynn HP:971/971 MP:527/527
+2-Xi Wangmu HP:418/418 MP:405/405
+3-Yurlungur HP:202/202 MP:196/196
+4-Kabuso HP:137/137 MP:131/131
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ancient of Days ataca a Yurlungur
+Yurlungur recibe 54 de daño
+Yurlungur termina con HP:148/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Yurlungur HP:148/202 MP:196/196
+D-Kabuso HP:137/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:1059/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:567/567 MP:255/255
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Itsuki
+3-Anubis
+4-Ancient of Days
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Flynn HP:971/971 MP:527/527
+2-Xi Wangmu HP:418/418 MP:405/405
+3-Yurlungur HP:148/202 MP:196/196
+4-Kabuso HP:137/137 MP:131/131
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Aniel ataca a Kabuso
+Kabuso recibe 47 de daño
+Kabuso termina con HP:90/137
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Yurlungur HP:148/202 MP:196/196
+D-Kabuso HP:90/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:1059/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:567/567 MP:255/255
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anubis
+3-Ancient of Days
+4-Aniel
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:971/971 MP:527/527
+2-Xi Wangmu HP:418/418 MP:405/405
+3-Yurlungur HP:148/202 MP:196/196
+4-Kabuso HP:90/137 MP:131/131
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Xi Wangmu
+Xi Wangmu recibe 61 de daño
+Xi Wangmu termina con HP:357/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Xi Wangmu HP:357/418 MP:405/405
+C-Yurlungur HP:148/202 MP:196/196
+D-Kabuso HP:90/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:1059/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:567/567 MP:255/255
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Ancient of Days
+3-Aniel
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Flynn HP:971/971 MP:527/527
+2-Xi Wangmu HP:357/418 MP:405/405
+3-Yurlungur HP:148/202 MP:196/196
+4-Kabuso HP:90/137 MP:131/131
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Flynn HP:971/971 MP:527/527
+2-Xi Wangmu HP:357/418 MP:405/405
+3-Yurlungur HP:148/202 MP:196/196
+4-Kabuso HP:90/137 MP:131/131
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Anubis ataca a Yurlungur
+Yurlungur recibe 41 de daño
+Yurlungur termina con HP:107/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Xi Wangmu HP:357/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-Kabuso HP:90/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:1059/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:567/567 MP:255/255
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Xi Wangmu
+3-Yurlungur
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:1059/1136 MP:413/413
+2-Ancient of Days HP:388/498 MP:484/484
+3-Aniel HP:567/567 MP:255/255
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Itsuki
+Itsuki recibe 88 de daño
+Itsuki termina con HP:971/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Xi Wangmu HP:357/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-Kabuso HP:90/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:971/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:567/567 MP:255/255
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Yurlungur
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:971/1136 MP:413/413
+2-Ancient of Days HP:388/498 MP:484/484
+3-Aniel HP:567/567 MP:255/255
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Xi Wangmu ataca a Anubis
+Anubis recibe 44 de daño
+Anubis termina con HP:453/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Xi Wangmu HP:357/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-Kabuso HP:90/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:971/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:567/567 MP:255/255
+D-Anubis HP:453/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Kabuso
+3-Flynn
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Itsuki HP:971/1136 MP:413/413
+2-Ancient of Days HP:388/498 MP:484/484
+3-Aniel HP:567/567 MP:255/255
+4-Anubis HP:453/497 MP:223/223
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Itsuki HP:971/1136 MP:413/413
+2-Ancient of Days HP:388/498 MP:484/484
+3-Aniel HP:567/567 MP:255/255
+4-Anubis HP:453/497 MP:223/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yurlungur ataca a Itsuki
+Itsuki recibe 20 de daño
+Itsuki termina con HP:951/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Xi Wangmu HP:357/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-Kabuso HP:90/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:951/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:567/567 MP:255/255
+D-Anubis HP:453/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Xi Wangmu
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Itsuki HP:951/1136 MP:413/413
+2-Ancient of Days HP:388/498 MP:484/484
+3-Aniel HP:567/567 MP:255/255
+4-Anubis HP:453/497 MP:223/223
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kabuso ataca a Aniel
+Aniel recibe 13 de daño
+Aniel termina con HP:554/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Xi Wangmu HP:357/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-Kabuso HP:90/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:951/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:554/567 MP:255/255
+D-Anubis HP:453/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ancient of Days
+2-Aniel
+3-Itsuki
+4-Anubis
+----------------------------------------
+Seleccione una acción para Ancient of Days
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ancient of Days
+1-Flynn HP:971/971 MP:527/527
+2-Xi Wangmu HP:357/418 MP:405/405
+3-Yurlungur HP:107/202 MP:196/196
+4-Kabuso HP:90/137 MP:131/131
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ancient of Days ataca a Flynn
+Flynn recibe 54 de daño
+Flynn termina con HP:917/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:917/971 MP:527/527
+B-Xi Wangmu HP:357/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-Kabuso HP:90/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:951/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:554/567 MP:255/255
+D-Anubis HP:453/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Itsuki
+3-Anubis
+4-Ancient of Days
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Flynn HP:917/971 MP:527/527
+2-Xi Wangmu HP:357/418 MP:405/405
+3-Yurlungur HP:107/202 MP:196/196
+4-Kabuso HP:90/137 MP:131/131
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Aniel ataca a Xi Wangmu
+Xi Wangmu recibe 47 de daño
+Xi Wangmu termina con HP:310/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:917/971 MP:527/527
+B-Xi Wangmu HP:310/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-Kabuso HP:90/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:951/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:554/567 MP:255/255
+D-Anubis HP:453/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anubis
+3-Ancient of Days
+4-Aniel
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:917/971 MP:527/527
+2-Xi Wangmu HP:310/418 MP:405/405
+3-Yurlungur HP:107/202 MP:196/196
+4-Kabuso HP:90/137 MP:131/131
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:917/971 MP:527/527
+2-Xi Wangmu HP:310/418 MP:405/405
+3-Yurlungur HP:107/202 MP:196/196
+4-Kabuso HP:90/137 MP:131/131
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:917/971 MP:527/527
+2-Xi Wangmu HP:310/418 MP:405/405
+3-Yurlungur HP:107/202 MP:196/196
+4-Kabuso HP:90/137 MP:131/131
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki ataca a Kabuso
+Kabuso recibe 45 de daño
+Kabuso termina con HP:45/137
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:917/971 MP:527/527
+B-Xi Wangmu HP:310/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-Kabuso HP:45/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:951/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:554/567 MP:255/255
+D-Anubis HP:453/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Ancient of Days
+3-Aniel
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Flynn HP:917/971 MP:527/527
+2-Xi Wangmu HP:310/418 MP:405/405
+3-Yurlungur HP:107/202 MP:196/196
+4-Kabuso HP:45/137 MP:131/131
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Anubis ataca a Xi Wangmu
+Xi Wangmu recibe 41 de daño
+Xi Wangmu termina con HP:269/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:917/971 MP:527/527
+B-Xi Wangmu HP:269/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-Kabuso HP:45/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:951/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:554/567 MP:255/255
+D-Anubis HP:453/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Xi Wangmu
+3-Yurlungur
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:951/1136 MP:413/413
+2-Ancient of Days HP:388/498 MP:484/484
+3-Aniel HP:554/567 MP:255/255
+4-Anubis HP:453/497 MP:223/223
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:951/1136 MP:413/413
+2-Ancient of Days HP:388/498 MP:484/484
+3-Aniel HP:554/567 MP:255/255
+4-Anubis HP:453/497 MP:223/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Itsuki
+Itsuki recibe 88 de daño
+Itsuki termina con HP:863/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:917/971 MP:527/527
+B-Xi Wangmu HP:269/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-Kabuso HP:45/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:554/567 MP:255/255
+D-Anubis HP:453/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Yurlungur
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:863/1136 MP:413/413
+2-Ancient of Days HP:388/498 MP:484/484
+3-Aniel HP:554/567 MP:255/255
+4-Anubis HP:453/497 MP:223/223
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Xi Wangmu ataca a Aniel
+Aniel recibe 44 de daño
+Aniel termina con HP:510/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:917/971 MP:527/527
+B-Xi Wangmu HP:269/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-Kabuso HP:45/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:510/567 MP:255/255
+D-Anubis HP:453/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Kabuso
+3-Flynn
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Itsuki HP:863/1136 MP:413/413
+2-Ancient of Days HP:388/498 MP:484/484
+3-Aniel HP:510/567 MP:255/255
+4-Anubis HP:453/497 MP:223/223
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yurlungur ataca a Aniel
+Aniel recibe 20 de daño
+Aniel termina con HP:490/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:917/971 MP:527/527
+B-Xi Wangmu HP:269/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-Kabuso HP:45/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:388/498 MP:484/484
+C-Aniel HP:490/567 MP:255/255
+D-Anubis HP:453/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Xi Wangmu
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Itsuki HP:863/1136 MP:413/413
+2-Ancient of Days HP:388/498 MP:484/484
+3-Aniel HP:490/567 MP:255/255
+4-Anubis HP:453/497 MP:223/223
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Itsuki HP:863/1136 MP:413/413
+2-Ancient of Days HP:388/498 MP:484/484
+3-Aniel HP:490/567 MP:255/255
+4-Anubis HP:453/497 MP:223/223
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kabuso ataca a Ancient of Days
+Ancient of Days recibe 13 de daño
+Ancient of Days termina con HP:375/498
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:917/971 MP:527/527
+B-Xi Wangmu HP:269/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-Kabuso HP:45/137 MP:131/131
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:375/498 MP:484/484
+C-Aniel HP:490/567 MP:255/255
+D-Anubis HP:453/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ancient of Days
+2-Aniel
+3-Itsuki
+4-Anubis
+----------------------------------------
+Seleccione una acción para Ancient of Days
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ancient of Days
+1-Flynn HP:917/971 MP:527/527
+2-Xi Wangmu HP:269/418 MP:405/405
+3-Yurlungur HP:107/202 MP:196/196
+4-Kabuso HP:45/137 MP:131/131
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ancient of Days ataca a Kabuso
+Kabuso recibe 54 de daño
+Kabuso termina con HP:0/137
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:917/971 MP:527/527
+B-Xi Wangmu HP:269/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:375/498 MP:484/484
+C-Aniel HP:490/567 MP:255/255
+D-Anubis HP:453/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Itsuki
+3-Anubis
+4-Ancient of Days
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Flynn HP:917/971 MP:527/527
+2-Xi Wangmu HP:269/418 MP:405/405
+3-Yurlungur HP:107/202 MP:196/196
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Flynn
+Flynn recibe 47 de daño
+Flynn termina con HP:870/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:870/971 MP:527/527
+B-Xi Wangmu HP:269/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:375/498 MP:484/484
+C-Aniel HP:490/567 MP:255/255
+D-Anubis HP:453/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anubis
+3-Ancient of Days
+4-Aniel
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:870/971 MP:527/527
+2-Xi Wangmu HP:269/418 MP:405/405
+3-Yurlungur HP:107/202 MP:196/196
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Xi Wangmu
+Xi Wangmu recibe 61 de daño
+Xi Wangmu termina con HP:208/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:870/971 MP:527/527
+B-Xi Wangmu HP:208/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:375/498 MP:484/484
+C-Aniel HP:490/567 MP:255/255
+D-Anubis HP:453/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Ancient of Days
+3-Aniel
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Flynn HP:870/971 MP:527/527
+2-Xi Wangmu HP:208/418 MP:405/405
+3-Yurlungur HP:107/202 MP:196/196
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ataca a Flynn
+Flynn recibe 41 de daño
+Flynn termina con HP:829/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:829/971 MP:527/527
+B-Xi Wangmu HP:208/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:375/498 MP:484/484
+C-Aniel HP:490/567 MP:255/255
+D-Anubis HP:453/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Xi Wangmu
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:863/1136 MP:413/413
+2-Ancient of Days HP:375/498 MP:484/484
+3-Aniel HP:490/567 MP:255/255
+4-Anubis HP:453/497 MP:223/223
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Ancient of Days
+Ancient of Days recibe 88 de daño
+Ancient of Days termina con HP:287/498
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:829/971 MP:527/527
+B-Xi Wangmu HP:208/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:287/498 MP:484/484
+C-Aniel HP:490/567 MP:255/255
+D-Anubis HP:453/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Yurlungur
+3-Flynn
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:863/1136 MP:413/413
+2-Ancient of Days HP:287/498 MP:484/484
+3-Aniel HP:490/567 MP:255/255
+4-Anubis HP:453/497 MP:223/223
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Xi Wangmu ataca a Aniel
+Aniel recibe 44 de daño
+Aniel termina con HP:446/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:829/971 MP:527/527
+B-Xi Wangmu HP:208/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:287/498 MP:484/484
+C-Aniel HP:446/567 MP:255/255
+D-Anubis HP:453/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Flynn
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Itsuki HP:863/1136 MP:413/413
+2-Ancient of Days HP:287/498 MP:484/484
+3-Aniel HP:446/567 MP:255/255
+4-Anubis HP:453/497 MP:223/223
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Yurlungur ataca a Anubis
+Anubis recibe 20 de daño
+Anubis termina con HP:433/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:829/971 MP:527/527
+B-Xi Wangmu HP:208/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:287/498 MP:484/484
+C-Aniel HP:446/567 MP:255/255
+D-Anubis HP:433/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ancient of Days
+2-Aniel
+3-Itsuki
+4-Anubis
+----------------------------------------
+Seleccione una acción para Ancient of Days
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ancient of Days
+1-Flynn HP:829/971 MP:527/527
+2-Xi Wangmu HP:208/418 MP:405/405
+3-Yurlungur HP:107/202 MP:196/196
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ancient of Days ataca a Xi Wangmu
+Xi Wangmu recibe 54 de daño
+Xi Wangmu termina con HP:154/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:829/971 MP:527/527
+B-Xi Wangmu HP:154/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:287/498 MP:484/484
+C-Aniel HP:446/567 MP:255/255
+D-Anubis HP:433/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Itsuki
+3-Anubis
+4-Ancient of Days
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Flynn HP:829/971 MP:527/527
+2-Xi Wangmu HP:154/418 MP:405/405
+3-Yurlungur HP:107/202 MP:196/196
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Flynn HP:829/971 MP:527/527
+2-Xi Wangmu HP:154/418 MP:405/405
+3-Yurlungur HP:107/202 MP:196/196
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Flynn
+Flynn recibe 47 de daño
+Flynn termina con HP:782/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:782/971 MP:527/527
+B-Xi Wangmu HP:154/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:287/498 MP:484/484
+C-Aniel HP:446/567 MP:255/255
+D-Anubis HP:433/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anubis
+3-Ancient of Days
+4-Aniel
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:782/971 MP:527/527
+2-Xi Wangmu HP:154/418 MP:405/405
+3-Yurlungur HP:107/202 MP:196/196
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Flynn
+Flynn recibe 45 de daño
+Flynn termina con HP:737/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:737/971 MP:527/527
+B-Xi Wangmu HP:154/418 MP:405/405
+C-Yurlungur HP:107/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:287/498 MP:484/484
+C-Aniel HP:446/567 MP:255/255
+D-Anubis HP:433/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Ancient of Days
+3-Aniel
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Flynn HP:737/971 MP:527/527
+2-Xi Wangmu HP:154/418 MP:405/405
+3-Yurlungur HP:107/202 MP:196/196
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Anubis ataca a Yurlungur
+Yurlungur recibe 41 de daño
+Yurlungur termina con HP:66/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:737/971 MP:527/527
+B-Xi Wangmu HP:154/418 MP:405/405
+C-Yurlungur HP:66/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:287/498 MP:484/484
+C-Aniel HP:446/567 MP:255/255
+D-Anubis HP:433/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Xi Wangmu
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:863/1136 MP:413/413
+2-Ancient of Days HP:287/498 MP:484/484
+3-Aniel HP:446/567 MP:255/255
+4-Anubis HP:433/497 MP:223/223
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Flynn ataca a Anubis
+Anubis recibe 88 de daño
+Anubis termina con HP:345/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:737/971 MP:527/527
+B-Xi Wangmu HP:154/418 MP:405/405
+C-Yurlungur HP:66/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:287/498 MP:484/484
+C-Aniel HP:446/567 MP:255/255
+D-Anubis HP:345/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Yurlungur
+3-Flynn
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:863/1136 MP:413/413
+2-Ancient of Days HP:287/498 MP:484/484
+3-Aniel HP:446/567 MP:255/255
+4-Anubis HP:345/497 MP:223/223
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Xi Wangmu ataca a Ancient of Days
+Ancient of Days recibe 44 de daño
+Ancient of Days termina con HP:243/498
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:737/971 MP:527/527
+B-Xi Wangmu HP:154/418 MP:405/405
+C-Yurlungur HP:66/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:243/498 MP:484/484
+C-Aniel HP:446/567 MP:255/255
+D-Anubis HP:345/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Flynn
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Itsuki HP:863/1136 MP:413/413
+2-Ancient of Days HP:243/498 MP:484/484
+3-Aniel HP:446/567 MP:255/255
+4-Anubis HP:345/497 MP:223/223
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Yurlungur ataca a Anubis
+Anubis recibe 20 de daño
+Anubis termina con HP:325/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:737/971 MP:527/527
+B-Xi Wangmu HP:154/418 MP:405/405
+C-Yurlungur HP:66/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:243/498 MP:484/484
+C-Aniel HP:446/567 MP:255/255
+D-Anubis HP:325/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ancient of Days
+2-Aniel
+3-Itsuki
+4-Anubis
+----------------------------------------
+Seleccione una acción para Ancient of Days
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ancient of Days
+1-Flynn HP:737/971 MP:527/527
+2-Xi Wangmu HP:154/418 MP:405/405
+3-Yurlungur HP:66/202 MP:196/196
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ancient of Days ataca a Yurlungur
+Yurlungur recibe 54 de daño
+Yurlungur termina con HP:12/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:737/971 MP:527/527
+B-Xi Wangmu HP:154/418 MP:405/405
+C-Yurlungur HP:12/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:243/498 MP:484/484
+C-Aniel HP:446/567 MP:255/255
+D-Anubis HP:325/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Itsuki
+3-Anubis
+4-Ancient of Days
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Flynn HP:737/971 MP:527/527
+2-Xi Wangmu HP:154/418 MP:405/405
+3-Yurlungur HP:12/202 MP:196/196
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Flynn
+Flynn recibe 47 de daño
+Flynn termina con HP:690/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:690/971 MP:527/527
+B-Xi Wangmu HP:154/418 MP:405/405
+C-Yurlungur HP:12/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:243/498 MP:484/484
+C-Aniel HP:446/567 MP:255/255
+D-Anubis HP:325/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anubis
+3-Ancient of Days
+4-Aniel
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:690/971 MP:527/527
+2-Xi Wangmu HP:154/418 MP:405/405
+3-Yurlungur HP:12/202 MP:196/196
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Flynn
+Flynn recibe 45 de daño
+Flynn termina con HP:645/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:645/971 MP:527/527
+B-Xi Wangmu HP:154/418 MP:405/405
+C-Yurlungur HP:12/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:243/498 MP:484/484
+C-Aniel HP:446/567 MP:255/255
+D-Anubis HP:325/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Ancient of Days
+3-Aniel
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Flynn HP:645/971 MP:527/527
+2-Xi Wangmu HP:154/418 MP:405/405
+3-Yurlungur HP:12/202 MP:196/196
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ataca a Flynn
+Flynn recibe 41 de daño
+Flynn termina con HP:604/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:604/971 MP:527/527
+B-Xi Wangmu HP:154/418 MP:405/405
+C-Yurlungur HP:12/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:243/498 MP:484/484
+C-Aniel HP:446/567 MP:255/255
+D-Anubis HP:325/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Xi Wangmu
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:863/1136 MP:413/413
+2-Ancient of Days HP:243/498 MP:484/484
+3-Aniel HP:446/567 MP:255/255
+4-Anubis HP:325/497 MP:223/223
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Ancient of Days
+Ancient of Days recibe 88 de daño
+Ancient of Days termina con HP:155/498
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:604/971 MP:527/527
+B-Xi Wangmu HP:154/418 MP:405/405
+C-Yurlungur HP:12/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:863/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:446/567 MP:255/255
+D-Anubis HP:325/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Yurlungur
+3-Flynn
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Itsuki HP:863/1136 MP:413/413
+2-Ancient of Days HP:155/498 MP:484/484
+3-Aniel HP:446/567 MP:255/255
+4-Anubis HP:325/497 MP:223/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ataca a Itsuki
+Itsuki recibe 44 de daño
+Itsuki termina con HP:819/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:604/971 MP:527/527
+B-Xi Wangmu HP:154/418 MP:405/405
+C-Yurlungur HP:12/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:819/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:446/567 MP:255/255
+D-Anubis HP:325/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Flynn
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Itsuki HP:819/1136 MP:413/413
+2-Ancient of Days HP:155/498 MP:484/484
+3-Aniel HP:446/567 MP:255/255
+4-Anubis HP:325/497 MP:223/223
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yurlungur ataca a Aniel
+Aniel recibe 20 de daño
+Aniel termina con HP:426/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:604/971 MP:527/527
+B-Xi Wangmu HP:154/418 MP:405/405
+C-Yurlungur HP:12/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:819/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:426/567 MP:255/255
+D-Anubis HP:325/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ancient of Days
+2-Aniel
+3-Itsuki
+4-Anubis
+----------------------------------------
+Seleccione una acción para Ancient of Days
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ancient of Days
+1-Flynn HP:604/971 MP:527/527
+2-Xi Wangmu HP:154/418 MP:405/405
+3-Yurlungur HP:12/202 MP:196/196
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ancient of Days ataca a Xi Wangmu
+Xi Wangmu recibe 54 de daño
+Xi Wangmu termina con HP:100/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:604/971 MP:527/527
+B-Xi Wangmu HP:100/418 MP:405/405
+C-Yurlungur HP:12/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:819/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:426/567 MP:255/255
+D-Anubis HP:325/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Itsuki
+3-Anubis
+4-Ancient of Days
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Flynn HP:604/971 MP:527/527
+2-Xi Wangmu HP:100/418 MP:405/405
+3-Yurlungur HP:12/202 MP:196/196
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Flynn HP:604/971 MP:527/527
+2-Xi Wangmu HP:100/418 MP:405/405
+3-Yurlungur HP:12/202 MP:196/196
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Flynn HP:604/971 MP:527/527
+2-Xi Wangmu HP:100/418 MP:405/405
+3-Yurlungur HP:12/202 MP:196/196
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Aniel ataca a Xi Wangmu
+Xi Wangmu recibe 47 de daño
+Xi Wangmu termina con HP:53/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:604/971 MP:527/527
+B-Xi Wangmu HP:53/418 MP:405/405
+C-Yurlungur HP:12/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:819/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:426/567 MP:255/255
+D-Anubis HP:325/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anubis
+3-Ancient of Days
+4-Aniel
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:604/971 MP:527/527
+2-Xi Wangmu HP:53/418 MP:405/405
+3-Yurlungur HP:12/202 MP:196/196
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Xi Wangmu
+Xi Wangmu recibe 45 de daño
+Xi Wangmu termina con HP:8/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:604/971 MP:527/527
+B-Xi Wangmu HP:8/418 MP:405/405
+C-Yurlungur HP:12/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:819/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:426/567 MP:255/255
+D-Anubis HP:325/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Ancient of Days
+3-Aniel
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Flynn HP:604/971 MP:527/527
+2-Xi Wangmu HP:8/418 MP:405/405
+3-Yurlungur HP:12/202 MP:196/196
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Anubis ataca a Xi Wangmu
+Xi Wangmu recibe 41 de daño
+Xi Wangmu termina con HP:0/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:604/971 MP:527/527
+B-
+C-Yurlungur HP:12/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:819/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:426/567 MP:255/255
+D-Anubis HP:325/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Yurlungur
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:819/1136 MP:413/413
+2-Ancient of Days HP:155/498 MP:484/484
+3-Aniel HP:426/567 MP:255/255
+4-Anubis HP:325/497 MP:223/223
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Flynn dispara a Anubis
+Anubis recibe 110 de daño
+Anubis termina con HP:215/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:604/971 MP:527/527
+B-
+C-Yurlungur HP:12/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:819/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:426/567 MP:255/255
+D-Anubis HP:215/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Flynn
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Itsuki HP:819/1136 MP:413/413
+2-Ancient of Days HP:155/498 MP:484/484
+3-Aniel HP:426/567 MP:255/255
+4-Anubis HP:215/497 MP:223/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yurlungur ataca a Itsuki
+Itsuki recibe 20 de daño
+Itsuki termina con HP:799/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:604/971 MP:527/527
+B-
+C-Yurlungur HP:12/202 MP:196/196
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:799/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:426/567 MP:255/255
+D-Anubis HP:215/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ancient of Days
+2-Aniel
+3-Itsuki
+4-Anubis
+----------------------------------------
+Seleccione una acción para Ancient of Days
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ancient of Days
+1-Flynn HP:604/971 MP:527/527
+2-Yurlungur HP:12/202 MP:196/196
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ancient of Days
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ancient of Days
+1-Flynn HP:604/971 MP:527/527
+2-Yurlungur HP:12/202 MP:196/196
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Ancient of Days ataca a Yurlungur
+Yurlungur recibe 54 de daño
+Yurlungur termina con HP:0/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:604/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:799/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:426/567 MP:255/255
+D-Anubis HP:215/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Itsuki
+3-Anubis
+4-Ancient of Days
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Flynn HP:604/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Flynn
+Flynn recibe 47 de daño
+Flynn termina con HP:557/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:557/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:799/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:426/567 MP:255/255
+D-Anubis HP:215/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anubis
+3-Ancient of Days
+4-Aniel
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:557/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:557/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:557/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:496/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:496/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:799/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:426/567 MP:255/255
+D-Anubis HP:215/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Ancient of Days
+3-Aniel
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Flynn HP:496/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Flynn HP:496/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Flynn HP:496/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Flynn HP:496/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Flynn HP:496/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Flynn HP:496/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ataca a Flynn
+Flynn recibe 41 de daño
+Flynn termina con HP:455/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:455/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:799/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:426/567 MP:255/255
+D-Anubis HP:215/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:799/1136 MP:413/413
+2-Ancient of Days HP:155/498 MP:484/484
+3-Aniel HP:426/567 MP:255/255
+4-Anubis HP:215/497 MP:223/223
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:799/1136 MP:413/413
+2-Ancient of Days HP:155/498 MP:484/484
+3-Aniel HP:426/567 MP:255/255
+4-Anubis HP:215/497 MP:223/223
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Aniel
+Aniel recibe 88 de daño
+Aniel termina con HP:338/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:455/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:799/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:338/567 MP:255/255
+D-Anubis HP:215/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ancient of Days
+2-Aniel
+3-Itsuki
+4-Anubis
+----------------------------------------
+Seleccione una acción para Ancient of Days
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ancient of Days
+1-Flynn HP:455/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ancient of Days ataca a Flynn
+Flynn recibe 54 de daño
+Flynn termina con HP:401/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:401/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:799/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:338/567 MP:255/255
+D-Anubis HP:215/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Itsuki
+3-Anubis
+4-Ancient of Days
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Flynn HP:401/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Flynn
+Flynn recibe 47 de daño
+Flynn termina con HP:354/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:354/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:799/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:338/567 MP:255/255
+D-Anubis HP:215/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anubis
+3-Ancient of Days
+4-Aniel
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:354/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:293/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:293/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:799/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:338/567 MP:255/255
+D-Anubis HP:215/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Ancient of Days
+3-Aniel
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Flynn HP:293/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ataca a Flynn
+Flynn recibe 41 de daño
+Flynn termina con HP:252/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:252/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:799/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:338/567 MP:255/255
+D-Anubis HP:215/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:799/1136 MP:413/413
+2-Ancient of Days HP:155/498 MP:484/484
+3-Aniel HP:338/567 MP:255/255
+4-Anubis HP:215/497 MP:223/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:689/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:252/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:689/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:338/567 MP:255/255
+D-Anubis HP:215/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ancient of Days
+2-Aniel
+3-Itsuki
+4-Anubis
+----------------------------------------
+Seleccione una acción para Ancient of Days
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ancient of Days
+1-Flynn HP:252/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ancient of Days
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ancient of Days
+1-Flynn HP:252/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ancient of Days
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ancient of Days
+1-Flynn HP:252/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ancient of Days ataca a Flynn
+Flynn recibe 54 de daño
+Flynn termina con HP:198/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:198/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:689/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:338/567 MP:255/255
+D-Anubis HP:215/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Itsuki
+3-Anubis
+4-Ancient of Days
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Flynn HP:198/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Flynn HP:198/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Flynn
+Flynn recibe 47 de daño
+Flynn termina con HP:151/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:151/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:689/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:338/567 MP:255/255
+D-Anubis HP:215/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anubis
+3-Ancient of Days
+4-Aniel
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:151/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:151/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:90/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:90/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:689/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:338/567 MP:255/255
+D-Anubis HP:215/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Ancient of Days
+3-Aniel
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Flynn HP:90/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ataca a Flynn
+Flynn recibe 41 de daño
+Flynn termina con HP:49/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:49/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:689/1136 MP:413/413
+B-Ancient of Days HP:155/498 MP:484/484
+C-Aniel HP:338/567 MP:255/255
+D-Anubis HP:215/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:689/1136 MP:413/413
+2-Ancient of Days HP:155/498 MP:484/484
+3-Aniel HP:338/567 MP:255/255
+4-Anubis HP:215/497 MP:223/223
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Ancient of Days
+Ancient of Days recibe 110 de daño
+Ancient of Days termina con HP:45/498
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:49/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:689/1136 MP:413/413
+B-Ancient of Days HP:45/498 MP:484/484
+C-Aniel HP:338/567 MP:255/255
+D-Anubis HP:215/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ancient of Days
+2-Aniel
+3-Itsuki
+4-Anubis
+----------------------------------------
+Seleccione una acción para Ancient of Days
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ancient of Days
+1-Flynn HP:49/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ancient of Days ataca a Flynn
+Flynn recibe 54 de daño
+Flynn termina con HP:0/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Itsuki (J2)

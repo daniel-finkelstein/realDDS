@@ -1,0 +1,4320 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+INPUT: 72
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Magatsuhi HP:851/851 MP:170/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Python HP:637/637 MP:286/286
+D-Power HP:407/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Kotone HP:597/597 MP:347/347
+2-Xi Wangmu HP:418/418 MP:405/405
+3-Python HP:637/637 MP:286/286
+4-Power HP:407/407 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Aleph dispara a Power
+Power recibe 276 de daño
+Power termina con HP:131/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Magatsuhi HP:851/851 MP:170/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Python HP:637/637 MP:286/286
+D-Power HP:131/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Aleph
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kotone HP:597/597 MP:347/347
+2-Xi Wangmu HP:418/418 MP:405/405
+3-Python HP:637/637 MP:286/286
+4-Power HP:131/407 MP:81/81
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi lanza hielo a Xi Wangmu
+Xi Wangmu recibe 124 de daño
+Xi Wangmu termina con HP:294/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Xi Wangmu HP:294/418 MP:405/405
+C-Python HP:637/637 MP:286/286
+D-Power HP:131/407 MP:81/81
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Xi Wangmu
+3-Kotone
+4-Power
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Python
+1-Aleph HP:1309/1309 MP:613/613
+2-Magatsuhi HP:851/851 MP:156/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Python lanza electricidad a Magatsuhi
+Magatsuhi bloquea el ataque de Python
+Magatsuhi termina con HP:851/851
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Xi Wangmu HP:294/418 MP:405/405
+C-Python HP:637/637 MP:272/286
+D-Power HP:131/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Kotone
+3-Power
+4-Python
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kazfiel HP:469/469 MP:211/211
+2-Black Maria HP:348/348 MP:337/337
+3-Asherah HP:433/433 MP:195/195
+4-Taown HP:709/709 MP:140/140
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Python HP:637/637 MP:272/286
+D-Power HP:131/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Power
+3-Python
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Aleph HP:1309/1309 MP:613/613
+2-Magatsuhi HP:851/851 MP:156/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Bouncing Claw MP:4
+2-Grand Tack MP:11
+3-Agilao MP:8
+4-Zandyne MP:14
+5-Samarecarm MP:40
+6-Ziodyne MP:14
+7-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Aleph HP:1309/1309 MP:613/613
+2-Magatsuhi HP:851/851 MP:156/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Python HP:637/637 MP:272/286
+D-Power HP:131/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Python
+3-Kazfiel
+4-Kotone
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Power use
+1-Tathlum Shot MP:7
+2-Diarama MP:9
+3-Megido MP:25
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:294/418 MP:405/405
+2-Black Maria HP:348/348 MP:337/337
+3-Asherah HP:433/433 MP:195/195
+4-Taown HP:709/709 MP:140/140
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Taown ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Python HP:637/637 MP:272/286
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Python
+2-Kazfiel
+3-Kotone
+4-Taown
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:294/418 MP:405/405
+2-Power HP:131/407 MP:81/81
+3-Black Maria HP:348/348 MP:337/337
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Xi Wangmu HP:294/418 MP:405/405
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Kotone HP:597/597 MP:347/347
+2-Kazfiel HP:469/469 MP:211/211
+3-Xi Wangmu HP:294/418 MP:405/405
+4-Taown HP:709/709 MP:140/140
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Kotone
+Kotone es resistente el ataque de Aleph
+Kotone recibe 78 de daño
+Kotone termina con HP:519/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Magatsuhi HP:851/851 MP:156/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:519/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Xi Wangmu HP:294/418 MP:405/405
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Aleph
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kotone HP:519/597 MP:347/347
+2-Kazfiel HP:469/469 MP:211/211
+3-Xi Wangmu HP:294/418 MP:405/405
+4-Taown HP:709/709 MP:140/140
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi lanza hielo a Kotone
+Kotone es resistente el ataque de Magatsuhi
+Kotone recibe 62 de daño
+Kotone termina con HP:457/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Magatsuhi HP:851/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Xi Wangmu HP:294/418 MP:405/405
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Taown
+3-Xi Wangmu
+4-Kotone
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Aleph HP:1309/1309 MP:613/613
+2-Magatsuhi HP:851/851 MP:142/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Magatsuhi HP:851/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Xi Wangmu HP:294/418 MP:405/405
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Xi Wangmu
+3-Kotone
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Python HP:637/637 MP:272/286
+2-Power HP:131/407 MP:81/81
+3-Black Maria HP:348/348 MP:337/337
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Python ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Magatsuhi HP:851/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Xi Wangmu HP:294/418 MP:405/405
+D-Python HP:637/637 MP:272/286
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Kotone
+3-Kazfiel
+4-Python
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Aleph HP:1309/1309 MP:613/613
+2-Magatsuhi HP:851/851 MP:142/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Xi Wangmu ataca a Magatsuhi
+Magatsuhi recibe 44 de daño
+Magatsuhi termina con HP:807/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Magatsuhi HP:807/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Xi Wangmu HP:294/418 MP:405/405
+D-Python HP:637/637 MP:272/286
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Kazfiel
+3-Python
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Aleph HP:1309/1309 MP:613/613
+2-Magatsuhi HP:807/851 MP:142/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone ataca a Aleph
+Aleph es resistente el ataque de Kotone
+Aleph recibe 19 de daño
+Aleph termina con HP:1290/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1290/1309 MP:613/613
+B-Magatsuhi HP:807/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Xi Wangmu HP:294/418 MP:405/405
+D-Python HP:637/637 MP:272/286
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Python
+3-Xi Wangmu
+4-Kotone
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Aleph HP:1290/1309 MP:613/613
+2-Magatsuhi HP:807/851 MP:142/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Aleph HP:1290/1309 MP:613/613
+2-Magatsuhi HP:807/851 MP:142/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kazfiel ataca a Magatsuhi
+Magatsuhi recibe 38 de daño
+Magatsuhi termina con HP:769/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1290/1309 MP:613/613
+B-Magatsuhi HP:769/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Xi Wangmu HP:294/418 MP:405/405
+D-Python HP:637/637 MP:272/286
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1290/1309 MP:613/613
+B-Magatsuhi HP:769/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Xi Wangmu HP:294/418 MP:405/405
+D-Python HP:637/637 MP:272/286
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Aleph
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1290/1309 MP:613/613
+B-Magatsuhi HP:769/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Xi Wangmu HP:294/418 MP:405/405
+D-Python HP:637/637 MP:272/286
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1290/1309 MP:613/613
+B-Magatsuhi HP:769/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Xi Wangmu HP:294/418 MP:405/405
+D-Python HP:637/637 MP:272/286
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Aleph
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1290/1309 MP:613/613
+B-Magatsuhi HP:769/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Xi Wangmu HP:294/418 MP:405/405
+D-Python HP:637/637 MP:272/286
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Kazfiel
+3-Xi Wangmu
+4-Kotone
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1290/1309 MP:613/613
+B-Magatsuhi HP:769/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Xi Wangmu HP:294/418 MP:405/405
+D-Python HP:637/637 MP:272/286
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Xi Wangmu
+3-Kotone
+4-Python
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Aleph HP:1290/1309 MP:613/613
+2-Magatsuhi HP:769/851 MP:142/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ataca a Aleph
+Aleph es resistente el ataque de Kazfiel
+Aleph recibe 19 de daño
+Aleph termina con HP:1271/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1271/1309 MP:613/613
+B-Magatsuhi HP:769/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Xi Wangmu HP:294/418 MP:405/405
+D-Python HP:637/637 MP:272/286
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Kotone
+3-Python
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Power HP:131/407 MP:81/81
+2-Black Maria HP:348/348 MP:337/337
+3-Asherah HP:433/433 MP:195/195
+4-Taown HP:709/709 MP:140/140
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Power HP:131/407 MP:81/81
+2-Black Maria HP:348/348 MP:337/337
+3-Asherah HP:433/433 MP:195/195
+4-Taown HP:709/709 MP:140/140
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Taown ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1271/1309 MP:613/613
+B-Magatsuhi HP:769/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Taown HP:709/709 MP:140/140
+D-Python HP:637/637 MP:272/286
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Python
+3-Kazfiel
+4-Taown
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1271/1309 MP:613/613
+B-Magatsuhi HP:769/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Taown HP:709/709 MP:140/140
+D-Python HP:637/637 MP:272/286
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Kazfiel
+3-Taown
+4-Kotone
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1271/1309 MP:613/613
+B-Magatsuhi HP:769/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Taown HP:709/709 MP:140/140
+D-Python HP:637/637 MP:272/286
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Taown
+3-Kotone
+4-Python
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Aleph HP:1271/1309 MP:613/613
+2-Magatsuhi HP:769/851 MP:142/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kazfiel lanza viento a Magatsuhi
+Magatsuhi recibe 109 de daño
+Magatsuhi termina con HP:660/851
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1271/1309 MP:613/613
+B-Magatsuhi HP:660/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:469/469 MP:197/211
+C-Taown HP:709/709 MP:140/140
+D-Python HP:637/637 MP:272/286
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Kotone
+3-Python
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Aleph HP:1271/1309 MP:613/613
+2-Magatsuhi HP:660/851 MP:142/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Aleph HP:1271/1309 MP:613/613
+2-Magatsuhi HP:660/851 MP:142/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Taown ataca a Magatsuhi
+Magatsuhi recibe 54 de daño
+Magatsuhi termina con HP:606/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1271/1309 MP:613/613
+B-Magatsuhi HP:606/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:469/469 MP:197/211
+C-Taown HP:709/709 MP:140/140
+D-Python HP:637/637 MP:272/286
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1271/1309 MP:613/613
+B-Magatsuhi HP:606/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:469/469 MP:197/211
+C-Taown HP:709/709 MP:140/140
+D-Python HP:637/637 MP:272/286
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Aleph
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kotone HP:457/597 MP:347/347
+2-Kazfiel HP:469/469 MP:197/211
+3-Taown HP:709/709 MP:140/140
+4-Python HP:637/637 MP:272/286
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kotone HP:457/597 MP:347/347
+2-Kazfiel HP:469/469 MP:197/211
+3-Taown HP:709/709 MP:140/140
+4-Python HP:637/637 MP:272/286
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Kazfiel
+Kazfiel recibe 65 de daño
+Kazfiel termina con HP:404/469
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1271/1309 MP:613/613
+B-Magatsuhi HP:606/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:404/469 MP:197/211
+C-Taown HP:709/709 MP:140/140
+D-Python HP:637/637 MP:272/286
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Kotone HP:457/597 MP:347/347
+2-Kazfiel HP:404/469 MP:197/211
+3-Taown HP:709/709 MP:140/140
+4-Python HP:637/637 MP:272/286
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Aleph ataca a Python
+Python recibe 157 de daño
+Python termina con HP:480/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1271/1309 MP:613/613
+B-Magatsuhi HP:606/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:404/469 MP:197/211
+C-Taown HP:709/709 MP:140/140
+D-Python HP:480/637 MP:272/286
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Kazfiel
+3-Taown
+4-Kotone
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Aleph HP:1271/1309 MP:613/613
+2-Magatsuhi HP:606/851 MP:142/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Python ataca a Magatsuhi
+Magatsuhi recibe 53 de daño
+Magatsuhi termina con HP:553/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1271/1309 MP:613/613
+B-Magatsuhi HP:553/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:404/469 MP:197/211
+C-Taown HP:709/709 MP:140/140
+D-Python HP:480/637 MP:272/286
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Taown
+3-Kotone
+4-Python
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Aleph HP:1271/1309 MP:613/613
+2-Magatsuhi HP:553/851 MP:142/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ataca a Aleph
+Aleph es resistente el ataque de Kazfiel
+Aleph recibe 19 de daño
+Aleph termina con HP:1252/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1252/1309 MP:613/613
+B-Magatsuhi HP:553/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:404/469 MP:197/211
+C-Taown HP:709/709 MP:140/140
+D-Python HP:480/637 MP:272/286
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Kotone
+3-Python
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Aleph HP:1252/1309 MP:613/613
+2-Magatsuhi HP:553/851 MP:142/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Aleph HP:1252/1309 MP:613/613
+2-Magatsuhi HP:553/851 MP:142/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:294/418 MP:405/405
+2-Power HP:131/407 MP:81/81
+3-Black Maria HP:348/348 MP:337/337
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:294/418 MP:405/405
+2-Power HP:131/407 MP:81/81
+3-Black Maria HP:348/348 MP:337/337
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Asherah ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1252/1309 MP:613/613
+B-Magatsuhi HP:553/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:347/347
+B-Kazfiel HP:404/469 MP:197/211
+C-Asherah HP:433/433 MP:195/195
+D-Python HP:480/637 MP:272/286
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Python
+3-Kazfiel
+4-Asherah
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Bouncing Claw MP:4
+2-Grand Tack MP:11
+3-Agilao MP:8
+4-Zandyne MP:14
+5-Samarecarm MP:40
+6-Ziodyne MP:14
+7-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Aleph HP:1252/1309 MP:613/613
+2-Magatsuhi HP:553/851 MP:142/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone dispara a Aleph
+Aleph bloquea el ataque de Kotone
+Aleph termina con HP:1252/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1252/1309 MP:613/613
+B-Magatsuhi HP:553/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:336/347
+B-Kazfiel HP:404/469 MP:197/211
+C-Asherah HP:433/433 MP:195/195
+D-Python HP:480/637 MP:272/286
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Kotone HP:457/597 MP:336/347
+2-Kazfiel HP:404/469 MP:197/211
+3-Asherah HP:433/433 MP:195/195
+4-Python HP:480/637 MP:272/286
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Aleph dispara a Asherah
+Asherah recibe 276 de daño
+Asherah termina con HP:157/433
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1252/1309 MP:613/613
+B-Magatsuhi HP:553/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:336/347
+B-Kazfiel HP:404/469 MP:197/211
+C-Asherah HP:157/433 MP:195/195
+D-Python HP:480/637 MP:272/286
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Aleph
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1252/1309 MP:613/613
+B-Magatsuhi HP:553/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:457/597 MP:336/347
+B-Kazfiel HP:404/469 MP:197/211
+C-Asherah HP:157/433 MP:195/195
+D-Python HP:480/637 MP:272/286
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Kotone HP:457/597 MP:336/347
+2-Kazfiel HP:404/469 MP:197/211
+3-Asherah HP:157/433 MP:195/195
+4-Python HP:480/637 MP:272/286
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Kotone
+Kotone es resistente el ataque de Aleph
+Kotone recibe 138 de daño
+Kotone termina con HP:319/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1252/1309 MP:613/613
+B-Magatsuhi HP:553/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:319/597 MP:336/347
+B-Kazfiel HP:404/469 MP:197/211
+C-Asherah HP:157/433 MP:195/195
+D-Python HP:480/637 MP:272/286
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Kazfiel
+3-Kotone
+4-Asherah
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Aleph HP:1252/1309 MP:613/613
+2-Magatsuhi HP:553/851 MP:142/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Aleph HP:1252/1309 MP:613/613
+2-Magatsuhi HP:553/851 MP:142/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Python ataca a Magatsuhi
+Magatsuhi recibe 53 de daño
+Magatsuhi termina con HP:500/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1252/1309 MP:613/613
+B-Magatsuhi HP:500/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:319/597 MP:336/347
+B-Kazfiel HP:404/469 MP:197/211
+C-Asherah HP:157/433 MP:195/195
+D-Python HP:480/637 MP:272/286
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Kotone
+3-Asherah
+4-Python
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:294/418 MP:405/405
+2-Power HP:131/407 MP:81/81
+3-Black Maria HP:348/348 MP:337/337
+4-Taown HP:709/709 MP:140/140
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Taown ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1252/1309 MP:613/613
+B-Magatsuhi HP:500/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:319/597 MP:336/347
+B-Taown HP:709/709 MP:140/140
+C-Asherah HP:157/433 MP:195/195
+D-Python HP:480/637 MP:272/286
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Asherah
+3-Python
+4-Taown
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1252/1309 MP:613/613
+B-Magatsuhi HP:500/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:319/597 MP:336/347
+B-Taown HP:709/709 MP:140/140
+C-Asherah HP:157/433 MP:195/195
+D-Python HP:480/637 MP:272/286
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Python
+3-Taown
+4-Kotone
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:294/418 MP:405/405
+2-Power HP:131/407 MP:81/81
+3-Kazfiel HP:404/469 MP:197/211
+4-Black Maria HP:348/348 MP:337/337
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1252/1309 MP:613/613
+B-Magatsuhi HP:500/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:319/597 MP:336/347
+B-Taown HP:709/709 MP:140/140
+C-Xi Wangmu HP:294/418 MP:405/405
+D-Python HP:480/637 MP:272/286
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Python
+2-Taown
+3-Kotone
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Aleph HP:1252/1309 MP:613/613
+2-Magatsuhi HP:500/851 MP:142/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Python ataca a Aleph
+Aleph es resistente el ataque de Python
+Aleph recibe 26 de daño
+Aleph termina con HP:1226/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1226/1309 MP:613/613
+B-Magatsuhi HP:500/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:319/597 MP:336/347
+B-Taown HP:709/709 MP:140/140
+C-Xi Wangmu HP:294/418 MP:405/405
+D-Python HP:480/637 MP:272/286
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Kotone
+3-Xi Wangmu
+4-Python
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Power HP:131/407 MP:81/81
+2-Kazfiel HP:404/469 MP:197/211
+3-Black Maria HP:348/348 MP:337/337
+4-Asherah HP:157/433 MP:195/195
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Aleph HP:1226/1309 MP:613/613
+2-Magatsuhi HP:500/851 MP:142/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Taown ataca a Magatsuhi
+Magatsuhi recibe 142 de daño
+Magatsuhi termina con HP:358/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1226/1309 MP:613/613
+B-Magatsuhi HP:358/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:319/597 MP:336/347
+B-Taown HP:709/709 MP:129/140
+C-Xi Wangmu HP:294/418 MP:405/405
+D-Python HP:480/637 MP:272/286
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bufula MP:8
+2-Lunge MP:6
+3-Oni-Kagura MP:9
+4-Nihil Claw MP:11
+5-Needle Shot MP:4
+6-Diarama MP:9
+7-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Kotone HP:319/597 MP:336/347
+2-Taown HP:709/709 MP:129/140
+3-Xi Wangmu HP:294/418 MP:405/405
+4-Python HP:480/637 MP:272/286
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Aleph ataca a Python
+Python recibe 242 de daño
+Aleph ataca a Python
+Python recibe 242 de daño
+Aleph ataca a Python
+Python recibe 242 de daño
+Python termina con HP:0/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1226/1309 MP:602/613
+B-Magatsuhi HP:358/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:319/597 MP:336/347
+B-Taown HP:709/709 MP:129/140
+C-Xi Wangmu HP:294/418 MP:405/405
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Aleph
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1226/1309 MP:602/613
+B-Magatsuhi HP:358/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:319/597 MP:336/347
+B-Taown HP:709/709 MP:129/140
+C-Xi Wangmu HP:294/418 MP:405/405
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1226/1309 MP:602/613
+B-Magatsuhi HP:358/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:319/597 MP:336/347
+B-Taown HP:709/709 MP:129/140
+C-Xi Wangmu HP:294/418 MP:405/405
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Xi Wangmu
+3-Kotone
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Aleph HP:1226/1309 MP:602/613
+2-Magatsuhi HP:358/851 MP:142/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Aleph
+Aleph es resistente el ataque de Taown
+Aleph recibe 71 de daño
+Taown ataca a Aleph
+Aleph es resistente el ataque de Taown
+Aleph recibe 71 de daño
+Aleph termina con HP:1084/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1084/1309 MP:602/613
+B-Magatsuhi HP:358/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:319/597 MP:336/347
+B-Taown HP:709/709 MP:118/140
+C-Xi Wangmu HP:294/418 MP:405/405
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Kotone
+3-Taown
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Python HP:0/637 MP:272/286
+2-Power HP:131/407 MP:81/81
+3-Kazfiel HP:404/469 MP:197/211
+4-Black Maria HP:348/348 MP:337/337
+5-Asherah HP:157/433 MP:195/195
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Aleph HP:1084/1309 MP:602/613
+2-Magatsuhi HP:358/851 MP:142/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1084/1309 MP:602/613
+B-Magatsuhi HP:358/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:319/597 MP:336/347
+B-Taown HP:709/709 MP:118/140
+C-Xi Wangmu HP:294/418 MP:405/405
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Taown
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Bouncing Claw MP:4
+2-Grand Tack MP:11
+3-Agilao MP:8
+4-Zandyne MP:14
+5-Samarecarm MP:40
+6-Ziodyne MP:14
+7-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Aleph HP:1084/1309 MP:602/613
+2-Magatsuhi HP:358/851 MP:142/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone lanza viento a Magatsuhi
+Magatsuhi recibe 115 de daño
+Magatsuhi termina con HP:243/851
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1084/1309 MP:602/613
+B-Magatsuhi HP:243/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:319/597 MP:322/347
+B-Taown HP:709/709 MP:118/140
+C-Xi Wangmu HP:294/418 MP:405/405
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Xi Wangmu
+3-Kotone
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Aleph HP:1084/1309 MP:602/613
+2-Magatsuhi HP:243/851 MP:142/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Aleph
+Aleph es resistente el ataque de Taown
+Aleph recibe 71 de daño
+Aleph termina con HP:1013/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1013/1309 MP:602/613
+B-Magatsuhi HP:243/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:319/597 MP:322/347
+B-Taown HP:709/709 MP:107/140
+C-Xi Wangmu HP:294/418 MP:405/405
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Kotone HP:319/597 MP:322/347
+2-Taown HP:709/709 MP:107/140
+3-Xi Wangmu HP:294/418 MP:405/405
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Kotone
+Kotone es resistente el ataque de Aleph
+Kotone recibe 78 de daño
+Kotone termina con HP:241/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1013/1309 MP:602/613
+B-Magatsuhi HP:243/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:241/597 MP:322/347
+B-Taown HP:709/709 MP:107/140
+C-Xi Wangmu HP:294/418 MP:405/405
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Aleph
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kotone HP:241/597 MP:322/347
+2-Taown HP:709/709 MP:107/140
+3-Xi Wangmu HP:294/418 MP:405/405
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kotone HP:241/597 MP:322/347
+2-Taown HP:709/709 MP:107/140
+3-Xi Wangmu HP:294/418 MP:405/405
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1013/1309 MP:602/613
+B-Magatsuhi HP:243/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:241/597 MP:322/347
+B-Taown HP:709/709 MP:107/140
+C-Xi Wangmu HP:294/418 MP:405/405
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Kotone HP:241/597 MP:322/347
+2-Taown HP:709/709 MP:107/140
+3-Xi Wangmu HP:294/418 MP:405/405
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph ataca a Taown
+Taown recibe 157 de daño
+Taown termina con HP:552/709
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1013/1309 MP:602/613
+B-Magatsuhi HP:243/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:241/597 MP:322/347
+B-Taown HP:552/709 MP:107/140
+C-Xi Wangmu HP:294/418 MP:405/405
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Xi Wangmu
+3-Kotone
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Power HP:131/407 MP:81/81
+2-Kazfiel HP:404/469 MP:197/211
+3-Black Maria HP:348/348 MP:337/337
+4-Asherah HP:157/433 MP:195/195
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Power HP:131/407 MP:81/81
+2-Kazfiel HP:404/469 MP:197/211
+3-Black Maria HP:348/348 MP:337/337
+4-Asherah HP:157/433 MP:195/195
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Asherah ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1013/1309 MP:602/613
+B-Magatsuhi HP:243/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:241/597 MP:322/347
+B-Asherah HP:157/433 MP:195/195
+C-Xi Wangmu HP:294/418 MP:405/405
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Kotone
+3-Asherah
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1013/1309 MP:602/613
+B-Magatsuhi HP:243/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:241/597 MP:322/347
+B-Asherah HP:157/433 MP:195/195
+C-Xi Wangmu HP:294/418 MP:405/405
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Asherah
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Power HP:131/407 MP:81/81
+2-Kazfiel HP:404/469 MP:197/211
+3-Black Maria HP:348/348 MP:337/337
+4-Taown HP:552/709 MP:107/140
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Asherah HP:157/433 MP:195/195 (Puesto 2)
+2-Xi Wangmu HP:294/418 MP:405/405 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Power ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1013/1309 MP:602/613
+B-Magatsuhi HP:243/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:241/597 MP:322/347
+B-Power HP:131/407 MP:81/81
+C-Xi Wangmu HP:294/418 MP:405/405
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Power
+2-Xi Wangmu
+3-Kotone
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1013/1309 MP:602/613
+B-Magatsuhi HP:243/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:241/597 MP:322/347
+B-Power HP:131/407 MP:81/81
+C-Xi Wangmu HP:294/418 MP:405/405
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Kotone
+3-Power
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1013/1309 MP:602/613
+B-Magatsuhi HP:243/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:241/597 MP:322/347
+B-Power HP:131/407 MP:81/81
+C-Xi Wangmu HP:294/418 MP:405/405
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Power
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1013/1309 MP:602/613
+B-Magatsuhi HP:243/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:241/597 MP:322/347
+B-Power HP:131/407 MP:81/81
+C-Xi Wangmu HP:294/418 MP:405/405
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Kotone HP:241/597 MP:322/347
+2-Power HP:131/407 MP:81/81
+3-Xi Wangmu HP:294/418 MP:405/405
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Kotone
+Kotone es resistente el ataque de Aleph
+Kotone recibe 138 de daño
+Kotone termina con HP:103/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1013/1309 MP:602/613
+B-Magatsuhi HP:243/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:103/597 MP:322/347
+B-Power HP:131/407 MP:81/81
+C-Xi Wangmu HP:294/418 MP:405/405
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Aleph
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kotone HP:103/597 MP:322/347
+2-Power HP:131/407 MP:81/81
+3-Xi Wangmu HP:294/418 MP:405/405
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Kotone
+Kotone es resistente el ataque de Magatsuhi
+Kotone recibe 32 de daño
+Kotone termina con HP:71/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1013/1309 MP:602/613
+B-Magatsuhi HP:243/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:71/597 MP:322/347
+B-Power HP:131/407 MP:81/81
+C-Xi Wangmu HP:294/418 MP:405/405
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Kotone
+3-Power
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kazfiel HP:404/469 MP:197/211
+2-Black Maria HP:348/348 MP:337/337
+3-Asherah HP:157/433 MP:195/195
+4-Taown HP:552/709 MP:107/140
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1013/1309 MP:602/613
+B-Magatsuhi HP:243/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:71/597 MP:322/347
+B-Power HP:131/407 MP:81/81
+C-Kazfiel HP:404/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Power
+3-Kazfiel
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:294/418 MP:405/405
+2-Black Maria HP:348/348 MP:337/337
+3-Asherah HP:157/433 MP:195/195
+4-Taown HP:552/709 MP:107/140
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:294/418 MP:405/405
+2-Black Maria HP:348/348 MP:337/337
+3-Asherah HP:157/433 MP:195/195
+4-Taown HP:552/709 MP:107/140
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:294/418 MP:405/405
+2-Black Maria HP:348/348 MP:337/337
+3-Asherah HP:157/433 MP:195/195
+4-Taown HP:552/709 MP:107/140
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Power HP:131/407 MP:81/81 (Puesto 2)
+2-Kazfiel HP:404/469 MP:197/211 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Bouncing Claw MP:4
+2-Grand Tack MP:11
+3-Agilao MP:8
+4-Zandyne MP:14
+5-Samarecarm MP:40
+6-Ziodyne MP:14
+7-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Aleph HP:1013/1309 MP:602/613
+2-Magatsuhi HP:243/851 MP:142/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone lanza fuego a Aleph
+Aleph recibe 93 de daño
+Aleph termina con HP:920/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:920/1309 MP:602/613
+B-Magatsuhi HP:243/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:71/597 MP:314/347
+B-Power HP:131/407 MP:81/81
+C-Kazfiel HP:404/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Kazfiel
+3-Kotone
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:920/1309 MP:602/613
+B-Magatsuhi HP:243/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:71/597 MP:314/347
+B-Power HP:131/407 MP:81/81
+C-Kazfiel HP:404/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Kotone
+3-Power
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:294/418 MP:405/405
+2-Black Maria HP:348/348 MP:337/337
+3-Asherah HP:157/433 MP:195/195
+4-Taown HP:552/709 MP:107/140
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Taown ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:920/1309 MP:602/613
+B-Magatsuhi HP:243/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:71/597 MP:314/347
+B-Power HP:131/407 MP:81/81
+C-Taown HP:552/709 MP:107/140
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Power
+3-Taown
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Bouncing Claw MP:4
+2-Grand Tack MP:11
+3-Agilao MP:8
+4-Zandyne MP:14
+5-Samarecarm MP:40
+6-Ziodyne MP:14
+7-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Aleph HP:920/1309 MP:602/613
+2-Magatsuhi HP:243/851 MP:142/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone dispara a Magatsuhi
+Magatsuhi recibe 119 de daño
+Magatsuhi termina con HP:124/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:920/1309 MP:602/613
+B-Magatsuhi HP:124/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:71/597 MP:303/347
+B-Power HP:131/407 MP:81/81
+C-Taown HP:552/709 MP:107/140
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Kotone HP:71/597 MP:303/347
+2-Power HP:131/407 MP:81/81
+3-Taown HP:552/709 MP:107/140
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Aleph ataca a Taown
+Taown recibe 157 de daño
+Taown termina con HP:395/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:920/1309 MP:602/613
+B-Magatsuhi HP:124/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:71/597 MP:303/347
+B-Power HP:131/407 MP:81/81
+C-Taown HP:395/709 MP:107/140
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Aleph
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:920/1309 MP:602/613
+B-Magatsuhi HP:124/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:71/597 MP:303/347
+B-Power HP:131/407 MP:81/81
+C-Taown HP:395/709 MP:107/140
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Kotone HP:71/597 MP:303/347
+2-Power HP:131/407 MP:81/81
+3-Taown HP:395/709 MP:107/140
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:920/1309 MP:602/613
+B-Magatsuhi HP:124/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:71/597 MP:303/347
+B-Power HP:131/407 MP:81/81
+C-Taown HP:395/709 MP:107/140
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Kotone
+3-Power
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Aleph HP:920/1309 MP:602/613
+2-Magatsuhi HP:124/851 MP:142/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Taown ataca a Magatsuhi
+Magatsuhi recibe 54 de daño
+Magatsuhi termina con HP:70/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:920/1309 MP:602/613
+B-Magatsuhi HP:70/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:71/597 MP:303/347
+B-Power HP:131/407 MP:81/81
+C-Taown HP:395/709 MP:107/140
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Power
+3-Taown
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Aleph HP:920/1309 MP:602/613
+2-Magatsuhi HP:70/851 MP:142/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone ataca a Aleph
+Aleph es resistente el ataque de Kotone
+Aleph recibe 19 de daño
+Aleph termina con HP:901/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:70/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:71/597 MP:303/347
+B-Power HP:131/407 MP:81/81
+C-Taown HP:395/709 MP:107/140
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Taown
+3-Kotone
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:294/418 MP:405/405
+2-Kazfiel HP:404/469 MP:197/211
+3-Black Maria HP:348/348 MP:337/337
+4-Asherah HP:157/433 MP:195/195
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kazfiel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:70/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:71/597 MP:303/347
+B-Kazfiel HP:404/469 MP:197/211
+C-Taown HP:395/709 MP:107/140
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Kotone
+3-Kazfiel
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Aleph HP:901/1309 MP:602/613
+2-Magatsuhi HP:70/851 MP:142/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:70/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:71/597 MP:303/347
+B-Kazfiel HP:404/469 MP:197/211
+C-Taown HP:395/709 MP:107/140
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Kotone HP:71/597 MP:303/347
+2-Kazfiel HP:404/469 MP:197/211
+3-Taown HP:395/709 MP:107/140
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Kotone
+Kotone es resistente el ataque de Aleph
+Kotone recibe 138 de daño
+Kotone termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:70/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:0/597 MP:303/347
+B-Kazfiel HP:404/469 MP:197/211
+C-Taown HP:395/709 MP:107/140
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Aleph
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kazfiel HP:404/469 MP:197/211
+2-Taown HP:395/709 MP:107/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Taown
+Taown recibe 65 de daño
+Taown termina con HP:330/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:70/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:0/597 MP:303/347
+B-Kazfiel HP:404/469 MP:197/211
+C-Taown HP:330/709 MP:107/140
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Taown
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:294/418 MP:405/405
+2-Power HP:131/407 MP:81/81
+3-Black Maria HP:348/348 MP:337/337
+4-Asherah HP:157/433 MP:195/195
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Power ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:70/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:0/597 MP:303/347
+B-Power HP:131/407 MP:81/81
+C-Taown HP:330/709 MP:107/140
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Power
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:294/418 MP:405/405
+2-Kazfiel HP:404/469 MP:197/211
+3-Black Maria HP:348/348 MP:337/337
+4-Asherah HP:157/433 MP:195/195
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Black Maria ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:70/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:0/597 MP:303/347
+B-Power HP:131/407 MP:81/81
+C-Black Maria HP:348/348 MP:337/337
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Black Maria
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:294/418 MP:405/405
+2-Kazfiel HP:404/469 MP:197/211
+3-Asherah HP:157/433 MP:195/195
+4-Taown HP:330/709 MP:107/140
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Power use
+1-Tathlum Shot MP:7
+2-Diarama MP:9
+3-Megido MP:25
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:70/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:0/597 MP:303/347
+B-Power HP:131/407 MP:81/81
+C-Black Maria HP:348/348 MP:337/337
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Maria
+2-Power
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:70/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:0/597 MP:303/347
+B-Power HP:131/407 MP:81/81
+C-Black Maria HP:348/348 MP:337/337
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bufula MP:8
+2-Lunge MP:6
+3-Oni-Kagura MP:9
+4-Nihil Claw MP:11
+5-Needle Shot MP:4
+6-Diarama MP:9
+7-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Power HP:131/407 MP:81/81
+2-Black Maria HP:348/348 MP:337/337
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Power HP:131/407 MP:81/81
+2-Black Maria HP:348/348 MP:337/337
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Power
+Power recibe 157 de daño
+Power termina con HP:0/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:70/851 MP:142/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:0/597 MP:303/347
+B-
+C-Black Maria HP:348/348 MP:337/337
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Aleph
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Black Maria HP:348/348 MP:337/337
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi lanza hielo a Black Maria
+Black Maria recibe 124 de daño
+Black Maria termina con HP:224/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:70/851 MP:128/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:0/597 MP:303/347
+B-
+C-Black Maria HP:224/348 MP:337/337
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:70/851 MP:128/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:0/597 MP:303/347
+B-
+C-Black Maria HP:224/348 MP:337/337
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Maria
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:70/851 MP:128/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:0/597 MP:303/347
+B-
+C-Black Maria HP:224/348 MP:337/337
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bufula MP:8
+2-Lunge MP:6
+3-Oni-Kagura MP:9
+4-Nihil Claw MP:11
+5-Needle Shot MP:4
+6-Diarama MP:9
+7-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Black Maria HP:224/348 MP:337/337
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:70/851 MP:128/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:0/597 MP:303/347
+B-
+C-Black Maria HP:224/348 MP:337/337
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Aleph
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Black Maria HP:224/348 MP:337/337
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:70/851 MP:128/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:0/597 MP:303/347
+B-
+C-Black Maria HP:224/348 MP:337/337
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bufula MP:8
+2-Lunge MP:6
+3-Oni-Kagura MP:9
+4-Nihil Claw MP:11
+5-Needle Shot MP:4
+6-Diarama MP:9
+7-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Black Maria HP:224/348 MP:337/337
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:70/851 MP:128/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:0/597 MP:303/347
+B-
+C-Black Maria HP:224/348 MP:337/337
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Aleph
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Black Maria HP:224/348 MP:337/337
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Black Maria
+Black Maria recibe 65 de daño
+Black Maria termina con HP:159/348
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:70/851 MP:128/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:0/597 MP:303/347
+B-
+C-Black Maria HP:159/348 MP:337/337
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Aleph HP:901/1309 MP:602/613
+2-Magatsuhi HP:70/851 MP:128/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Aleph HP:901/1309 MP:602/613
+2-Magatsuhi HP:70/851 MP:128/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Black Maria ataca a Magatsuhi
+Magatsuhi recibe 36 de daño
+Magatsuhi termina con HP:34/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:34/851 MP:128/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:0/597 MP:303/347
+B-
+C-Black Maria HP:159/348 MP:337/337
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Black Maria HP:159/348 MP:337/337
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Black Maria
+Black Maria recibe 157 de daño
+Black Maria termina con HP:2/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:34/851 MP:128/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:0/597 MP:303/347
+B-
+C-Black Maria HP:2/348 MP:337/337
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Aleph
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:901/1309 MP:602/613
+B-Magatsuhi HP:34/851 MP:128/170
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:0/597 MP:303/347
+B-
+C-Black Maria HP:2/348 MP:337/337
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Black Maria HP:2/348 MP:337/337
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Black Maria
+Black Maria recibe 276 de daño
+Black Maria termina con HP:0/348
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Aleph (J1)

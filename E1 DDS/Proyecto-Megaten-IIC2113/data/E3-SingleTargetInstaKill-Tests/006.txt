@@ -1,0 +1,264 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+INPUT: 5
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Guedhe HP:511/511 MP:229/229
+C-Mou-Ryo HP:238/238 MP:107/107
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Hresvelgr HP:560/560 MP:252/252
+C-Hecatoncheires HP:756/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Guedhe
+2-Nanashi
+3-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Guedhe use
+1-Mudoon MP:10
+2-Recarm MP:20
+3-Megidola MP:40
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Guedhe
+1-Yu HP:597/597 MP:347/347
+2-Hresvelgr HP:560/560 MP:252/252
+3-Hecatoncheires HP:756/756 MP:151/151
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Guedhe ataca con oscuridad a Yu
+Yu ha sido eliminado
+Yu termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Guedhe HP:511/511 MP:219/229
+C-Mou-Ryo HP:238/238 MP:107/107
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:347/347
+B-Hresvelgr HP:560/560 MP:252/252
+C-Hecatoncheires HP:756/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Mou-Ryo
+3-Guedhe
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Mudo MP:6
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Hresvelgr HP:560/560 MP:252/252
+2-Hecatoncheires HP:756/756 MP:151/151
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca con oscuridad a Hresvelgr
+Hresvelgr ha sido eliminado
+Hresvelgr termina con HP:0/560
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:405/411
+B-Guedhe HP:511/511 MP:219/229
+C-Mou-Ryo HP:238/238 MP:107/107
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Hecatoncheires HP:756/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Guedhe
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mou-Ryo use
+1-Mudo MP:6
+2-Spirit Drain MP:5
+3-Pulinpa MP:5
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Hecatoncheires HP:756/756 MP:151/151
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mou-Ryo ataca con oscuridad a Hecatoncheires
+Mou-Ryo ha fallado el ataque
+Hecatoncheires termina con HP:756/756
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:405/411
+B-Guedhe HP:511/511 MP:219/229
+C-Mou-Ryo HP:238/238 MP:101/107
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Hecatoncheires HP:756/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hecatoncheires
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hecatoncheires
+1-Nanashi HP:140/140 MP:405/411
+2-Guedhe HP:511/511 MP:219/229
+3-Mou-Ryo HP:238/238 MP:101/107
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hecatoncheires ataca a Nanashi
+Nanashi recibe 58 de daño
+Nanashi termina con HP:82/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:82/140 MP:405/411
+B-Guedhe HP:511/511 MP:219/229
+C-Mou-Ryo HP:238/238 MP:101/107
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Hecatoncheires HP:756/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Guedhe
+2-Nanashi
+3-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Guedhe
+1-Hecatoncheires HP:756/756 MP:151/151
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Guedhe ataca a Hecatoncheires
+Hecatoncheires es resistente el ataque de Guedhe
+Hecatoncheires recibe 21 de daño
+Hecatoncheires termina con HP:735/756
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:82/140 MP:405/411
+B-Guedhe HP:511/511 MP:219/229
+C-Mou-Ryo HP:238/238 MP:101/107
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Hecatoncheires HP:735/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Mou-Ryo
+3-Guedhe
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Nanashi (J1) se rinde
+----------------------------------------
+Ganador: Yu (J2)

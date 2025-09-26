@@ -1,0 +1,2586 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 10
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:464/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Astaroth HP:406/406 MP:181/181
+C-Oni HP:218/218 MP:43/43
+D-Kabuso HP:137/137 MP:131/131
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Nahobino
+3-Kingu
+4-Mandrake
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:453/453 MP:389/389
+2-Astaroth HP:406/406 MP:181/181
+3-Oni HP:218/218 MP:43/43
+4-Kabuso HP:137/137 MP:131/131
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Shax ataca a Astaroth
+Astaroth recibe 40 de daño
+Astaroth termina con HP:366/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:464/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Astaroth HP:366/406 MP:181/181
+C-Oni HP:218/218 MP:43/43
+D-Kabuso HP:137/137 MP:131/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kingu
+3-Mandrake
+4-Shax
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:453/453 MP:389/389
+2-Astaroth HP:366/406 MP:181/181
+3-Oni HP:218/218 MP:43/43
+4-Kabuso HP:137/137 MP:131/131
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Astaroth
+Astaroth recibe 83 de daño
+Astaroth termina con HP:283/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:464/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Astaroth HP:283/406 MP:181/181
+C-Oni HP:218/218 MP:43/43
+D-Kabuso HP:137/137 MP:131/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Mandrake
+3-Shax
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Nahobino HP:453/453 MP:389/389
+2-Astaroth HP:283/406 MP:181/181
+3-Oni HP:218/218 MP:43/43
+4-Kabuso HP:137/137 MP:131/131
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kingu ataca a Kabuso
+Kabuso recibe 34 de daño
+Kabuso termina con HP:103/137
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:464/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Astaroth HP:283/406 MP:181/181
+C-Oni HP:218/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+2-Shax
+3-Nahobino
+4-Kingu
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Nahobino HP:453/453 MP:389/389
+2-Astaroth HP:283/406 MP:181/181
+3-Oni HP:218/218 MP:43/43
+4-Kabuso HP:103/137 MP:131/131
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Mandrake ataca a Astaroth
+Astaroth recibe 17 de daño
+Astaroth termina con HP:266/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:464/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Astaroth HP:266/406 MP:181/181
+C-Oni HP:218/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Nahobino
+3-Kabuso
+4-Oni
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Nahobino HP:453/453 MP:389/389
+2-Shax HP:371/371 MP:360/360
+3-Mandrake HP:224/224 MP:99/99
+4-Kingu HP:464/464 MP:91/91
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Astaroth ataca a Kingu
+Kingu recibe 33 de daño
+Kingu termina con HP:431/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:431/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Astaroth HP:266/406 MP:181/181
+C-Oni HP:218/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kabuso
+3-Oni
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:453/453 MP:389/389
+2-Shax HP:371/371 MP:360/360
+3-Mandrake HP:224/224 MP:99/99
+4-Kingu HP:431/464 MP:91/91
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Nahobino
+Nahobino recibe 83 de daño
+Nahobino termina con HP:370/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:370/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:431/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Astaroth HP:266/406 MP:181/181
+C-Oni HP:218/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Oni
+3-Astaroth
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Nahobino HP:370/453 MP:389/389
+2-Shax HP:371/371 MP:360/360
+3-Mandrake HP:224/224 MP:99/99
+4-Kingu HP:431/464 MP:91/91
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kabuso ataca a Nahobino
+Nahobino recibe 13 de daño
+Nahobino termina con HP:357/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:357/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:431/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Astaroth HP:266/406 MP:181/181
+C-Oni HP:218/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Astaroth
+3-Nahobino
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Nahobino HP:357/453 MP:389/389
+2-Shax HP:371/371 MP:360/360
+3-Mandrake HP:224/224 MP:99/99
+4-Kingu HP:431/464 MP:91/91
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Nahobino HP:357/453 MP:389/389
+2-Shax HP:371/371 MP:360/360
+3-Mandrake HP:224/224 MP:99/99
+4-Kingu HP:431/464 MP:91/91
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Oni ataca a Nahobino
+Nahobino recibe 14 de daño
+Nahobino termina con HP:343/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:343/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:431/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Astaroth HP:266/406 MP:181/181
+C-Oni HP:218/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Nahobino
+3-Kingu
+4-Mandrake
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:453/453 MP:389/389
+2-Astaroth HP:266/406 MP:181/181
+3-Oni HP:218/218 MP:43/43
+4-Kabuso HP:103/137 MP:131/131
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Shax ataca a Nahobino
+Nahobino recibe 40 de daño
+Nahobino termina con HP:413/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:343/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:431/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:413/453 MP:389/389
+B-Astaroth HP:266/406 MP:181/181
+C-Oni HP:218/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kingu
+3-Mandrake
+4-Shax
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:413/453 MP:389/389
+2-Astaroth HP:266/406 MP:181/181
+3-Oni HP:218/218 MP:43/43
+4-Kabuso HP:103/137 MP:131/131
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Nahobino
+Nahobino recibe 83 de daño
+Nahobino termina con HP:330/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:343/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:431/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:330/453 MP:389/389
+B-Astaroth HP:266/406 MP:181/181
+C-Oni HP:218/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Mandrake
+3-Shax
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Nahobino HP:330/453 MP:389/389
+2-Astaroth HP:266/406 MP:181/181
+3-Oni HP:218/218 MP:43/43
+4-Kabuso HP:103/137 MP:131/131
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kingu ataca a Oni
+Oni recibe 34 de daño
+Oni termina con HP:184/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:343/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:431/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:330/453 MP:389/389
+B-Astaroth HP:266/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+2-Shax
+3-Nahobino
+4-Kingu
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Nahobino HP:330/453 MP:389/389
+2-Astaroth HP:266/406 MP:181/181
+3-Oni HP:184/218 MP:43/43
+4-Kabuso HP:103/137 MP:131/131
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Mandrake ataca a Nahobino
+Nahobino recibe 17 de daño
+Nahobino termina con HP:313/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:343/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:431/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:313/453 MP:389/389
+B-Astaroth HP:266/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Nahobino
+3-Kabuso
+4-Oni
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Nahobino HP:343/453 MP:389/389
+2-Shax HP:371/371 MP:360/360
+3-Mandrake HP:224/224 MP:99/99
+4-Kingu HP:431/464 MP:91/91
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Nahobino HP:343/453 MP:389/389
+2-Shax HP:371/371 MP:360/360
+3-Mandrake HP:224/224 MP:99/99
+4-Kingu HP:431/464 MP:91/91
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Nahobino HP:343/453 MP:389/389
+2-Shax HP:371/371 MP:360/360
+3-Mandrake HP:224/224 MP:99/99
+4-Kingu HP:431/464 MP:91/91
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Astaroth ataca a Kingu
+Kingu recibe 33 de daño
+Kingu termina con HP:398/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:343/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:398/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:313/453 MP:389/389
+B-Astaroth HP:266/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kabuso
+3-Oni
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:343/453 MP:389/389
+2-Shax HP:371/371 MP:360/360
+3-Mandrake HP:224/224 MP:99/99
+4-Kingu HP:398/464 MP:91/91
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Nahobino
+Nahobino recibe 83 de daño
+Nahobino termina con HP:260/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:260/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:398/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:313/453 MP:389/389
+B-Astaroth HP:266/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Oni
+3-Astaroth
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Nahobino HP:260/453 MP:389/389
+2-Shax HP:371/371 MP:360/360
+3-Mandrake HP:224/224 MP:99/99
+4-Kingu HP:398/464 MP:91/91
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kabuso ataca a Shax
+Shax recibe 13 de daño
+Shax termina con HP:358/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:260/453 MP:389/389
+B-Shax HP:358/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:398/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:313/453 MP:389/389
+B-Astaroth HP:266/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Astaroth
+3-Nahobino
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Nahobino HP:260/453 MP:389/389
+2-Shax HP:358/371 MP:360/360
+3-Mandrake HP:224/224 MP:99/99
+4-Kingu HP:398/464 MP:91/91
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Oni ataca a Shax
+Shax recibe 14 de daño
+Shax termina con HP:344/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:260/453 MP:389/389
+B-Shax HP:344/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:398/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:313/453 MP:389/389
+B-Astaroth HP:266/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Nahobino
+3-Kingu
+4-Mandrake
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:313/453 MP:389/389
+2-Astaroth HP:266/406 MP:181/181
+3-Oni HP:184/218 MP:43/43
+4-Kabuso HP:103/137 MP:131/131
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Shax ataca a Astaroth
+Astaroth recibe 40 de daño
+Astaroth termina con HP:226/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:260/453 MP:389/389
+B-Shax HP:344/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:398/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:313/453 MP:389/389
+B-Astaroth HP:226/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kingu
+3-Mandrake
+4-Shax
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:313/453 MP:389/389
+2-Astaroth HP:226/406 MP:181/181
+3-Oni HP:184/218 MP:43/43
+4-Kabuso HP:103/137 MP:131/131
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Astaroth
+Astaroth recibe 83 de daño
+Astaroth termina con HP:143/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:260/453 MP:389/389
+B-Shax HP:344/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:398/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:313/453 MP:389/389
+B-Astaroth HP:143/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Mandrake
+3-Shax
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Nahobino HP:313/453 MP:389/389
+2-Astaroth HP:143/406 MP:181/181
+3-Oni HP:184/218 MP:43/43
+4-Kabuso HP:103/137 MP:131/131
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ataca a Nahobino
+Nahobino recibe 34 de daño
+Nahobino termina con HP:279/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:260/453 MP:389/389
+B-Shax HP:344/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:398/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:279/453 MP:389/389
+B-Astaroth HP:143/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+2-Shax
+3-Nahobino
+4-Kingu
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Nahobino HP:279/453 MP:389/389
+2-Astaroth HP:143/406 MP:181/181
+3-Oni HP:184/218 MP:43/43
+4-Kabuso HP:103/137 MP:131/131
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Nahobino HP:279/453 MP:389/389
+2-Astaroth HP:143/406 MP:181/181
+3-Oni HP:184/218 MP:43/43
+4-Kabuso HP:103/137 MP:131/131
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Mandrake ataca a Astaroth
+Astaroth recibe 17 de daño
+Astaroth termina con HP:126/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:260/453 MP:389/389
+B-Shax HP:344/371 MP:360/360
+C-Mandrake HP:224/224 MP:99/99
+D-Kingu HP:398/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:279/453 MP:389/389
+B-Astaroth HP:126/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Nahobino
+3-Kabuso
+4-Oni
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Nahobino HP:260/453 MP:389/389
+2-Shax HP:344/371 MP:360/360
+3-Mandrake HP:224/224 MP:99/99
+4-Kingu HP:398/464 MP:91/91
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Astaroth ataca a Mandrake
+Mandrake recibe 33 de daño
+Mandrake termina con HP:191/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:260/453 MP:389/389
+B-Shax HP:344/371 MP:360/360
+C-Mandrake HP:191/224 MP:99/99
+D-Kingu HP:398/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:279/453 MP:389/389
+B-Astaroth HP:126/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kabuso
+3-Oni
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:260/453 MP:389/389
+2-Shax HP:344/371 MP:360/360
+3-Mandrake HP:191/224 MP:99/99
+4-Kingu HP:398/464 MP:91/91
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino dispara a Mandrake
+Mandrake recibe 83 de daño
+Mandrake termina con HP:108/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:260/453 MP:389/389
+B-Shax HP:344/371 MP:360/360
+C-Mandrake HP:108/224 MP:99/99
+D-Kingu HP:398/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:279/453 MP:389/389
+B-Astaroth HP:126/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Oni
+3-Astaroth
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Nahobino HP:260/453 MP:389/389
+2-Shax HP:344/371 MP:360/360
+3-Mandrake HP:108/224 MP:99/99
+4-Kingu HP:398/464 MP:91/91
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kabuso ataca a Nahobino
+Nahobino recibe 13 de daño
+Nahobino termina con HP:247/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:247/453 MP:389/389
+B-Shax HP:344/371 MP:360/360
+C-Mandrake HP:108/224 MP:99/99
+D-Kingu HP:398/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:279/453 MP:389/389
+B-Astaroth HP:126/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Astaroth
+3-Nahobino
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Nahobino HP:247/453 MP:389/389
+2-Shax HP:344/371 MP:360/360
+3-Mandrake HP:108/224 MP:99/99
+4-Kingu HP:398/464 MP:91/91
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Oni ataca a Kingu
+Kingu recibe 14 de daño
+Kingu termina con HP:384/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:247/453 MP:389/389
+B-Shax HP:344/371 MP:360/360
+C-Mandrake HP:108/224 MP:99/99
+D-Kingu HP:384/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:279/453 MP:389/389
+B-Astaroth HP:126/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Nahobino
+3-Kingu
+4-Mandrake
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:279/453 MP:389/389
+2-Astaroth HP:126/406 MP:181/181
+3-Oni HP:184/218 MP:43/43
+4-Kabuso HP:103/137 MP:131/131
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Shax ataca a Astaroth
+Astaroth recibe 40 de daño
+Astaroth termina con HP:86/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:247/453 MP:389/389
+B-Shax HP:344/371 MP:360/360
+C-Mandrake HP:108/224 MP:99/99
+D-Kingu HP:384/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:279/453 MP:389/389
+B-Astaroth HP:86/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kingu
+3-Mandrake
+4-Shax
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:279/453 MP:389/389
+2-Astaroth HP:86/406 MP:181/181
+3-Oni HP:184/218 MP:43/43
+4-Kabuso HP:103/137 MP:131/131
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Astaroth
+Astaroth recibe 83 de daño
+Astaroth termina con HP:3/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:247/453 MP:389/389
+B-Shax HP:344/371 MP:360/360
+C-Mandrake HP:108/224 MP:99/99
+D-Kingu HP:384/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:279/453 MP:389/389
+B-Astaroth HP:3/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Mandrake
+3-Shax
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Nahobino HP:279/453 MP:389/389
+2-Astaroth HP:3/406 MP:181/181
+3-Oni HP:184/218 MP:43/43
+4-Kabuso HP:103/137 MP:131/131
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Nahobino HP:279/453 MP:389/389
+2-Astaroth HP:3/406 MP:181/181
+3-Oni HP:184/218 MP:43/43
+4-Kabuso HP:103/137 MP:131/131
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Nahobino HP:279/453 MP:389/389
+2-Astaroth HP:3/406 MP:181/181
+3-Oni HP:184/218 MP:43/43
+4-Kabuso HP:103/137 MP:131/131
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ataca a Nahobino
+Nahobino recibe 34 de daño
+Nahobino termina con HP:245/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:247/453 MP:389/389
+B-Shax HP:344/371 MP:360/360
+C-Mandrake HP:108/224 MP:99/99
+D-Kingu HP:384/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:245/453 MP:389/389
+B-Astaroth HP:3/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:103/137 MP:131/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+2-Shax
+3-Nahobino
+4-Kingu
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Nahobino HP:245/453 MP:389/389
+2-Astaroth HP:3/406 MP:181/181
+3-Oni HP:184/218 MP:43/43
+4-Kabuso HP:103/137 MP:131/131
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Mandrake ataca a Kabuso
+Kabuso recibe 17 de daño
+Kabuso termina con HP:86/137
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:247/453 MP:389/389
+B-Shax HP:344/371 MP:360/360
+C-Mandrake HP:108/224 MP:99/99
+D-Kingu HP:384/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:245/453 MP:389/389
+B-Astaroth HP:3/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:86/137 MP:131/131
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Nahobino
+3-Kabuso
+4-Oni
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Nahobino HP:247/453 MP:389/389
+2-Shax HP:344/371 MP:360/360
+3-Mandrake HP:108/224 MP:99/99
+4-Kingu HP:384/464 MP:91/91
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Nahobino HP:247/453 MP:389/389
+2-Shax HP:344/371 MP:360/360
+3-Mandrake HP:108/224 MP:99/99
+4-Kingu HP:384/464 MP:91/91
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Astaroth ataca a Mandrake
+Mandrake recibe 33 de daño
+Mandrake termina con HP:75/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:247/453 MP:389/389
+B-Shax HP:344/371 MP:360/360
+C-Mandrake HP:75/224 MP:99/99
+D-Kingu HP:384/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:245/453 MP:389/389
+B-Astaroth HP:3/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:86/137 MP:131/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kabuso
+3-Oni
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:247/453 MP:389/389
+2-Shax HP:344/371 MP:360/360
+3-Mandrake HP:75/224 MP:99/99
+4-Kingu HP:384/464 MP:91/91
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:247/453 MP:389/389
+2-Shax HP:344/371 MP:360/360
+3-Mandrake HP:75/224 MP:99/99
+4-Kingu HP:384/464 MP:91/91
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nahobino ataca a Kingu
+Kingu recibe 29 de daño
+Kingu termina con HP:355/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:247/453 MP:389/389
+B-Shax HP:344/371 MP:360/360
+C-Mandrake HP:75/224 MP:99/99
+D-Kingu HP:355/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:245/453 MP:389/389
+B-Astaroth HP:3/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:86/137 MP:131/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Oni
+3-Astaroth
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Nahobino HP:247/453 MP:389/389
+2-Shax HP:344/371 MP:360/360
+3-Mandrake HP:75/224 MP:99/99
+4-Kingu HP:355/464 MP:91/91
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Nahobino HP:247/453 MP:389/389
+2-Shax HP:344/371 MP:360/360
+3-Mandrake HP:75/224 MP:99/99
+4-Kingu HP:355/464 MP:91/91
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Nahobino HP:247/453 MP:389/389
+2-Shax HP:344/371 MP:360/360
+3-Mandrake HP:75/224 MP:99/99
+4-Kingu HP:355/464 MP:91/91
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kabuso ataca a Shax
+Shax recibe 13 de daño
+Shax termina con HP:331/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:247/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-Mandrake HP:75/224 MP:99/99
+D-Kingu HP:355/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:245/453 MP:389/389
+B-Astaroth HP:3/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:86/137 MP:131/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Astaroth
+3-Nahobino
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Nahobino HP:247/453 MP:389/389
+2-Shax HP:331/371 MP:360/360
+3-Mandrake HP:75/224 MP:99/99
+4-Kingu HP:355/464 MP:91/91
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Oni ataca a Nahobino
+Nahobino recibe 14 de daño
+Nahobino termina con HP:233/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-Mandrake HP:75/224 MP:99/99
+D-Kingu HP:355/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:245/453 MP:389/389
+B-Astaroth HP:3/406 MP:181/181
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:86/137 MP:131/131
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Nahobino
+3-Kingu
+4-Mandrake
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:245/453 MP:389/389
+2-Astaroth HP:3/406 MP:181/181
+3-Oni HP:184/218 MP:43/43
+4-Kabuso HP:86/137 MP:131/131
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Shax ataca a Astaroth
+Astaroth recibe 40 de daño
+Astaroth termina con HP:0/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-Mandrake HP:75/224 MP:99/99
+D-Kingu HP:355/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:245/453 MP:389/389
+B-
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:86/137 MP:131/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kingu
+3-Mandrake
+4-Shax
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:245/453 MP:389/389
+2-Oni HP:184/218 MP:43/43
+3-Kabuso HP:86/137 MP:131/131
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino dispara a Kabuso
+Kabuso recibe 83 de daño
+Kabuso termina con HP:3/137
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-Mandrake HP:75/224 MP:99/99
+D-Kingu HP:355/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:245/453 MP:389/389
+B-
+C-Oni HP:184/218 MP:43/43
+D-Kabuso HP:3/137 MP:131/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Mandrake
+3-Shax
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Nahobino HP:245/453 MP:389/389
+2-Oni HP:184/218 MP:43/43
+3-Kabuso HP:3/137 MP:131/131
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kingu ataca a Kabuso
+Kabuso recibe 34 de daño
+Kabuso termina con HP:0/137
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-Mandrake HP:75/224 MP:99/99
+D-Kingu HP:355/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:245/453 MP:389/389
+B-
+C-Oni HP:184/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mandrake
+2-Shax
+3-Nahobino
+4-Kingu
+----------------------------------------
+Seleccione una acción para Mandrake
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mandrake
+1-Nahobino HP:245/453 MP:389/389
+2-Oni HP:184/218 MP:43/43
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mandrake ataca a Oni
+Oni recibe 17 de daño
+Oni termina con HP:167/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-Mandrake HP:75/224 MP:99/99
+D-Kingu HP:355/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:245/453 MP:389/389
+B-
+C-Oni HP:167/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Oni
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:233/453 MP:389/389
+2-Shax HP:331/371 MP:360/360
+3-Mandrake HP:75/224 MP:99/99
+4-Kingu HP:355/464 MP:91/91
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino dispara a Mandrake
+Mandrake recibe 83 de daño
+Mandrake termina con HP:0/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-
+D-Kingu HP:355/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:245/453 MP:389/389
+B-
+C-Oni HP:167/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Nahobino HP:233/453 MP:389/389
+2-Shax HP:331/371 MP:360/360
+3-Kingu HP:355/464 MP:91/91
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Oni ataca a Kingu
+Kingu recibe 14 de daño
+Kingu termina con HP:341/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-
+D-Kingu HP:341/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:245/453 MP:389/389
+B-
+C-Oni HP:167/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Nahobino
+3-Kingu
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:245/453 MP:389/389
+2-Oni HP:167/218 MP:43/43
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Shax ataca a Nahobino
+Nahobino recibe 40 de daño
+Nahobino termina con HP:205/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-
+D-Kingu HP:341/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:205/453 MP:389/389
+B-
+C-Oni HP:167/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kingu
+3-Shax
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:205/453 MP:389/389
+2-Oni HP:167/218 MP:43/43
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca a Oni
+Oni recibe 29 de daño
+Oni termina con HP:138/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-
+D-Kingu HP:341/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:205/453 MP:389/389
+B-
+C-Oni HP:138/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Shax
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Nahobino HP:205/453 MP:389/389
+2-Oni HP:138/218 MP:43/43
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Nahobino HP:205/453 MP:389/389
+2-Oni HP:138/218 MP:43/43
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Nahobino HP:205/453 MP:389/389
+2-Oni HP:138/218 MP:43/43
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kingu ataca a Oni
+Oni recibe 34 de daño
+Oni termina con HP:104/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-
+D-Kingu HP:341/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:205/453 MP:389/389
+B-
+C-Oni HP:104/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Oni
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:233/453 MP:389/389
+2-Shax HP:331/371 MP:360/360
+3-Kingu HP:341/464 MP:91/91
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Kingu
+Kingu recibe 29 de daño
+Kingu termina con HP:312/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-
+D-Kingu HP:312/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:205/453 MP:389/389
+B-
+C-Oni HP:104/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Nahobino HP:233/453 MP:389/389
+2-Shax HP:331/371 MP:360/360
+3-Kingu HP:312/464 MP:91/91
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Oni ataca a Nahobino
+Nahobino recibe 14 de daño
+Nahobino termina con HP:219/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:219/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-
+D-Kingu HP:312/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:205/453 MP:389/389
+B-
+C-Oni HP:104/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Nahobino
+3-Kingu
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:205/453 MP:389/389
+2-Oni HP:104/218 MP:43/43
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Shax ataca a Nahobino
+Nahobino recibe 40 de daño
+Nahobino termina con HP:165/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:219/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-
+D-Kingu HP:312/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:165/453 MP:389/389
+B-
+C-Oni HP:104/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kingu
+3-Shax
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:165/453 MP:389/389
+2-Oni HP:104/218 MP:43/43
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:165/453 MP:389/389
+2-Oni HP:104/218 MP:43/43
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Oni
+Oni recibe 83 de daño
+Oni termina con HP:21/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:219/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-
+D-Kingu HP:312/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:165/453 MP:389/389
+B-
+C-Oni HP:21/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Shax
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Nahobino HP:165/453 MP:389/389
+2-Oni HP:21/218 MP:43/43
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kingu ataca a Oni
+Oni recibe 34 de daño
+Oni termina con HP:0/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:219/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-
+D-Kingu HP:312/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:165/453 MP:389/389
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:219/453 MP:389/389
+2-Shax HP:331/371 MP:360/360
+3-Kingu HP:312/464 MP:91/91
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:219/453 MP:389/389
+2-Shax HP:331/371 MP:360/360
+3-Kingu HP:312/464 MP:91/91
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Nahobino
+Nahobino recibe 29 de daño
+Nahobino termina con HP:190/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:190/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-
+D-Kingu HP:312/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:165/453 MP:389/389
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Nahobino
+3-Kingu
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:165/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:165/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shax ataca a Nahobino
+Nahobino recibe 40 de daño
+Nahobino termina con HP:125/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:190/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-
+D-Kingu HP:312/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:125/453 MP:389/389
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kingu
+3-Shax
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:125/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Nahobino
+Nahobino recibe 29 de daño
+Nahobino termina con HP:96/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:190/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-
+D-Kingu HP:312/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:96/453 MP:389/389
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Shax
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Nahobino HP:96/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ataca a Nahobino
+Nahobino recibe 34 de daño
+Nahobino termina con HP:62/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:190/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-
+D-Kingu HP:312/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:62/453 MP:389/389
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:190/453 MP:389/389
+2-Shax HP:331/371 MP:360/360
+3-Kingu HP:312/464 MP:91/91
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Nahobino
+Nahobino recibe 29 de daño
+Nahobino termina con HP:161/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:161/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-
+D-Kingu HP:312/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:62/453 MP:389/389
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Nahobino
+3-Kingu
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:62/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shax ataca a Nahobino
+Nahobino recibe 40 de daño
+Nahobino termina con HP:22/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:161/453 MP:389/389
+B-Shax HP:331/371 MP:360/360
+C-
+D-Kingu HP:312/464 MP:91/91
+Equipo de Nahobino (J2)
+A-Nahobino HP:22/453 MP:389/389
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kingu
+3-Shax
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:22/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:22/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nahobino HP:22/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Nahobino
+Nahobino recibe 83 de daño
+Nahobino termina con HP:0/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Nahobino (J1)

@@ -1,0 +1,5028 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 46
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Power HP:407/407 MP:81/81
+C-Taown HP:709/709 MP:140/140
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Makoto
+3-Power
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:597/597 MP:347/347
+2-Python HP:637/637 MP:286/286
+3-Jueyuan HP:154/154 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Makoto
+Makoto es resistente el ataque de Taown
+Makoto recibe 27 de daño
+Makoto termina con HP:570/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Power HP:407/407 MP:81/81
+C-Taown HP:709/709 MP:140/140
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Makoto (J2)
+A-Makoto HP:570/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Power
+3-Koppa Tengu
+4-Taown
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Power HP:407/407 MP:81/81
+C-Taown HP:709/709 MP:140/140
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Makoto (J2)
+A-Makoto HP:570/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Power
+2-Koppa Tengu
+3-Taown
+4-Makoto
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Makoto HP:570/597 MP:347/347
+2-Python HP:637/637 MP:286/286
+3-Jueyuan HP:154/154 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Power ataca a Makoto
+Makoto es resistente el ataque de Power
+Makoto recibe 14 de daño
+Makoto termina con HP:556/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Power HP:407/407 MP:81/81
+C-Taown HP:709/709 MP:140/140
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Makoto (J2)
+A-Makoto HP:556/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Taown
+3-Makoto
+4-Power
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Goblin HP:322/322 MP:63/63
+3-Mushussu HP:399/399 MP:179/179
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Goblin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Power HP:407/407 MP:81/81
+C-Taown HP:709/709 MP:140/140
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:556/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Makoto
+3-Power
+4-Goblin
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:556/597 MP:347/347
+2-Python HP:637/637 MP:286/286
+3-Jueyuan HP:154/154 MP:68/68
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Power HP:407/407 MP:81/81
+C-Taown HP:709/709 MP:140/140
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:556/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Power
+3-Goblin
+4-Taown
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Mudo MP:6
+2-Bufudyne MP:14
+3-Agilao MP:8
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Koppa Tengu HP:196/196 MP:88/88
+2-Mokoi HP:74/74 MP:36/36
+3-Mushussu HP:399/399 MP:179/179
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Power HP:407/407 MP:81/81 (Puesto 2)
+2-Taown HP:709/709 MP:140/140 (Puesto 3)
+3-Goblin HP:322/322 MP:63/63 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mokoi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Mokoi HP:74/74 MP:36/36
+C-Taown HP:709/709 MP:140/140
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:556/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mokoi
+2-Goblin
+3-Taown
+4-Makoto
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Mokoi HP:74/74 MP:36/36
+C-Taown HP:709/709 MP:140/140
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:556/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+3-Jueyuan
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:597/597 MP:347/347
+2-Mokoi HP:74/74 MP:36/36
+3-Taown HP:709/709 MP:140/140
+4-Goblin HP:322/322 MP:63/63
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Python lanza hielo a Mokoi
+Mokoi recibe 135 de daño
+Mokoi termina con HP:0/74
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-
+C-Taown HP:709/709 MP:140/140
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:556/597 MP:347/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Jueyuan
+3-Python
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Deadly Wind MP:22
+3-Zandyne MP:14
+4-Zanma MP:8
+5-Trisagion MP:22
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:597/597 MP:347/347
+2-Taown HP:709/709 MP:140/140
+3-Goblin HP:322/322 MP:63/63
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto lanza viento a Makoto
+Makoto es resistente el ataque de Makoto
+Makoto recibe 46 de daño
+Makoto termina con HP:551/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:551/597 MP:347/347
+B-
+C-Taown HP:709/709 MP:140/140
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:556/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Jueyuan
+2-Python
+3-Makoto
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Jueyuan
+1-Makoto HP:551/597 MP:347/347
+2-Taown HP:709/709 MP:140/140
+3-Goblin HP:322/322 MP:63/63
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Jueyuan ataca a Goblin
+Goblin recibe 11 de daño
+Goblin termina con HP:311/322
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:551/597 MP:347/347
+B-
+C-Taown HP:709/709 MP:140/140
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:556/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Makoto
+3-Goblin
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Power HP:407/407 MP:81/81
+2-Koppa Tengu HP:196/196 MP:88/88
+3-Mushussu HP:399/399 MP:179/179
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:551/597 MP:347/347
+B-
+C-Mushussu HP:399/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:556/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Goblin
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:556/597 MP:339/347
+2-Python HP:637/637 MP:272/286
+3-Jueyuan HP:154/154 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Makoto
+Makoto es resistente el ataque de Makoto
+Makoto recibe 28 de daño
+Makoto termina con HP:528/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:551/597 MP:347/347
+B-
+C-Mushussu HP:399/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:528/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Goblin
+2-Mushussu
+3-Makoto
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Goblin use
+1-Oni-Kagura MP:9
+2-Tarukaja MP:15
+3-Bad Company MP:15
+4-Charge MP:9
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Goblin
+1-Makoto HP:528/597 MP:339/347
+2-Python HP:637/637 MP:272/286
+3-Jueyuan HP:154/154 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Goblin ataca a Makoto
+Makoto es resistente el ataque de Goblin
+Makoto recibe 11 de daño
+Makoto termina con HP:517/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:551/597 MP:347/347
+B-
+C-Mushussu HP:399/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:517/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Makoto
+3-Goblin
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:551/597 MP:347/347
+B-
+C-Mushussu HP:399/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:517/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Goblin
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:551/597 MP:347/347
+B-
+C-Mushussu HP:399/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:517/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+3-Jueyuan
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:551/597 MP:347/347
+2-Mushussu HP:399/399 MP:179/179
+3-Goblin HP:311/322 MP:63/63
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Python ataca a Mushussu
+Mushussu recibe 53 de daño
+Mushussu termina con HP:346/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:551/597 MP:347/347
+B-
+C-Mushussu HP:346/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:517/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Jueyuan
+3-Python
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:551/597 MP:347/347
+B-
+C-Mushussu HP:346/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:517/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Jueyuan
+2-Python
+3-Makoto
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Jueyuan use
+1-Poison Claw MP:9
+2-Agi MP:5
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Jueyuan
+1-Makoto HP:551/597 MP:347/347
+2-Mushussu HP:346/399 MP:179/179
+3-Goblin HP:311/322 MP:63/63
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Jueyuan lanza fuego a Mushussu
+Mushussu recibe 37 de daño
+Mushussu termina con HP:309/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:551/597 MP:347/347
+B-
+C-Mushussu HP:309/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:517/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+3-Jueyuan
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:551/597 MP:347/347
+B-
+C-Mushussu HP:309/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:517/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Jueyuan
+3-Python
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:551/597 MP:347/347
+2-Mushussu HP:309/399 MP:179/179
+3-Goblin HP:311/322 MP:63/63
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto ataca a Mushussu
+Mushussu recibe 38 de daño
+Mushussu termina con HP:271/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:551/597 MP:347/347
+B-
+C-Mushussu HP:271/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:517/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Goblin
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Mudo MP:6
+2-Bufudyne MP:14
+3-Agilao MP:8
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:517/597 MP:339/347
+2-Python HP:637/637 MP:272/286
+3-Jueyuan HP:154/154 MP:63/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto lanza hielo a Makoto
+Makoto es resistente el ataque de Makoto
+Makoto recibe 57 de daño
+Makoto termina con HP:460/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:551/597 MP:333/347
+B-
+C-Mushussu HP:271/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:460/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Goblin
+3-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:551/597 MP:333/347
+B-
+C-Mushussu HP:271/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:460/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Goblin
+2-Makoto
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Goblin use
+1-Oni-Kagura MP:9
+2-Tarukaja MP:15
+3-Bad Company MP:15
+4-Charge MP:9
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Power HP:407/407 MP:81/81
+2-Taown HP:709/709 MP:140/140
+3-Koppa Tengu HP:196/196 MP:88/88
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:551/597 MP:333/347
+B-
+C-Mushussu HP:271/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:460/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Goblin
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:460/597 MP:339/347
+2-Python HP:637/637 MP:272/286
+3-Jueyuan HP:154/154 MP:63/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Makoto
+Makoto es resistente el ataque de Makoto
+Makoto recibe 19 de daño
+Makoto termina con HP:441/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:551/597 MP:333/347
+B-
+C-Mushussu HP:271/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:441/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+3-Jueyuan
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:551/597 MP:333/347
+B-
+C-Mushussu HP:271/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:441/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Jueyuan
+3-Python
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:551/597 MP:333/347
+2-Mushussu HP:271/399 MP:179/179
+3-Goblin HP:311/322 MP:63/63
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Makoto
+Makoto es resistente el ataque de Makoto
+Makoto recibe 19 de daño
+Makoto termina con HP:532/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:333/347
+B-
+C-Mushussu HP:271/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:441/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Jueyuan
+2-Python
+3-Makoto
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:333/347
+B-
+C-Mushussu HP:271/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:441/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+3-Jueyuan
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:532/597 MP:333/347
+2-Mushussu HP:271/399 MP:179/179
+3-Goblin HP:311/322 MP:63/63
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:333/347
+B-
+C-Mushussu HP:271/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:441/597 MP:339/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Jueyuan
+3-Python
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Deadly Wind MP:22
+3-Zandyne MP:14
+4-Zanma MP:8
+5-Trisagion MP:22
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:532/597 MP:333/347
+2-Mushussu HP:271/399 MP:179/179
+3-Goblin HP:311/322 MP:63/63
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto lanza fuego a Makoto
+Makoto es resistente el ataque de Makoto
+Makoto recibe 68 de daño
+Makoto termina con HP:464/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:464/597 MP:333/347
+B-
+C-Mushussu HP:271/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:441/597 MP:317/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Goblin
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:441/597 MP:317/347
+2-Python HP:637/637 MP:272/286
+3-Jueyuan HP:154/154 MP:63/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Makoto
+Makoto es resistente el ataque de Makoto
+Makoto recibe 19 de daño
+Makoto termina con HP:422/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:464/597 MP:333/347
+B-
+C-Mushussu HP:271/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:422/597 MP:317/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:154/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Goblin
+3-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:422/597 MP:317/347
+2-Python HP:637/637 MP:272/286
+3-Jueyuan HP:154/154 MP:63/68
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Mushussu ataca a Jueyuan
+Jueyuan recibe 32 de daño
+Jueyuan termina con HP:122/154
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:464/597 MP:333/347
+B-
+C-Mushussu HP:271/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:422/597 MP:317/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:122/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Goblin
+2-Makoto
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:464/597 MP:333/347
+B-
+C-Mushussu HP:271/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:422/597 MP:317/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:122/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Goblin
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:422/597 MP:317/347
+2-Python HP:637/637 MP:272/286
+3-Jueyuan HP:122/154 MP:63/68
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto ataca a Jueyuan
+Jueyuan recibe 38 de daño
+Jueyuan termina con HP:84/154
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:464/597 MP:333/347
+B-
+C-Mushussu HP:271/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:422/597 MP:317/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:84/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+3-Jueyuan
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:464/597 MP:333/347
+2-Mushussu HP:271/399 MP:179/179
+3-Goblin HP:311/322 MP:63/63
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:464/597 MP:333/347
+2-Mushussu HP:271/399 MP:179/179
+3-Goblin HP:311/322 MP:63/63
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Python ataca a Mushussu
+Mushussu recibe 53 de daño
+Mushussu termina con HP:218/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:464/597 MP:333/347
+B-
+C-Mushussu HP:218/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:422/597 MP:317/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:84/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Jueyuan
+3-Python
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:464/597 MP:333/347
+B-
+C-Mushussu HP:218/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:422/597 MP:317/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:84/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Jueyuan
+2-Python
+3-Makoto
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Jueyuan use
+1-Poison Claw MP:9
+2-Agi MP:5
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:464/597 MP:333/347
+B-
+C-Mushussu HP:218/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:422/597 MP:317/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:84/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+3-Jueyuan
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:464/597 MP:333/347
+2-Mushussu HP:218/399 MP:179/179
+3-Goblin HP:311/322 MP:63/63
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Python ataca a Mushussu
+Mushussu recibe 53 de daño
+Mushussu termina con HP:165/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:464/597 MP:333/347
+B-
+C-Mushussu HP:165/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:422/597 MP:317/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:84/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Goblin
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:422/597 MP:317/347
+2-Python HP:637/637 MP:272/286
+3-Jueyuan HP:84/154 MP:63/68
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto ataca a Jueyuan
+Jueyuan recibe 38 de daño
+Jueyuan termina con HP:46/154
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:464/597 MP:333/347
+B-
+C-Mushussu HP:165/399 MP:179/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:422/597 MP:317/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:46/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Goblin
+3-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:422/597 MP:317/347
+2-Python HP:637/637 MP:272/286
+3-Jueyuan HP:46/154 MP:63/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu lanza electricidad a Makoto
+Makoto es resistente el ataque de Mushussu
+Makoto recibe 50 de daño
+Makoto termina con HP:372/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:464/597 MP:333/347
+B-
+C-Mushussu HP:165/399 MP:165/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:372/597 MP:317/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:46/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Goblin
+2-Makoto
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Goblin
+1-Makoto HP:372/597 MP:317/347
+2-Python HP:637/637 MP:272/286
+3-Jueyuan HP:46/154 MP:63/68
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Goblin ataca a Jueyuan
+Jueyuan recibe 22 de daño
+Jueyuan termina con HP:24/154
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:464/597 MP:333/347
+B-
+C-Mushussu HP:165/399 MP:165/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:372/597 MP:317/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:24/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+3-Jueyuan
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:464/597 MP:333/347
+B-
+C-Mushussu HP:165/399 MP:165/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:372/597 MP:317/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:24/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Jueyuan
+3-Python
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:464/597 MP:333/347
+B-
+C-Mushussu HP:165/399 MP:165/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:372/597 MP:317/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:24/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Jueyuan
+2-Python
+3-Makoto
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:464/597 MP:333/347
+B-
+C-Mushussu HP:165/399 MP:165/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:372/597 MP:317/347
+B-Python HP:637/637 MP:272/286
+C-Jueyuan HP:24/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+3-Jueyuan
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:464/597 MP:333/347
+2-Mushussu HP:165/399 MP:165/179
+3-Goblin HP:311/322 MP:63/63
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Python lanza hielo a Mushussu
+Mushussu recibe 135 de daño
+Mushussu termina con HP:30/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:464/597 MP:333/347
+B-
+C-Mushussu HP:30/399 MP:165/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:372/597 MP:317/347
+B-Python HP:637/637 MP:258/286
+C-Jueyuan HP:24/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Jueyuan
+3-Python
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:464/597 MP:333/347
+2-Mushussu HP:30/399 MP:165/179
+3-Goblin HP:311/322 MP:63/63
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Makoto
+Makoto es resistente el ataque de Makoto
+Makoto recibe 19 de daño
+Makoto termina con HP:445/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:333/347
+B-
+C-Mushussu HP:30/399 MP:165/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:372/597 MP:317/347
+B-Python HP:637/637 MP:258/286
+C-Jueyuan HP:24/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Goblin
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Mudo MP:6
+2-Bufudyne MP:14
+3-Agilao MP:8
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:372/597 MP:317/347
+2-Python HP:637/637 MP:258/286
+3-Jueyuan HP:24/154 MP:63/68
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Mudo MP:6
+2-Bufudyne MP:14
+3-Agilao MP:8
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:372/597 MP:317/347
+2-Python HP:637/637 MP:258/286
+3-Jueyuan HP:24/154 MP:63/68
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto lanza hielo a Jueyuan
+Jueyuan recibe 115 de daño
+Jueyuan termina con HP:0/154
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:319/347
+B-
+C-Mushussu HP:30/399 MP:165/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:372/597 MP:317/347
+B-Python HP:637/637 MP:258/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Goblin
+3-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:372/597 MP:317/347
+2-Python HP:637/637 MP:258/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:372/597 MP:317/347
+2-Python HP:637/637 MP:258/286
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Makoto
+Makoto es resistente el ataque de Mushussu
+Makoto recibe 53 de daño
+Makoto termina con HP:319/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:319/347
+B-
+C-Mushussu HP:30/399 MP:150/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:319/597 MP:317/347
+B-Python HP:637/637 MP:258/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Goblin
+2-Makoto
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Power HP:407/407 MP:81/81
+2-Taown HP:709/709 MP:140/140
+3-Koppa Tengu HP:196/196 MP:88/88
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Goblin
+1-Makoto HP:319/597 MP:317/347
+2-Python HP:637/637 MP:258/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Goblin use
+1-Oni-Kagura MP:9
+2-Tarukaja MP:15
+3-Bad Company MP:15
+4-Charge MP:9
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Goblin use
+1-Oni-Kagura MP:9
+2-Tarukaja MP:15
+3-Bad Company MP:15
+4-Charge MP:9
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Goblin use
+1-Oni-Kagura MP:9
+2-Tarukaja MP:15
+3-Bad Company MP:15
+4-Charge MP:9
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Power HP:407/407 MP:81/81
+2-Taown HP:709/709 MP:140/140
+3-Koppa Tengu HP:196/196 MP:88/88
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Goblin
+1-Makoto HP:319/597 MP:317/347
+2-Python HP:637/637 MP:258/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Goblin
+1-Makoto HP:319/597 MP:317/347
+2-Python HP:637/637 MP:258/286
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Goblin ataca a Python
+Python recibe 22 de daño
+Python termina con HP:615/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:319/347
+B-
+C-Mushussu HP:30/399 MP:150/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:319/597 MP:317/347
+B-Python HP:615/637 MP:258/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:319/347
+B-
+C-Mushussu HP:30/399 MP:150/179
+D-Goblin HP:311/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:319/597 MP:317/347
+B-Python HP:615/637 MP:258/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Python
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Deadly Wind MP:22
+3-Zandyne MP:14
+4-Zanma MP:8
+5-Trisagion MP:22
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:445/597 MP:319/347
+2-Mushussu HP:30/399 MP:150/179
+3-Goblin HP:311/322 MP:63/63
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto lanza fuego a Goblin
+Goblin recibe 137 de daño
+Goblin termina con HP:174/322
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:319/347
+B-
+C-Mushussu HP:30/399 MP:150/179
+D-Goblin HP:174/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:319/597 MP:295/347
+B-Python HP:615/637 MP:258/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:319/347
+B-
+C-Mushussu HP:30/399 MP:150/179
+D-Goblin HP:174/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:319/597 MP:295/347
+B-Python HP:615/637 MP:258/286
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Python
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:445/597 MP:319/347
+2-Mushussu HP:30/399 MP:150/179
+3-Goblin HP:174/322 MP:63/63
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto dispara a Goblin
+Goblin recibe 57 de daño
+Goblin termina con HP:117/322
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:319/347
+B-
+C-Mushussu HP:30/399 MP:150/179
+D-Goblin HP:117/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:319/597 MP:295/347
+B-Python HP:615/637 MP:258/286
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Goblin
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Mudo MP:6
+2-Bufudyne MP:14
+3-Agilao MP:8
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:319/597 MP:295/347
+2-Python HP:615/637 MP:258/286
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto lanza hielo a Makoto
+Makoto es resistente el ataque de Makoto
+Makoto recibe 57 de daño
+Makoto termina con HP:262/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:305/347
+B-
+C-Mushussu HP:30/399 MP:150/179
+D-Goblin HP:117/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:262/597 MP:295/347
+B-Python HP:615/637 MP:258/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Goblin
+3-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:262/597 MP:295/347
+2-Python HP:615/637 MP:258/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Power HP:407/407 MP:81/81
+2-Taown HP:709/709 MP:140/140
+3-Koppa Tengu HP:196/196 MP:88/88
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Power ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:305/347
+B-
+C-Power HP:407/407 MP:81/81
+D-Goblin HP:117/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:262/597 MP:295/347
+B-Python HP:615/637 MP:258/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Goblin
+2-Makoto
+3-Power
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taown HP:709/709 MP:140/140
+2-Koppa Tengu HP:196/196 MP:88/88
+3-Mushussu HP:30/399 MP:150/179
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:305/347
+B-
+C-Power HP:407/407 MP:81/81
+D-Taown HP:709/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:262/597 MP:295/347
+B-Python HP:615/637 MP:258/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Power
+3-Taown
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Koppa Tengu HP:196/196 MP:88/88
+2-Goblin HP:117/322 MP:63/63
+3-Mushussu HP:30/399 MP:150/179
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Koppa Tengu HP:196/196 MP:88/88
+2-Goblin HP:117/322 MP:63/63
+3-Mushussu HP:30/399 MP:150/179
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Power HP:407/407 MP:81/81 (Puesto 3)
+3-Taown HP:709/709 MP:140/140 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Koppa Tengu HP:196/196 MP:88/88
+2-Goblin HP:117/322 MP:63/63
+3-Mushussu HP:30/399 MP:150/179
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Power HP:407/407 MP:81/81 (Puesto 3)
+3-Taown HP:709/709 MP:140/140 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:305/347
+B-
+C-Mushussu HP:30/399 MP:150/179
+D-Taown HP:709/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:262/597 MP:295/347
+B-Python HP:615/637 MP:258/286
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Taown
+3-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:262/597 MP:295/347
+2-Python HP:615/637 MP:258/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:262/597 MP:295/347
+2-Python HP:615/637 MP:258/286
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Makoto
+Makoto es resistente el ataque de Mushussu
+Makoto recibe 16 de daño
+Makoto termina con HP:246/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:305/347
+B-
+C-Mushussu HP:30/399 MP:150/179
+D-Taown HP:709/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:246/597 MP:295/347
+B-Python HP:615/637 MP:258/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:445/597 MP:305/347
+2-Mushussu HP:30/399 MP:150/179
+3-Taown HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:445/597 MP:305/347
+2-Mushussu HP:30/399 MP:150/179
+3-Taown HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Python lanza hielo a Taown
+Taown recibe 135 de daño
+Taown termina con HP:574/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:305/347
+B-
+C-Mushussu HP:30/399 MP:150/179
+D-Taown HP:574/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:246/597 MP:295/347
+B-Python HP:615/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Python
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Deadly Wind MP:22
+3-Zandyne MP:14
+4-Zanma MP:8
+5-Trisagion MP:22
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:445/597 MP:305/347
+2-Mushussu HP:30/399 MP:150/179
+3-Taown HP:574/709 MP:140/140
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto lanza viento a Mushussu
+Mushussu es débil contra el ataque de Makoto
+Mushussu recibe 140 de daño
+Mushussu termina con HP:0/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:305/347
+B-
+C-
+D-Taown HP:574/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:246/597 MP:287/347
+B-Python HP:615/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:445/597 MP:305/347
+2-Taown HP:574/709 MP:140/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Python ataca a Taown
+Taown recibe 53 de daño
+Taown termina con HP:521/709
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:305/347
+B-
+C-
+D-Taown HP:521/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:246/597 MP:287/347
+B-Python HP:615/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Makoto
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:246/597 MP:287/347
+2-Python HP:615/637 MP:244/286
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Makoto
+Makoto es resistente el ataque de Taown
+Makoto recibe 27 de daño
+Makoto termina con HP:219/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:305/347
+B-
+C-
+D-Taown HP:521/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:219/597 MP:287/347
+B-Python HP:615/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Taown
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:305/347
+B-
+C-
+D-Taown HP:521/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:219/597 MP:287/347
+B-Python HP:615/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Makoto
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:219/597 MP:287/347
+2-Python HP:615/637 MP:244/286
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Taown ataca a Python
+Python recibe 54 de daño
+Python termina con HP:561/637
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:305/347
+B-
+C-
+D-Taown HP:521/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:219/597 MP:287/347
+B-Python HP:561/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:305/347
+B-
+C-
+D-Taown HP:521/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:219/597 MP:287/347
+B-Python HP:561/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Python
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:445/597 MP:305/347
+2-Taown HP:521/709 MP:140/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto ataca a Taown
+Taown recibe 38 de daño
+Taown termina con HP:483/709
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:305/347
+B-
+C-
+D-Taown HP:483/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:219/597 MP:287/347
+B-Python HP:561/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:445/597 MP:305/347
+2-Taown HP:483/709 MP:140/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Python ataca a Taown
+Taown recibe 53 de daño
+Taown termina con HP:430/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:305/347
+B-
+C-
+D-Taown HP:430/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:219/597 MP:287/347
+B-Python HP:561/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Makoto
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:219/597 MP:287/347
+2-Python HP:561/637 MP:244/286
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Taown ataca a Python
+Python recibe 54 de daño
+Python termina con HP:507/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:305/347
+B-
+C-
+D-Taown HP:430/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:219/597 MP:287/347
+B-Python HP:507/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Taown
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:219/597 MP:287/347
+2-Python HP:507/637 MP:244/286
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Makoto
+Makoto es resistente el ataque de Makoto
+Makoto recibe 28 de daño
+Makoto termina con HP:191/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:305/347
+B-
+C-
+D-Taown HP:430/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:191/597 MP:287/347
+B-Python HP:507/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:305/347
+B-
+C-
+D-Taown HP:430/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:191/597 MP:287/347
+B-Python HP:507/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Python
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:445/597 MP:305/347
+B-
+C-
+D-Taown HP:430/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:191/597 MP:287/347
+B-Python HP:507/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:445/597 MP:305/347
+2-Taown HP:430/709 MP:140/140
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Python ataca a Makoto
+Makoto es resistente el ataque de Python
+Makoto recibe 26 de daño
+Makoto termina con HP:419/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:419/597 MP:305/347
+B-
+C-
+D-Taown HP:430/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:191/597 MP:287/347
+B-Python HP:507/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Makoto
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:419/597 MP:305/347
+B-
+C-
+D-Taown HP:430/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:191/597 MP:287/347
+B-Python HP:507/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Taown
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:191/597 MP:287/347
+2-Python HP:507/637 MP:244/286
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Makoto
+Makoto es resistente el ataque de Makoto
+Makoto recibe 28 de daño
+Makoto termina con HP:163/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:419/597 MP:305/347
+B-
+C-
+D-Taown HP:430/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:163/597 MP:287/347
+B-Python HP:507/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Makoto
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:419/597 MP:305/347
+B-
+C-
+D-Taown HP:430/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:163/597 MP:287/347
+B-Python HP:507/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Taown
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:163/597 MP:287/347
+2-Python HP:507/637 MP:244/286
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Makoto
+Makoto es resistente el ataque de Makoto
+Makoto recibe 19 de daño
+Makoto termina con HP:144/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:419/597 MP:305/347
+B-
+C-
+D-Taown HP:430/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:144/597 MP:287/347
+B-Python HP:507/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:419/597 MP:305/347
+2-Taown HP:430/709 MP:140/140
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Python ataca a Makoto
+Makoto es resistente el ataque de Python
+Makoto recibe 26 de daño
+Makoto termina con HP:393/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:393/597 MP:305/347
+B-
+C-
+D-Taown HP:430/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:144/597 MP:287/347
+B-Python HP:507/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Python
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:393/597 MP:305/347
+B-
+C-
+D-Taown HP:430/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:144/597 MP:287/347
+B-Python HP:507/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:393/597 MP:305/347
+B-
+C-
+D-Taown HP:430/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:144/597 MP:287/347
+B-Python HP:507/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Makoto
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:393/597 MP:305/347
+B-
+C-
+D-Taown HP:430/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:144/597 MP:287/347
+B-Python HP:507/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Taown
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:144/597 MP:287/347
+2-Python HP:507/637 MP:244/286
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Makoto
+Makoto es resistente el ataque de Makoto
+Makoto recibe 19 de daño
+Makoto termina con HP:125/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:393/597 MP:305/347
+B-
+C-
+D-Taown HP:430/709 MP:140/140
+Equipo de Makoto (J2)
+A-Makoto HP:125/597 MP:287/347
+B-Python HP:507/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Makoto
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:125/597 MP:287/347
+2-Python HP:507/637 MP:244/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:125/597 MP:287/347
+2-Python HP:507/637 MP:244/286
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Taown lanza electricidad a Makoto
+Makoto es resistente el ataque de Taown
+Makoto recibe 56 de daño
+Makoto termina con HP:69/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:393/597 MP:305/347
+B-
+C-
+D-Taown HP:430/709 MP:126/140
+Equipo de Makoto (J2)
+A-Makoto HP:69/597 MP:287/347
+B-Python HP:507/637 MP:244/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Makoto
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:393/597 MP:305/347
+2-Taown HP:430/709 MP:126/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Python lanza hielo a Taown
+Taown recibe 135 de daño
+Taown termina con HP:295/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:393/597 MP:305/347
+B-
+C-
+D-Taown HP:295/709 MP:126/140
+Equipo de Makoto (J2)
+A-Makoto HP:69/597 MP:287/347
+B-Python HP:507/637 MP:230/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Python
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:393/597 MP:305/347
+2-Taown HP:295/709 MP:126/140
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:393/597 MP:305/347
+2-Taown HP:295/709 MP:126/140
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Makoto
+Makoto es resistente el ataque de Makoto
+Makoto recibe 19 de daño
+Makoto termina con HP:374/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:374/597 MP:305/347
+B-
+C-
+D-Taown HP:295/709 MP:126/140
+Equipo de Makoto (J2)
+A-Makoto HP:69/597 MP:287/347
+B-Python HP:507/637 MP:230/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Makoto
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:374/597 MP:305/347
+B-
+C-
+D-Taown HP:295/709 MP:126/140
+Equipo de Makoto (J2)
+A-Makoto HP:69/597 MP:287/347
+B-Python HP:507/637 MP:230/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Taown
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:69/597 MP:287/347
+2-Python HP:507/637 MP:230/286
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Makoto
+Makoto es resistente el ataque de Makoto
+Makoto recibe 28 de daño
+Makoto termina con HP:41/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:374/597 MP:305/347
+B-
+C-
+D-Taown HP:295/709 MP:126/140
+Equipo de Makoto (J2)
+A-Makoto HP:41/597 MP:287/347
+B-Python HP:507/637 MP:230/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Makoto
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Power HP:407/407 MP:81/81
+2-Koppa Tengu HP:196/196 MP:88/88
+3-Goblin HP:117/322 MP:63/63
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:41/597 MP:287/347
+2-Python HP:507/637 MP:230/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:41/597 MP:287/347
+2-Python HP:507/637 MP:230/286
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Taown lanza electricidad a Makoto
+Makoto es resistente el ataque de Taown
+Makoto recibe 56 de daño
+Makoto termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:374/597 MP:305/347
+B-
+C-
+D-Taown HP:295/709 MP:112/140
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:507/637 MP:230/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:374/597 MP:305/347
+B-
+C-
+D-Taown HP:295/709 MP:112/140
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:507/637 MP:230/286
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Python
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:374/597 MP:305/347
+B-
+C-
+D-Taown HP:295/709 MP:112/140
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:507/637 MP:230/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Makoto
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Python HP:507/637 MP:230/286
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Python HP:507/637 MP:230/286
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Python
+Python recibe 142 de daño
+Taown ataca a Python
+Python recibe 142 de daño
+Python termina con HP:223/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:374/597 MP:305/347
+B-
+C-
+D-Taown HP:295/709 MP:101/140
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:223/637 MP:230/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Taown
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Python HP:223/637 MP:230/286
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Python HP:223/637 MP:230/286
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Python
+Python recibe 38 de daño
+Python termina con HP:185/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:374/597 MP:305/347
+B-
+C-
+D-Taown HP:295/709 MP:101/140
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:185/637 MP:230/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:374/597 MP:305/347
+2-Taown HP:295/709 MP:101/140
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:374/597 MP:305/347
+2-Taown HP:295/709 MP:101/140
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Python lanza hielo a Makoto
+Makoto es resistente el ataque de Python
+Makoto recibe 67 de daño
+Makoto termina con HP:307/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:307/597 MP:305/347
+B-
+C-
+D-Taown HP:295/709 MP:101/140
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:185/637 MP:216/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Makoto
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Python HP:185/637 MP:216/286
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Python
+Python recibe 54 de daño
+Python termina con HP:131/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:307/597 MP:305/347
+B-
+C-
+D-Taown HP:295/709 MP:101/140
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:131/637 MP:216/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Taown
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Python HP:131/637 MP:216/286
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Mudo MP:6
+2-Bufudyne MP:14
+3-Agilao MP:8
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Python HP:131/637 MP:216/286
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto lanza fuego a Python
+Python recibe 93 de daño
+Python termina con HP:38/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:307/597 MP:297/347
+B-
+C-
+D-Taown HP:295/709 MP:101/140
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:38/637 MP:216/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:307/597 MP:297/347
+B-
+C-
+D-Taown HP:295/709 MP:101/140
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:38/637 MP:216/286
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Python
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:307/597 MP:297/347
+2-Taown HP:295/709 MP:101/140
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Python ataca a Makoto
+Makoto es resistente el ataque de Python
+Makoto recibe 26 de daño
+Makoto termina con HP:281/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:281/597 MP:297/347
+B-
+C-
+D-Taown HP:295/709 MP:101/140
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:38/637 MP:216/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Makoto
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Python HP:38/637 MP:216/286
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Python HP:38/637 MP:216/286
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:281/597 MP:297/347
+B-
+C-
+D-Taown HP:295/709 MP:101/140
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:38/637 MP:216/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Taown
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Power HP:407/407 MP:81/81
+2-Koppa Tengu HP:196/196 MP:88/88
+3-Goblin HP:117/322 MP:63/63
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Taown HP:295/709 MP:101/140 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Azrael ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:281/597 MP:297/347
+B-
+C-
+D-Azrael HP:338/338 MP:328/328
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:38/637 MP:216/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Makoto
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Power HP:407/407 MP:81/81
+2-Taown HP:295/709 MP:101/140
+3-Koppa Tengu HP:196/196 MP:88/88
+4-Goblin HP:117/322 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Power ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:281/597 MP:297/347
+B-
+C-
+D-Power HP:407/407 MP:81/81
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:38/637 MP:216/286
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Power
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Python HP:38/637 MP:216/286
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Mudo MP:6
+2-Bufudyne MP:14
+3-Agilao MP:8
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:281/597 MP:297/347
+B-
+C-
+D-Power HP:407/407 MP:81/81
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:38/637 MP:216/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:281/597 MP:297/347
+2-Power HP:407/407 MP:81/81
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Python lanza electricidad a Power
+Power recibe 135 de daño
+Power termina con HP:272/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:281/597 MP:297/347
+B-
+C-
+D-Power HP:272/407 MP:81/81
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:38/637 MP:202/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Power
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Mudo MP:6
+2-Bufudyne MP:14
+3-Agilao MP:8
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Python HP:38/637 MP:202/286
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taown HP:295/709 MP:101/140
+2-Koppa Tengu HP:196/196 MP:88/88
+3-Goblin HP:117/322 MP:63/63
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Power HP:272/407 MP:81/81 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:281/597 MP:297/347
+B-Azrael HP:338/338 MP:328/328
+C-
+D-Power HP:272/407 MP:81/81
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:38/637 MP:202/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Power
+2-Azrael
+3-Makoto
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taown HP:295/709 MP:101/140
+2-Koppa Tengu HP:196/196 MP:88/88
+3-Goblin HP:117/322 MP:63/63
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:281/597 MP:297/347
+B-Azrael HP:338/338 MP:328/328
+C-
+D-Taown HP:295/709 MP:101/140
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:38/637 MP:202/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Makoto
+3-Taown
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:281/597 MP:297/347
+B-Azrael HP:338/338 MP:328/328
+C-
+D-Taown HP:295/709 MP:101/140
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:38/637 MP:202/286
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Taown
+3-Azrael
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Mudo MP:6
+2-Bufudyne MP:14
+3-Agilao MP:8
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Python HP:38/637 MP:202/286
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:281/597 MP:297/347
+B-Azrael HP:338/338 MP:328/328
+C-
+D-Taown HP:295/709 MP:101/140
+Equipo de Makoto (J2)
+A-Makoto HP:0/597 MP:287/347
+B-Python HP:38/637 MP:202/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:281/597 MP:297/347
+2-Azrael HP:338/338 MP:328/328
+3-Taown HP:295/709 MP:101/140
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Python use
+1-Fog Breath MP:45
+2-Bufudyne MP:14
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Python
+1-Makoto HP:281/597 MP:297/347
+2-Azrael HP:338/338 MP:328/328
+3-Taown HP:295/709 MP:101/140
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Python lanza electricidad a Taown
+Taown devuelve 135 daño a Python
+Python termina con HP:0/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Makoto (J1)

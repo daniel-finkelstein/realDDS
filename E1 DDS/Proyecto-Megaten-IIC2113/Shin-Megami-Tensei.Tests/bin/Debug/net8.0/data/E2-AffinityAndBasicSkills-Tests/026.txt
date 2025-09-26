@@ -1,0 +1,682 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 25
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:131/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Ammut HP:709/709 MP:140/140
+C-Lham Dearg HP:91/91 MP:19/19
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Naga
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Yu HP:597/597 MP:347/347
+2-Ammut HP:709/709 MP:140/140
+3-Lham Dearg HP:91/91 MP:19/19
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yamata-no-Orochi lanza hielo a Ammut
+Ammut es débil contra el ataque de Yamata-no-Orochi
+Ammut recibe 164 de daño
+Ammut termina con HP:545/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Ammut HP:545/709 MP:140/140
+C-Lham Dearg HP:91/91 MP:19/19
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Naga
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Bufula MP:8
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Yu HP:597/597 MP:347/347
+2-Ammut HP:545/709 MP:140/140
+3-Lham Dearg HP:91/91 MP:19/19
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto lanza hielo a Ammut
+Ammut es débil contra el ataque de Makoto
+Ammut recibe 140 de daño
+Ammut termina con HP:405/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:339/347
+B-Naga HP:199/199 MP:39/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Ammut HP:405/709 MP:140/140
+C-Lham Dearg HP:91/91 MP:19/19
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Naga
+2-Yamata-no-Orochi
+3-Makoto
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Naga use
+1-Lunge MP:6
+2-Bufu MP:5
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Yu HP:597/597 MP:347/347
+2-Ammut HP:405/709 MP:140/140
+3-Lham Dearg HP:91/91 MP:19/19
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Naga lanza hielo a Ammut
+Ammut es débil contra el ataque de Naga
+Ammut recibe 51 de daño
+Ammut termina con HP:354/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:339/347
+B-Naga HP:199/199 MP:34/39
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Ammut HP:354/709 MP:140/140
+C-Lham Dearg HP:91/91 MP:19/19
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Naga
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Yu HP:597/597 MP:347/347
+2-Ammut HP:354/709 MP:140/140
+3-Lham Dearg HP:91/91 MP:19/19
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yamata-no-Orochi lanza hielo a Ammut
+Ammut es débil contra el ataque de Yamata-no-Orochi
+Ammut recibe 164 de daño
+Ammut termina con HP:190/709
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:339/347
+B-Naga HP:199/199 MP:34/39
+C-Yamata-no-Orochi HP:662/662 MP:103/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Ammut HP:190/709 MP:140/140
+C-Lham Dearg HP:91/91 MP:19/19
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Makoto
+2-Naga
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Bufula MP:8
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Yu HP:597/597 MP:347/347
+2-Ammut HP:190/709 MP:140/140
+3-Lham Dearg HP:91/91 MP:19/19
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto lanza hielo a Ammut
+Ammut es débil contra el ataque de Makoto
+Ammut recibe 140 de daño
+Ammut termina con HP:50/709
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:331/347
+B-Naga HP:199/199 MP:34/39
+C-Yamata-no-Orochi HP:662/662 MP:103/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Ammut HP:50/709 MP:140/140
+C-Lham Dearg HP:91/91 MP:19/19
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Naga
+2-Yamata-no-Orochi
+3-Makoto
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Naga use
+1-Lunge MP:6
+2-Bufu MP:5
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Yu HP:597/597 MP:347/347
+2-Ammut HP:50/709 MP:140/140
+3-Lham Dearg HP:91/91 MP:19/19
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Naga lanza hielo a Ammut
+Ammut es débil contra el ataque de Naga
+Ammut recibe 51 de daño
+Ammut termina con HP:0/709
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:331/347
+B-Naga HP:199/199 MP:29/39
+C-Yamata-no-Orochi HP:662/662 MP:103/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Lham Dearg HP:91/91 MP:19/19
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Azrael
+3-Lham Dearg
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Makoto HP:597/597 MP:331/347
+2-Naga HP:199/199 MP:29/39
+3-Yamata-no-Orochi HP:662/662 MP:103/131
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Makoto
+Makoto es resistente el ataque de Yu
+Makoto recibe 24 de daño
+Makoto termina con HP:573/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:573/597 MP:331/347
+B-Naga HP:199/199 MP:29/39
+C-Yamata-no-Orochi HP:662/662 MP:103/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Lham Dearg HP:91/91 MP:19/19
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Lham Dearg
+3-Yu
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Makoto HP:573/597 MP:331/347
+2-Naga HP:199/199 MP:29/39
+3-Yamata-no-Orochi HP:662/662 MP:103/131
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ataca a Makoto
+Makoto es resistente el ataque de Azrael
+Makoto recibe 18 de daño
+Makoto termina con HP:555/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:555/597 MP:331/347
+B-Naga HP:199/199 MP:29/39
+C-Yamata-no-Orochi HP:662/662 MP:103/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Lham Dearg HP:91/91 MP:19/19
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lham Dearg
+2-Yu
+3-Azrael
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lham Dearg
+1-Makoto HP:555/597 MP:331/347
+2-Naga HP:199/199 MP:29/39
+3-Yamata-no-Orochi HP:662/662 MP:103/131
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Lham Dearg ataca a Makoto
+Makoto es resistente el ataque de Lham Dearg
+Makoto recibe 1 de daño
+Makoto termina con HP:554/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:554/597 MP:331/347
+B-Naga HP:199/199 MP:29/39
+C-Yamata-no-Orochi HP:662/662 MP:103/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Lham Dearg HP:91/91 MP:19/19
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Naga
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Yu HP:597/597 MP:347/347
+2-Lham Dearg HP:91/91 MP:19/19
+3-Azrael HP:338/338 MP:328/328
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi ataca a Yu
+Yu es resistente el ataque de Yamata-no-Orochi
+Yu recibe 25 de daño
+Yu termina con HP:572/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:554/597 MP:331/347
+B-Naga HP:199/199 MP:29/39
+C-Yamata-no-Orochi HP:662/662 MP:103/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:572/597 MP:347/347
+B-
+C-Lham Dearg HP:91/91 MP:19/19
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Naga
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Yu HP:572/597 MP:347/347
+2-Lham Dearg HP:91/91 MP:19/19
+3-Azrael HP:338/338 MP:328/328
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Yu
+Yu es resistente el ataque de Makoto
+Yu recibe 19 de daño
+Yu termina con HP:553/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:554/597 MP:331/347
+B-Naga HP:199/199 MP:29/39
+C-Yamata-no-Orochi HP:662/662 MP:103/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:553/597 MP:347/347
+B-
+C-Lham Dearg HP:91/91 MP:19/19
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Yamata-no-Orochi
+3-Makoto
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Naga use
+1-Lunge MP:6
+2-Bufu MP:5
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Yu HP:553/597 MP:347/347
+2-Lham Dearg HP:91/91 MP:19/19
+3-Azrael HP:338/338 MP:328/328
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Naga lanza hielo a Lham Dearg
+Lham Dearg es débil contra el ataque de Naga
+Lham Dearg recibe 51 de daño
+Lham Dearg termina con HP:40/91
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:554/597 MP:331/347
+B-Naga HP:199/199 MP:24/39
+C-Yamata-no-Orochi HP:662/662 MP:103/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:553/597 MP:347/347
+B-
+C-Lham Dearg HP:40/91 MP:19/19
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Naga
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Yu HP:553/597 MP:347/347
+2-Lham Dearg HP:40/91 MP:19/19
+3-Azrael HP:338/338 MP:328/328
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi ataca a Yu
+Yu es resistente el ataque de Yamata-no-Orochi
+Yu recibe 25 de daño
+Yu termina con HP:528/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:554/597 MP:331/347
+B-Naga HP:199/199 MP:24/39
+C-Yamata-no-Orochi HP:662/662 MP:103/131
+D-
+Equipo de Yu (J2)
+A-Yu HP:528/597 MP:347/347
+B-
+C-Lham Dearg HP:40/91 MP:19/19
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Azrael
+3-Lham Dearg
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Yu (J2) se rinde
+----------------------------------------
+Ganador: Makoto (J1)

@@ -1,0 +1,1755 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 2
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Asherah HP:433/433 MP:195/195
+C-Melchom HP:71/71 MP:67/67
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Chemtrail HP:437/437 MP:423/423
+C-Strix HP:189/189 MP:85/85
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Tadano
+3-Melchom
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Aleph HP:1309/1309 MP:613/613
+2-Chemtrail HP:437/437 MP:423/423
+3-Strix HP:189/189 MP:85/85
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Aleph HP:1309/1309 MP:613/613
+2-Chemtrail HP:437/437 MP:423/423
+3-Strix HP:189/189 MP:85/85
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Asherah ataca a Chemtrail
+Chemtrail recibe 35 de daño
+Chemtrail termina con HP:402/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Asherah HP:433/433 MP:195/195
+C-Melchom HP:71/71 MP:67/67
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:85/85
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Melchom
+3-Asherah
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Zio MP:5
+2-Diarama MP:9
+3-Axel Claw MP:15
+4-Mudo MP:6
+5-Tathlum Shot MP:7
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Aleph HP:1309/1309 MP:613/613
+2-Chemtrail HP:402/437 MP:423/423
+3-Strix HP:189/189 MP:85/85
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tadano ataca con oscuridad a Chemtrail
+Chemtrail bloquea el ataque de Tadano
+Chemtrail termina con HP:402/437
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:187/193
+B-Asherah HP:433/433 MP:195/195
+C-Melchom HP:71/71 MP:67/67
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:85/85
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Chemtrail
+3-Strix
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Stigma Attack MP:20
+2-Fatal Sword MP:8
+3-Bufu MP:5
+4-Grand Tack MP:11
+5-Diarahan MP:16
+6-Hamaon MP:10
+7-Mortal Jihad MP:13
+8-Cancelar
+INPUT: 8
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Stigma Attack MP:20
+2-Fatal Sword MP:8
+3-Bufu MP:5
+4-Grand Tack MP:11
+5-Diarahan MP:16
+6-Hamaon MP:10
+7-Mortal Jihad MP:13
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tadano HP:388/388 MP:187/193
+2-Asherah HP:433/433 MP:195/195
+3-Melchom HP:71/71 MP:67/67
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Stigma Attack MP:20
+2-Fatal Sword MP:8
+3-Bufu MP:5
+4-Grand Tack MP:11
+5-Diarahan MP:16
+6-Hamaon MP:10
+7-Mortal Jihad MP:13
+8-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tadano HP:388/388 MP:187/193
+2-Asherah HP:433/433 MP:195/195
+3-Melchom HP:71/71 MP:67/67
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Tadano
+Tadano recibe 261 de daño
+Tadano termina con HP:127/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:127/388 MP:187/193
+B-Asherah HP:433/433 MP:195/195
+C-Melchom HP:71/71 MP:67/67
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:85/85
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Strix
+3-Aleph
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:127/388 MP:187/193
+B-Asherah HP:433/433 MP:195/195
+C-Melchom HP:71/71 MP:67/67
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:85/85
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Strix
+2-Aleph
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Strix use
+1-Spirit Drain MP:5
+2-Bouncing Claw MP:4
+3-Tarunda MP:15
+4-Mabufu MP:11
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Strix
+1-Tadano HP:127/388 MP:187/193
+2-Asherah HP:433/433 MP:195/195
+3-Melchom HP:71/71 MP:67/67
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Strix use
+1-Spirit Drain MP:5
+2-Bouncing Claw MP:4
+3-Tarunda MP:15
+4-Mabufu MP:11
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Strix
+1-Tadano HP:127/388 MP:187/193
+2-Asherah HP:433/433 MP:195/195
+3-Melchom HP:71/71 MP:67/67
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Strix ataca a Melchom
+Melchom recibe 42 de daño
+Strix ataca a Melchom
+Melchom recibe 42 de daño
+Melchom termina con HP:0/71
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:127/388 MP:187/193
+B-Asherah HP:433/433 MP:195/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Chemtrail
+3-Strix
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tadano HP:127/388 MP:187/193
+2-Asherah HP:433/433 MP:195/195
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Tadano
+Tadano es resistente el ataque de Aleph
+Tadano recibe 78 de daño
+Tadano termina con HP:49/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:49/388 MP:187/193
+B-Asherah HP:433/433 MP:195/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Tadano
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:49/388 MP:187/193
+B-Asherah HP:433/433 MP:195/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Asherah
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:49/388 MP:187/193
+B-Asherah HP:433/433 MP:195/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Tadano
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Tadano HP:49/388 MP:187/193
+2-Asherah HP:433/433 MP:195/195
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Tadano HP:49/388 MP:187/193
+2-Asherah HP:433/433 MP:195/195
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah cura a Tadano
+Tadano recibe 194 de HP
+Tadano termina con HP:243/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:243/388 MP:187/193
+B-Asherah HP:433/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Chemtrail
+3-Strix
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Stigma Attack MP:20
+2-Fatal Sword MP:8
+3-Bufu MP:5
+4-Grand Tack MP:11
+5-Diarahan MP:16
+6-Hamaon MP:10
+7-Mortal Jihad MP:13
+8-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tadano HP:243/388 MP:187/193
+2-Asherah HP:433/433 MP:186/195
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tadano HP:243/388 MP:187/193
+2-Asherah HP:433/433 MP:186/195
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Tadano
+Tadano recibe 276 de daño
+Tadano termina con HP:0/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:433/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Strix
+3-Aleph
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:433/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Strix
+2-Aleph
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Strix
+1-Asherah HP:433/433 MP:186/195
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Strix ataca a Asherah
+Asherah recibe 14 de daño
+Asherah termina con HP:419/433
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:419/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Chemtrail
+3-Strix
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Asherah HP:419/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Asherah HP:419/433 MP:186/195
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Asherah
+Asherah recibe 276 de daño
+Asherah termina con HP:143/433
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:143/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:143/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Asherah
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:143/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Chemtrail
+3-Strix
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Asherah HP:143/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:143/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Strix
+3-Aleph
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:143/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Strix
+2-Aleph
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Strix use
+1-Spirit Drain MP:5
+2-Bouncing Claw MP:4
+3-Tarunda MP:15
+4-Mabufu MP:11
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Strix
+1-Asherah HP:143/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:143/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Chemtrail
+3-Strix
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:143/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Strix
+3-Aleph
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Asherah HP:143/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:143/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Strix
+2-Aleph
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Strix
+1-Asherah HP:143/433 MP:186/195
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Strix ataca a Asherah
+Asherah recibe 14 de daño
+Asherah termina con HP:129/433
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:129/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:129/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:402/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Asherah
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Aleph HP:1309/1309 MP:602/613
+2-Chemtrail HP:402/437 MP:423/423
+3-Strix HP:189/189 MP:81/85
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Asherah ataca a Chemtrail
+Chemtrail recibe 35 de daño
+Chemtrail termina con HP:367/437
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:129/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:367/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Chemtrail
+3-Strix
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Asherah HP:129/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Asherah HP:129/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:129/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:367/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Strix
+3-Aleph
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:129/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:367/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Strix
+2-Aleph
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:129/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:367/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Chemtrail
+3-Strix
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:129/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:367/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Strix
+3-Aleph
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:129/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:367/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Strix
+2-Aleph
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Strix use
+1-Spirit Drain MP:5
+2-Bouncing Claw MP:4
+3-Tarunda MP:15
+4-Mabufu MP:11
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Strix use
+1-Spirit Drain MP:5
+2-Bouncing Claw MP:4
+3-Tarunda MP:15
+4-Mabufu MP:11
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Strix
+1-Asherah HP:129/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Strix
+1-Asherah HP:129/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Strix use
+1-Spirit Drain MP:5
+2-Bouncing Claw MP:4
+3-Tarunda MP:15
+4-Mabufu MP:11
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Strix use
+1-Spirit Drain MP:5
+2-Bouncing Claw MP:4
+3-Tarunda MP:15
+4-Mabufu MP:11
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:129/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:367/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:129/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:367/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Asherah
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:129/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:367/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Chemtrail
+3-Strix
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Stigma Attack MP:20
+2-Fatal Sword MP:8
+3-Bufu MP:5
+4-Grand Tack MP:11
+5-Diarahan MP:16
+6-Hamaon MP:10
+7-Mortal Jihad MP:13
+8-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Asherah HP:129/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:129/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:367/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Strix
+3-Aleph
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:129/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:367/437 MP:423/423
+C-Strix HP:189/189 MP:81/85
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Strix
+2-Aleph
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Strix
+1-Asherah HP:129/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Strix use
+1-Spirit Drain MP:5
+2-Bouncing Claw MP:4
+3-Tarunda MP:15
+4-Mabufu MP:11
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Strix
+1-Asherah HP:129/433 MP:186/195
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Strix ataca a Asherah
+Asherah recibe 42 de daño
+Strix ataca a Asherah
+Asherah recibe 42 de daño
+Strix ataca a Asherah
+Asherah recibe 42 de daño
+Asherah termina con HP:3/433
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Asherah HP:3/433 MP:186/195
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:602/613
+B-Chemtrail HP:367/437 MP:423/423
+C-Strix HP:189/189 MP:77/85
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Chemtrail
+3-Strix
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Asherah HP:3/433 MP:186/195
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Asherah
+Asherah recibe 276 de daño
+Asherah termina con HP:0/433
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Aleph (J2)

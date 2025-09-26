@@ -1,0 +1,2108 @@
+[
+    {
+        "name": "Lunge",
+        "type": "Phys",
+        "cost": 6,
+        "power": 90,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Weak Phys attack. Taget: 1 enemy"
+    },
+    {
+        "name": "Oni-Kagura",
+        "type": "Phys",
+        "cost": 9,
+        "power": 150,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Medium Phys attack. Target: 1 enemy"
+    },
+    {
+        "name": "Mortal Jihad",
+        "type": "Phys",
+        "cost": 13,
+        "power": 240,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Heavy Phys attack. Target: 1 enemy"
+    },
+    {
+        "name": "Critical Wave",
+        "type": "Phys",
+        "cost": 10,
+        "power": 75,
+        "target": "All",
+        "hits": "1",
+        "effect": "Weak Phys attack. Target: All enemies"
+    },
+    {
+        "name": "Megaton Press",
+        "type": "Phys",
+        "cost": 17,
+        "power": 135,
+        "target": "All",
+        "hits": "1",
+        "effect": "Weak Phys attack. Target: All enemies"
+    },
+    {
+        "name": "Titanomachia",
+        "type": "Phys",
+        "cost": 30,
+        "power": 195,
+        "target": "All",
+        "hits": "1",
+        "effect": "Heavy Phys attack. Target: All enemies"
+    },
+    {
+        "name": "Gram Slice",
+        "type": "Phys",
+        "cost": 5,
+        "power": 100,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Weak Phys attack. Target: 1 enemy"
+    },
+    {
+        "name": "Fatal Sword",
+        "type": "Phys",
+        "cost": 8,
+        "power": 160,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Medium Phys attack. Target: 1 enemy"
+    },
+    {
+        "name": "Berserker God",
+        "type": "Phys",
+        "cost": 12,
+        "power": 250,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Heavy Phys attack. Target: 1 enemy"
+    },
+    {
+        "name": "Heat Wave",
+        "type": "Phys",
+        "cost": 11,
+        "power": 80,
+        "target": "All",
+        "hits": "1",
+        "effect": "Weak Phys attack. Target: All enemies"
+    },
+    {
+        "name": "Javelin Rain",
+        "type": "Phys",
+        "cost": 21,
+        "power": 140,
+        "target": "All",
+        "hits": "1",
+        "effect": "Medium Phys attack. Target: All enemies"
+    },
+    {
+        "name": "Hades Blast",
+        "type": "Phys",
+        "cost": 32,
+        "power": 200,
+        "target": "All",
+        "hits": "1",
+        "effect": "Heavy Phys attack. Target: All enemies"
+    },
+    {
+        "name": "Bouncing Claw",
+        "type": "Phys",
+        "cost": 4,
+        "power": 80,
+        "target": "Single",
+        "hits": "1-3",
+        "effect": "1-3 weak Phys attacks. Target: 1 enemy"
+    },
+    {
+        "name": "Damascus Claw",
+        "type": "Phys",
+        "cost": 7,
+        "power": 140,
+        "target": "Single",
+        "hits": "1-3",
+        "effect": "1-3 medium Phys attacks. Target: 1 enemy"
+    },
+    {
+        "name": "Nihil Claw",
+        "type": "Phys",
+        "cost": 11,
+        "power": 230,
+        "target": "Single",
+        "hits": "1-3",
+        "effect": "1-3 heavy Phys attacks. Target: 1 enemy"
+    },
+    {
+        "name": "Scratch Dance",
+        "type": "Phys",
+        "cost": 9,
+        "power": 100,
+        "target": "Multi",
+        "hits": "1-3",
+        "effect": "1-3 weak Phys attacks. Target: Multi-enemies"
+    },
+    {
+        "name": "Axel Claw",
+        "type": "Phys",
+        "cost": 15,
+        "power": 220,
+        "target": "Single",
+        "hits": "1-3",
+        "effect": "1-3 medium Phys attacks. Target: Multi-enemies"
+    },
+    {
+        "name": "Madness Nails",
+        "type": "Phys",
+        "cost": 26,
+        "power": 340,
+        "target": "Multi",
+        "hits": "1-3",
+        "effect": "1-3 heavy Phys attacks. Target: Multi-enemies"
+    },
+    {
+        "name": "Fang Breaker",
+        "type": "Phys",
+        "cost": 12,
+        "power": 90,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Weak Phys attack. Decreases attack. Target: 1 enemy"
+    },
+    {
+        "name": "Dream Fist",
+        "type": "Phys",
+        "cost": 9,
+        "power": 90,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Weak Phys attack. Inflicts Sleep. Target: 1 enemy"
+    },
+    {
+        "name": "Purple Smoke",
+        "type": "Phys",
+        "cost": 14,
+        "power": 235,
+        "target": "Multi",
+        "hits": "1-3",
+        "effect": "1-3 medium Phys attacks. Inflicts Panic. Target: Multi-enemies"
+    },
+    {
+        "name": "Tetanus Cut",
+        "type": "Phys",
+        "cost": 11,
+        "power": 120,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Medium Phys attack. Inflicts Sick. Target: 1 enemy"
+    },
+    {
+        "name": "Blight",
+        "type": "Phys",
+        "cost": 14,
+        "power": 100,
+        "target": "All",
+        "hits": "1",
+        "effect": "Weak Phys attack. Inflicts Poison. Target: All enemies"
+    },
+    {
+        "name": "Occult Flash",
+        "type": "Phys",
+        "cost": 30,
+        "power": 120,
+        "target": "All",
+        "hits": "1",
+        "effect": "Medium physical damage and non-elemental instant kill to all foes with Power = 20."
+    },
+    {
+        "name": "Binding Claw",
+        "type": "Phys",
+        "cost": 11,
+        "power": 120,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Medium Phys attack. Inflicts Bind. Target: 1 enemy"
+    },
+    {
+        "name": "Poison Claw",
+        "type": "Phys",
+        "cost": 9,
+        "power": 120,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Medium Phys attack. Inflicts Poison. Target: 1 enemy"
+    },
+    {
+        "name": "Iron Judgement",
+        "type": "Phys",
+        "cost": 8,
+        "power": 120,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Medium Phys Attack. Target: 1 enemy"
+    },
+    {
+        "name": "Bar Toss",
+        "type": "Phys",
+        "cost": 35,
+        "power": 15,
+        "target": "Multi",
+        "hits": "1-15",
+        "effect": "1 to 15 hits of weak physical damage to multiple foes."
+    },
+    {
+        "name": "Stigma Attack",
+        "type": "Phys",
+        "cost": 20,
+        "power": 310,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Heavy physical damage to one foe."
+    },
+    {
+        "name": "Needle Shot",
+        "type": "Gun",
+        "cost": 4,
+        "power": 75,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Weak Gun attack. Target: 1 enemy"
+    },
+    {
+        "name": "Tathlum Shot",
+        "type": "Gun",
+        "cost": 7,
+        "power": 135,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Medium Gun attack. Target: 1 enemy"
+    },
+    {
+        "name": "Grand Tack",
+        "type": "Gun",
+        "cost": 11,
+        "power": 225,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Heavy Gun attack. Target: 1 enemy"
+    },
+    {
+        "name": "Riot Gun",
+        "type": "Gun",
+        "cost": 30,
+        "power": 350,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Severe Gun attack. Target: 1 enemy"
+    },
+    {
+        "name": "Rapid Needle",
+        "type": "Gun",
+        "cost": 9,
+        "power": 60,
+        "target": "All",
+        "hits": "1",
+        "effect": "Weak Gun attack. Target: All enemies"
+    },
+    {
+        "name": "Blast Arrow",
+        "type": "Gun",
+        "cost": 16,
+        "power": 120,
+        "target": "All",
+        "hits": "1",
+        "effect": "Medium Gun attack. Target: All enemies"
+    },
+    {
+        "name": "Heaven's Bow",
+        "type": "Gun",
+        "cost": 26,
+        "power": 180,
+        "target": "All",
+        "hits": "1",
+        "effect": "Heavy Gun attack. Target: All enemies"
+    },
+    {
+        "name": "Dream Needle",
+        "type": "Gun",
+        "cost": 9,
+        "power": 75,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Weak Gun attack. Inflicts Sleep. Target: 1 enemy"
+    },
+    {
+        "name": "Toxic Sting",
+        "type": "Gun",
+        "cost": 9,
+        "power": 75,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Weak Gun attack. Inflicts Poison. Target: 1 enemy"
+    },
+    {
+        "name": "Stun Needle",
+        "type": "Gun",
+        "cost": 11,
+        "power": 75,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Weak Gun attack. Inflicts Bind. Target: 1 enemy"
+    },
+    {
+        "name": "Madness Needle",
+        "type": "Gun",
+        "cost": 11,
+        "power": 75,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Weak Gun attack. Inflicts Panic. Target: 1 enemy"
+    },
+    {
+        "name": "Stun Needles",
+        "type": "Gun",
+        "cost": 14,
+        "power": 235,
+        "target": "Multi",
+        "hits": "1-3",
+        "effect": "1-3 medium Gun attacks. Inflicts Bind. Target: Multi-enemies"
+    },
+    {
+        "name": "Myriad Arrows",
+        "type": "Gun",
+        "cost": 30,
+        "power": 280,
+        "target": "Multi",
+        "hits": "2-4",
+        "effect": "2-4 weak Gun attacks. Target: Multi-enemies"
+    },
+    {
+        "name": "Crazed Star Dance",
+        "type": "Gun",
+        "cost": 36,
+        "power": 300,
+        "target": "All",
+        "hits": "1",
+        "effect": "Heavy Gun attack. Inflicts Panic. Target: All enemies"
+    },
+    {
+        "name": "Desperate Hit",
+        "type": "Almighty",
+        "cost": 40,
+        "power": 240,
+        "target": "Multi",
+        "hits": "1-5",
+        "effect": "1-5 weak Almighty attacks. Target: Multi-enemies"
+    },
+    {
+        "name": "Agi",
+        "type": "Fire",
+        "cost": 5,
+        "power": 80,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Weak Fire attack. Target: 1 enemy"
+    },
+    {
+        "name": "Agilao",
+        "type": "Fire",
+        "cost": 8,
+        "power": 140,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Medium Fire attack. Target: 1 enemy"
+    },
+    {
+        "name": "Agidyne",
+        "type": "Fire",
+        "cost": 14,
+        "power": 210,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Heavy Fire attack. Target: 1 enemy"
+    },
+    {
+        "name": "Maragi",
+        "type": "Fire",
+        "cost": 11,
+        "power": 60,
+        "target": "All",
+        "hits": "1",
+        "effect": "Weak Fire attack. Target: All enemies"
+    },
+    {
+        "name": "Maragion",
+        "type": "Fire",
+        "cost": 20,
+        "power": 120,
+        "target": "All",
+        "hits": "1",
+        "effect": "Medium Fire attack. Target: All enemies"
+    },
+    {
+        "name": "Maragidyne",
+        "type": "Fire",
+        "cost": 32,
+        "power": 180,
+        "target": "All",
+        "hits": "1",
+        "effect": "Heavy Fire attack. Target: All enemies"
+    },
+    {
+        "name": "Fire Breath",
+        "type": "Fire",
+        "cost": 21,
+        "power": 190,
+        "target": "Multi",
+        "hits": "1-4",
+        "effect": "1-4 weak Fire attacks. Target: Multi-enemies"
+    },
+    {
+        "name": "Trisagion",
+        "type": "Fire",
+        "cost": 22,
+        "power": 300,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Severe Fire attack. Target: 1 enemy"
+    },
+    {
+        "name": "Ragnarok",
+        "type": "Fire",
+        "cost": 35,
+        "power": 310,
+        "target": "Multi",
+        "hits": "1-4",
+        "effect": "1-4 medium Fire attacks. Target: Multi-enemies"
+    },
+    {
+        "name": "God's Fire",
+        "type": "Fire",
+        "cost": 50,
+        "power": 300,
+        "target": "All",
+        "hits": "1",
+        "effect": "Heavy Fire attack. Bypasses all Fire resistances but repel. Target: All enemies"
+    },
+    {
+        "name": "Bufu",
+        "type": "Ice",
+        "cost": 5,
+        "power": 80,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Weak Ice attack. Target: 1 enemy"
+    },
+    {
+        "name": "Bufula",
+        "type": "Ice",
+        "cost": 8,
+        "power": 140,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Medium Ice attack. Target: 1 enemy"
+    },
+    {
+        "name": "Bufudyne",
+        "type": "Ice",
+        "cost": 14,
+        "power": 210,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Heavy Ice attack. Target: 1 enemy"
+    },
+    {
+        "name": "Mabufu",
+        "type": "Ice",
+        "cost": 11,
+        "power": 60,
+        "target": "All",
+        "hits": "1",
+        "effect": "Weak Ice attack. Target: All enemies"
+    },
+    {
+        "name": "Mabufula",
+        "type": "Ice",
+        "cost": 20,
+        "power": 120,
+        "target": "All",
+        "hits": "1",
+        "effect": "Medium Ice attack. Target: All enemies"
+    },
+    {
+        "name": "Mabufudyne",
+        "type": "Ice",
+        "cost": 32,
+        "power": 180,
+        "target": "All",
+        "hits": "1",
+        "effect": "Heavy Ice attack. Target: All enemies"
+    },
+    {
+        "name": "Ice Breath",
+        "type": "Ice",
+        "cost": 21,
+        "power": 190,
+        "target": "Multi",
+        "hits": "1-4",
+        "effect": "1-4 weak Ice attacks. Target: Multi-enemies"
+    },
+    {
+        "name": "Glacial Blast",
+        "type": "Ice",
+        "cost": 22,
+        "power": 310,
+        "target": "Multi",
+        "hits": "1-4",
+        "effect": "1-4 medium Ice attacks. Target: Multi-enemies"
+    },
+    {
+        "name": "Cold World",
+        "type": "Ice",
+        "cost": 50,
+        "power": 150,
+        "target": "All",
+        "hits": "1",
+        "effect": "Heavy Ice attack and non-elemental insta-kill with Power = 10. Target: All enemies"
+    },
+    {
+        "name": "Breath",
+        "type": "Ice",
+        "cost": 24,
+        "power": 370,
+        "target": "Multi",
+        "hits": "1-5",
+        "effect": "1-5 medium Ice attacks. Target: Multi-enemies"
+    },
+    {
+        "name": "God's Blizzard",
+        "type": "Ice",
+        "cost": 50,
+        "power": 300,
+        "target": "All",
+        "hits": "1",
+        "effect": "Heavy Ice attack. Bypasses all ice resistances but repel. Target: All enemies"
+    },
+    {
+        "name": "Refrigerate",
+        "type": "Ice",
+        "cost": 26,
+        "power": 360,
+        "target": "Multi",
+        "hits": "1-8",
+        "effect": "1-8 weak Ice attacks. Target: Multi-enemies"
+    },
+    {
+        "name": "Zio",
+        "type": "Elec",
+        "cost": 5,
+        "power": 80,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Weak Elec attack. Target: 1 enemy"
+    },
+    {
+        "name": "Zionga",
+        "type": "Elec",
+        "cost": 8,
+        "power": 140,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Medium Elec attack. Target: 1 enemy"
+    },
+    {
+        "name": "Ziodyne",
+        "type": "Elec",
+        "cost": 14,
+        "power": 210,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Heavy Elec attack. Target: 1 enemy"
+    },
+    {
+        "name": "Mazio",
+        "type": "Elec",
+        "cost": 11,
+        "power": 60,
+        "target": "All",
+        "hits": "1",
+        "effect": "Weak Elec attack. Target: All enemies"
+    },
+    {
+        "name": "Mazionga",
+        "type": "Elec",
+        "cost": 20,
+        "power": 120,
+        "target": "All",
+        "hits": "1",
+        "effect": "Medium Elec attack. Target: All enemies"
+    },
+    {
+        "name": "Maziodyne",
+        "type": "Elec",
+        "cost": 32,
+        "power": 180,
+        "target": "All",
+        "hits": "1",
+        "effect": "Heavy Elec attack. Target: All enemies"
+    },
+    {
+        "name": "Shock",
+        "type": "Elec",
+        "cost": 21,
+        "power": 190,
+        "target": "Multi",
+        "hits": "1-4",
+        "effect": "1-4 weak Elec attacks. Target: Multi-enemies"
+    },
+    {
+        "name": "Thunder Reign",
+        "type": "Elec",
+        "cost": 22,
+        "power": 240,
+        "target": "All",
+        "hits": "1",
+        "effect": "Severe Elec attack. Target: All enemies"
+    },
+    {
+        "name": "Charm Lightning",
+        "type": "Elec",
+        "cost": 45,
+        "power": 150,
+        "target": "All",
+        "hits": "1",
+        "effect": "Heavy Electric attacks. Inflicts Panic. Target: All enemies"
+    },
+    {
+        "name": "God's Lightning",
+        "type": "Elec",
+        "cost": 50,
+        "power": 300,
+        "target": "All",
+        "hits": "1",
+        "effect": "Heavy Elec attack. Bypasses all Elec resistances but repel. Target: All enemies"
+    },
+    {
+        "name": "Plasma Discharge",
+        "type": "Elec",
+        "cost": 22,
+        "power": 250,
+        "target": "Multi",
+        "hits": "1-8",
+        "effect": "1-8 weak Elec attacks. Target: Multi-enemies"
+    },
+    {
+        "name": "Zan",
+        "type": "Force",
+        "cost": 5,
+        "power": 80,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Weak Force attack. Target: 1 enemy"
+    },
+    {
+        "name": "Zanma",
+        "type": "Force",
+        "cost": 8,
+        "power": 140,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Medium Force attack. Target: 1 enemy"
+    },
+    {
+        "name": "Zandyne",
+        "type": "Force",
+        "cost": 14,
+        "power": 210,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Heavy Force attack. Target: 1 enemy"
+    },
+    {
+        "name": "Mazan",
+        "type": "Force",
+        "cost": 11,
+        "power": 60,
+        "target": "All",
+        "hits": "1",
+        "effect": "Weak Force attack. Target: All enemies"
+    },
+    {
+        "name": "Mazanma",
+        "type": "Force",
+        "cost": 20,
+        "power": 120,
+        "target": "All",
+        "hits": "1",
+        "effect": "Medium Force attack. Target: All enemies"
+    },
+    {
+        "name": "Mazandyne",
+        "type": "Force",
+        "cost": 32,
+        "power": 180,
+        "target": "All",
+        "hits": "1",
+        "effect": "Heavy Elec attack. Target: All enemies"
+    },
+    {
+        "name": "Wind Breath",
+        "type": "Force",
+        "cost": 21,
+        "power": 190,
+        "target": "Multi",
+        "hits": "1-4",
+        "effect": "1-4 weak Force attacks. Target: Multi-enemies"
+    },
+    {
+        "name": "Deadly Wind",
+        "type": "Force",
+        "cost": 22,
+        "power": 300,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Severe Force attack. Target: 1 enemy"
+    },
+    {
+        "name": "Floral Gust",
+        "type": "Force",
+        "cost": 35,
+        "power": 310,
+        "target": "Multi",
+        "hits": "1-4",
+        "effect": "Medium Force attack. Target: Multi-enemies"
+    },
+    {
+        "name": "God's Tornado",
+        "type": "Force",
+        "cost": 50,
+        "power": 300,
+        "target": "All",
+        "hits": "1",
+        "effect": "Heavy Force attack. Bypasses all Force resistances but repel. Target: All enemies"
+    },
+    {
+        "name": "Megido",
+        "type": "Almighty",
+        "cost": 25,
+        "power": 160,
+        "target": "All",
+        "hits": "1",
+        "effect": "Weak Almighty attack. Target: All enemies"
+    },
+    {
+        "name": "Megidola",
+        "type": "Almighty",
+        "cost": 40,
+        "power": 240,
+        "target": "All",
+        "hits": "1",
+        "effect": "Medium Almighty attack. Target: All enemies"
+    },
+    {
+        "name": "Megidolaon",
+        "type": "Almighty",
+        "cost": 60,
+        "power": 320,
+        "target": "All",
+        "hits": "1",
+        "effect": "Heavy Almighty attack. Target: All enemies"
+    },
+    {
+        "name": "Great Logos",
+        "type": "Almighty",
+        "cost": 70,
+        "power": 380,
+        "target": "All",
+        "hits": "1",
+        "effect": "Severe Almighty attack. Target: All enemies"
+    },
+    {
+        "name": "Antichthon",
+        "type": "Almighty",
+        "cost": 80,
+        "power": 400,
+        "target": "All",
+        "hits": "1",
+        "effect": "Severe Almighty attack. Target: All enemies. Effect: Debilitate"
+    },
+    {
+        "name": "Cup of Babylon",
+        "type": "Almighty",
+        "cost": 65,
+        "power": 240,
+        "target": "All",
+        "hits": "1",
+        "effect": "Medium Almighty skill. Inflicts Panic. Target: All enemies"
+    },
+    {
+        "name": "Holy Wrath",
+        "type": "Almighty",
+        "cost": 45,
+        "power": 160,
+        "target": "All",
+        "hits": "1",
+        "effect": "Almighty attack. Target: All enemies."
+    },
+    {
+        "name": "Judgement",
+        "type": "Almighty",
+        "cost": 45,
+        "power": 160,
+        "target": "All",
+        "hits": "1",
+        "effect": "Almighty attack. Target: All enemies."
+    },
+    {
+        "name": "Sea of Chaos",
+        "type": "Almighty",
+        "cost": 45,
+        "power": 160,
+        "target": "All",
+        "hits": "1",
+        "effect": "Almighty attack. Target: All enemies."
+    },
+    {
+        "name": "Death's Door",
+        "type": "Almighty",
+        "cost": 10,
+        "power": 1,
+        "target": "All",
+        "hits": "1",
+        "effect": "Weak Almighty attack that reduces HP to 1 if target is sick. Target: All enemies"
+    },
+    {
+        "name": "Megidoplasma",
+        "type": "Almighty",
+        "cost": 41,
+        "power": 270,
+        "target": "All",
+        "hits": "1",
+        "effect": "Heavy Almighty attack. Target: All enemies"
+    },
+    {
+        "name": "Damnation",
+        "type": "Almighty",
+        "cost": 65,
+        "power": 350,
+        "target": "All",
+        "hits": "1",
+        "effect": "Heavy Almighty attack. Inflicts Poison. Target: All enemies"
+    },
+    {
+        "name": "Shining Seal",
+        "type": "Almighty",
+        "cost": 75,
+        "power": 390,
+        "target": "All",
+        "hits": "1",
+        "effect": "Heavy Almighty attack. Target: All enemies"
+    },
+    {
+        "name": "Hama",
+        "type": "Light",
+        "cost": 6,
+        "power": 30,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Light instant kill. Target: 1 enemy"
+    },
+    {
+        "name": "Hamaon",
+        "type": "Light",
+        "cost": 10,
+        "power": 55,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Light instant kill. Target: 1 enemy; High success"
+    },
+    {
+        "name": "Mahama",
+        "type": "Light",
+        "cost": 18,
+        "power": 30,
+        "target": "All",
+        "hits": "1",
+        "effect": "Light instant kill. Target: All enemies"
+    },
+    {
+        "name": "Mahamaon",
+        "type": "Light",
+        "cost": 30,
+        "power": 55,
+        "target": "All",
+        "hits": "1",
+        "effect": "Light instant kill. Target: All enemies; High success"
+    },
+    {
+        "name": "Judgement Light",
+        "type": "Light",
+        "cost": 45,
+        "power": 80,
+        "target": "All",
+        "hits": "1",
+        "effect": "Light instant kill. Target: All enemies; Very high success"
+    },
+    {
+        "name": "Mudo",
+        "type": "Dark",
+        "cost": 6,
+        "power": 30,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Dark instant kill. Target: 1 enemy"
+    },
+    {
+        "name": "Mudoon",
+        "type": "Dark",
+        "cost": 10,
+        "power": 55,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Dark instant kill. Target: 1 enemy; High success"
+    },
+    {
+        "name": "Mamudo",
+        "type": "Dark",
+        "cost": 18,
+        "power": 30,
+        "target": "All",
+        "hits": "1",
+        "effect": "Dark instant kill. Target: All enemies"
+    },
+    {
+        "name": "Mamudoon",
+        "type": "Dark",
+        "cost": 30,
+        "power": 55,
+        "target": "All",
+        "hits": "1",
+        "effect": "Dark instant kill. Target: All enemies; High success"
+    },
+    {
+        "name": "Die for Me!",
+        "type": "Dark",
+        "cost": 45,
+        "power": 80,
+        "target": "All",
+        "hits": "1",
+        "effect": "Dark instant kill. Target: All enemies; Very high success"
+    },
+    {
+        "name": "Dia",
+        "type": "Heal",
+        "cost": 5,
+        "power": 25,
+        "target": "Ally",
+        "hits": "1",
+        "effect": "Heals HP. Target: 1 ally"
+    },
+    {
+        "name": "Diarama",
+        "type": "Heal",
+        "cost": 9,
+        "power": 50,
+        "target": "Ally",
+        "hits": "1",
+        "effect": "Greatly heals HP. Target: 1 ally"
+    },
+    {
+        "name": "Diarahan",
+        "type": "Heal",
+        "cost": 16,
+        "power": 100,
+        "target": "Ally",
+        "hits": "1",
+        "effect": "Fully heals HP. Target: 1 ally"
+    },
+    {
+        "name": "Media",
+        "type": "Heal",
+        "cost": 12,
+        "power": 25,
+        "target": "Party",
+        "hits": "1",
+        "effect": "Heals HP. Target: All allies"
+    },
+    {
+        "name": "Mediarama",
+        "type": "Heal",
+        "cost": 22,
+        "power": 50,
+        "target": "Party",
+        "hits": "1",
+        "effect": "Greatly heals HP. Target: All allies"
+    },
+    {
+        "name": "Mediarahan",
+        "type": "Heal",
+        "cost": 40,
+        "power": 100,
+        "target": "Party",
+        "hits": "1",
+        "effect": "Fully heals HP. Target: All allies"
+    },
+    {
+        "name": "Salvation",
+        "type": "Heal",
+        "cost": 50,
+        "power": 100,
+        "target": "Party",
+        "hits": "1",
+        "effect": "Fully heals HP and removes ailments. Target: All allies"
+    },
+    {
+        "name": "Patra",
+        "type": "Heal",
+        "cost": 5,
+        "power": 3,
+        "target": "Ally",
+        "hits": "1",
+        "effect": "Removes Sleep/Panic/Bind ailments. Target: 1 ally"
+    },
+    {
+        "name": "Me Patra",
+        "type": "Heal",
+        "cost": 15,
+        "power": 6,
+        "target": "Party",
+        "hits": "1",
+        "effect": "Removes Sleep/Panic/Bind ailments. Target: All allies"
+    },
+    {
+        "name": "Posumudi",
+        "type": "Heal",
+        "cost": 5,
+        "power": 2,
+        "target": "Ally",
+        "hits": "1",
+        "effect": "Removes Poison/Sick ailments. Target: 1 ally"
+    },
+    {
+        "name": "Amrita",
+        "type": "Heal",
+        "cost": 20,
+        "power": 9,
+        "target": "Ally",
+        "hits": "1",
+        "effect": "Removes all ailments. Target: 1 ally"
+    },
+    {
+        "name": "Recarm",
+        "type": "Heal",
+        "cost": 20,
+        "power": 50,
+        "target": "Ally",
+        "hits": "1",
+        "effect": "Revive from KO with half HP. Target: 1 ally"
+    },
+    {
+        "name": "Samarecarm",
+        "type": "Heal",
+        "cost": 40,
+        "power": 100,
+        "target": "Ally",
+        "hits": "1",
+        "effect": "Revive from KO with full HP. Target: 1 ally"
+    },
+    {
+        "name": "Recarmdra",
+        "type": "Heal",
+        "cost": 2,
+        "power": 50,
+        "target": "Party",
+        "hits": "1",
+        "effect": "Revives and heals allies in exchange for all HP. Target: All allies"
+    },
+    {
+        "name": "Invitation",
+        "type": "Heal",
+        "cost": 45,
+        "power": 100,
+        "target": "Ally",
+        "hits": "1",
+        "effect": "Summons another ally and revives the monster if dead. If the user is a monster, summons like a Samuari. Target: 1 ally"
+    },
+    {
+        "name": "Life Drain",
+        "type": "Almighty",
+        "cost": 5,
+        "power": 30,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Almighty attack that drains the enemy's HP. Target: 1 enemy"
+    },
+    {
+        "name": "Spirit Drain",
+        "type": "Almighty",
+        "cost": 5,
+        "power": 30,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Almighty attack that drains the enemy's MP. Does not do damage. Target: 1 enemy"
+    },
+    {
+        "name": "Energy Drain",
+        "type": "Almighty",
+        "cost": 10,
+        "power": 30,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Almighty attack that drains the enemy's HP/MP. Target: 1 enemy"
+    },
+    {
+        "name": "Serpent of Sheol",
+        "type": "Almighty",
+        "cost": 45,
+        "power": 675,
+        "target": "All",
+        "hits": "1",
+        "effect": "Almighty attack that drains the enemy's HP/MP. Target: All enemies"
+    },
+    {
+        "name": "Sabbatma",
+        "type": "Special",
+        "cost": 20,
+        "power": 0,
+        "target": "Ally",
+        "hits": "1",
+        "effect": "Summons another ally monster. If the user is a monster, summons like a Samuari.. Target: 1 ally"
+    },
+    {
+        "name": "Bad Company",
+        "type": "Special",
+        "cost": 15,
+        "power": 0,
+        "target": "Party",
+        "hits": "1",
+        "effect": "Summons your highest Str monsters from the stock. Target: All allies"
+    },
+    {
+        "name": "Dormina",
+        "type": "Ailment",
+        "cost": 4,
+        "power": 0,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Inflicts the Sleep ailment. Target: 1 enemy"
+    },
+    {
+        "name": "Lullaby",
+        "type": "Ailment",
+        "cost": 11,
+        "power": 0,
+        "target": "All",
+        "hits": "1",
+        "effect": "Inflicts the Sleep ailment. Target: All enemies"
+    },
+    {
+        "name": "Poisma",
+        "type": "Ailment",
+        "cost": 4,
+        "power": 0,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Inflicts the Poison ailment. Target: 1 enemy"
+    },
+    {
+        "name": "Poison Breath",
+        "type": "Ailment",
+        "cost": 11,
+        "power": 0,
+        "target": "All",
+        "hits": "1",
+        "effect": "Inflicts the Poison ailment. Target: All enemies"
+    },
+    {
+        "name": "Shibaboo",
+        "type": "Ailment",
+        "cost": 5,
+        "power": 0,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Inflicts the Bind ailment. Target: 1 enemy"
+    },
+    {
+        "name": "Bind Voice",
+        "type": "Ailment",
+        "cost": 15,
+        "power": 0,
+        "target": "All",
+        "hits": "1",
+        "effect": "Inflicts the Bind ailment. Target: All enemies"
+    },
+    {
+        "name": "Pulinpa",
+        "type": "Ailment",
+        "cost": 5,
+        "power": 0,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Inflicts the Panic ailment. Target: 1 enemy"
+    },
+    {
+        "name": "Panic Voice",
+        "type": "Ailment",
+        "cost": 15,
+        "power": 0,
+        "target": "All",
+        "hits": "1",
+        "effect": "Inflicts the Panic ailment. Target: All enemies"
+    },
+    {
+        "name": "Coughing Fit",
+        "type": "Ailment",
+        "cost": -1,
+        "power": 0,
+        "target": "Single",
+        "hits": "1",
+        "effect": "Inflicts the Sick ailment. Target: 1 enemy"
+    },
+    {
+        "name": "Pandemic Bomb",
+        "type": "Ailment",
+        "cost": 11,
+        "power": 0,
+        "target": "All",
+        "hits": "1",
+        "effect": "Inflicts the Sick ailment. Target: All enemies"
+    },
+    {
+        "name": "Shivering Taboo",
+        "type": "Ailment",
+        "cost": 40,
+        "power": 0,
+        "target": "All",
+        "hits": "1",
+        "effect": "With X = (Tagret's HP) mod 5, if X = 0 inflicts Bind, if X = 1 inflicts Panic, if X = 2 inflicts Poison, if X = 3 inflicts Sick and if X = 4 inflicts Sleep. Target: All enemies"
+    },
+    {
+        "name": "Announcement of Suffering",
+        "type": "Ailment",
+        "cost": 45,
+        "power": 0,
+        "target": "All",
+        "hits": "1",
+        "effect": "With X = (Tagret's HP) mod 5, if X = 0 inflicts Bind, if X = 1 inflicts Panic, if X = 2 inflicts Poison, if X = 3 inflicts Sick and if X = 4 inflicts Sleep. Target: All enemies"
+    },
+    {
+        "name": "Tarukaja",
+        "type": "Support",
+        "cost": 15,
+        "power": 0,
+        "target": "Party",
+        "hits": "1",
+        "effect": "Increases attack. Target: All allies"
+    },
+    {
+        "name": "Rakukaja",
+        "type": "Support",
+        "cost": 15,
+        "power": 0,
+        "target": "Party",
+        "hits": "1",
+        "effect": "Increases defense. Target: All allies"
+    },
+    {
+        "name": "Luster Candy",
+        "type": "Support",
+        "cost": 50,
+        "power": 0,
+        "target": "Party",
+        "hits": "1",
+        "effect": "Increases attack/defense. Target: All allies"
+    },
+    {
+        "name": "Panic Caster",
+        "type": "Support",
+        "cost": 10,
+        "power": 0,
+        "target": "Self",
+        "hits": "1",
+        "effect": "Power of next magic attack more than doubles. Target: Self; Inflicts Panic"
+    },
+    {
+        "name": "Charge",
+        "type": "Support",
+        "cost": 9,
+        "power": 0,
+        "target": "Self",
+        "hits": "1",
+        "effect": "Power of next Phys/Gun attack more than doubles. Target: Self"
+    },
+    {
+        "name": "Concentrate",
+        "type": "Support",
+        "cost": 11,
+        "power": 0,
+        "target": "Self",
+        "hits": "1",
+        "effect": "Power of next magic attack more than doubles. Target: Self"
+    },
+    {
+        "name": "Blood Ritual",
+        "type": "Support",
+        "cost": 25,
+        "power": 0,
+        "target": "Self",
+        "hits": "1",
+        "effect": "Increases attack/defense rate and reduces HP to 1. Target: Self"
+    },
+    {
+        "name": "Doping",
+        "type": "Support",
+        "cost": 45,
+        "power": 0,
+        "target": "Party",
+        "hits": "1",
+        "effect": "Increases maximum HP during battle. Target: All allies"
+    },
+    {
+        "name": "Tarunda",
+        "type": "Support",
+        "cost": 15,
+        "power": 0,
+        "target": "All",
+        "hits": "1",
+        "effect": "Decreases attack. Target: All enemies"
+    },
+    {
+        "name": "Rakunda",
+        "type": "Support",
+        "cost": 15,
+        "power": 0,
+        "target": "All",
+        "hits": "1",
+        "effect": "Decreases defense. Target: All enemies"
+    },
+    {
+        "name": "Debilitate",
+        "type": "Support",
+        "cost": 50,
+        "power": 0,
+        "target": "All",
+        "hits": "1",
+        "effect": "Decreases attack/defense. Target: All enemies"
+    },
+    {
+        "name": "War Cry",
+        "type": "Support",
+        "cost": 45,
+        "power": 0,
+        "target": "All",
+        "hits": "1",
+        "effect": "Decreases attack/defense. Target: All enemies"
+    },
+    {
+        "name": "Fog Breath",
+        "type": "Support",
+        "cost": 45,
+        "power": 0,
+        "target": "All",
+        "hits": "1",
+        "effect": "Decreases attack. Target: All enemies"
+    },
+    {
+        "name": "Acid Breath",
+        "type": "Support",
+        "cost": 45,
+        "power": 0,
+        "target": "All",
+        "hits": "1",
+        "effect": "Decreases defense. Target: All enemies"
+    },
+    {
+        "name": "Taunt",
+        "type": "Support",
+        "cost": 20,
+        "power": 0,
+        "target": "All",
+        "hits": "1",
+        "effect": "Increases attack, decreases defense. Target: All enemies"
+    },
+    {
+        "name": "Dekaja",
+        "type": "Support",
+        "cost": 10,
+        "power": 0,
+        "target": "All",
+        "hits": "1",
+        "effect": "Removes status buffs. Target: All enemies"
+    },
+    {
+        "name": "Dekunda",
+        "type": "Support",
+        "cost": 10,
+        "power": 0,
+        "target": "Party",
+        "hits": "1",
+        "effect": "Removes status debuffs. Target: All allies"
+    },
+    {
+        "name": "Silent Prayer",
+        "type": "Support",
+        "cost": 15,
+        "power": 0,
+        "target": "Universal",
+        "hits": "1",
+        "effect": "Removes status buffs and debuffs. Target: Everyone"
+    },
+    {
+        "name": "Tetrakarn",
+        "type": "Support",
+        "cost": 50,
+        "power": 0,
+        "target": "Party",
+        "hits": "1",
+        "effect": "Repels Phys and Gun attacks for 1 turn. Target: All allies"
+    },
+    {
+        "name": "Makarakarn",
+        "type": "Support",
+        "cost": 50,
+        "power": 0,
+        "target": "Party",
+        "hits": "1",
+        "effect": "Repels magic attacks (besides ailments) for 1 turn. Target: All allies"
+    },
+    {
+        "name": "Tetraja",
+        "type": "Support",
+        "cost": 15,
+        "power": 0,
+        "target": "Party",
+        "hits": "1",
+        "effect": "Prevents 1 Light/Dark instant kill. Target: All allies"
+    },
+    {
+        "name": "Trafuri",
+        "type": "Special",
+        "cost": 5,
+        "power": 0,
+        "target": "Party",
+        "hits": "1",
+        "effect": "Player Gives Up. Target: All allies"
+    },
+    {
+        "name": "Tetrakowas", 
+        "type": "Support",
+        "cost": 35,
+        "power": 0,
+        "target": "All",
+        "hits": "1",
+        "effect": "Cancels Tetrakarn effect"
+    },
+    {
+        "name": "Makarakowas",
+        "type": "Support",
+        "cost": 35,
+        "power": 0,
+        "target": "All",
+        "hits": "1",
+        "effect": "Cancels Makarakarn effect"
+    },
+    {
+        "name": "Gather Spirit Energy",
+        "type": "Support",
+        "cost": 25,
+        "power": 0,
+        "target": "Self",
+        "hits": "1",
+        "effect": "Power of next magic attack more than doubles"
+    },
+    {
+        "name": "Dark Energy",
+        "type": "Support",
+        "cost": 25,
+        "power": 0,
+        "target": "Self",
+        "hits": "1",
+        "effect": "Power of next physical or gun attack more than doubles"
+    },
+    {
+        "name": "Defender's Gaze",
+        "type": "Special",
+        "cost": 255,
+        "power": 0,
+        "target": "Party",
+        "hits": "1",
+        "effect": "Grants 3 half turn icons"
+    },
+    {
+        "name": "Resist Phys",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Increases resistance to Phys attacks. Target: Self"
+    },
+    {
+        "name": "Null Phys",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Nulls Phys attacks. Target: Self"
+    },
+    {
+        "name": "Repel Phys",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Repels Phys attacks. Target: Self"
+    },
+    {
+        "name": "Drain Phys",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Drains Phys attacks. Target: Self"
+    },
+    {
+        "name": "Resist Gun",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Increases resistance to Gun attacks. Target: Self"
+    },
+    {
+        "name": "Null Gun",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Null Gun attacks. Target: Self"
+    },
+    {
+        "name": "Repel Gun",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Repels Gun attacks. Target: Self"
+    },
+    {
+        "name": "Drain Gun",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Drains Gun attacks. Target: Self"
+    },
+    {
+        "name": "Resist Fire",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Increases resistance to Fire attacks. Target: Self"
+    },
+    {
+        "name": "Null Fire",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Nulls Fire attacks. Target: Self"
+    },
+    {
+        "name": "Repel Fire",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Repels Fire attacks. Target: Self"
+    },
+    {
+        "name": "Drain Fire",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Drains Fire attacks. Target: Self"
+    },
+    {
+        "name": "Resist Ice",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Increases resistance to Ice attacks. Target: Self"
+    },
+    {
+        "name": "Null Ice",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Nulls Ice attacks. Target: Self"
+    },
+    {
+        "name": "Repel Ice",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Repels Ice attacks. Target: Self"
+    },
+    {
+        "name": "Drain Ice",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Drains Ice attacks. Target: Self"
+    },
+    {
+        "name": "Resist Elec",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Increases resistance to Elec attacks. Target: Self"
+    },
+    {
+        "name": "Null Elec",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Nulls Elec attacks. Target: Self"
+    },
+    {
+        "name": "Repel Electric",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Repels Elec attacks. Target: Self"
+    },
+    {
+        "name": "Drain Electric",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Drains Elec attacks. Target: Self"
+    },
+    {
+        "name": "Resist Force",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Increases resistance to Force attacks. Target: Self"
+    },
+    {
+        "name": "Null Force",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Nulls Force attacks. Target: Self"
+    },
+    {
+        "name": "Repel Force",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Repels Force attacks. Target: Self"
+    },
+    {
+        "name": "Drain Force",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Drains Force attacks. Target: Self"
+    },
+    {
+        "name": "Resist Light",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Increases resistance to Light attacks. Target: Self"
+    },
+    {
+        "name": "Null Light",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Nulls Light attacks. Target: Self"
+    },
+    {
+        "name": "Resist Dark",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Increases resistance to Dark attacks. Target: Self"
+    },
+    {
+        "name": "Null Dark",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Nulls Dark attacks. Target: Self"
+    },
+    {
+        "name": "Null Mind",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Null Sleep/Panic. Target: Self"
+    },
+    {
+        "name": "Null Nerve",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Null Poison/Bind/Sick. Target: Self"
+    },
+    {
+        "name": "Hellish Mask",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Null ailments"
+    },
+    {
+        "name": "Phys Pleroma",
+        "type": "Passive",
+        "cost": 0,
+        "power": 25,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Strengthens Phys attacks (+25%). Target: Self"
+    },
+    {
+        "name": "High Phys Pleroma",
+        "type": "Passive",
+        "cost": 0,
+        "power": 50,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Greatly strengthens Phys attacks (+50%). Target: Self"
+    },
+    {
+        "name": "Gun Pleroma",
+        "type": "Passive",
+        "cost": 0,
+        "power": 25,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Strengthens Gun attacks (+25%). Target: Self"
+    },
+    {
+        "name": "High Gun Pleroma",
+        "type": "Passive",
+        "cost": 0,
+        "power": 50,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Greatly strengthens Gun attacks (+50%). Target: Self"
+    },
+    {
+        "name": "Fire Pleroma",
+        "type": "Passive",
+        "cost": 0,
+        "power": 25,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Strengthens Fire attacks (+25%). Target: Self"
+    },
+    {
+        "name": "High Fire Pleroma",
+        "type": "Passive",
+        "cost": 0,
+        "power": 50,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Greatly strengthens Fire attacks (+50%). Target: Self"
+    },
+    {
+        "name": "Ice Pleroma",
+        "type": "Passive",
+        "cost": 0,
+        "power": 25,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Strengthens Ice attacks (+25%). Target: Self"
+    },
+    {
+        "name": "High Ice Pleroma",
+        "type": "Passive",
+        "cost": 0,
+        "power": 50,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Greatly strengthens Ice attacks (+50%). Target: Self"
+    },
+    {
+        "name": "Elec Pleroma",
+        "type": "Passive",
+        "cost": 0,
+        "power": 25,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Strengthens Elec attacks (+25%). Target: Self"
+    },
+    {
+        "name": "High Elec Pleroma",
+        "type": "Passive",
+        "cost": 0,
+        "power": 50,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Greatly strengthens Elec attacks (+50%). Target: Self"
+    },
+    {
+        "name": "Force Pleroma",
+        "type": "Passive",
+        "cost": 0,
+        "power": 25,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Strengthens Force attacks (+25%). Target: Self"
+    },
+    {
+        "name": "High Force Pleroma",
+        "type": "Passive",
+        "cost": 0,
+        "power": 50,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Greatly strengthens Force attacks (+50%). Target: Self"
+    },
+    {
+        "name": "Heal Pleroma",
+        "type": "Passive",
+        "cost": 0,
+        "power": 25,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Strengthens healing magic (+25%). Target: Self"
+    },
+    {
+        "name": "High Heal Pleroma",
+        "type": "Passive",
+        "cost": 0,
+        "power": 50,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Greatly strengthens healing magic (+50%). Target: Self"
+    },
+    {
+        "name": "Life Bonus",
+        "type": "Passive",
+        "cost": 0,
+        "power": 10,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Slightly increases maximum HP (+10%). Target: Self"
+    },
+    {
+        "name": "Life Gain",
+        "type": "Passive",
+        "cost": 0,
+        "power": 20,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Increases maximum HP (+20%). Target: Self"
+    },
+    {
+        "name": "Life Surge",
+        "type": "Passive",
+        "cost": 0,
+        "power": 30,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Greatly increases maximum HP (+30%). Target: Self"
+    },
+    {
+        "name": "Mana Bonus",
+        "type": "Passive",
+        "cost": 0,
+        "power": 10,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Slightly increases maximum MP (+10%). Target: Self"
+    },
+    {
+        "name": "Mana Gain",
+        "type": "Passive",
+        "cost": 0,
+        "power": 20,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Increases maximum MP (+20%). Target: Self"
+    },
+    {
+        "name": "Mana Surge",
+        "type": "Passive",
+        "cost": 0,
+        "power": 30,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Greatly increases maximum MP (+30%). Target: Self"
+    },
+    {
+        "name": "Speed Lesson",
+        "type": "Passive",
+        "cost": 0,
+        "power": 10,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Increases Spd by 10"
+    },
+    {
+        "name": "Haste Lesson",
+        "type": "Passive",
+        "cost": 0,
+        "power": 20,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Increases Spd by 20"
+    },
+    {
+        "name": "Awakening",
+        "type": "Passive",
+        "cost": 0,
+        "power": 5,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Increases all stats by 5"
+    },
+    {
+        "name": "Counter",
+        "type": "Passive",
+        "cost": 0,
+        "power": 25,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Chance of countering a Phys or Gun attack"
+    },
+    {
+        "name": "Retaliate",
+        "type": "Passive",
+        "cost": 0,
+        "power": 50,
+        "target": "Self",
+        "hits": "-",
+        "effect": "High chance of countering a Phys or Gun attack"
+    },
+    {
+        "name": "Ally Counter",
+        "type": "Passive",
+        "cost": 0,
+        "power": 20,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Chance of countering a Phys or Gun attack to an ally"
+    },
+    {
+        "name": "Ally Retaliate",
+        "type": "Passive",
+        "cost": 0,
+        "power": 45,
+        "target": "Self",
+        "hits": "-",
+        "effect": "High chance of countering a Phys or Gun attack to an ally"
+    },
+    {
+        "name": "Fire Penetrate",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Fire attack can pierce through drain, null and resist"
+    },
+    {
+        "name": "Ice Penetrate",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Ice attack can pierce through drain, null and resist"
+    },
+    {
+        "name": "Elec Penetrate",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Elec attack can pierce through drain, null and resist"
+    },
+    {
+        "name": "Force Penetrate",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Force attack can pierce through drain, null and resist"
+    },
+    {
+        "name": "Endure",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Revive from KO once per battle with 1 HP"
+    },
+    {
+        "name": "Enduring Soul",
+        "type": "Passive",
+        "cost": 0,
+        "power": 0,
+        "target": "Self",
+        "hits": "-",
+        "effect": "Revive from KO once per battle with full HP"
+    }
+]

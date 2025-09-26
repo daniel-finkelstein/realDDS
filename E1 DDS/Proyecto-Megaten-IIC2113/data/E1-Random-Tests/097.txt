@@ -1,0 +1,3402 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 96
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Itsumade HP:231/231 MP:103/103
+C-Ishtar HP:258/258 MP:251/251
+D-Zhen HP:388/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Black Rider HP:686/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Ishtar
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:453/453 MP:389/389
+2-Black Rider HP:686/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Nahobino
+Nahobino recibe 39 de daño
+Nahobino termina con HP:414/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Itsumade HP:231/231 MP:103/103
+C-Ishtar HP:258/258 MP:251/251
+D-Zhen HP:388/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:414/453 MP:389/389
+B-Black Rider HP:686/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Ishtar
+3-Itsumade
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:414/453 MP:389/389
+2-Black Rider HP:686/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:414/453 MP:389/389
+2-Black Rider HP:686/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:414/453 MP:389/389
+2-Black Rider HP:686/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Zhen ataca a Nahobino
+Nahobino recibe 22 de daño
+Nahobino termina con HP:392/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Itsumade HP:231/231 MP:103/103
+C-Ishtar HP:258/258 MP:251/251
+D-Zhen HP:388/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:392/453 MP:389/389
+B-Black Rider HP:686/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Itsumade
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nahobino HP:392/453 MP:389/389
+2-Black Rider HP:686/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Nahobino
+Nahobino recibe 27 de daño
+Nahobino termina con HP:365/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Itsumade HP:231/231 MP:103/103
+C-Ishtar HP:258/258 MP:251/251
+D-Zhen HP:388/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:365/453 MP:389/389
+B-Black Rider HP:686/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Joker
+3-Zhen
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Nahobino HP:365/453 MP:389/389
+2-Black Rider HP:686/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsumade ataca a Black Rider
+Black Rider recibe 17 de daño
+Black Rider termina con HP:669/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Itsumade HP:231/231 MP:103/103
+C-Ishtar HP:258/258 MP:251/251
+D-Zhen HP:388/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:365/453 MP:389/389
+B-Black Rider HP:669/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Joker HP:597/597 MP:347/347
+2-Itsumade HP:231/231 MP:103/103
+3-Ishtar HP:258/258 MP:251/251
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Black Rider ataca a Itsumade
+Itsumade recibe 57 de daño
+Itsumade termina con HP:174/231
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:258/258 MP:251/251
+D-Zhen HP:388/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:365/453 MP:389/389
+B-Black Rider HP:669/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Black Rider
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:597/597 MP:347/347
+2-Itsumade HP:174/231 MP:103/103
+3-Ishtar HP:258/258 MP:251/251
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nahobino ataca a Zhen
+Zhen recibe 29 de daño
+Zhen termina con HP:359/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:258/258 MP:251/251
+D-Zhen HP:359/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:365/453 MP:389/389
+B-Black Rider HP:669/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Ishtar
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:365/453 MP:389/389
+2-Black Rider HP:669/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nahobino
+Nahobino recibe 28 de daño
+Nahobino termina con HP:337/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:258/258 MP:251/251
+D-Zhen HP:359/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:337/453 MP:389/389
+B-Black Rider HP:669/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Ishtar
+3-Itsumade
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:337/453 MP:389/389
+2-Black Rider HP:669/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Zhen ataca a Nahobino
+Nahobino recibe 22 de daño
+Nahobino termina con HP:315/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:258/258 MP:251/251
+D-Zhen HP:359/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:315/453 MP:389/389
+B-Black Rider HP:669/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Itsumade
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nahobino HP:315/453 MP:389/389
+2-Black Rider HP:669/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Ishtar ataca a Black Rider
+Black Rider recibe 27 de daño
+Black Rider termina con HP:642/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:258/258 MP:251/251
+D-Zhen HP:359/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:315/453 MP:389/389
+B-Black Rider HP:642/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Joker
+3-Zhen
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Nahobino HP:315/453 MP:389/389
+2-Black Rider HP:642/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsumade ataca a Nahobino
+Nahobino recibe 17 de daño
+Nahobino termina con HP:298/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:258/258 MP:251/251
+D-Zhen HP:359/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:298/453 MP:389/389
+B-Black Rider HP:642/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Joker HP:597/597 MP:347/347
+2-Itsumade HP:174/231 MP:103/103
+3-Ishtar HP:258/258 MP:251/251
+4-Zhen HP:359/388 MP:76/76
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Black Rider ataca a Ishtar
+Ishtar recibe 57 de daño
+Ishtar termina con HP:201/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:359/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:298/453 MP:389/389
+B-Black Rider HP:642/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Black Rider
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:597/597 MP:347/347
+2-Itsumade HP:174/231 MP:103/103
+3-Ishtar HP:201/258 MP:251/251
+4-Zhen HP:359/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Joker
+Joker recibe 83 de daño
+Joker termina con HP:514/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:359/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:298/453 MP:389/389
+B-Black Rider HP:642/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Ishtar
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:298/453 MP:389/389
+2-Black Rider HP:642/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nahobino
+Nahobino recibe 28 de daño
+Nahobino termina con HP:270/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:359/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:270/453 MP:389/389
+B-Black Rider HP:642/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Ishtar
+3-Itsumade
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:270/453 MP:389/389
+2-Black Rider HP:642/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:270/453 MP:389/389
+2-Black Rider HP:642/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:270/453 MP:389/389
+2-Black Rider HP:642/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:270/453 MP:389/389
+2-Black Rider HP:642/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Zhen ataca a Black Rider
+Black Rider recibe 22 de daño
+Black Rider termina con HP:620/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:359/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:270/453 MP:389/389
+B-Black Rider HP:620/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Itsumade
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nahobino HP:270/453 MP:389/389
+2-Black Rider HP:620/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Nahobino
+Nahobino recibe 27 de daño
+Nahobino termina con HP:243/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:359/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:243/453 MP:389/389
+B-Black Rider HP:620/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Joker
+3-Zhen
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Nahobino HP:243/453 MP:389/389
+2-Black Rider HP:620/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Nahobino HP:243/453 MP:389/389
+2-Black Rider HP:620/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsumade ataca a Nahobino
+Nahobino recibe 17 de daño
+Nahobino termina con HP:226/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:359/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:226/453 MP:389/389
+B-Black Rider HP:620/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Joker HP:514/597 MP:347/347
+2-Itsumade HP:174/231 MP:103/103
+3-Ishtar HP:201/258 MP:251/251
+4-Zhen HP:359/388 MP:76/76
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Black Rider ataca a Zhen
+Zhen recibe 57 de daño
+Zhen termina con HP:302/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:514/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:302/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:226/453 MP:389/389
+B-Black Rider HP:620/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Black Rider
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:514/597 MP:347/347
+2-Itsumade HP:174/231 MP:103/103
+3-Ishtar HP:201/258 MP:251/251
+4-Zhen HP:302/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Joker
+Joker recibe 83 de daño
+Joker termina con HP:431/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:431/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:302/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:226/453 MP:389/389
+B-Black Rider HP:620/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Ishtar
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:226/453 MP:389/389
+2-Black Rider HP:620/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:226/453 MP:389/389
+2-Black Rider HP:620/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:226/453 MP:389/389
+2-Black Rider HP:620/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:226/453 MP:389/389
+2-Black Rider HP:620/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:226/453 MP:389/389
+2-Black Rider HP:620/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nahobino
+Nahobino recibe 28 de daño
+Nahobino termina con HP:198/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:431/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:302/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:198/453 MP:389/389
+B-Black Rider HP:620/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Ishtar
+3-Itsumade
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:198/453 MP:389/389
+2-Black Rider HP:620/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:198/453 MP:389/389
+2-Black Rider HP:620/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Zhen ataca a Black Rider
+Black Rider recibe 22 de daño
+Black Rider termina con HP:598/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:431/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:302/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:198/453 MP:389/389
+B-Black Rider HP:598/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Itsumade
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nahobino HP:198/453 MP:389/389
+2-Black Rider HP:598/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nahobino HP:198/453 MP:389/389
+2-Black Rider HP:598/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nahobino HP:198/453 MP:389/389
+2-Black Rider HP:598/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Nahobino
+Nahobino recibe 27 de daño
+Nahobino termina con HP:171/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:431/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:302/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:171/453 MP:389/389
+B-Black Rider HP:598/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Joker
+3-Zhen
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Nahobino HP:171/453 MP:389/389
+2-Black Rider HP:598/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsumade ataca a Nahobino
+Nahobino recibe 17 de daño
+Nahobino termina con HP:154/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:431/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:302/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:154/453 MP:389/389
+B-Black Rider HP:598/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Joker HP:431/597 MP:347/347
+2-Itsumade HP:174/231 MP:103/103
+3-Ishtar HP:201/258 MP:251/251
+4-Zhen HP:302/388 MP:76/76
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Black Rider ataca a Zhen
+Zhen recibe 57 de daño
+Zhen termina con HP:245/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:431/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:245/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:154/453 MP:389/389
+B-Black Rider HP:598/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Black Rider
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:431/597 MP:347/347
+2-Itsumade HP:174/231 MP:103/103
+3-Ishtar HP:201/258 MP:251/251
+4-Zhen HP:245/388 MP:76/76
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nahobino ataca a Zhen
+Zhen recibe 29 de daño
+Zhen termina con HP:216/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:431/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:154/453 MP:389/389
+B-Black Rider HP:598/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Ishtar
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:154/453 MP:389/389
+2-Black Rider HP:598/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:154/453 MP:389/389
+2-Black Rider HP:598/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Black Rider
+Black Rider recibe 39 de daño
+Black Rider termina con HP:559/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:431/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:154/453 MP:389/389
+B-Black Rider HP:559/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Ishtar
+3-Itsumade
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:154/453 MP:389/389
+2-Black Rider HP:559/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Zhen ataca a Black Rider
+Black Rider recibe 22 de daño
+Black Rider termina con HP:537/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:431/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:154/453 MP:389/389
+B-Black Rider HP:537/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Itsumade
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nahobino HP:154/453 MP:389/389
+2-Black Rider HP:537/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Ishtar ataca a Black Rider
+Black Rider recibe 27 de daño
+Black Rider termina con HP:510/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:431/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:154/453 MP:389/389
+B-Black Rider HP:510/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Joker
+3-Zhen
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Nahobino HP:154/453 MP:389/389
+2-Black Rider HP:510/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsumade ataca a Nahobino
+Nahobino recibe 17 de daño
+Nahobino termina con HP:137/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:431/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:137/453 MP:389/389
+B-Black Rider HP:510/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Joker HP:431/597 MP:347/347
+2-Itsumade HP:174/231 MP:103/103
+3-Ishtar HP:201/258 MP:251/251
+4-Zhen HP:216/388 MP:76/76
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Joker HP:431/597 MP:347/347
+2-Itsumade HP:174/231 MP:103/103
+3-Ishtar HP:201/258 MP:251/251
+4-Zhen HP:216/388 MP:76/76
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Joker HP:431/597 MP:347/347
+2-Itsumade HP:174/231 MP:103/103
+3-Ishtar HP:201/258 MP:251/251
+4-Zhen HP:216/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Black Rider ataca a Joker
+Joker recibe 57 de daño
+Joker termina con HP:374/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:374/597 MP:347/347
+B-Itsumade HP:174/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:137/453 MP:389/389
+B-Black Rider HP:510/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Black Rider
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:374/597 MP:347/347
+2-Itsumade HP:174/231 MP:103/103
+3-Ishtar HP:201/258 MP:251/251
+4-Zhen HP:216/388 MP:76/76
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:374/597 MP:347/347
+2-Itsumade HP:174/231 MP:103/103
+3-Ishtar HP:201/258 MP:251/251
+4-Zhen HP:216/388 MP:76/76
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:374/597 MP:347/347
+2-Itsumade HP:174/231 MP:103/103
+3-Ishtar HP:201/258 MP:251/251
+4-Zhen HP:216/388 MP:76/76
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Itsumade
+Itsumade recibe 83 de daño
+Itsumade termina con HP:91/231
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:374/597 MP:347/347
+B-Itsumade HP:91/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:137/453 MP:389/389
+B-Black Rider HP:510/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Ishtar
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:137/453 MP:389/389
+2-Black Rider HP:510/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Nahobino
+Nahobino recibe 39 de daño
+Nahobino termina con HP:98/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:374/597 MP:347/347
+B-Itsumade HP:91/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:98/453 MP:389/389
+B-Black Rider HP:510/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Ishtar
+3-Itsumade
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:98/453 MP:389/389
+2-Black Rider HP:510/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:98/453 MP:389/389
+2-Black Rider HP:510/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Zhen ataca a Nahobino
+Nahobino recibe 22 de daño
+Nahobino termina con HP:76/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:374/597 MP:347/347
+B-Itsumade HP:91/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:76/453 MP:389/389
+B-Black Rider HP:510/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Itsumade
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nahobino HP:76/453 MP:389/389
+2-Black Rider HP:510/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nahobino HP:76/453 MP:389/389
+2-Black Rider HP:510/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Nahobino
+Nahobino recibe 27 de daño
+Nahobino termina con HP:49/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:374/597 MP:347/347
+B-Itsumade HP:91/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:49/453 MP:389/389
+B-Black Rider HP:510/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Joker
+3-Zhen
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Nahobino HP:49/453 MP:389/389
+2-Black Rider HP:510/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsumade ataca a Black Rider
+Black Rider recibe 17 de daño
+Black Rider termina con HP:493/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:374/597 MP:347/347
+B-Itsumade HP:91/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:49/453 MP:389/389
+B-Black Rider HP:493/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Joker HP:374/597 MP:347/347
+2-Itsumade HP:91/231 MP:103/103
+3-Ishtar HP:201/258 MP:251/251
+4-Zhen HP:216/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Black Rider ataca a Joker
+Joker recibe 57 de daño
+Joker termina con HP:317/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:317/597 MP:347/347
+B-Itsumade HP:91/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:49/453 MP:389/389
+B-Black Rider HP:493/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Black Rider
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:317/597 MP:347/347
+2-Itsumade HP:91/231 MP:103/103
+3-Ishtar HP:201/258 MP:251/251
+4-Zhen HP:216/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Joker
+Joker recibe 83 de daño
+Joker termina con HP:234/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:347/347
+B-Itsumade HP:91/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:49/453 MP:389/389
+B-Black Rider HP:493/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Ishtar
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:49/453 MP:389/389
+2-Black Rider HP:493/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:49/453 MP:389/389
+2-Black Rider HP:493/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:49/453 MP:389/389
+2-Black Rider HP:493/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:49/453 MP:389/389
+2-Black Rider HP:493/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:49/453 MP:389/389
+2-Black Rider HP:493/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:49/453 MP:389/389
+2-Black Rider HP:493/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nahobino
+Nahobino recibe 28 de daño
+Nahobino termina con HP:21/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:347/347
+B-Itsumade HP:91/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:21/453 MP:389/389
+B-Black Rider HP:493/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Ishtar
+3-Itsumade
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:21/453 MP:389/389
+2-Black Rider HP:493/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Zhen ataca a Black Rider
+Black Rider recibe 22 de daño
+Black Rider termina con HP:471/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:347/347
+B-Itsumade HP:91/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:21/453 MP:389/389
+B-Black Rider HP:471/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Itsumade
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nahobino HP:21/453 MP:389/389
+2-Black Rider HP:471/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nahobino HP:21/453 MP:389/389
+2-Black Rider HP:471/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nahobino HP:21/453 MP:389/389
+2-Black Rider HP:471/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Ishtar ataca a Black Rider
+Black Rider recibe 27 de daño
+Black Rider termina con HP:444/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:347/347
+B-Itsumade HP:91/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:21/453 MP:389/389
+B-Black Rider HP:444/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Joker
+3-Zhen
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Nahobino HP:21/453 MP:389/389
+2-Black Rider HP:444/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsumade ataca a Black Rider
+Black Rider recibe 17 de daño
+Black Rider termina con HP:427/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:347/347
+B-Itsumade HP:91/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:21/453 MP:389/389
+B-Black Rider HP:427/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Joker HP:234/597 MP:347/347
+2-Itsumade HP:91/231 MP:103/103
+3-Ishtar HP:201/258 MP:251/251
+4-Zhen HP:216/388 MP:76/76
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Black Rider ataca a Itsumade
+Itsumade recibe 57 de daño
+Itsumade termina con HP:34/231
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:347/347
+B-Itsumade HP:34/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:21/453 MP:389/389
+B-Black Rider HP:427/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Black Rider
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:234/597 MP:347/347
+2-Itsumade HP:34/231 MP:103/103
+3-Ishtar HP:201/258 MP:251/251
+4-Zhen HP:216/388 MP:76/76
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:234/597 MP:347/347
+2-Itsumade HP:34/231 MP:103/103
+3-Ishtar HP:201/258 MP:251/251
+4-Zhen HP:216/388 MP:76/76
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca a Itsumade
+Itsumade recibe 29 de daño
+Itsumade termina con HP:5/231
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:21/453 MP:389/389
+B-Black Rider HP:427/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Ishtar
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:21/453 MP:389/389
+2-Black Rider HP:427/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:21/453 MP:389/389
+2-Black Rider HP:427/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Black Rider
+Black Rider recibe 28 de daño
+Black Rider termina con HP:399/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:21/453 MP:389/389
+B-Black Rider HP:399/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Ishtar
+3-Itsumade
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:21/453 MP:389/389
+2-Black Rider HP:399/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:21/453 MP:389/389
+2-Black Rider HP:399/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:21/453 MP:389/389
+2-Black Rider HP:399/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Zhen ataca a Nahobino
+Nahobino recibe 22 de daño
+Nahobino termina con HP:0/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:399/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Itsumade
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Black Rider HP:399/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Black Rider HP:399/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Black Rider
+Black Rider recibe 27 de daño
+Black Rider termina con HP:372/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:372/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Joker
+3-Zhen
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Black Rider HP:372/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Black Rider HP:372/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Black Rider HP:372/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Black Rider HP:372/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsumade ataca a Black Rider
+Black Rider recibe 17 de daño
+Black Rider termina con HP:355/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:355/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Joker HP:234/597 MP:347/347
+2-Itsumade HP:5/231 MP:103/103
+3-Ishtar HP:201/258 MP:251/251
+4-Zhen HP:216/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Black Rider ataca a Joker
+Joker recibe 57 de daño
+Joker termina con HP:177/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:177/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:355/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Ishtar
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Black Rider HP:355/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Black Rider
+Black Rider recibe 28 de daño
+Black Rider termina con HP:327/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:177/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:327/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Ishtar
+3-Itsumade
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Black Rider HP:327/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Zhen ataca a Black Rider
+Black Rider recibe 22 de daño
+Black Rider termina con HP:305/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:177/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:305/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Itsumade
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Black Rider HP:305/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Black Rider HP:305/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Black Rider HP:305/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Black Rider HP:305/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Black Rider HP:305/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Black Rider HP:305/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Black Rider
+Black Rider recibe 27 de daño
+Black Rider termina con HP:278/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:177/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:278/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Joker
+3-Zhen
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Black Rider HP:278/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsumade ataca a Black Rider
+Black Rider recibe 17 de daño
+Black Rider termina con HP:261/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:177/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:201/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:261/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Joker HP:177/597 MP:347/347
+2-Itsumade HP:5/231 MP:103/103
+3-Ishtar HP:201/258 MP:251/251
+4-Zhen HP:216/388 MP:76/76
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Black Rider ataca a Ishtar
+Ishtar recibe 57 de daño
+Ishtar termina con HP:144/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:177/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:144/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:261/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Ishtar
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Black Rider HP:261/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Black Rider
+Black Rider recibe 28 de daño
+Black Rider termina con HP:233/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:177/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:144/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:233/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Ishtar
+3-Itsumade
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Black Rider HP:233/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Zhen ataca a Black Rider
+Black Rider recibe 22 de daño
+Black Rider termina con HP:211/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:177/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:144/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:211/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Itsumade
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Black Rider HP:211/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Black Rider HP:211/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Black Rider
+Black Rider recibe 27 de daño
+Black Rider termina con HP:184/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:177/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:144/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:184/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Joker
+3-Zhen
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Black Rider HP:184/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsumade ataca a Black Rider
+Black Rider recibe 17 de daño
+Black Rider termina con HP:167/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:177/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:144/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:167/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Joker HP:177/597 MP:347/347
+2-Itsumade HP:5/231 MP:103/103
+3-Ishtar HP:144/258 MP:251/251
+4-Zhen HP:216/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Black Rider ataca a Joker
+Joker recibe 57 de daño
+Joker termina con HP:120/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:120/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:144/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:167/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Ishtar
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Black Rider HP:167/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Black Rider
+Black Rider recibe 28 de daño
+Black Rider termina con HP:139/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:120/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:144/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:139/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Ishtar
+3-Itsumade
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Black Rider HP:139/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Black Rider HP:139/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Black Rider HP:139/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Black Rider HP:139/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Zhen ataca a Black Rider
+Black Rider recibe 22 de daño
+Black Rider termina con HP:117/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:120/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:144/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:117/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Itsumade
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Black Rider HP:117/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Black Rider
+Black Rider recibe 27 de daño
+Black Rider termina con HP:90/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:120/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:144/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:90/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Joker
+3-Zhen
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Black Rider HP:90/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsumade ataca a Black Rider
+Black Rider recibe 17 de daño
+Black Rider termina con HP:73/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:120/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:144/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:73/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Joker HP:120/597 MP:347/347
+2-Itsumade HP:5/231 MP:103/103
+3-Ishtar HP:144/258 MP:251/251
+4-Zhen HP:216/388 MP:76/76
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Black Rider ataca a Ishtar
+Ishtar recibe 57 de daño
+Ishtar termina con HP:87/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:120/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:87/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:73/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Ishtar
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Black Rider HP:73/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Black Rider HP:73/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Black Rider
+Black Rider recibe 39 de daño
+Black Rider termina con HP:34/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:120/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:87/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:34/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Ishtar
+3-Itsumade
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Black Rider HP:34/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Black Rider HP:34/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Black Rider HP:34/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Zhen ataca a Black Rider
+Black Rider recibe 22 de daño
+Black Rider termina con HP:12/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:120/597 MP:347/347
+B-Itsumade HP:5/231 MP:103/103
+C-Ishtar HP:87/258 MP:251/251
+D-Zhen HP:216/388 MP:76/76
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Black Rider HP:12/686 MP:307/307
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Itsumade
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Black Rider HP:12/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Black Rider
+Black Rider recibe 27 de daño
+Black Rider termina con HP:0/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Joker (J1)

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <RootNamespace>Shin_Megami_Tensei</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Shin-Megami-Tensei-Models\Shin-Megami-Tensei-Models.csproj" />
+      <ProjectReference Include="..\Shin-Megami-Tensei-View\Shin-Megami-Tensei-View.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,1692 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 97
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ammut HP:709/709 MP:140/140
+C-Nadja HP:399/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Tam Lin HP:218/218 MP:43/43
+C-Sarasvati HP:273/273 MP:264/264
+D-Melchom HP:71/71 MP:67/67
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nadja
+3-Joker
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nanashi HP:140/140 MP:411/411
+2-Tam Lin HP:218/218 MP:43/43
+3-Sarasvati HP:273/273 MP:264/264
+4-Melchom HP:71/71 MP:67/67
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Nanashi
+Nanashi recibe 54 de daño
+Nanashi termina con HP:86/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ammut HP:709/709 MP:140/140
+C-Nadja HP:399/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Tam Lin HP:218/218 MP:43/43
+C-Sarasvati HP:273/273 MP:264/264
+D-Melchom HP:71/71 MP:67/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Joker
+3-Ammut
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Nanashi HP:86/140 MP:411/411
+2-Tam Lin HP:218/218 MP:43/43
+3-Sarasvati HP:273/273 MP:264/264
+4-Melchom HP:71/71 MP:67/67
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nadja ataca a Sarasvati
+Sarasvati recibe 32 de daño
+Sarasvati termina con HP:241/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ammut HP:709/709 MP:140/140
+C-Nadja HP:399/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Tam Lin HP:218/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:71/71 MP:67/67
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ammut
+3-Nadja
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:86/140 MP:411/411
+2-Tam Lin HP:218/218 MP:43/43
+3-Sarasvati HP:241/273 MP:264/264
+4-Melchom HP:71/71 MP:67/67
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Tam Lin
+Tam Lin recibe 28 de daño
+Tam Lin termina con HP:190/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ammut HP:709/709 MP:140/140
+C-Nadja HP:399/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Tam Lin HP:190/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:71/71 MP:67/67
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Sarasvati
+3-Tam Lin
+4-Melchom
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:597/597 MP:347/347
+2-Ammut HP:709/709 MP:140/140
+3-Nadja HP:399/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:597/597 MP:347/347
+2-Ammut HP:709/709 MP:140/140
+3-Nadja HP:399/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:597/597 MP:347/347
+2-Ammut HP:709/709 MP:140/140
+3-Nadja HP:399/399 MP:179/179
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi ataca a Ammut
+Ammut recibe 92 de daño
+Ammut termina con HP:617/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ammut HP:617/709 MP:140/140
+C-Nadja HP:399/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Tam Lin HP:190/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:71/71 MP:67/67
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Tam Lin
+3-Melchom
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:597/597 MP:347/347
+2-Ammut HP:617/709 MP:140/140
+3-Nadja HP:399/399 MP:179/179
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Sarasvati ataca a Joker
+Joker recibe 28 de daño
+Joker termina con HP:569/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Ammut HP:617/709 MP:140/140
+C-Nadja HP:399/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Tam Lin HP:190/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:71/71 MP:67/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Melchom
+3-Nanashi
+4-Sarasvati
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:569/597 MP:347/347
+2-Ammut HP:617/709 MP:140/140
+3-Nadja HP:399/399 MP:179/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tam Lin ataca a Nadja
+Nadja recibe 14 de daño
+Nadja termina con HP:385/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Ammut HP:617/709 MP:140/140
+C-Nadja HP:385/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Tam Lin HP:190/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:71/71 MP:67/67
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Melchom
+2-Nanashi
+3-Sarasvati
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Melchom
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Melchom
+1-Joker HP:569/597 MP:347/347
+2-Ammut HP:617/709 MP:140/140
+3-Nadja HP:385/399 MP:179/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Melchom ataca a Nadja
+Nadja recibe 6 de daño
+Nadja termina con HP:379/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Ammut HP:617/709 MP:140/140
+C-Nadja HP:379/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Tam Lin HP:190/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:71/71 MP:67/67
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nadja
+3-Joker
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nanashi HP:86/140 MP:411/411
+2-Tam Lin HP:190/218 MP:43/43
+3-Sarasvati HP:241/273 MP:264/264
+4-Melchom HP:71/71 MP:67/67
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ammut ataca a Tam Lin
+Tam Lin recibe 54 de daño
+Tam Lin termina con HP:136/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Ammut HP:617/709 MP:140/140
+C-Nadja HP:379/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Tam Lin HP:136/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:71/71 MP:67/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Joker
+3-Ammut
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Nanashi HP:86/140 MP:411/411
+2-Tam Lin HP:136/218 MP:43/43
+3-Sarasvati HP:241/273 MP:264/264
+4-Melchom HP:71/71 MP:67/67
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nadja ataca a Melchom
+Melchom recibe 32 de daño
+Melchom termina con HP:39/71
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Ammut HP:617/709 MP:140/140
+C-Nadja HP:379/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Tam Lin HP:136/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:39/71 MP:67/67
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ammut
+3-Nadja
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:86/140 MP:411/411
+2-Tam Lin HP:136/218 MP:43/43
+3-Sarasvati HP:241/273 MP:264/264
+4-Melchom HP:39/71 MP:67/67
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Tam Lin
+Tam Lin recibe 39 de daño
+Tam Lin termina con HP:97/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Ammut HP:617/709 MP:140/140
+C-Nadja HP:379/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Tam Lin HP:97/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:39/71 MP:67/67
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Sarasvati
+3-Tam Lin
+4-Melchom
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:569/597 MP:347/347
+2-Ammut HP:617/709 MP:140/140
+3-Nadja HP:379/399 MP:179/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi dispara a Nadja
+Nadja recibe 31 de daño
+Nadja termina con HP:348/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Ammut HP:617/709 MP:140/140
+C-Nadja HP:348/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Tam Lin HP:97/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:39/71 MP:67/67
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Tam Lin
+3-Melchom
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:569/597 MP:347/347
+2-Ammut HP:617/709 MP:140/140
+3-Nadja HP:348/399 MP:179/179
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Sarasvati ataca a Ammut
+Ammut recibe 28 de daño
+Ammut termina con HP:589/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Ammut HP:589/709 MP:140/140
+C-Nadja HP:348/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Tam Lin HP:97/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:39/71 MP:67/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Melchom
+3-Nanashi
+4-Sarasvati
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:569/597 MP:347/347
+2-Ammut HP:589/709 MP:140/140
+3-Nadja HP:348/399 MP:179/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tam Lin ataca a Nadja
+Nadja recibe 14 de daño
+Nadja termina con HP:334/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Ammut HP:589/709 MP:140/140
+C-Nadja HP:334/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Tam Lin HP:97/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:39/71 MP:67/67
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Melchom
+2-Nanashi
+3-Sarasvati
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Melchom
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Melchom
+1-Joker HP:569/597 MP:347/347
+2-Ammut HP:589/709 MP:140/140
+3-Nadja HP:334/399 MP:179/179
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Melchom ataca a Joker
+Joker recibe 6 de daño
+Joker termina con HP:563/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:563/597 MP:347/347
+B-Ammut HP:589/709 MP:140/140
+C-Nadja HP:334/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:86/140 MP:411/411
+B-Tam Lin HP:97/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:39/71 MP:67/67
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nadja
+3-Joker
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nanashi HP:86/140 MP:411/411
+2-Tam Lin HP:97/218 MP:43/43
+3-Sarasvati HP:241/273 MP:264/264
+4-Melchom HP:39/71 MP:67/67
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Nanashi HP:86/140 MP:411/411
+2-Tam Lin HP:97/218 MP:43/43
+3-Sarasvati HP:241/273 MP:264/264
+4-Melchom HP:39/71 MP:67/67
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Nanashi
+Nanashi recibe 54 de daño
+Nanashi termina con HP:32/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:563/597 MP:347/347
+B-Ammut HP:589/709 MP:140/140
+C-Nadja HP:334/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:32/140 MP:411/411
+B-Tam Lin HP:97/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:39/71 MP:67/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Joker
+3-Ammut
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Nanashi HP:32/140 MP:411/411
+2-Tam Lin HP:97/218 MP:43/43
+3-Sarasvati HP:241/273 MP:264/264
+4-Melchom HP:39/71 MP:67/67
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nadja ataca a Nanashi
+Nanashi recibe 32 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:563/597 MP:347/347
+B-Ammut HP:589/709 MP:140/140
+C-Nadja HP:334/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:97/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:39/71 MP:67/67
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ammut
+3-Nadja
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tam Lin HP:97/218 MP:43/43
+2-Sarasvati HP:241/273 MP:264/264
+3-Melchom HP:39/71 MP:67/67
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tam Lin HP:97/218 MP:43/43
+2-Sarasvati HP:241/273 MP:264/264
+3-Melchom HP:39/71 MP:67/67
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Tam Lin
+Tam Lin recibe 39 de daño
+Tam Lin termina con HP:58/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:563/597 MP:347/347
+B-Ammut HP:589/709 MP:140/140
+C-Nadja HP:334/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:58/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:39/71 MP:67/67
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Tam Lin
+3-Melchom
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:563/597 MP:347/347
+2-Ammut HP:589/709 MP:140/140
+3-Nadja HP:334/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:563/597 MP:347/347
+2-Ammut HP:589/709 MP:140/140
+3-Nadja HP:334/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:563/597 MP:347/347
+2-Ammut HP:589/709 MP:140/140
+3-Nadja HP:334/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:563/597 MP:347/347
+2-Ammut HP:589/709 MP:140/140
+3-Nadja HP:334/399 MP:179/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Sarasvati ataca a Nadja
+Nadja recibe 28 de daño
+Nadja termina con HP:306/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:563/597 MP:347/347
+B-Ammut HP:589/709 MP:140/140
+C-Nadja HP:306/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:58/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:39/71 MP:67/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Melchom
+3-Sarasvati
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:563/597 MP:347/347
+2-Ammut HP:589/709 MP:140/140
+3-Nadja HP:306/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:563/597 MP:347/347
+2-Ammut HP:589/709 MP:140/140
+3-Nadja HP:306/399 MP:179/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tam Lin ataca a Nadja
+Nadja recibe 14 de daño
+Nadja termina con HP:292/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:563/597 MP:347/347
+B-Ammut HP:589/709 MP:140/140
+C-Nadja HP:292/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:58/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:39/71 MP:67/67
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Melchom
+2-Sarasvati
+3-Tam Lin
+----------------------------------------
+Seleccione una acción para Melchom
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Melchom
+1-Joker HP:563/597 MP:347/347
+2-Ammut HP:589/709 MP:140/140
+3-Nadja HP:292/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Melchom
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Melchom
+1-Joker HP:563/597 MP:347/347
+2-Ammut HP:589/709 MP:140/140
+3-Nadja HP:292/399 MP:179/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Melchom ataca a Nadja
+Nadja recibe 6 de daño
+Nadja termina con HP:286/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:563/597 MP:347/347
+B-Ammut HP:589/709 MP:140/140
+C-Nadja HP:286/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:58/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-Melchom HP:39/71 MP:67/67
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nadja
+3-Joker
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Tam Lin HP:58/218 MP:43/43
+2-Sarasvati HP:241/273 MP:264/264
+3-Melchom HP:39/71 MP:67/67
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ammut ataca a Melchom
+Melchom recibe 54 de daño
+Melchom termina con HP:0/71
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:563/597 MP:347/347
+B-Ammut HP:589/709 MP:140/140
+C-Nadja HP:286/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:58/218 MP:43/43
+C-Sarasvati HP:241/273 MP:264/264
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Joker
+3-Ammut
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Tam Lin HP:58/218 MP:43/43
+2-Sarasvati HP:241/273 MP:264/264
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nadja ataca a Sarasvati
+Sarasvati recibe 32 de daño
+Sarasvati termina con HP:209/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:563/597 MP:347/347
+B-Ammut HP:589/709 MP:140/140
+C-Nadja HP:286/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:58/218 MP:43/43
+C-Sarasvati HP:209/273 MP:264/264
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ammut
+3-Nadja
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tam Lin HP:58/218 MP:43/43
+2-Sarasvati HP:209/273 MP:264/264
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Sarasvati
+Sarasvati recibe 39 de daño
+Sarasvati termina con HP:170/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:563/597 MP:347/347
+B-Ammut HP:589/709 MP:140/140
+C-Nadja HP:286/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:58/218 MP:43/43
+C-Sarasvati HP:170/273 MP:264/264
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Tam Lin
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:563/597 MP:347/347
+2-Ammut HP:589/709 MP:140/140
+3-Nadja HP:286/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:563/597 MP:347/347
+2-Ammut HP:589/709 MP:140/140
+3-Nadja HP:286/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:563/597 MP:347/347
+2-Ammut HP:589/709 MP:140/140
+3-Nadja HP:286/399 MP:179/179
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Sarasvati ataca a Joker
+Joker recibe 28 de daño
+Joker termina con HP:535/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:535/597 MP:347/347
+B-Ammut HP:589/709 MP:140/140
+C-Nadja HP:286/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:58/218 MP:43/43
+C-Sarasvati HP:170/273 MP:264/264
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Sarasvati
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:535/597 MP:347/347
+2-Ammut HP:589/709 MP:140/140
+3-Nadja HP:286/399 MP:179/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tam Lin ataca a Nadja
+Nadja recibe 14 de daño
+Nadja termina con HP:272/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:535/597 MP:347/347
+B-Ammut HP:589/709 MP:140/140
+C-Nadja HP:272/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:58/218 MP:43/43
+C-Sarasvati HP:170/273 MP:264/264
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nadja
+3-Joker
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Tam Lin HP:58/218 MP:43/43
+2-Sarasvati HP:170/273 MP:264/264
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Ammut ataca a Sarasvati
+Sarasvati recibe 54 de daño
+Sarasvati termina con HP:116/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:535/597 MP:347/347
+B-Ammut HP:589/709 MP:140/140
+C-Nadja HP:272/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:58/218 MP:43/43
+C-Sarasvati HP:116/273 MP:264/264
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Joker
+3-Ammut
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Tam Lin HP:58/218 MP:43/43
+2-Sarasvati HP:116/273 MP:264/264
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nadja ataca a Tam Lin
+Tam Lin recibe 32 de daño
+Tam Lin termina con HP:26/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:535/597 MP:347/347
+B-Ammut HP:589/709 MP:140/140
+C-Nadja HP:272/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tam Lin HP:26/218 MP:43/43
+C-Sarasvati HP:116/273 MP:264/264
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ammut
+3-Nadja
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tam Lin HP:26/218 MP:43/43
+2-Sarasvati HP:116/273 MP:264/264
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Tam Lin
+Tam Lin recibe 39 de daño
+Tam Lin termina con HP:0/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:535/597 MP:347/347
+B-Ammut HP:589/709 MP:140/140
+C-Nadja HP:272/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sarasvati HP:116/273 MP:264/264
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:535/597 MP:347/347
+2-Ammut HP:589/709 MP:140/140
+3-Nadja HP:272/399 MP:179/179
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Sarasvati ataca a Ammut
+Ammut recibe 28 de daño
+Ammut termina con HP:561/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:535/597 MP:347/347
+B-Ammut HP:561/709 MP:140/140
+C-Nadja HP:272/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sarasvati HP:116/273 MP:264/264
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nadja
+3-Joker
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Sarasvati HP:116/273 MP:264/264
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Sarasvati
+Sarasvati recibe 54 de daño
+Sarasvati termina con HP:62/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:535/597 MP:347/347
+B-Ammut HP:561/709 MP:140/140
+C-Nadja HP:272/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sarasvati HP:62/273 MP:264/264
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Joker
+3-Ammut
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Sarasvati HP:62/273 MP:264/264
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nadja ataca a Sarasvati
+Sarasvati recibe 32 de daño
+Sarasvati termina con HP:30/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:535/597 MP:347/347
+B-Ammut HP:561/709 MP:140/140
+C-Nadja HP:272/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sarasvati HP:30/273 MP:264/264
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Ammut
+3-Nadja
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Sarasvati HP:30/273 MP:264/264
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Sarasvati HP:30/273 MP:264/264
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Sarasvati
+Sarasvati recibe 28 de daño
+Sarasvati termina con HP:2/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:535/597 MP:347/347
+B-Ammut HP:561/709 MP:140/140
+C-Nadja HP:272/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sarasvati HP:2/273 MP:264/264
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:535/597 MP:347/347
+2-Ammut HP:561/709 MP:140/140
+3-Nadja HP:272/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:535/597 MP:347/347
+2-Ammut HP:561/709 MP:140/140
+3-Nadja HP:272/399 MP:179/179
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Sarasvati ataca a Joker
+Joker recibe 28 de daño
+Joker termina con HP:507/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:507/597 MP:347/347
+B-Ammut HP:561/709 MP:140/140
+C-Nadja HP:272/399 MP:179/179
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sarasvati HP:2/273 MP:264/264
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nadja
+3-Joker
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Sarasvati HP:2/273 MP:264/264
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Sarasvati
+Sarasvati recibe 54 de daño
+Sarasvati termina con HP:0/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Joker (J1)

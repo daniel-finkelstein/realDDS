@@ -1,0 +1,2890 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 31
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Sarasvati HP:273/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Ghoul HP:558/558 MP:111/111
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Lailah HP:212/212 MP:205/205
+C-Susano-o HP:927/927 MP:184/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Sarasvati
+3-Kikuri-Hime
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Throne HP:504/504 MP:225/225
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Throne HP:504/504 MP:225/225
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Sarasvati HP:273/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Throne HP:504/504 MP:225/225
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Lailah HP:212/212 MP:205/205
+C-Susano-o HP:927/927 MP:184/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Kikuri-Hime
+3-Tamaki
+4-Throne
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Shujinko HP:1317/1317 MP:625/625
+2-Lailah HP:212/212 MP:205/205
+3-Susano-o HP:927/927 MP:184/184
+4-Tenkai HP:409/409 MP:396/396
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Sarasvati ataca a Shujinko
+Shujinko es resistente el ataque de Sarasvati
+Shujinko recibe 14 de daño
+Shujinko termina con HP:1303/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Sarasvati HP:273/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Throne HP:504/504 MP:225/225
+Equipo de Shujinko (J2)
+A-Shujinko HP:1303/1317 MP:625/625
+B-Lailah HP:212/212 MP:205/205
+C-Susano-o HP:927/927 MP:184/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Tamaki
+3-Throne
+4-Sarasvati
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Shujinko HP:1303/1317 MP:625/625
+2-Lailah HP:212/212 MP:205/205
+3-Susano-o HP:927/927 MP:184/184
+4-Tenkai HP:409/409 MP:396/396
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kikuri-Hime ataca a Susano-o
+Susano-o es resistente el ataque de Kikuri-Hime
+Susano-o recibe 11 de daño
+Susano-o termina con HP:916/927
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Sarasvati HP:273/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Throne HP:504/504 MP:225/225
+Equipo de Shujinko (J2)
+A-Shujinko HP:1303/1317 MP:625/625
+B-Lailah HP:212/212 MP:205/205
+C-Susano-o HP:916/927 MP:184/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Throne
+3-Sarasvati
+4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Shujinko HP:1303/1317 MP:625/625
+2-Lailah HP:212/212 MP:205/205
+3-Susano-o HP:916/927 MP:184/184
+4-Tenkai HP:409/409 MP:396/396
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Shujinko HP:1303/1317 MP:625/625
+2-Lailah HP:212/212 MP:205/205
+3-Susano-o HP:916/927 MP:184/184
+4-Tenkai HP:409/409 MP:396/396
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki dispara a Susano-o
+Susano-o recibe 15 de daño
+Susano-o termina con HP:901/927
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Sarasvati HP:273/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Throne HP:504/504 MP:225/225
+Equipo de Shujinko (J2)
+A-Shujinko HP:1303/1317 MP:625/625
+B-Lailah HP:212/212 MP:205/205
+C-Susano-o HP:901/927 MP:184/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Sarasvati
+3-Kikuri-Hime
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Shujinko HP:1303/1317 MP:625/625
+2-Lailah HP:212/212 MP:205/205
+3-Susano-o HP:901/927 MP:184/184
+4-Tenkai HP:409/409 MP:396/396
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Throne ataca a Lailah
+Lailah recibe 41 de daño
+Lailah termina con HP:171/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Sarasvati HP:273/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Throne HP:504/504 MP:225/225
+Equipo de Shujinko (J2)
+A-Shujinko HP:1303/1317 MP:625/625
+B-Lailah HP:171/212 MP:205/205
+C-Susano-o HP:901/927 MP:184/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Susano-o
+3-Tenkai
+4-Lailah
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tamaki HP:999/999 MP:542/542
+2-Sarasvati HP:273/273 MP:264/264
+3-Kikuri-Hime HP:216/216 MP:210/210
+4-Throne HP:504/504 MP:225/225
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tamaki HP:999/999 MP:542/542
+2-Sarasvati HP:273/273 MP:264/264
+3-Kikuri-Hime HP:216/216 MP:210/210
+4-Throne HP:504/504 MP:225/225
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko ataca a Sarasvati
+Sarasvati recibe 187 de daño
+Sarasvati termina con HP:86/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Throne HP:504/504 MP:225/225
+Equipo de Shujinko (J2)
+A-Shujinko HP:1303/1317 MP:625/625
+B-Lailah HP:171/212 MP:205/205
+C-Susano-o HP:901/927 MP:184/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Tenkai
+3-Lailah
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Tamaki HP:999/999 MP:542/542
+2-Sarasvati HP:86/273 MP:264/264
+3-Kikuri-Hime HP:216/216 MP:210/210
+4-Throne HP:504/504 MP:225/225
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Tamaki HP:999/999 MP:542/542
+2-Sarasvati HP:86/273 MP:264/264
+3-Kikuri-Hime HP:216/216 MP:210/210
+4-Throne HP:504/504 MP:225/225
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Susano-o lanza viento a Throne
+Throne recibe 155 de daño
+Throne termina con HP:349/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Throne HP:349/504 MP:225/225
+Equipo de Shujinko (J2)
+A-Shujinko HP:1303/1317 MP:625/625
+B-Lailah HP:171/212 MP:205/205
+C-Susano-o HP:901/927 MP:162/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Lailah
+3-Shujinko
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Tamaki HP:999/999 MP:542/542
+2-Sarasvati HP:86/273 MP:264/264
+3-Kikuri-Hime HP:216/216 MP:210/210
+4-Throne HP:349/504 MP:225/225
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Throne HP:349/504 MP:225/225
+Equipo de Shujinko (J2)
+A-Shujinko HP:1303/1317 MP:625/625
+B-Lailah HP:171/212 MP:205/205
+C-Susano-o HP:901/927 MP:162/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lailah
+2-Shujinko
+3-Susano-o
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Tamaki HP:999/999 MP:542/542
+2-Sarasvati HP:86/273 MP:264/264
+3-Kikuri-Hime HP:216/216 MP:210/210
+4-Throne HP:349/504 MP:225/225
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Throne HP:349/504 MP:225/225
+Equipo de Shujinko (J2)
+A-Shujinko HP:1303/1317 MP:625/625
+B-Lailah HP:171/212 MP:205/205
+C-Susano-o HP:901/927 MP:162/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Susano-o
+3-Tenkai
+4-Lailah
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Throne HP:349/504 MP:225/225
+Equipo de Shujinko (J2)
+A-Shujinko HP:1303/1317 MP:625/625
+B-Lailah HP:171/212 MP:205/205
+C-Susano-o HP:901/927 MP:162/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Susano-o
+2-Tenkai
+3-Lailah
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Tamaki HP:999/999 MP:542/542
+2-Sarasvati HP:86/273 MP:264/264
+3-Kikuri-Hime HP:216/216 MP:210/210
+4-Throne HP:349/504 MP:225/225
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Susano-o ataca a Throne
+Throne recibe 72 de daño
+Throne termina con HP:277/504
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Throne HP:277/504 MP:225/225
+Equipo de Shujinko (J2)
+A-Shujinko HP:1303/1317 MP:625/625
+B-Lailah HP:171/212 MP:205/205
+C-Susano-o HP:901/927 MP:162/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Sarasvati
+3-Kikuri-Hime
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Throne use
+1-Agidyne MP:14
+2-Mahamaon MP:30
+3-Mediarahan MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Throne use
+1-Agidyne MP:14
+2-Mahamaon MP:30
+3-Mediarahan MP:40
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Shujinko HP:1303/1317 MP:625/625
+2-Lailah HP:171/212 MP:205/205
+3-Susano-o HP:901/927 MP:162/184
+4-Tenkai HP:409/409 MP:396/396
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Throne lanza fuego a Shujinko
+Shujinko recibe 119 de daño
+Shujinko termina con HP:1184/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Throne HP:277/504 MP:211/225
+Equipo de Shujinko (J2)
+A-Shujinko HP:1184/1317 MP:625/625
+B-Lailah HP:171/212 MP:205/205
+C-Susano-o HP:901/927 MP:162/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Kikuri-Hime
+3-Tamaki
+4-Throne
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Shujinko HP:1184/1317 MP:625/625
+2-Lailah HP:171/212 MP:205/205
+3-Susano-o HP:901/927 MP:162/184
+4-Tenkai HP:409/409 MP:396/396
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Sarasvati ataca a Shujinko
+Shujinko es resistente el ataque de Sarasvati
+Shujinko recibe 14 de daño
+Shujinko termina con HP:1170/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Throne HP:277/504 MP:211/225
+Equipo de Shujinko (J2)
+A-Shujinko HP:1170/1317 MP:625/625
+B-Lailah HP:171/212 MP:205/205
+C-Susano-o HP:901/927 MP:162/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Tamaki
+3-Throne
+4-Sarasvati
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kikuri-Hime use
+1-Tetraja MP:15
+2-Me Patra MP:15
+3-Diarama MP:9
+4-Recarm MP:20
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Throne HP:277/504 MP:211/225
+Equipo de Shujinko (J2)
+A-Shujinko HP:1170/1317 MP:625/625
+B-Lailah HP:171/212 MP:205/205
+C-Susano-o HP:901/927 MP:162/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Throne
+3-Sarasvati
+4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Mudo MP:6
+2-Sabbatma MP:20
+3-Bufudyne MP:14
+4-Agilao MP:8
+5-Bufu MP:5
+6-Ziodyne MP:14
+7-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Shujinko HP:1170/1317 MP:625/625
+2-Lailah HP:171/212 MP:205/205
+3-Susano-o HP:901/927 MP:162/184
+4-Tenkai HP:409/409 MP:396/396
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki lanza electricidad a Lailah
+Lailah es débil contra el ataque de Tamaki
+Lailah recibe 97 de daño
+Lailah termina con HP:74/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:528/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Throne HP:277/504 MP:211/225
+Equipo de Shujinko (J2)
+A-Shujinko HP:1170/1317 MP:625/625
+B-Lailah HP:74/212 MP:205/205
+C-Susano-o HP:901/927 MP:162/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Throne
+2-Sarasvati
+3-Kikuri-Hime
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Shujinko HP:1170/1317 MP:625/625
+2-Lailah HP:74/212 MP:205/205
+3-Susano-o HP:901/927 MP:162/184
+4-Tenkai HP:409/409 MP:396/396
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Shujinko
+Shujinko es resistente el ataque de Throne
+Shujinko recibe 20 de daño
+Shujinko termina con HP:1150/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:528/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Throne HP:277/504 MP:211/225
+Equipo de Shujinko (J2)
+A-Shujinko HP:1150/1317 MP:625/625
+B-Lailah HP:74/212 MP:205/205
+C-Susano-o HP:901/927 MP:162/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Kikuri-Hime
+3-Tamaki
+4-Throne
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:528/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Throne HP:277/504 MP:211/225
+Equipo de Shujinko (J2)
+A-Shujinko HP:1150/1317 MP:625/625
+B-Lailah HP:74/212 MP:205/205
+C-Susano-o HP:901/927 MP:162/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Susano-o
+3-Tenkai
+4-Lailah
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tamaki HP:999/999 MP:528/542
+2-Sarasvati HP:86/273 MP:264/264
+3-Kikuri-Hime HP:216/216 MP:210/210
+4-Throne HP:277/504 MP:211/225
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Shujinko ataca a Throne
+Throne recibe 187 de daño
+Throne termina con HP:90/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:528/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Throne HP:90/504 MP:211/225
+Equipo de Shujinko (J2)
+A-Shujinko HP:1150/1317 MP:625/625
+B-Lailah HP:74/212 MP:205/205
+C-Susano-o HP:901/927 MP:162/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Tenkai
+3-Lailah
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Tamaki HP:999/999 MP:528/542
+2-Sarasvati HP:86/273 MP:264/264
+3-Kikuri-Hime HP:216/216 MP:210/210
+4-Throne HP:90/504 MP:211/225
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Susano-o lanza viento a Throne
+Throne recibe 155 de daño
+Throne termina con HP:0/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:528/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1150/1317 MP:625/625
+B-Lailah HP:74/212 MP:205/205
+C-Susano-o HP:901/927 MP:140/184
+D-Tenkai HP:409/409 MP:396/396
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Lailah
+3-Shujinko
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Tamaki HP:999/999 MP:528/542
+2-Sarasvati HP:86/273 MP:264/264
+3-Kikuri-Hime HP:216/216 MP:210/210
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Tamaki HP:999/999 MP:528/542
+2-Sarasvati HP:86/273 MP:264/264
+3-Kikuri-Hime HP:216/216 MP:210/210
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tenkai use
+1-Hamaon MP:10
+2-Megidola MP:40
+3-Blood Ritual MP:25
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Tamaki HP:999/999 MP:528/542
+2-Sarasvati HP:86/273 MP:264/264
+3-Kikuri-Hime HP:216/216 MP:210/210
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tenkai ataca con luz a Sarasvati
+Sarasvati bloquea el ataque de Tenkai
+Sarasvati termina con HP:86/273
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:528/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1150/1317 MP:625/625
+B-Lailah HP:74/212 MP:205/205
+C-Susano-o HP:901/927 MP:140/184
+D-Tenkai HP:409/409 MP:386/396
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Kikuri-Hime
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Shujinko HP:1150/1317 MP:625/625
+2-Lailah HP:74/212 MP:205/205
+3-Susano-o HP:901/927 MP:140/184
+4-Tenkai HP:409/409 MP:386/396
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Sarasvati ataca a Lailah
+Lailah recibe 28 de daño
+Lailah termina con HP:46/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:528/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1150/1317 MP:625/625
+B-Lailah HP:46/212 MP:205/205
+C-Susano-o HP:901/927 MP:140/184
+D-Tenkai HP:409/409 MP:386/396
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Tamaki
+3-Sarasvati
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:528/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1150/1317 MP:625/625
+B-Lailah HP:46/212 MP:205/205
+C-Susano-o HP:901/927 MP:140/184
+D-Tenkai HP:409/409 MP:386/396
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Sarasvati
+3-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Mudo MP:6
+2-Sabbatma MP:20
+3-Bufudyne MP:14
+4-Agilao MP:8
+5-Bufu MP:5
+6-Ziodyne MP:14
+7-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Shujinko HP:1150/1317 MP:625/625
+2-Lailah HP:46/212 MP:205/205
+3-Susano-o HP:901/927 MP:140/184
+4-Tenkai HP:409/409 MP:386/396
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Mudo MP:6
+2-Sabbatma MP:20
+3-Bufudyne MP:14
+4-Agilao MP:8
+5-Bufu MP:5
+6-Ziodyne MP:14
+7-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Shujinko HP:1150/1317 MP:625/625
+2-Lailah HP:46/212 MP:205/205
+3-Susano-o HP:901/927 MP:140/184
+4-Tenkai HP:409/409 MP:386/396
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki lanza fuego a Shujinko
+Shujinko recibe 52 de daño
+Shujinko termina con HP:1098/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:520/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1098/1317 MP:625/625
+B-Lailah HP:46/212 MP:205/205
+C-Susano-o HP:901/927 MP:140/184
+D-Tenkai HP:409/409 MP:386/396
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Kikuri-Hime
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Shujinko HP:1098/1317 MP:625/625
+2-Lailah HP:46/212 MP:205/205
+3-Susano-o HP:901/927 MP:140/184
+4-Tenkai HP:409/409 MP:386/396
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Sarasvati ataca a Shujinko
+Shujinko es resistente el ataque de Sarasvati
+Shujinko recibe 14 de daño
+Shujinko termina con HP:1084/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:520/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1084/1317 MP:625/625
+B-Lailah HP:46/212 MP:205/205
+C-Susano-o HP:901/927 MP:140/184
+D-Tenkai HP:409/409 MP:386/396
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Susano-o
+3-Tenkai
+4-Lailah
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:520/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1084/1317 MP:625/625
+B-Lailah HP:46/212 MP:205/205
+C-Susano-o HP:901/927 MP:140/184
+D-Tenkai HP:409/409 MP:386/396
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Susano-o
+2-Tenkai
+3-Lailah
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:520/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1084/1317 MP:625/625
+B-Lailah HP:46/212 MP:205/205
+C-Susano-o HP:901/927 MP:140/184
+D-Tenkai HP:409/409 MP:386/396
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Lailah
+3-Shujinko
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:483/483 MP:216/216
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:520/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1084/1317 MP:625/625
+B-Lailah HP:46/212 MP:205/205
+C-Susano-o HP:901/927 MP:140/184
+D-Peri HP:483/483 MP:216/216
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lailah
+2-Shujinko
+3-Susano-o
+4-Peri
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tenkai HP:409/409 MP:386/396
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tenkai ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:520/542
+B-Sarasvati HP:86/273 MP:264/264
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1084/1317 MP:625/625
+B-Tenkai HP:409/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-Peri HP:483/483 MP:216/216
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Susano-o
+3-Peri
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tamaki HP:999/999 MP:520/542
+2-Sarasvati HP:86/273 MP:264/264
+3-Kikuri-Hime HP:216/216 MP:210/210
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko ataca a Sarasvati
+Sarasvati recibe 187 de daño
+Sarasvati termina con HP:0/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:520/542
+B-
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1084/1317 MP:625/625
+B-Tenkai HP:409/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-Peri HP:483/483 MP:216/216
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Peri
+3-Tenkai
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Tamaki HP:999/999 MP:520/542
+2-Kikuri-Hime HP:216/216 MP:210/210
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:520/542
+B-
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1084/1317 MP:625/625
+B-Tenkai HP:409/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-Peri HP:483/483 MP:216/216
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Tenkai
+3-Shujinko
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:520/542
+B-
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1084/1317 MP:625/625
+B-Tenkai HP:409/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-Peri HP:483/483 MP:216/216
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Shujinko HP:1084/1317 MP:625/625
+2-Tenkai HP:409/409 MP:386/396
+3-Susano-o HP:901/927 MP:140/184
+4-Peri HP:483/483 MP:216/216
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kikuri-Hime ataca a Tenkai
+Tenkai es resistente el ataque de Kikuri-Hime
+Tenkai recibe 11 de daño
+Tenkai termina con HP:398/409
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:520/542
+B-
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1084/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-Peri HP:483/483 MP:216/216
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:520/542
+B-
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1084/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-Peri HP:483/483 MP:216/216
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:520/542
+B-
+C-Ghoul HP:558/558 MP:111/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1084/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-Peri HP:483/483 MP:216/216
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Susano-o
+3-Tenkai
+4-Peri
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tamaki HP:999/999 MP:520/542
+2-Ghoul HP:558/558 MP:111/111
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko dispara a Ghoul
+Ghoul recibe 228 de daño
+Ghoul termina con HP:330/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:520/542
+B-
+C-Ghoul HP:330/558 MP:111/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1084/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-Peri HP:483/483 MP:216/216
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Tenkai
+3-Peri
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Tamaki HP:999/999 MP:520/542
+2-Ghoul HP:330/558 MP:111/111
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Susano-o ataca a Ghoul
+Ghoul recibe 72 de daño
+Ghoul termina con HP:258/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:520/542
+B-
+C-Ghoul HP:258/558 MP:111/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1084/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-Peri HP:483/483 MP:216/216
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Peri
+3-Shujinko
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Tamaki HP:999/999 MP:520/542
+2-Ghoul HP:258/558 MP:111/111
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tenkai ataca a Tamaki
+Tamaki es resistente el ataque de Tenkai
+Tamaki recibe 21 de daño
+Tamaki termina con HP:978/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:978/999 MP:520/542
+B-
+C-Ghoul HP:258/558 MP:111/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1084/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-Peri HP:483/483 MP:216/216
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Shujinko
+3-Susano-o
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lailah HP:46/212 MP:205/205
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lailah ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:978/999 MP:520/542
+B-
+C-Ghoul HP:258/558 MP:111/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1084/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-Lailah HP:46/212 MP:205/205
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Susano-o
+3-Tenkai
+4-Lailah
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:978/999 MP:520/542
+B-
+C-Ghoul HP:258/558 MP:111/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1084/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-Lailah HP:46/212 MP:205/205
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Shujinko HP:1084/1317 MP:625/625
+2-Tenkai HP:398/409 MP:386/396
+3-Susano-o HP:901/927 MP:140/184
+4-Lailah HP:46/212 MP:205/205
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ghoul ataca a Lailah
+Lailah recibe 97 de daño
+Lailah termina con HP:0/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:978/999 MP:520/542
+B-
+C-Ghoul HP:258/558 MP:104/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1084/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Ghoul
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Shujinko HP:1084/1317 MP:625/625
+2-Tenkai HP:398/409 MP:386/396
+3-Susano-o HP:901/927 MP:140/184
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki ataca a Shujinko
+Shujinko es resistente el ataque de Tamaki
+Shujinko recibe 9 de daño
+Shujinko termina con HP:1075/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:978/999 MP:520/542
+B-
+C-Ghoul HP:258/558 MP:104/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1075/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Susano-o
+3-Tenkai
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:483/483 MP:216/216
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Tenkai HP:398/409 MP:386/396 (Puesto 2)
+2-Susano-o HP:901/927 MP:140/184 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:978/999 MP:520/542
+B-
+C-Ghoul HP:258/558 MP:104/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1075/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Susano-o
+2-Tenkai
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Tamaki HP:978/999 MP:520/542
+2-Ghoul HP:258/558 MP:104/111
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Susano-o ataca a Tamaki
+Tamaki es resistente el ataque de Susano-o
+Tamaki recibe 36 de daño
+Tamaki termina con HP:942/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:942/999 MP:520/542
+B-
+C-Ghoul HP:258/558 MP:104/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1075/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Shujinko
+3-Susano-o
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:942/999 MP:520/542
+B-
+C-Ghoul HP:258/558 MP:104/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1075/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Susano-o
+3-Tenkai
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Zionga MP:8
+2-Zanma MP:8
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tamaki HP:942/999 MP:520/542
+2-Ghoul HP:258/558 MP:104/111
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:483/483 MP:216/216
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Tenkai HP:398/409 MP:386/396 (Puesto 2)
+2-Susano-o HP:901/927 MP:140/184 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:942/999 MP:520/542
+B-
+C-Ghoul HP:258/558 MP:104/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1075/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Tenkai
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:483/483 MP:216/216
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Tamaki HP:942/999 MP:520/542
+2-Ghoul HP:258/558 MP:104/111
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Tamaki HP:942/999 MP:520/542
+2-Ghoul HP:258/558 MP:104/111
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Tamaki HP:942/999 MP:520/542
+2-Ghoul HP:258/558 MP:104/111
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Susano-o ataca a Ghoul
+Ghoul recibe 72 de daño
+Ghoul termina con HP:186/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:942/999 MP:520/542
+B-
+C-Ghoul HP:186/558 MP:104/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1075/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:942/999 MP:520/542
+B-
+C-Ghoul HP:186/558 MP:104/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1075/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Ghoul
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:942/999 MP:520/542
+B-
+C-Ghoul HP:186/558 MP:104/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1075/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Shujinko HP:1075/1317 MP:625/625
+2-Tenkai HP:398/409 MP:386/396
+3-Susano-o HP:901/927 MP:140/184
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ataca a Shujinko
+Shujinko es resistente el ataque de Ghoul
+Shujinko recibe 20 de daño
+Shujinko termina con HP:1055/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:942/999 MP:520/542
+B-
+C-Ghoul HP:186/558 MP:104/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1055/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Susano-o
+3-Tenkai
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tamaki HP:942/999 MP:520/542
+2-Ghoul HP:186/558 MP:104/111
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tamaki HP:942/999 MP:520/542
+2-Ghoul HP:186/558 MP:104/111
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:942/999 MP:520/542
+B-
+C-Ghoul HP:186/558 MP:104/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1055/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Susano-o
+2-Tenkai
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:942/999 MP:520/542
+B-
+C-Ghoul HP:186/558 MP:104/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1055/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Shujinko
+3-Susano-o
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:942/999 MP:520/542
+B-
+C-Ghoul HP:186/558 MP:104/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1055/1317 MP:625/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Susano-o
+3-Tenkai
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:483/483 MP:216/216
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Zionga MP:8
+2-Zanma MP:8
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Tamaki HP:942/999 MP:520/542
+2-Ghoul HP:186/558 MP:104/111
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca con oscuridad a Tamaki
+Tamaki es resistente el ataque de Shujinko
+Tamaki ha sido eliminado
+Tamaki termina con HP:0/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:520/542
+B-
+C-Ghoul HP:186/558 MP:104/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1055/1317 MP:615/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:140/184
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Tenkai
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Ghoul HP:186/558 MP:104/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Ghoul HP:186/558 MP:104/111
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Susano-o lanza viento a Ghoul
+Ghoul recibe 155 de daño
+Ghoul termina con HP:31/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:520/542
+B-
+C-Ghoul HP:31/558 MP:104/111
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1055/1317 MP:615/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:118/184
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kikuri-Hime HP:216/216 MP:210/210
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kikuri-Hime ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:520/542
+B-
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1055/1317 MP:615/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:118/184
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:520/542
+B-
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1055/1317 MP:615/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:118/184
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Susano-o
+3-Tenkai
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:520/542
+B-
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1055/1317 MP:615/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:118/184
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Susano-o
+2-Tenkai
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:483/483 MP:216/216
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:520/542
+B-
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1055/1317 MP:615/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:118/184
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Shujinko
+3-Susano-o
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Kikuri-Hime HP:216/216 MP:210/210
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tenkai ataca a Kikuri-Hime
+Kikuri-Hime recibe 43 de daño
+Kikuri-Hime termina con HP:173/216
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:520/542
+B-
+C-Kikuri-Hime HP:173/216 MP:210/210
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1055/1317 MP:615/625
+B-Tenkai HP:398/409 MP:386/396
+C-Susano-o HP:901/927 MP:118/184
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Susano-o
+3-Tenkai
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Zionga MP:8
+2-Zanma MP:8
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Zionga MP:8
+2-Zanma MP:8
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kikuri-Hime HP:173/216 MP:210/210
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Zionga MP:8
+2-Zanma MP:8
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kikuri-Hime HP:173/216 MP:210/210
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko dispara a Kikuri-Hime
+Kikuri-Hime recibe 228 de daño
+Kikuri-Hime termina con HP:0/216
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Shujinko (J2)

@@ -1,0 +1,1629 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+INPUT: 6
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:350/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mother Harlot
+2-Kanbari
+3-Tadano
+----------------------------------------
+Seleccione una acción para Mother Harlot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mother Harlot
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Itsumade HP:231/231 MP:103/103
+3-Anzu HP:596/596 MP:118/118
+4-Alice HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Mother Harlot ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Mother Harlot
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:350/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Tadano
+3-Mother Harlot
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kanbari
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Itsumade HP:231/231 MP:103/103
+3-Anzu HP:596/596 MP:118/118
+4-Alice HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kanbari ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kanbari
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:350/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Anzu
+3-Alice
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:388/388 MP:193/193
+2-Mother Harlot HP:484/484 MP:469/469
+3-Kanbari HP:350/350 MP:68/68
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend ataca a Kanbari
+Kanbari es débil contra el ataque de Demi-Fiend
+Kanbari recibe 252 de daño
+Kanbari termina con HP:98/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anzu
+2-Alice
+3-Itsumade
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Tadano HP:388/388 MP:193/193
+2-Mother Harlot HP:484/484 MP:469/469
+3-Kanbari HP:98/350 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Anzu ataca a Tadano
+Tadano es resistente el ataque de Anzu
+Tadano recibe 22 de daño
+Tadano termina con HP:366/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:366/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Itsumade
+3-Demi-Fiend
+4-Anzu
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alice
+1-Tadano HP:366/388 MP:193/193
+2-Mother Harlot HP:484/484 MP:469/469
+3-Kanbari HP:98/350 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ataca a Tadano
+Tadano es resistente el ataque de Alice
+Tadano recibe 14 de daño
+Tadano termina con HP:352/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:352/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Demi-Fiend
+3-Anzu
+4-Alice
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Tadano HP:352/388 MP:193/193
+2-Mother Harlot HP:484/484 MP:469/469
+3-Kanbari HP:98/350 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsumade ataca a Tadano
+Tadano es resistente el ataque de Itsumade
+Tadano recibe 8 de daño
+Tadano termina con HP:344/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:344/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Anzu
+3-Alice
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:344/388 MP:193/193
+2-Mother Harlot HP:484/484 MP:469/469
+3-Kanbari HP:98/350 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Tadano
+Tadano es resistente el ataque de Demi-Fiend
+Tadano recibe 84 de daño
+Tadano termina con HP:260/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:260/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mother Harlot
+2-Kanbari
+3-Tadano
+----------------------------------------
+Seleccione una acción para Mother Harlot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mother Harlot
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Itsumade HP:231/231 MP:103/103
+3-Anzu HP:596/596 MP:118/118
+4-Alice HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Mother Harlot ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Mother Harlot
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:260/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Tadano
+3-Mother Harlot
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kanbari
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Itsumade HP:231/231 MP:103/103
+3-Anzu HP:596/596 MP:118/118
+4-Alice HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kanbari ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kanbari
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:260/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Anzu
+3-Alice
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:260/388 MP:193/193
+2-Mother Harlot HP:484/484 MP:469/469
+3-Kanbari HP:98/350 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Tadano
+Tadano es resistente el ataque de Demi-Fiend
+Tadano recibe 84 de daño
+Tadano termina con HP:176/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:176/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Alice
+3-Itsumade
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Tadano HP:176/388 MP:193/193
+2-Mother Harlot HP:484/484 MP:469/469
+3-Kanbari HP:98/350 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Anzu ataca a Tadano
+Tadano es resistente el ataque de Anzu
+Tadano recibe 22 de daño
+Tadano termina con HP:154/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:154/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Itsumade
+3-Demi-Fiend
+4-Anzu
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alice
+1-Tadano HP:154/388 MP:193/193
+2-Mother Harlot HP:484/484 MP:469/469
+3-Kanbari HP:98/350 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ataca a Tadano
+Tadano es resistente el ataque de Alice
+Tadano recibe 14 de daño
+Tadano termina con HP:140/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:140/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Demi-Fiend
+3-Anzu
+4-Alice
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Tadano HP:140/388 MP:193/193
+2-Mother Harlot HP:484/484 MP:469/469
+3-Kanbari HP:98/350 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsumade ataca a Tadano
+Tadano es resistente el ataque de Itsumade
+Tadano recibe 8 de daño
+Tadano termina con HP:132/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:132/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mother Harlot
+2-Kanbari
+3-Tadano
+----------------------------------------
+Seleccione una acción para Mother Harlot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mother Harlot
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Itsumade HP:231/231 MP:103/103
+3-Anzu HP:596/596 MP:118/118
+4-Alice HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Mother Harlot ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Mother Harlot
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:132/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Tadano
+3-Mother Harlot
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kanbari
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Itsumade HP:231/231 MP:103/103
+3-Anzu HP:596/596 MP:118/118
+4-Alice HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kanbari ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kanbari
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:132/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Anzu
+3-Alice
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:132/388 MP:193/193
+2-Mother Harlot HP:484/484 MP:469/469
+3-Kanbari HP:98/350 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Tadano
+Tadano es resistente el ataque de Demi-Fiend
+Tadano recibe 84 de daño
+Tadano termina con HP:48/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:48/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Alice
+3-Itsumade
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Tadano HP:48/388 MP:193/193
+2-Mother Harlot HP:484/484 MP:469/469
+3-Kanbari HP:98/350 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Anzu ataca a Tadano
+Tadano es resistente el ataque de Anzu
+Tadano recibe 22 de daño
+Tadano termina con HP:26/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:26/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Itsumade
+3-Demi-Fiend
+4-Anzu
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alice
+1-Tadano HP:26/388 MP:193/193
+2-Mother Harlot HP:484/484 MP:469/469
+3-Kanbari HP:98/350 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ataca a Tadano
+Tadano es resistente el ataque de Alice
+Tadano recibe 14 de daño
+Tadano termina con HP:12/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:12/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Demi-Fiend
+3-Anzu
+4-Alice
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Tadano HP:12/388 MP:193/193
+2-Mother Harlot HP:484/484 MP:469/469
+3-Kanbari HP:98/350 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsumade ataca a Tadano
+Tadano es resistente el ataque de Itsumade
+Tadano recibe 8 de daño
+Tadano termina con HP:4/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:4/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mother Harlot
+2-Kanbari
+3-Tadano
+----------------------------------------
+Seleccione una acción para Mother Harlot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mother Harlot
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Itsumade HP:231/231 MP:103/103
+3-Anzu HP:596/596 MP:118/118
+4-Alice HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Mother Harlot ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Mother Harlot
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:4/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Tadano
+3-Mother Harlot
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kanbari
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Itsumade HP:231/231 MP:103/103
+3-Anzu HP:596/596 MP:118/118
+4-Alice HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kanbari ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kanbari
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:4/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Anzu
+3-Alice
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:4/388 MP:193/193
+2-Mother Harlot HP:484/484 MP:469/469
+3-Kanbari HP:98/350 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Tadano
+Tadano es resistente el ataque de Demi-Fiend
+Tadano recibe 84 de daño
+Tadano termina con HP:0/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Alice
+3-Itsumade
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alice
+2-Itsumade
+3-Demi-Fiend
+4-Anzu
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Demi-Fiend
+3-Anzu
+4-Alice
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Anzu
+3-Alice
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Alice
+3-Itsumade
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alice
+2-Itsumade
+3-Demi-Fiend
+4-Anzu
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mother Harlot
+2-Kanbari
+----------------------------------------
+Seleccione una acción para Mother Harlot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mother Harlot use
+1-Cup of Babylon MP:65
+2-Maziodyne MP:32
+3-Invitation MP:45
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mother Harlot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mother Harlot
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Itsumade HP:231/231 MP:103/103
+3-Anzu HP:596/596 MP:118/118
+4-Alice HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Mother Harlot ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Mother Harlot
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-Kanbari HP:98/350 MP:68/68
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Anzu
+3-Alice
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Mother Harlot HP:484/484 MP:469/469
+2-Kanbari HP:98/350 MP:68/68
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend ataca a Kanbari
+Kanbari es débil contra el ataque de Demi-Fiend
+Kanbari recibe 252 de daño
+Kanbari termina con HP:0/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anzu
+2-Alice
+3-Itsumade
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Itsumade
+3-Demi-Fiend
+4-Anzu
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsumade
+2-Demi-Fiend
+3-Anzu
+4-Alice
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Anzu
+3-Alice
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anzu
+2-Alice
+3-Itsumade
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Itsumade
+3-Demi-Fiend
+4-Anzu
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsumade
+2-Demi-Fiend
+3-Anzu
+4-Alice
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Mother Harlot HP:484/484 MP:469/469
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mother Harlot
+----------------------------------------
+Seleccione una acción para Mother Harlot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mother Harlot use
+1-Cup of Babylon MP:65
+2-Maziodyne MP:32
+3-Invitation MP:45
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kanbari HP:0/350 MP:68/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Mother Harlot HP:484/484 MP:469/469 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kanbari ha sido invocado
+Mother Harlot revive a Kanbari
+Kanbari recibe 350 de HP
+Kanbari termina con HP:350/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Anzu
+3-Alice
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Kanbari HP:350/350 MP:68/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Kanbari
+Kanbari es débil contra el ataque de Demi-Fiend
+Kanbari recibe 252 de daño
+Kanbari termina con HP:98/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Kanbari HP:98/350 MP:68/68
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anzu
+2-Alice
+3-Itsumade
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Kanbari HP:98/350 MP:68/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Anzu ataca a Kanbari
+Kanbari es débil contra el ataque de Anzu
+Kanbari recibe 67 de daño
+Kanbari termina con HP:31/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Kanbari HP:31/350 MP:68/68
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Itsumade HP:231/231 MP:103/103
+C-Anzu HP:596/596 MP:118/118
+D-Alice HP:277/277 MP:269/269
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Alice
+2-Itsumade
+3-Demi-Fiend
+4-Anzu
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alice
+1-Kanbari HP:31/350 MP:68/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ataca a Kanbari
+Kanbari es débil contra el ataque de Alice
+Kanbari recibe 44 de daño
+Kanbari termina con HP:0/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Ganador: Demi-Fiend (J2)

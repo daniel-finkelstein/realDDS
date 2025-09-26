@@ -1,0 +1,7042 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 30
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Gryphon HP:123/123 MP:23/23
+C-Karasu Tengu HP:238/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:135/135
+D-Ghoul HP:558/558 MP:111/111
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Tamaki
+3-Gryphon
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Makoto HP:597/597 MP:347/347
+2-Kingu HP:464/464 MP:91/91
+3-Nidhoggr HP:681/681 MP:135/135
+4-Ghoul HP:558/558 MP:111/111
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Karasu Tengu ataca a Ghoul
+Ghoul recibe 18 de daño
+Ghoul termina con HP:540/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Gryphon HP:123/123 MP:23/23
+C-Karasu Tengu HP:238/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:135/135
+D-Ghoul HP:540/558 MP:111/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Gryphon
+3-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Zan MP:5
+2-Agilao MP:8
+3-Hamaon MP:10
+4-Berserker God MP:12
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:597/597 MP:347/347
+2-Kingu HP:464/464 MP:91/91
+3-Nidhoggr HP:681/681 MP:135/135
+4-Ghoul HP:540/558 MP:111/111
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki dispara a Makoto
+Makoto es resistente el ataque de Tamaki
+Makoto recibe 7 de daño
+Makoto termina con HP:590/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Gryphon HP:123/123 MP:23/23
+C-Karasu Tengu HP:238/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:590/597 MP:347/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:135/135
+D-Ghoul HP:540/558 MP:111/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Karasu Tengu
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Makoto HP:590/597 MP:347/347
+2-Kingu HP:464/464 MP:91/91
+3-Nidhoggr HP:681/681 MP:135/135
+4-Ghoul HP:540/558 MP:111/111
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Gryphon ataca a Makoto
+Makoto es resistente el ataque de Gryphon
+Makoto recibe 2 de daño
+Makoto termina con HP:588/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Gryphon HP:123/123 MP:23/23
+C-Karasu Tengu HP:238/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:588/597 MP:347/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:135/135
+D-Ghoul HP:540/558 MP:111/111
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Ghoul
+4-Kingu
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:999/999 MP:542/542
+2-Gryphon HP:123/123 MP:23/23
+3-Karasu Tengu HP:238/238 MP:107/107
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:999/999 MP:542/542
+2-Gryphon HP:123/123 MP:23/23
+3-Karasu Tengu HP:238/238 MP:107/107
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nidhoggr ataca a Gryphon
+Gryphon recibe 52 de daño
+Gryphon termina con HP:71/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Gryphon HP:71/123 MP:23/23
+C-Karasu Tengu HP:238/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:588/597 MP:347/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:135/135
+D-Ghoul HP:540/558 MP:111/111
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:999/999 MP:542/542
+2-Gryphon HP:71/123 MP:23/23
+3-Karasu Tengu HP:238/238 MP:107/107
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto ataca a Karasu Tengu
+Karasu Tengu recibe 38 de daño
+Karasu Tengu termina con HP:200/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Gryphon HP:71/123 MP:23/23
+C-Karasu Tengu HP:200/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:588/597 MP:347/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:135/135
+D-Ghoul HP:540/558 MP:111/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Kingu
+3-Nidhoggr
+4-Makoto
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:350/350 MP:68/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sedna ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Gryphon HP:71/123 MP:23/23
+C-Karasu Tengu HP:200/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:588/597 MP:347/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:135/135
+D-Sedna HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Nidhoggr
+3-Makoto
+4-Sedna
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tamaki HP:999/999 MP:542/542
+2-Gryphon HP:71/123 MP:23/23
+3-Karasu Tengu HP:200/238 MP:107/107
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kingu ataca a Gryphon
+Gryphon recibe 34 de daño
+Gryphon termina con HP:37/123
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Gryphon HP:37/123 MP:23/23
+C-Karasu Tengu HP:200/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:588/597 MP:347/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:135/135
+D-Sedna HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Sedna
+4-Kingu
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Gryphon HP:37/123 MP:23/23
+C-Karasu Tengu HP:200/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:588/597 MP:347/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:135/135
+D-Sedna HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Sedna
+3-Kingu
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:540/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:999/999 MP:542/542
+2-Gryphon HP:37/123 MP:23/23
+3-Karasu Tengu HP:200/238 MP:107/107
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Tamaki
+Tamaki es resistente el ataque de Makoto
+Tamaki recibe 19 de daño
+Tamaki termina con HP:980/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:980/999 MP:542/542
+B-Gryphon HP:37/123 MP:23/23
+C-Karasu Tengu HP:200/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:588/597 MP:347/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:135/135
+D-Sedna HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Tamaki
+3-Gryphon
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:980/999 MP:542/542
+B-Gryphon HP:37/123 MP:23/23
+C-Karasu Tengu HP:200/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:588/597 MP:347/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:135/135
+D-Sedna HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Gryphon
+3-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:588/597 MP:347/347
+2-Kingu HP:464/464 MP:91/91
+3-Nidhoggr HP:681/681 MP:135/135
+4-Sedna HP:350/350 MP:68/68
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:588/597 MP:347/347
+2-Kingu HP:464/464 MP:91/91
+3-Nidhoggr HP:681/681 MP:135/135
+4-Sedna HP:350/350 MP:68/68
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki dispara a Makoto
+Makoto es resistente el ataque de Tamaki
+Makoto recibe 7 de daño
+Makoto termina con HP:581/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:980/999 MP:542/542
+B-Gryphon HP:37/123 MP:23/23
+C-Karasu Tengu HP:200/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:135/135
+D-Sedna HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Karasu Tengu
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:980/999 MP:542/542
+B-Gryphon HP:37/123 MP:23/23
+C-Karasu Tengu HP:200/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:135/135
+D-Sedna HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Tamaki
+3-Gryphon
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:980/999 MP:542/542
+B-Gryphon HP:37/123 MP:23/23
+C-Karasu Tengu HP:200/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:135/135
+D-Sedna HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Gryphon
+3-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:581/597 MP:347/347
+2-Kingu HP:464/464 MP:91/91
+3-Nidhoggr HP:681/681 MP:135/135
+4-Sedna HP:350/350 MP:68/68
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki dispara a Makoto
+Makoto es resistente el ataque de Tamaki
+Makoto recibe 7 de daño
+Makoto termina con HP:574/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:980/999 MP:542/542
+B-Gryphon HP:37/123 MP:23/23
+C-Karasu Tengu HP:200/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:347/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:135/135
+D-Sedna HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Kingu
+4-Sedna
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:980/999 MP:542/542
+2-Gryphon HP:37/123 MP:23/23
+3-Karasu Tengu HP:200/238 MP:107/107
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nidhoggr dispara a Karasu Tengu
+Karasu Tengu recibe 129 de daño
+Karasu Tengu termina con HP:71/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:980/999 MP:542/542
+B-Gryphon HP:37/123 MP:23/23
+C-Karasu Tengu HP:71/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:347/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:124/135
+D-Sedna HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Kingu
+3-Sedna
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:980/999 MP:542/542
+2-Gryphon HP:37/123 MP:23/23
+3-Karasu Tengu HP:71/238 MP:107/107
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto ataca con luz a Gryphon
+Gryphon ha sido eliminado
+Gryphon termina con HP:0/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:980/999 MP:542/542
+B-
+C-Karasu Tengu HP:71/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:124/135
+D-Sedna HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Sedna
+3-Nidhoggr
+4-Makoto
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tamaki HP:980/999 MP:542/542
+2-Karasu Tengu HP:71/238 MP:107/107
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tamaki HP:980/999 MP:542/542
+2-Karasu Tengu HP:71/238 MP:107/107
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ataca a Tamaki
+Tamaki es resistente el ataque de Kingu
+Tamaki recibe 17 de daño
+Tamaki termina con HP:963/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:963/999 MP:542/542
+B-
+C-Karasu Tengu HP:71/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:124/135
+D-Sedna HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Nidhoggr
+3-Makoto
+4-Kingu
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sedna use
+1-Mabufula MP:20
+2-Mamudo MP:18
+3-Posumudi MP:5
+4-Diarama MP:9
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Makoto HP:574/597 MP:337/347
+2-Kingu HP:464/464 MP:91/91
+3-Nidhoggr HP:681/681 MP:124/135
+4-Sedna HP:350/350 MP:68/68
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Sedna cura a Nidhoggr
+Nidhoggr recibe 340 de HP
+Nidhoggr termina con HP:681/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:963/999 MP:542/542
+B-
+C-Karasu Tengu HP:71/238 MP:107/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:464/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:124/135
+D-Sedna HP:350/350 MP:59/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Karasu Tengu use
+1-Gram Slice MP:5
+2-Rapid Needle MP:9
+3-Mahama MP:18
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Makoto HP:574/597 MP:337/347
+2-Kingu HP:464/464 MP:91/91
+3-Nidhoggr HP:681/681 MP:124/135
+4-Sedna HP:350/350 MP:59/68
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Karasu Tengu ataca a Kingu
+Kingu recibe 54 de daño
+Kingu termina con HP:410/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:963/999 MP:542/542
+B-
+C-Karasu Tengu HP:71/238 MP:102/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:124/135
+D-Sedna HP:350/350 MP:59/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:574/597 MP:337/347
+2-Kingu HP:410/464 MP:91/91
+3-Nidhoggr HP:681/681 MP:124/135
+4-Sedna HP:350/350 MP:59/68
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tamaki dispara a Sedna
+Sedna recibe 15 de daño
+Sedna termina con HP:335/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:963/999 MP:542/542
+B-
+C-Karasu Tengu HP:71/238 MP:102/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:124/135
+D-Sedna HP:335/350 MP:59/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Kingu
+4-Sedna
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:540/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:963/999 MP:542/542
+B-
+C-Karasu Tengu HP:71/238 MP:102/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:124/135
+D-Sedna HP:335/350 MP:59/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Kingu
+3-Sedna
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:540/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:963/999 MP:542/542
+2-Karasu Tengu HP:71/238 MP:102/107
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto dispara a Karasu Tengu
+Karasu Tengu recibe 57 de daño
+Karasu Tengu termina con HP:14/238
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:963/999 MP:542/542
+B-
+C-Karasu Tengu HP:14/238 MP:102/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:124/135
+D-Sedna HP:335/350 MP:59/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Sedna
+3-Nidhoggr
+4-Makoto
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:963/999 MP:542/542
+B-
+C-Karasu Tengu HP:14/238 MP:102/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:124/135
+D-Sedna HP:335/350 MP:59/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sedna
+2-Nidhoggr
+3-Makoto
+4-Kingu
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:540/558 MP:111/111
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:963/999 MP:542/542
+B-
+C-Karasu Tengu HP:14/238 MP:102/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:124/135
+D-Ghoul HP:540/558 MP:111/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Kingu
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:963/999 MP:542/542
+B-
+C-Karasu Tengu HP:14/238 MP:102/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Nidhoggr HP:681/681 MP:124/135
+D-Ghoul HP:540/558 MP:111/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Kingu
+3-Ghoul
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:335/350 MP:59/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:335/350 MP:59/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kingu HP:410/464 MP:91/91 (Puesto 2)
+2-Nidhoggr HP:681/681 MP:124/135 (Puesto 3)
+3-Ghoul HP:540/558 MP:111/111 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Sedna ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:963/999 MP:542/542
+B-
+C-Karasu Tengu HP:14/238 MP:102/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Sedna HP:335/350 MP:59/68
+D-Ghoul HP:540/558 MP:111/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Ghoul
+3-Sedna
+4-Makoto
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:963/999 MP:542/542
+B-
+C-Karasu Tengu HP:14/238 MP:102/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Sedna HP:335/350 MP:59/68
+D-Ghoul HP:540/558 MP:111/111
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ghoul
+2-Sedna
+3-Makoto
+4-Kingu
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:681/681 MP:124/135
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Tamaki HP:963/999 MP:542/542
+2-Karasu Tengu HP:14/238 MP:102/107
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Tamaki HP:963/999 MP:542/542
+2-Karasu Tengu HP:14/238 MP:102/107
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Tamaki HP:963/999 MP:542/542
+2-Karasu Tengu HP:14/238 MP:102/107
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:681/681 MP:124/135
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Tamaki HP:963/999 MP:542/542
+2-Karasu Tengu HP:14/238 MP:102/107
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Tamaki HP:963/999 MP:542/542
+2-Karasu Tengu HP:14/238 MP:102/107
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ataca a Tamaki
+Tamaki es resistente el ataque de Ghoul
+Tamaki recibe 20 de daño
+Tamaki termina con HP:943/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:943/999 MP:542/542
+B-
+C-Karasu Tengu HP:14/238 MP:102/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Sedna HP:335/350 MP:59/68
+D-Ghoul HP:540/558 MP:111/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Makoto HP:574/597 MP:337/347
+2-Kingu HP:410/464 MP:91/91
+3-Sedna HP:335/350 MP:59/68
+4-Ghoul HP:540/558 MP:111/111
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Karasu Tengu ataca a Sedna
+Sedna recibe 18 de daño
+Sedna termina con HP:317/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:943/999 MP:542/542
+B-
+C-Karasu Tengu HP:14/238 MP:102/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Sedna HP:317/350 MP:59/68
+D-Ghoul HP:540/558 MP:111/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Zan MP:5
+2-Agilao MP:8
+3-Hamaon MP:10
+4-Berserker God MP:12
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:943/999 MP:542/542
+B-
+C-Karasu Tengu HP:14/238 MP:102/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Sedna HP:317/350 MP:59/68
+D-Ghoul HP:540/558 MP:111/111
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:943/999 MP:542/542
+B-
+C-Karasu Tengu HP:14/238 MP:102/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Sedna HP:317/350 MP:59/68
+D-Ghoul HP:540/558 MP:111/111
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Sedna
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:943/999 MP:542/542
+2-Karasu Tengu HP:14/238 MP:102/107
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Tamaki
+Tamaki es resistente el ataque de Makoto
+Tamaki recibe 28 de daño
+Tamaki termina con HP:915/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:915/999 MP:542/542
+B-
+C-Karasu Tengu HP:14/238 MP:102/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Sedna HP:317/350 MP:59/68
+D-Ghoul HP:540/558 MP:111/111
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Kingu
+3-Sedna
+4-Makoto
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:915/999 MP:542/542
+B-
+C-Karasu Tengu HP:14/238 MP:102/107
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Sedna HP:317/350 MP:59/68
+D-Ghoul HP:540/558 MP:111/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Sedna
+3-Makoto
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tamaki HP:915/999 MP:542/542
+2-Karasu Tengu HP:14/238 MP:102/107
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kingu ataca a Karasu Tengu
+Karasu Tengu recibe 34 de daño
+Karasu Tengu termina con HP:0/238
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:915/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Sedna HP:317/350 MP:59/68
+D-Ghoul HP:540/558 MP:111/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Makoto
+3-Ghoul
+4-Kingu
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:681/681 MP:124/135
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:681/681 MP:124/135
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:915/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Sedna HP:317/350 MP:59/68
+D-Ghoul HP:540/558 MP:111/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Sedna
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:915/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:915/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:681/681 MP:124/135
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kingu HP:410/464 MP:91/91 (Puesto 2)
+2-Sedna HP:317/350 MP:59/68 (Puesto 3)
+3-Ghoul HP:540/558 MP:111/111 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nidhoggr ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:915/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Sedna HP:317/350 MP:59/68
+D-Nidhoggr HP:681/681 MP:124/135
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Kingu
+3-Sedna
+4-Makoto
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:915/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ataca a Tamaki
+Tamaki es resistente el ataque de Nidhoggr
+Tamaki recibe 26 de daño
+Tamaki termina con HP:889/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:889/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:410/464 MP:91/91
+C-Sedna HP:317/350 MP:59/68
+D-Nidhoggr HP:681/681 MP:124/135
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:574/597 MP:337/347
+2-Kingu HP:410/464 MP:91/91
+3-Sedna HP:317/350 MP:59/68
+4-Nidhoggr HP:681/681 MP:124/135
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki ataca a Kingu
+Kingu recibe 18 de daño
+Kingu termina con HP:392/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:889/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:392/464 MP:91/91
+C-Sedna HP:317/350 MP:59/68
+D-Nidhoggr HP:681/681 MP:124/135
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Kingu
+4-Sedna
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:889/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:392/464 MP:91/91
+C-Sedna HP:317/350 MP:59/68
+D-Nidhoggr HP:681/681 MP:124/135
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Kingu
+3-Sedna
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:540/558 MP:111/111
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kingu HP:392/464 MP:91/91 (Puesto 2)
+2-Sedna HP:317/350 MP:59/68 (Puesto 3)
+3-Nidhoggr HP:681/681 MP:124/135 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ghoul ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:889/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:392/464 MP:91/91
+C-Ghoul HP:540/558 MP:111/111
+D-Nidhoggr HP:681/681 MP:124/135
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Ghoul
+3-Nidhoggr
+4-Makoto
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tamaki HP:889/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ataca a Tamaki
+Tamaki es resistente el ataque de Kingu
+Tamaki recibe 17 de daño
+Tamaki termina con HP:872/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:872/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:392/464 MP:91/91
+C-Ghoul HP:540/558 MP:111/111
+D-Nidhoggr HP:681/681 MP:124/135
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Nidhoggr
+3-Makoto
+4-Kingu
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Tamaki HP:872/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ataca a Tamaki
+Tamaki es resistente el ataque de Ghoul
+Tamaki recibe 48 de daño
+Tamaki termina con HP:824/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:824/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:392/464 MP:91/91
+C-Ghoul HP:540/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:124/135
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Kingu
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:824/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:824/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr dispara a Tamaki
+Tamaki es resistente el ataque de Nidhoggr
+Tamaki recibe 64 de daño
+Tamaki termina con HP:760/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:760/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:392/464 MP:91/91
+C-Ghoul HP:540/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:574/597 MP:337/347
+2-Kingu HP:392/464 MP:91/91
+3-Ghoul HP:540/558 MP:104/111
+4-Nidhoggr HP:681/681 MP:113/135
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:760/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:392/464 MP:91/91
+C-Ghoul HP:540/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:574/597 MP:337/347
+2-Kingu HP:392/464 MP:91/91
+3-Ghoul HP:540/558 MP:104/111
+4-Nidhoggr HP:681/681 MP:113/135
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki ataca a Ghoul
+Ghoul recibe 18 de daño
+Ghoul termina con HP:522/558
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:760/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:392/464 MP:91/91
+C-Ghoul HP:522/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Ghoul
+4-Kingu
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:760/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ataca a Tamaki
+Tamaki es resistente el ataque de Nidhoggr
+Tamaki recibe 26 de daño
+Tamaki termina con HP:734/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:734/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:392/464 MP:91/91
+C-Ghoul HP:522/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:734/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:734/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:734/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Tamaki
+Tamaki es resistente el ataque de Makoto
+Tamaki recibe 28 de daño
+Tamaki termina con HP:706/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:706/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:392/464 MP:91/91
+C-Ghoul HP:522/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Kingu
+3-Nidhoggr
+4-Makoto
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:706/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:392/464 MP:91/91
+C-Ghoul HP:522/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Nidhoggr
+3-Makoto
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:706/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:392/464 MP:91/91
+C-Ghoul HP:522/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Ghoul
+4-Kingu
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:706/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:392/464 MP:91/91
+C-Ghoul HP:522/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:706/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:706/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Tamaki
+Tamaki es resistente el ataque de Makoto
+Tamaki recibe 28 de daño
+Tamaki termina con HP:678/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:678/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:392/464 MP:91/91
+C-Ghoul HP:522/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:678/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:392/464 MP:91/91
+C-Ghoul HP:522/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:574/597 MP:337/347
+2-Kingu HP:392/464 MP:91/91
+3-Ghoul HP:522/558 MP:104/111
+4-Nidhoggr HP:681/681 MP:113/135
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki dispara a Kingu
+Kingu recibe 15 de daño
+Kingu termina con HP:377/464
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:678/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:377/464 MP:91/91
+C-Ghoul HP:522/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Ghoul
+4-Kingu
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:678/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Kingu HP:377/464 MP:91/91
+C-Ghoul HP:522/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:678/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:678/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca con luz a Tamaki
+Tamaki bloquea el ataque de Makoto
+Tamaki termina con HP:678/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:678/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:327/347
+B-Kingu HP:377/464 MP:91/91
+C-Ghoul HP:522/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Kingu
+3-Nidhoggr
+4-Makoto
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Tamaki HP:678/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Tamaki HP:678/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ataca a Tamaki
+Tamaki es resistente el ataque de Ghoul
+Tamaki recibe 20 de daño
+Tamaki termina con HP:658/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:658/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:327/347
+B-Kingu HP:377/464 MP:91/91
+C-Ghoul HP:522/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Nidhoggr
+3-Makoto
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:658/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:327/347
+B-Kingu HP:377/464 MP:91/91
+C-Ghoul HP:522/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Ghoul
+4-Kingu
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:658/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:658/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sedna ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:658/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:327/347
+B-Kingu HP:377/464 MP:91/91
+C-Ghoul HP:522/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:574/597 MP:327/347
+2-Kingu HP:377/464 MP:91/91
+3-Ghoul HP:522/558 MP:104/111
+4-Sedna HP:317/350 MP:59/68
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki ataca a Makoto
+Makoto es resistente el ataque de Tamaki
+Makoto recibe 9 de daño
+Makoto termina con HP:565/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:658/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:91/91
+C-Ghoul HP:522/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Sedna
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:658/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Tamaki
+Tamaki es resistente el ataque de Makoto
+Tamaki recibe 19 de daño
+Tamaki termina con HP:639/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:639/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:91/91
+C-Ghoul HP:522/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Kingu
+3-Sedna
+4-Makoto
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Tamaki HP:639/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Tamaki HP:639/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ataca a Tamaki
+Tamaki es resistente el ataque de Ghoul
+Tamaki recibe 20 de daño
+Tamaki termina con HP:619/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:619/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:91/91
+C-Ghoul HP:522/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Sedna
+3-Makoto
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:681/681 MP:113/135
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tamaki HP:619/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu lanza viento a Tamaki
+Tamaki es resistente el ataque de Kingu
+Tamaki recibe 36 de daño
+Tamaki termina con HP:583/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:583/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:83/91
+C-Ghoul HP:522/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Makoto
+3-Ghoul
+4-Kingu
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:583/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:83/91
+C-Ghoul HP:522/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Sedna
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:681/681 MP:113/135
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:583/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:83/91
+C-Ghoul HP:522/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:565/597 MP:327/347
+2-Kingu HP:377/464 MP:83/91
+3-Ghoul HP:522/558 MP:104/111
+4-Sedna HP:317/350 MP:59/68
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki dispara a Ghoul
+Ghoul recibe 15 de daño
+Ghoul termina con HP:507/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:583/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:83/91
+C-Ghoul HP:507/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Sedna
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:681/681 MP:113/135
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:681/681 MP:113/135
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:583/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:83/91
+C-Ghoul HP:507/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ghoul
+2-Kingu
+3-Sedna
+4-Makoto
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:583/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:83/91
+C-Ghoul HP:507/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Sedna
+3-Makoto
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:681/681 MP:113/135
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tamaki HP:583/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tamaki HP:583/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu lanza viento a Tamaki
+Tamaki es resistente el ataque de Kingu
+Tamaki recibe 36 de daño
+Tamaki termina con HP:547/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:547/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:75/91
+C-Ghoul HP:507/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Makoto
+3-Ghoul
+4-Kingu
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:547/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:75/91
+C-Ghoul HP:507/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Sedna
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:547/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:75/91
+C-Ghoul HP:507/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Kingu
+3-Sedna
+4-Makoto
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:681/681 MP:113/135
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:547/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:75/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Sedna
+3-Makoto
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tamaki HP:547/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu lanza viento a Tamaki
+Tamaki es resistente el ataque de Kingu
+Tamaki recibe 36 de daño
+Tamaki termina con HP:511/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:511/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:511/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:511/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Kingu
+4-Sedna
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:511/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Kingu
+3-Sedna
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:511/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Tamaki
+Tamaki es resistente el ataque de Makoto
+Tamaki recibe 19 de daño
+Tamaki termina con HP:492/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:492/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Sedna
+3-Nidhoggr
+4-Makoto
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:492/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sedna
+2-Nidhoggr
+3-Makoto
+4-Kingu
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:507/558 MP:104/111
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:492/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Kingu
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:492/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:492/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:492/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Kingu
+3-Ghoul
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:492/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Ghoul
+3-Nidhoggr
+4-Makoto
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tamaki HP:492/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tamaki HP:492/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ataca a Tamaki
+Tamaki es resistente el ataque de Kingu
+Tamaki recibe 17 de daño
+Tamaki termina con HP:475/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:475/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:377/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:565/597 MP:327/347
+2-Kingu HP:377/464 MP:67/91
+3-Nidhoggr HP:681/681 MP:113/135
+4-Ghoul HP:507/558 MP:104/111
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki dispara a Kingu
+Kingu recibe 15 de daño
+Kingu termina con HP:362/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:475/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:362/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Ghoul
+4-Kingu
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:475/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ataca a Tamaki
+Tamaki es resistente el ataque de Nidhoggr
+Tamaki recibe 26 de daño
+Tamaki termina con HP:449/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:449/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:362/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:449/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:362/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ghoul
+2-Kingu
+3-Nidhoggr
+4-Makoto
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:449/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:362/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Nidhoggr
+3-Makoto
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tamaki HP:449/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sedna ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:449/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Sedna HP:317/350 MP:59/68
+C-Nidhoggr HP:681/681 MP:113/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Ghoul
+4-Sedna
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:362/464 MP:67/91
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:449/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Sedna HP:317/350 MP:59/68
+C-Kingu HP:362/464 MP:67/91
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Sedna
+4-Kingu
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:681/681 MP:113/135
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:449/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Tamaki
+Tamaki es resistente el ataque de Makoto
+Tamaki recibe 19 de daño
+Tamaki termina con HP:430/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:430/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Sedna HP:317/350 MP:59/68
+C-Kingu HP:362/464 MP:67/91
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:565/597 MP:327/347
+2-Sedna HP:317/350 MP:59/68
+3-Kingu HP:362/464 MP:67/91
+4-Ghoul HP:507/558 MP:104/111
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki dispara a Kingu
+Kingu recibe 15 de daño
+Kingu termina con HP:347/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:430/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Sedna HP:317/350 MP:59/68
+C-Kingu HP:347/464 MP:67/91
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Sedna
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:681/681 MP:113/135
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Sedna HP:317/350 MP:59/68 (Puesto 2)
+2-Kingu HP:347/464 MP:67/91 (Puesto 3)
+3-Ghoul HP:507/558 MP:104/111 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nidhoggr ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:430/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Sedna HP:317/350 MP:59/68
+C-Kingu HP:347/464 MP:67/91
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Kingu
+3-Sedna
+4-Makoto
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:430/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ataca a Tamaki
+Tamaki es resistente el ataque de Nidhoggr
+Tamaki recibe 26 de daño
+Tamaki termina con HP:404/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:404/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Sedna HP:317/350 MP:59/68
+C-Kingu HP:347/464 MP:67/91
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Sedna
+3-Makoto
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:507/558 MP:104/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:507/558 MP:104/111
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:404/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Sedna HP:317/350 MP:59/68
+C-Ghoul HP:507/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sedna
+2-Makoto
+3-Nidhoggr
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sedna use
+1-Mabufula MP:20
+2-Mamudo MP:18
+3-Posumudi MP:5
+4-Diarama MP:9
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:347/464 MP:67/91
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:404/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:347/464 MP:67/91
+C-Ghoul HP:507/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Nidhoggr
+3-Ghoul
+4-Kingu
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:404/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:347/464 MP:67/91
+C-Ghoul HP:507/558 MP:104/111
+D-Nidhoggr HP:681/681 MP:113/135
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Ghoul
+3-Kingu
+4-Makoto
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sedna ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:404/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:347/464 MP:67/91
+C-Ghoul HP:507/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Kingu
+3-Makoto
+4-Sedna
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Tamaki HP:404/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ataca a Tamaki
+Tamaki es resistente el ataque de Ghoul
+Tamaki recibe 20 de daño
+Tamaki termina con HP:384/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:384/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:347/464 MP:67/91
+C-Ghoul HP:507/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:384/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:565/597 MP:327/347
+B-Kingu HP:347/464 MP:67/91
+C-Ghoul HP:507/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:565/597 MP:327/347
+2-Kingu HP:347/464 MP:67/91
+3-Ghoul HP:507/558 MP:104/111
+4-Sedna HP:317/350 MP:59/68
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki dispara a Makoto
+Makoto es resistente el ataque de Tamaki
+Makoto recibe 7 de daño
+Makoto termina con HP:558/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:384/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:327/347
+B-Kingu HP:347/464 MP:67/91
+C-Ghoul HP:507/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Sedna
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:384/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:384/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:384/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:384/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:384/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca con luz a Tamaki
+Tamaki bloquea el ataque de Makoto
+Tamaki termina con HP:384/999
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:384/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Ghoul HP:507/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Kingu
+3-Sedna
+4-Makoto
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:681/681 MP:113/135
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:384/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Sedna
+3-Makoto
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tamaki HP:384/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:507/558 MP:104/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:384/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Makoto
+3-Nidhoggr
+4-Kingu
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sedna use
+1-Mabufula MP:20
+2-Mamudo MP:18
+3-Posumudi MP:5
+4-Diarama MP:9
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Tamaki HP:384/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sedna ataca a Tamaki
+Tamaki es resistente el ataque de Sedna
+Tamaki recibe 12 de daño
+Tamaki termina con HP:372/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:372/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:372/999 MP:542/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Zan MP:5
+2-Agilao MP:8
+3-Hamaon MP:10
+4-Berserker God MP:12
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:558/597 MP:317/347
+2-Kingu HP:347/464 MP:67/91
+3-Nidhoggr HP:681/681 MP:113/135
+4-Sedna HP:317/350 MP:59/68
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki ataca con luz a Makoto
+Tamaki ha fallado el ataque
+Makoto termina con HP:558/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:372/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Kingu
+4-Sedna
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:507/558 MP:104/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:372/999 MP:532/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ataca a Tamaki
+Tamaki es resistente el ataque de Nidhoggr
+Tamaki recibe 26 de daño
+Tamaki termina con HP:346/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:346/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Kingu
+3-Sedna
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:346/999 MP:532/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:346/999 MP:532/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Tamaki
+Tamaki es resistente el ataque de Makoto
+Tamaki recibe 19 de daño
+Tamaki termina con HP:327/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:327/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Sedna
+3-Nidhoggr
+4-Makoto
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:327/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sedna
+2-Nidhoggr
+3-Makoto
+4-Kingu
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:507/558 MP:104/111
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:327/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:113/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Kingu
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:327/999 MP:532/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:327/999 MP:532/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr dispara a Tamaki
+Tamaki es resistente el ataque de Nidhoggr
+Tamaki recibe 64 de daño
+Tamaki termina con HP:263/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:263/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:681/681 MP:102/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:558/597 MP:317/347
+2-Kingu HP:347/464 MP:67/91
+3-Nidhoggr HP:681/681 MP:102/135
+4-Ghoul HP:507/558 MP:104/111
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:558/597 MP:317/347
+2-Kingu HP:347/464 MP:67/91
+3-Nidhoggr HP:681/681 MP:102/135
+4-Ghoul HP:507/558 MP:104/111
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Tamaki
+Nidhoggr recibe 9 de daño
+Nidhoggr termina con HP:672/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:263/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:672/681 MP:102/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Ghoul
+4-Kingu
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:263/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:672/681 MP:102/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:263/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:672/681 MP:102/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Kingu
+3-Nidhoggr
+4-Makoto
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Tamaki HP:263/999 MP:532/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ataca a Tamaki
+Tamaki es resistente el ataque de Ghoul
+Tamaki recibe 20 de daño
+Tamaki termina con HP:243/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:243/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:672/681 MP:102/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Nidhoggr
+3-Makoto
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tamaki HP:243/999 MP:532/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ataca a Tamaki
+Tamaki es resistente el ataque de Kingu
+Tamaki recibe 17 de daño
+Tamaki termina con HP:226/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:226/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:672/681 MP:102/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Ghoul
+4-Kingu
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:226/999 MP:532/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:226/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:672/681 MP:102/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:226/999 MP:532/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Tamaki
+Tamaki es resistente el ataque de Makoto
+Tamaki recibe 28 de daño
+Tamaki termina con HP:198/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:198/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:672/681 MP:102/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:558/597 MP:317/347
+2-Kingu HP:347/464 MP:67/91
+3-Nidhoggr HP:672/681 MP:102/135
+4-Ghoul HP:507/558 MP:104/111
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:198/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:672/681 MP:102/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:198/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:672/681 MP:102/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Ghoul
+4-Kingu
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:198/999 MP:532/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:198/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:672/681 MP:102/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:198/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:672/681 MP:102/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Kingu
+3-Nidhoggr
+4-Makoto
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Tamaki HP:198/999 MP:532/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:198/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:672/681 MP:102/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Nidhoggr
+3-Makoto
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:198/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:672/681 MP:102/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Ghoul
+4-Kingu
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:198/999 MP:532/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ataca a Tamaki
+Tamaki es resistente el ataque de Nidhoggr
+Tamaki recibe 26 de daño
+Tamaki termina con HP:172/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:172/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:672/681 MP:102/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:172/999 MP:532/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Tamaki
+Tamaki es resistente el ataque de Makoto
+Tamaki recibe 19 de daño
+Tamaki termina con HP:153/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:532/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:672/681 MP:102/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Zan MP:5
+2-Agilao MP:8
+3-Hamaon MP:10
+4-Berserker God MP:12
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:558/597 MP:317/347
+2-Kingu HP:347/464 MP:67/91
+3-Nidhoggr HP:672/681 MP:102/135
+4-Ghoul HP:507/558 MP:104/111
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki lanza viento a Kingu
+Kingu bloquea el ataque de Tamaki
+Kingu termina con HP:347/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:527/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:672/681 MP:102/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Ghoul
+4-Kingu
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:527/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Nidhoggr HP:672/681 MP:102/135
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:153/999 MP:527/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kingu HP:347/464 MP:67/91 (Puesto 2)
+2-Nidhoggr HP:672/681 MP:102/135 (Puesto 3)
+3-Ghoul HP:507/558 MP:104/111 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Sedna ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:527/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Sedna HP:317/350 MP:59/68
+D-Ghoul HP:507/558 MP:104/111
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Kingu
+3-Sedna
+4-Makoto
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:672/681 MP:102/135
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:153/999 MP:527/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Sedna HP:317/350 MP:59/68
+D-Nidhoggr HP:672/681 MP:102/135
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Sedna
+3-Makoto
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tamaki HP:153/999 MP:527/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ataca a Tamaki
+Tamaki es resistente el ataque de Kingu
+Tamaki recibe 17 de daño
+Tamaki termina con HP:136/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:136/999 MP:527/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Sedna HP:317/350 MP:59/68
+D-Nidhoggr HP:672/681 MP:102/135
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Makoto
+3-Nidhoggr
+4-Kingu
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:507/558 MP:104/111
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:136/999 MP:527/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:317/347
+B-Kingu HP:347/464 MP:67/91
+C-Ghoul HP:507/558 MP:104/111
+D-Nidhoggr HP:672/681 MP:102/135
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Nidhoggr
+3-Kingu
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:136/999 MP:527/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca con luz a Tamaki
+Tamaki bloquea el ataque de Makoto
+Tamaki termina con HP:136/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:136/999 MP:527/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:558/597 MP:307/347
+B-Kingu HP:347/464 MP:67/91
+C-Ghoul HP:507/558 MP:104/111
+D-Nidhoggr HP:672/681 MP:102/135
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:558/597 MP:307/347
+2-Kingu HP:347/464 MP:67/91
+3-Ghoul HP:507/558 MP:104/111
+4-Nidhoggr HP:672/681 MP:102/135
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki ataca a Makoto
+Makoto es resistente el ataque de Tamaki
+Makoto recibe 9 de daño
+Makoto termina con HP:549/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:136/999 MP:527/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:549/597 MP:307/347
+B-Kingu HP:347/464 MP:67/91
+C-Ghoul HP:507/558 MP:104/111
+D-Nidhoggr HP:672/681 MP:102/135
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Ghoul
+4-Kingu
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:136/999 MP:527/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr dispara a Tamaki
+Tamaki es resistente el ataque de Nidhoggr
+Tamaki recibe 64 de daño
+Tamaki termina con HP:72/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:72/999 MP:527/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:549/597 MP:307/347
+B-Kingu HP:347/464 MP:67/91
+C-Ghoul HP:507/558 MP:104/111
+D-Nidhoggr HP:672/681 MP:91/135
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:72/999 MP:527/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:72/999 MP:527/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Tamaki
+Tamaki es resistente el ataque de Makoto
+Tamaki recibe 28 de daño
+Tamaki termina con HP:44/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:44/999 MP:527/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:549/597 MP:307/347
+B-Kingu HP:347/464 MP:67/91
+C-Ghoul HP:507/558 MP:104/111
+D-Nidhoggr HP:672/681 MP:91/135
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Kingu
+3-Nidhoggr
+4-Makoto
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Tamaki HP:44/999 MP:527/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:44/999 MP:527/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:549/597 MP:307/347
+B-Kingu HP:347/464 MP:67/91
+C-Ghoul HP:507/558 MP:104/111
+D-Nidhoggr HP:672/681 MP:91/135
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Nidhoggr
+3-Makoto
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tamaki HP:44/999 MP:527/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ataca a Tamaki
+Tamaki es resistente el ataque de Kingu
+Tamaki recibe 17 de daño
+Tamaki termina con HP:27/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:27/999 MP:527/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:549/597 MP:307/347
+B-Kingu HP:347/464 MP:67/91
+C-Ghoul HP:507/558 MP:104/111
+D-Nidhoggr HP:672/681 MP:91/135
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Ghoul
+4-Kingu
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:27/999 MP:527/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:27/999 MP:527/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Tamaki HP:27/999 MP:527/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ataca a Tamaki
+Tamaki es resistente el ataque de Nidhoggr
+Tamaki recibe 26 de daño
+Tamaki termina con HP:1/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:1/999 MP:527/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:549/597 MP:307/347
+B-Kingu HP:347/464 MP:67/91
+C-Ghoul HP:507/558 MP:104/111
+D-Nidhoggr HP:672/681 MP:91/135
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Makoto HP:549/597 MP:307/347
+2-Kingu HP:347/464 MP:67/91
+3-Ghoul HP:507/558 MP:104/111
+4-Nidhoggr HP:672/681 MP:91/135
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tamaki dispara a Nidhoggr
+Nidhoggr es resistente el ataque de Tamaki
+Nidhoggr recibe 7 de daño
+Nidhoggr termina con HP:665/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:1/999 MP:527/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:549/597 MP:307/347
+B-Kingu HP:347/464 MP:67/91
+C-Ghoul HP:507/558 MP:104/111
+D-Nidhoggr HP:665/681 MP:91/135
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Makoto
+3-Ghoul
+4-Kingu
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:317/350 MP:59/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sedna ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:1/999 MP:527/542
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:549/597 MP:307/347
+B-Kingu HP:347/464 MP:67/91
+C-Ghoul HP:507/558 MP:104/111
+D-Sedna HP:317/350 MP:59/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Ghoul
+3-Kingu
+4-Sedna
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tamaki HP:1/999 MP:527/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Tamaki
+Tamaki es resistente el ataque de Makoto
+Tamaki recibe 28 de daño
+Tamaki termina con HP:0/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Makoto (J2)

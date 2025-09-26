@@ -1,0 +1,2434 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 64
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Kwancha HP:160/160 MP:154/154
+C-Python HP:637/637 MP:286/286
+D-Heimdall HP:581/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Tiamat HP:305/305 MP:296/296
+C-Koppa Tengu HP:196/196 MP:88/88
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Heimdall
+3-Nahobino
+4-Kwancha
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Nanashi HP:140/140 MP:411/411
+2-Tiamat HP:305/305 MP:296/296
+3-Koppa Tengu HP:196/196 MP:88/88
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Python ataca a Nanashi
+Nanashi recibe 53 de daño
+Nanashi termina con HP:87/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Kwancha HP:160/160 MP:154/154
+C-Python HP:637/637 MP:286/286
+D-Heimdall HP:581/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:87/140 MP:411/411
+B-Tiamat HP:305/305 MP:296/296
+C-Koppa Tengu HP:196/196 MP:88/88
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Nahobino
+3-Kwancha
+4-Python
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Nanashi HP:87/140 MP:411/411
+2-Tiamat HP:305/305 MP:296/296
+3-Koppa Tengu HP:196/196 MP:88/88
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Heimdall ataca a Nanashi
+Nanashi recibe 48 de daño
+Nanashi termina con HP:39/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Kwancha HP:160/160 MP:154/154
+C-Python HP:637/637 MP:286/286
+D-Heimdall HP:581/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:39/140 MP:411/411
+B-Tiamat HP:305/305 MP:296/296
+C-Koppa Tengu HP:196/196 MP:88/88
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kwancha
+3-Python
+4-Heimdall
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:39/140 MP:411/411
+2-Tiamat HP:305/305 MP:296/296
+3-Koppa Tengu HP:196/196 MP:88/88
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:39/140 MP:411/411
+2-Tiamat HP:305/305 MP:296/296
+3-Koppa Tengu HP:196/196 MP:88/88
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca a Tiamat
+Tiamat recibe 29 de daño
+Tiamat termina con HP:276/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Kwancha HP:160/160 MP:154/154
+C-Python HP:637/637 MP:286/286
+D-Heimdall HP:581/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:39/140 MP:411/411
+B-Tiamat HP:276/305 MP:296/296
+C-Koppa Tengu HP:196/196 MP:88/88
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kwancha
+2-Python
+3-Heimdall
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kwancha
+1-Nanashi HP:39/140 MP:411/411
+2-Tiamat HP:276/305 MP:296/296
+3-Koppa Tengu HP:196/196 MP:88/88
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kwancha ataca a Koppa Tengu
+Koppa Tengu recibe 16 de daño
+Koppa Tengu termina con HP:180/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Kwancha HP:160/160 MP:154/154
+C-Python HP:637/637 MP:286/286
+D-Heimdall HP:581/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:39/140 MP:411/411
+B-Tiamat HP:276/305 MP:296/296
+C-Koppa Tengu HP:180/196 MP:88/88
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Nanashi
+3-Tiamat
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Nahobino HP:453/453 MP:389/389
+2-Kwancha HP:160/160 MP:154/154
+3-Python HP:637/637 MP:286/286
+4-Heimdall HP:581/581 MP:261/261
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Anzu ataca a Nahobino
+Nahobino recibe 44 de daño
+Nahobino termina con HP:409/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:409/453 MP:389/389
+B-Kwancha HP:160/160 MP:154/154
+C-Python HP:637/637 MP:286/286
+D-Heimdall HP:581/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:39/140 MP:411/411
+B-Tiamat HP:276/305 MP:296/296
+C-Koppa Tengu HP:180/196 MP:88/88
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Tiamat
+3-Koppa Tengu
+4-Anzu
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Nahobino HP:409/453 MP:389/389
+2-Kwancha HP:160/160 MP:154/154
+3-Python HP:637/637 MP:286/286
+4-Heimdall HP:581/581 MP:261/261
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Nahobino HP:409/453 MP:389/389
+2-Kwancha HP:160/160 MP:154/154
+3-Python HP:637/637 MP:286/286
+4-Heimdall HP:581/581 MP:261/261
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Nahobino
+Nahobino recibe 31 de daño
+Nahobino termina con HP:378/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Kwancha HP:160/160 MP:154/154
+C-Python HP:637/637 MP:286/286
+D-Heimdall HP:581/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:39/140 MP:411/411
+B-Tiamat HP:276/305 MP:296/296
+C-Koppa Tengu HP:180/196 MP:88/88
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Koppa Tengu
+3-Anzu
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Nahobino HP:378/453 MP:389/389
+2-Kwancha HP:160/160 MP:154/154
+3-Python HP:637/637 MP:286/286
+4-Heimdall HP:581/581 MP:261/261
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Nahobino HP:378/453 MP:389/389
+2-Kwancha HP:160/160 MP:154/154
+3-Python HP:637/637 MP:286/286
+4-Heimdall HP:581/581 MP:261/261
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Nahobino HP:378/453 MP:389/389
+2-Kwancha HP:160/160 MP:154/154
+3-Python HP:637/637 MP:286/286
+4-Heimdall HP:581/581 MP:261/261
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tiamat ataca a Python
+Python recibe 32 de daño
+Python termina con HP:605/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Kwancha HP:160/160 MP:154/154
+C-Python HP:605/637 MP:286/286
+D-Heimdall HP:581/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:39/140 MP:411/411
+B-Tiamat HP:276/305 MP:296/296
+C-Koppa Tengu HP:180/196 MP:88/88
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Anzu
+3-Nanashi
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Nahobino HP:378/453 MP:389/389
+2-Kwancha HP:160/160 MP:154/154
+3-Python HP:605/637 MP:286/286
+4-Heimdall HP:581/581 MP:261/261
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Koppa Tengu ataca a Heimdall
+Heimdall recibe 14 de daño
+Heimdall termina con HP:567/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Kwancha HP:160/160 MP:154/154
+C-Python HP:605/637 MP:286/286
+D-Heimdall HP:567/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:39/140 MP:411/411
+B-Tiamat HP:276/305 MP:296/296
+C-Koppa Tengu HP:180/196 MP:88/88
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Heimdall
+3-Nahobino
+4-Kwancha
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Nanashi HP:39/140 MP:411/411
+2-Tiamat HP:276/305 MP:296/296
+3-Koppa Tengu HP:180/196 MP:88/88
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Python ataca a Nanashi
+Nanashi recibe 53 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Kwancha HP:160/160 MP:154/154
+C-Python HP:605/637 MP:286/286
+D-Heimdall HP:567/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:276/305 MP:296/296
+C-Koppa Tengu HP:180/196 MP:88/88
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Nahobino
+3-Kwancha
+4-Python
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Tiamat HP:276/305 MP:296/296
+2-Koppa Tengu HP:180/196 MP:88/88
+3-Anzu HP:596/596 MP:118/118
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Tiamat HP:276/305 MP:296/296
+2-Koppa Tengu HP:180/196 MP:88/88
+3-Anzu HP:596/596 MP:118/118
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Heimdall ataca a Koppa Tengu
+Koppa Tengu recibe 48 de daño
+Koppa Tengu termina con HP:132/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Kwancha HP:160/160 MP:154/154
+C-Python HP:605/637 MP:286/286
+D-Heimdall HP:567/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:276/305 MP:296/296
+C-Koppa Tengu HP:132/196 MP:88/88
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kwancha
+3-Python
+4-Heimdall
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Tiamat HP:276/305 MP:296/296
+2-Koppa Tengu HP:132/196 MP:88/88
+3-Anzu HP:596/596 MP:118/118
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Tiamat
+Tiamat recibe 83 de daño
+Tiamat termina con HP:193/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Kwancha HP:160/160 MP:154/154
+C-Python HP:605/637 MP:286/286
+D-Heimdall HP:567/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:193/305 MP:296/296
+C-Koppa Tengu HP:132/196 MP:88/88
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kwancha
+2-Python
+3-Heimdall
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kwancha
+1-Tiamat HP:193/305 MP:296/296
+2-Koppa Tengu HP:132/196 MP:88/88
+3-Anzu HP:596/596 MP:118/118
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kwancha ataca a Koppa Tengu
+Koppa Tengu recibe 16 de daño
+Koppa Tengu termina con HP:116/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Kwancha HP:160/160 MP:154/154
+C-Python HP:605/637 MP:286/286
+D-Heimdall HP:567/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:193/305 MP:296/296
+C-Koppa Tengu HP:116/196 MP:88/88
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Tiamat
+3-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Nahobino HP:378/453 MP:389/389
+2-Kwancha HP:160/160 MP:154/154
+3-Python HP:605/637 MP:286/286
+4-Heimdall HP:567/581 MP:261/261
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Anzu ataca a Python
+Python recibe 44 de daño
+Python termina con HP:561/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Kwancha HP:160/160 MP:154/154
+C-Python HP:561/637 MP:286/286
+D-Heimdall HP:567/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:193/305 MP:296/296
+C-Koppa Tengu HP:116/196 MP:88/88
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Koppa Tengu
+3-Anzu
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Nahobino HP:378/453 MP:389/389
+2-Kwancha HP:160/160 MP:154/154
+3-Python HP:561/637 MP:286/286
+4-Heimdall HP:567/581 MP:261/261
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tiamat ataca a Kwancha
+Kwancha recibe 32 de daño
+Kwancha termina con HP:128/160
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:561/637 MP:286/286
+D-Heimdall HP:567/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:193/305 MP:296/296
+C-Koppa Tengu HP:116/196 MP:88/88
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Anzu
+3-Tiamat
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Nahobino HP:378/453 MP:389/389
+2-Kwancha HP:128/160 MP:154/154
+3-Python HP:561/637 MP:286/286
+4-Heimdall HP:567/581 MP:261/261
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Nahobino HP:378/453 MP:389/389
+2-Kwancha HP:128/160 MP:154/154
+3-Python HP:561/637 MP:286/286
+4-Heimdall HP:567/581 MP:261/261
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Koppa Tengu ataca a Heimdall
+Heimdall recibe 14 de daño
+Heimdall termina con HP:553/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:561/637 MP:286/286
+D-Heimdall HP:553/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:193/305 MP:296/296
+C-Koppa Tengu HP:116/196 MP:88/88
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Heimdall
+3-Nahobino
+4-Kwancha
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Tiamat HP:193/305 MP:296/296
+2-Koppa Tengu HP:116/196 MP:88/88
+3-Anzu HP:596/596 MP:118/118
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Python ataca a Koppa Tengu
+Koppa Tengu recibe 53 de daño
+Koppa Tengu termina con HP:63/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:561/637 MP:286/286
+D-Heimdall HP:553/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:193/305 MP:296/296
+C-Koppa Tengu HP:63/196 MP:88/88
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Nahobino
+3-Kwancha
+4-Python
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Tiamat HP:193/305 MP:296/296
+2-Koppa Tengu HP:63/196 MP:88/88
+3-Anzu HP:596/596 MP:118/118
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Heimdall ataca a Koppa Tengu
+Koppa Tengu recibe 48 de daño
+Koppa Tengu termina con HP:15/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:561/637 MP:286/286
+D-Heimdall HP:553/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:193/305 MP:296/296
+C-Koppa Tengu HP:15/196 MP:88/88
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kwancha
+3-Python
+4-Heimdall
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Tiamat HP:193/305 MP:296/296
+2-Koppa Tengu HP:15/196 MP:88/88
+3-Anzu HP:596/596 MP:118/118
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca a Koppa Tengu
+Koppa Tengu recibe 29 de daño
+Koppa Tengu termina con HP:0/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:561/637 MP:286/286
+D-Heimdall HP:553/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:193/305 MP:296/296
+C-
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kwancha
+2-Python
+3-Heimdall
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kwancha
+1-Tiamat HP:193/305 MP:296/296
+2-Anzu HP:596/596 MP:118/118
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kwancha ataca a Anzu
+Anzu recibe 16 de daño
+Anzu termina con HP:580/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:561/637 MP:286/286
+D-Heimdall HP:553/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:193/305 MP:296/296
+C-
+D-Anzu HP:580/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Tiamat
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Nahobino HP:378/453 MP:389/389
+2-Kwancha HP:128/160 MP:154/154
+3-Python HP:561/637 MP:286/286
+4-Heimdall HP:553/581 MP:261/261
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Anzu ataca a Heimdall
+Heimdall recibe 44 de daño
+Heimdall termina con HP:509/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:378/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:561/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:193/305 MP:296/296
+C-
+D-Anzu HP:580/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Anzu
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Nahobino HP:378/453 MP:389/389
+2-Kwancha HP:128/160 MP:154/154
+3-Python HP:561/637 MP:286/286
+4-Heimdall HP:509/581 MP:261/261
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tiamat ataca a Nahobino
+Nahobino recibe 32 de daño
+Nahobino termina con HP:346/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:346/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:561/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:193/305 MP:296/296
+C-
+D-Anzu HP:580/596 MP:118/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Heimdall
+3-Nahobino
+4-Kwancha
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Tiamat HP:193/305 MP:296/296
+2-Anzu HP:580/596 MP:118/118
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Python ataca a Tiamat
+Tiamat recibe 53 de daño
+Tiamat termina con HP:140/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:346/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:561/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:140/305 MP:296/296
+C-
+D-Anzu HP:580/596 MP:118/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Nahobino
+3-Kwancha
+4-Python
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Tiamat HP:140/305 MP:296/296
+2-Anzu HP:580/596 MP:118/118
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Heimdall ataca a Anzu
+Anzu recibe 48 de daño
+Anzu termina con HP:532/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:346/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:561/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:140/305 MP:296/296
+C-
+D-Anzu HP:532/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kwancha
+3-Python
+4-Heimdall
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Tiamat HP:140/305 MP:296/296
+2-Anzu HP:532/596 MP:118/118
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Tiamat HP:140/305 MP:296/296
+2-Anzu HP:532/596 MP:118/118
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Tiamat
+Tiamat recibe 29 de daño
+Tiamat termina con HP:111/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:346/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:561/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:111/305 MP:296/296
+C-
+D-Anzu HP:532/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kwancha
+2-Python
+3-Heimdall
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kwancha
+1-Tiamat HP:111/305 MP:296/296
+2-Anzu HP:532/596 MP:118/118
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kwancha ataca a Tiamat
+Tiamat recibe 16 de daño
+Tiamat termina con HP:95/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:346/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:561/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:95/305 MP:296/296
+C-
+D-Anzu HP:532/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Tiamat
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Nahobino HP:346/453 MP:389/389
+2-Kwancha HP:128/160 MP:154/154
+3-Python HP:561/637 MP:286/286
+4-Heimdall HP:509/581 MP:261/261
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Nahobino HP:346/453 MP:389/389
+2-Kwancha HP:128/160 MP:154/154
+3-Python HP:561/637 MP:286/286
+4-Heimdall HP:509/581 MP:261/261
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Nahobino HP:346/453 MP:389/389
+2-Kwancha HP:128/160 MP:154/154
+3-Python HP:561/637 MP:286/286
+4-Heimdall HP:509/581 MP:261/261
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Anzu ataca a Python
+Python recibe 44 de daño
+Python termina con HP:517/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:346/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:517/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:95/305 MP:296/296
+C-
+D-Anzu HP:532/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Anzu
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Nahobino HP:346/453 MP:389/389
+2-Kwancha HP:128/160 MP:154/154
+3-Python HP:517/637 MP:286/286
+4-Heimdall HP:509/581 MP:261/261
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Nahobino HP:346/453 MP:389/389
+2-Kwancha HP:128/160 MP:154/154
+3-Python HP:517/637 MP:286/286
+4-Heimdall HP:509/581 MP:261/261
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tiamat ataca a Nahobino
+Nahobino recibe 32 de daño
+Nahobino termina con HP:314/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:517/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:95/305 MP:296/296
+C-
+D-Anzu HP:532/596 MP:118/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Heimdall
+3-Nahobino
+4-Kwancha
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Tiamat HP:95/305 MP:296/296
+2-Anzu HP:532/596 MP:118/118
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Tiamat HP:95/305 MP:296/296
+2-Anzu HP:532/596 MP:118/118
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Python ataca a Anzu
+Anzu recibe 53 de daño
+Anzu termina con HP:479/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:517/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:95/305 MP:296/296
+C-
+D-Anzu HP:479/596 MP:118/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Nahobino
+3-Kwancha
+4-Python
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Tiamat HP:95/305 MP:296/296
+2-Anzu HP:479/596 MP:118/118
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Tiamat HP:95/305 MP:296/296
+2-Anzu HP:479/596 MP:118/118
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Heimdall ataca a Anzu
+Anzu recibe 48 de daño
+Anzu termina con HP:431/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:517/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:95/305 MP:296/296
+C-
+D-Anzu HP:431/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kwancha
+3-Python
+4-Heimdall
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Tiamat HP:95/305 MP:296/296
+2-Anzu HP:431/596 MP:118/118
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Anzu
+Anzu recibe 83 de daño
+Anzu termina con HP:348/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:517/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:95/305 MP:296/296
+C-
+D-Anzu HP:348/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kwancha
+2-Python
+3-Heimdall
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kwancha
+1-Tiamat HP:95/305 MP:296/296
+2-Anzu HP:348/596 MP:118/118
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kwancha ataca a Tiamat
+Tiamat recibe 16 de daño
+Tiamat termina con HP:79/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:517/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:79/305 MP:296/296
+C-
+D-Anzu HP:348/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Tiamat
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Nahobino HP:314/453 MP:389/389
+2-Kwancha HP:128/160 MP:154/154
+3-Python HP:517/637 MP:286/286
+4-Heimdall HP:509/581 MP:261/261
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Nahobino HP:314/453 MP:389/389
+2-Kwancha HP:128/160 MP:154/154
+3-Python HP:517/637 MP:286/286
+4-Heimdall HP:509/581 MP:261/261
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Anzu ataca a Python
+Python recibe 44 de daño
+Python termina con HP:473/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:473/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:79/305 MP:296/296
+C-
+D-Anzu HP:348/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Anzu
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Nahobino HP:314/453 MP:389/389
+2-Kwancha HP:128/160 MP:154/154
+3-Python HP:473/637 MP:286/286
+4-Heimdall HP:509/581 MP:261/261
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tiamat ataca a Python
+Python recibe 32 de daño
+Python termina con HP:441/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:441/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:79/305 MP:296/296
+C-
+D-Anzu HP:348/596 MP:118/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Heimdall
+3-Nahobino
+4-Kwancha
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Tiamat HP:79/305 MP:296/296
+2-Anzu HP:348/596 MP:118/118
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Python ataca a Anzu
+Anzu recibe 53 de daño
+Anzu termina con HP:295/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:441/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:79/305 MP:296/296
+C-
+D-Anzu HP:295/596 MP:118/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Nahobino
+3-Kwancha
+4-Python
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Tiamat HP:79/305 MP:296/296
+2-Anzu HP:295/596 MP:118/118
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Heimdall ataca a Tiamat
+Tiamat recibe 48 de daño
+Tiamat termina con HP:31/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:441/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:31/305 MP:296/296
+C-
+D-Anzu HP:295/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kwancha
+3-Python
+4-Heimdall
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Tiamat HP:31/305 MP:296/296
+2-Anzu HP:295/596 MP:118/118
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Tiamat HP:31/305 MP:296/296
+2-Anzu HP:295/596 MP:118/118
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca a Anzu
+Anzu recibe 29 de daño
+Anzu termina con HP:266/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:441/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:31/305 MP:296/296
+C-
+D-Anzu HP:266/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kwancha
+2-Python
+3-Heimdall
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kwancha
+1-Tiamat HP:31/305 MP:296/296
+2-Anzu HP:266/596 MP:118/118
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kwancha
+1-Tiamat HP:31/305 MP:296/296
+2-Anzu HP:266/596 MP:118/118
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kwancha ataca a Tiamat
+Tiamat recibe 16 de daño
+Tiamat termina con HP:15/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:128/160 MP:154/154
+C-Python HP:441/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:15/305 MP:296/296
+C-
+D-Anzu HP:266/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Tiamat
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Nahobino HP:314/453 MP:389/389
+2-Kwancha HP:128/160 MP:154/154
+3-Python HP:441/637 MP:286/286
+4-Heimdall HP:509/581 MP:261/261
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Anzu ataca a Kwancha
+Kwancha recibe 44 de daño
+Kwancha termina con HP:84/160
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:84/160 MP:154/154
+C-Python HP:441/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:15/305 MP:296/296
+C-
+D-Anzu HP:266/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Anzu
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Nahobino HP:314/453 MP:389/389
+2-Kwancha HP:84/160 MP:154/154
+3-Python HP:441/637 MP:286/286
+4-Heimdall HP:509/581 MP:261/261
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tiamat ataca a Python
+Python recibe 32 de daño
+Python termina con HP:409/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:84/160 MP:154/154
+C-Python HP:409/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:15/305 MP:296/296
+C-
+D-Anzu HP:266/596 MP:118/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Heimdall
+3-Nahobino
+4-Kwancha
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Tiamat HP:15/305 MP:296/296
+2-Anzu HP:266/596 MP:118/118
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Tiamat HP:15/305 MP:296/296
+2-Anzu HP:266/596 MP:118/118
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Python ataca a Anzu
+Anzu recibe 53 de daño
+Anzu termina con HP:213/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:84/160 MP:154/154
+C-Python HP:409/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tiamat HP:15/305 MP:296/296
+C-
+D-Anzu HP:213/596 MP:118/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Nahobino
+3-Kwancha
+4-Python
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Tiamat HP:15/305 MP:296/296
+2-Anzu HP:213/596 MP:118/118
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Heimdall ataca a Tiamat
+Tiamat recibe 48 de daño
+Tiamat termina con HP:0/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:84/160 MP:154/154
+C-Python HP:409/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Anzu HP:213/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kwancha
+3-Python
+4-Heimdall
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Anzu HP:213/596 MP:118/118
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Anzu
+Anzu recibe 83 de daño
+Anzu termina con HP:130/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:84/160 MP:154/154
+C-Python HP:409/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Anzu HP:130/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kwancha
+2-Python
+3-Heimdall
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kwancha
+1-Anzu HP:130/596 MP:118/118
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kwancha
+1-Anzu HP:130/596 MP:118/118
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kwancha
+1-Anzu HP:130/596 MP:118/118
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kwancha ataca a Anzu
+Anzu recibe 16 de daño
+Anzu termina con HP:114/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:84/160 MP:154/154
+C-Python HP:409/637 MP:286/286
+D-Heimdall HP:509/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Anzu HP:114/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Nahobino HP:314/453 MP:389/389
+2-Kwancha HP:84/160 MP:154/154
+3-Python HP:409/637 MP:286/286
+4-Heimdall HP:509/581 MP:261/261
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Anzu ataca a Heimdall
+Heimdall recibe 44 de daño
+Heimdall termina con HP:465/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:84/160 MP:154/154
+C-Python HP:409/637 MP:286/286
+D-Heimdall HP:465/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Anzu HP:114/596 MP:118/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Heimdall
+3-Nahobino
+4-Kwancha
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Anzu HP:114/596 MP:118/118
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Python ataca a Anzu
+Anzu recibe 53 de daño
+Anzu termina con HP:61/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:84/160 MP:154/154
+C-Python HP:409/637 MP:286/286
+D-Heimdall HP:465/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Anzu HP:61/596 MP:118/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Nahobino
+3-Kwancha
+4-Python
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Anzu HP:61/596 MP:118/118
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Anzu HP:61/596 MP:118/118
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Anzu HP:61/596 MP:118/118
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Heimdall ataca a Anzu
+Anzu recibe 48 de daño
+Anzu termina con HP:13/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:314/453 MP:389/389
+B-Kwancha HP:84/160 MP:154/154
+C-Python HP:409/637 MP:286/286
+D-Heimdall HP:465/581 MP:261/261
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Anzu HP:13/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kwancha
+3-Python
+4-Heimdall
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Anzu HP:13/596 MP:118/118
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Anzu HP:13/596 MP:118/118
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Anzu HP:13/596 MP:118/118
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Anzu HP:13/596 MP:118/118
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Anzu HP:13/596 MP:118/118
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Anzu HP:13/596 MP:118/118
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Anzu HP:13/596 MP:118/118
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Anzu HP:13/596 MP:118/118
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Anzu
+Anzu recibe 83 de daño
+Anzu termina con HP:0/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Nahobino (J1)

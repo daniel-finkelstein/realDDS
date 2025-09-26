@@ -1,0 +1,3394 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 5
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Israfel HP:258/258 MP:251/251
+D-Hel HP:254/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Bishamonten HP:700/700 MP:139/139
+C-Nadja HP:399/399 MP:179/179
+D-Ose HP:454/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Joker
+3-Israfel
+4-Hel
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:1136/1136 MP:413/413
+2-Bishamonten HP:700/700 MP:139/139
+3-Nadja HP:399/399 MP:179/179
+4-Ose HP:454/454 MP:90/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Throne ataca a Bishamonten
+Bishamonten recibe 41 de daño
+Bishamonten termina con HP:659/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Israfel HP:258/258 MP:251/251
+D-Hel HP:254/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Bishamonten HP:659/700 MP:139/139
+C-Nadja HP:399/399 MP:179/179
+D-Ose HP:454/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Israfel
+3-Hel
+4-Throne
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:1136/1136 MP:413/413
+2-Bishamonten HP:659/700 MP:139/139
+3-Nadja HP:399/399 MP:179/179
+4-Ose HP:454/454 MP:90/90
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker ataca a Ose
+Ose recibe 28 de daño
+Ose termina con HP:426/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Israfel HP:258/258 MP:251/251
+D-Hel HP:254/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Bishamonten HP:659/700 MP:139/139
+C-Nadja HP:399/399 MP:179/179
+D-Ose HP:426/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Hel
+3-Throne
+4-Joker
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Itsuki HP:1136/1136 MP:413/413
+2-Bishamonten HP:659/700 MP:139/139
+3-Nadja HP:399/399 MP:179/179
+4-Ose HP:426/454 MP:90/90
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Israfel ataca a Ose
+Ose recibe 27 de daño
+Ose termina con HP:399/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Israfel HP:258/258 MP:251/251
+D-Hel HP:254/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Bishamonten HP:659/700 MP:139/139
+C-Nadja HP:399/399 MP:179/179
+D-Ose HP:399/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Throne
+3-Joker
+4-Israfel
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Itsuki HP:1136/1136 MP:413/413
+2-Bishamonten HP:659/700 MP:139/139
+3-Nadja HP:399/399 MP:179/179
+4-Ose HP:399/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Hel ataca a Nadja
+Nadja recibe 26 de daño
+Nadja termina con HP:373/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Israfel HP:258/258 MP:251/251
+D-Hel HP:254/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Bishamonten HP:659/700 MP:139/139
+C-Nadja HP:373/399 MP:179/179
+D-Ose HP:399/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Itsuki
+3-Nadja
+4-Ose
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:597/597 MP:347/347
+2-Throne HP:504/504 MP:225/225
+3-Israfel HP:258/258 MP:251/251
+4-Hel HP:254/254 MP:246/246
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Bishamonten ataca a Joker
+Joker recibe 53 de daño
+Joker termina con HP:544/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Israfel HP:258/258 MP:251/251
+D-Hel HP:254/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Bishamonten HP:659/700 MP:139/139
+C-Nadja HP:373/399 MP:179/179
+D-Ose HP:399/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Ose
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:544/597 MP:347/347
+2-Throne HP:504/504 MP:225/225
+3-Israfel HP:258/258 MP:251/251
+4-Hel HP:254/254 MP:246/246
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Israfel
+Israfel recibe 45 de daño
+Israfel termina con HP:213/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:504/504 MP:225/225
+C-Israfel HP:213/258 MP:251/251
+D-Hel HP:254/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Bishamonten HP:659/700 MP:139/139
+C-Nadja HP:373/399 MP:179/179
+D-Ose HP:399/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Ose
+3-Bishamonten
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Joker HP:544/597 MP:347/347
+2-Throne HP:504/504 MP:225/225
+3-Israfel HP:213/258 MP:251/251
+4-Hel HP:254/254 MP:246/246
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nadja ataca a Throne
+Throne recibe 32 de daño
+Throne termina con HP:472/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:472/504 MP:225/225
+C-Israfel HP:213/258 MP:251/251
+D-Hel HP:254/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Bishamonten HP:659/700 MP:139/139
+C-Nadja HP:373/399 MP:179/179
+D-Ose HP:399/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Bishamonten
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:544/597 MP:347/347
+2-Throne HP:472/504 MP:225/225
+3-Israfel HP:213/258 MP:251/251
+4-Hel HP:254/254 MP:246/246
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ose ataca a Israfel
+Israfel recibe 33 de daño
+Israfel termina con HP:180/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:472/504 MP:225/225
+C-Israfel HP:180/258 MP:251/251
+D-Hel HP:254/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Bishamonten HP:659/700 MP:139/139
+C-Nadja HP:373/399 MP:179/179
+D-Ose HP:399/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Joker
+3-Israfel
+4-Hel
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:1136/1136 MP:413/413
+2-Bishamonten HP:659/700 MP:139/139
+3-Nadja HP:373/399 MP:179/179
+4-Ose HP:399/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Throne ataca a Nadja
+Nadja recibe 41 de daño
+Nadja termina con HP:332/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:472/504 MP:225/225
+C-Israfel HP:180/258 MP:251/251
+D-Hel HP:254/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Bishamonten HP:659/700 MP:139/139
+C-Nadja HP:332/399 MP:179/179
+D-Ose HP:399/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Israfel
+3-Hel
+4-Throne
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:1136/1136 MP:413/413
+2-Bishamonten HP:659/700 MP:139/139
+3-Nadja HP:332/399 MP:179/179
+4-Ose HP:399/454 MP:90/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Bishamonten
+Bishamonten recibe 39 de daño
+Bishamonten termina con HP:620/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:472/504 MP:225/225
+C-Israfel HP:180/258 MP:251/251
+D-Hel HP:254/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Bishamonten HP:620/700 MP:139/139
+C-Nadja HP:332/399 MP:179/179
+D-Ose HP:399/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Hel
+3-Throne
+4-Joker
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Itsuki HP:1136/1136 MP:413/413
+2-Bishamonten HP:620/700 MP:139/139
+3-Nadja HP:332/399 MP:179/179
+4-Ose HP:399/454 MP:90/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Israfel ataca a Itsuki
+Itsuki recibe 27 de daño
+Itsuki termina con HP:1109/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:472/504 MP:225/225
+C-Israfel HP:180/258 MP:251/251
+D-Hel HP:254/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Bishamonten HP:620/700 MP:139/139
+C-Nadja HP:332/399 MP:179/179
+D-Ose HP:399/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Throne
+3-Joker
+4-Israfel
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Itsuki HP:1109/1136 MP:413/413
+2-Bishamonten HP:620/700 MP:139/139
+3-Nadja HP:332/399 MP:179/179
+4-Ose HP:399/454 MP:90/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ataca a Bishamonten
+Bishamonten recibe 26 de daño
+Bishamonten termina con HP:594/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:472/504 MP:225/225
+C-Israfel HP:180/258 MP:251/251
+D-Hel HP:254/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Bishamonten HP:594/700 MP:139/139
+C-Nadja HP:332/399 MP:179/179
+D-Ose HP:399/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Itsuki
+3-Nadja
+4-Ose
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:544/597 MP:347/347
+2-Throne HP:472/504 MP:225/225
+3-Israfel HP:180/258 MP:251/251
+4-Hel HP:254/254 MP:246/246
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Bishamonten ataca a Throne
+Throne recibe 53 de daño
+Throne termina con HP:419/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:419/504 MP:225/225
+C-Israfel HP:180/258 MP:251/251
+D-Hel HP:254/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Bishamonten HP:594/700 MP:139/139
+C-Nadja HP:332/399 MP:179/179
+D-Ose HP:399/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Ose
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:544/597 MP:347/347
+2-Throne HP:419/504 MP:225/225
+3-Israfel HP:180/258 MP:251/251
+4-Hel HP:254/254 MP:246/246
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Throne
+Throne recibe 61 de daño
+Throne termina con HP:358/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:358/504 MP:225/225
+C-Israfel HP:180/258 MP:251/251
+D-Hel HP:254/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Bishamonten HP:594/700 MP:139/139
+C-Nadja HP:332/399 MP:179/179
+D-Ose HP:399/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Ose
+3-Bishamonten
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Joker HP:544/597 MP:347/347
+2-Throne HP:358/504 MP:225/225
+3-Israfel HP:180/258 MP:251/251
+4-Hel HP:254/254 MP:246/246
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nadja ataca a Israfel
+Israfel recibe 32 de daño
+Israfel termina con HP:148/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:358/504 MP:225/225
+C-Israfel HP:148/258 MP:251/251
+D-Hel HP:254/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Bishamonten HP:594/700 MP:139/139
+C-Nadja HP:332/399 MP:179/179
+D-Ose HP:399/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Bishamonten
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:544/597 MP:347/347
+2-Throne HP:358/504 MP:225/225
+3-Israfel HP:148/258 MP:251/251
+4-Hel HP:254/254 MP:246/246
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ose ataca a Hel
+Hel recibe 33 de daño
+Hel termina con HP:221/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:358/504 MP:225/225
+C-Israfel HP:148/258 MP:251/251
+D-Hel HP:221/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Bishamonten HP:594/700 MP:139/139
+C-Nadja HP:332/399 MP:179/179
+D-Ose HP:399/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Joker
+3-Israfel
+4-Hel
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:1109/1136 MP:413/413
+2-Bishamonten HP:594/700 MP:139/139
+3-Nadja HP:332/399 MP:179/179
+4-Ose HP:399/454 MP:90/90
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Throne ataca a Ose
+Ose recibe 41 de daño
+Ose termina con HP:358/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:358/504 MP:225/225
+C-Israfel HP:148/258 MP:251/251
+D-Hel HP:221/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Bishamonten HP:594/700 MP:139/139
+C-Nadja HP:332/399 MP:179/179
+D-Ose HP:358/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Israfel
+3-Hel
+4-Throne
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:1109/1136 MP:413/413
+2-Bishamonten HP:594/700 MP:139/139
+3-Nadja HP:332/399 MP:179/179
+4-Ose HP:358/454 MP:90/90
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:1109/1136 MP:413/413
+2-Bishamonten HP:594/700 MP:139/139
+3-Nadja HP:332/399 MP:179/179
+4-Ose HP:358/454 MP:90/90
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:1109/1136 MP:413/413
+2-Bishamonten HP:594/700 MP:139/139
+3-Nadja HP:332/399 MP:179/179
+4-Ose HP:358/454 MP:90/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Bishamonten
+Bishamonten recibe 39 de daño
+Bishamonten termina con HP:555/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:358/504 MP:225/225
+C-Israfel HP:148/258 MP:251/251
+D-Hel HP:221/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Bishamonten HP:555/700 MP:139/139
+C-Nadja HP:332/399 MP:179/179
+D-Ose HP:358/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Hel
+3-Throne
+4-Joker
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Itsuki HP:1109/1136 MP:413/413
+2-Bishamonten HP:555/700 MP:139/139
+3-Nadja HP:332/399 MP:179/179
+4-Ose HP:358/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Israfel ataca a Nadja
+Nadja recibe 27 de daño
+Nadja termina con HP:305/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:358/504 MP:225/225
+C-Israfel HP:148/258 MP:251/251
+D-Hel HP:221/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Bishamonten HP:555/700 MP:139/139
+C-Nadja HP:305/399 MP:179/179
+D-Ose HP:358/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Throne
+3-Joker
+4-Israfel
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Itsuki HP:1109/1136 MP:413/413
+2-Bishamonten HP:555/700 MP:139/139
+3-Nadja HP:305/399 MP:179/179
+4-Ose HP:358/454 MP:90/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ataca a Bishamonten
+Bishamonten recibe 26 de daño
+Bishamonten termina con HP:529/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:358/504 MP:225/225
+C-Israfel HP:148/258 MP:251/251
+D-Hel HP:221/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Bishamonten HP:529/700 MP:139/139
+C-Nadja HP:305/399 MP:179/179
+D-Ose HP:358/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Itsuki
+3-Nadja
+4-Ose
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:544/597 MP:347/347
+2-Throne HP:358/504 MP:225/225
+3-Israfel HP:148/258 MP:251/251
+4-Hel HP:221/254 MP:246/246
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Bishamonten ataca a Israfel
+Israfel recibe 53 de daño
+Israfel termina con HP:95/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:358/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:221/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Bishamonten HP:529/700 MP:139/139
+C-Nadja HP:305/399 MP:179/179
+D-Ose HP:358/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Ose
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:544/597 MP:347/347
+2-Throne HP:358/504 MP:225/225
+3-Israfel HP:95/258 MP:251/251
+4-Hel HP:221/254 MP:246/246
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:544/597 MP:347/347
+2-Throne HP:358/504 MP:225/225
+3-Israfel HP:95/258 MP:251/251
+4-Hel HP:221/254 MP:246/246
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:544/597 MP:347/347
+2-Throne HP:358/504 MP:225/225
+3-Israfel HP:95/258 MP:251/251
+4-Hel HP:221/254 MP:246/246
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Throne
+Throne recibe 61 de daño
+Throne termina con HP:297/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:297/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:221/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Bishamonten HP:529/700 MP:139/139
+C-Nadja HP:305/399 MP:179/179
+D-Ose HP:358/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Ose
+3-Bishamonten
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Joker HP:544/597 MP:347/347
+2-Throne HP:297/504 MP:225/225
+3-Israfel HP:95/258 MP:251/251
+4-Hel HP:221/254 MP:246/246
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nadja ataca a Hel
+Hel recibe 32 de daño
+Hel termina con HP:189/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:297/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:189/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Bishamonten HP:529/700 MP:139/139
+C-Nadja HP:305/399 MP:179/179
+D-Ose HP:358/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Bishamonten
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:544/597 MP:347/347
+2-Throne HP:297/504 MP:225/225
+3-Israfel HP:95/258 MP:251/251
+4-Hel HP:189/254 MP:246/246
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ose ataca a Hel
+Hel recibe 33 de daño
+Hel termina con HP:156/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:297/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:156/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Bishamonten HP:529/700 MP:139/139
+C-Nadja HP:305/399 MP:179/179
+D-Ose HP:358/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Joker
+3-Israfel
+4-Hel
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:1109/1136 MP:413/413
+2-Bishamonten HP:529/700 MP:139/139
+3-Nadja HP:305/399 MP:179/179
+4-Ose HP:358/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Throne ataca a Nadja
+Nadja recibe 41 de daño
+Nadja termina con HP:264/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:297/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:156/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Bishamonten HP:529/700 MP:139/139
+C-Nadja HP:264/399 MP:179/179
+D-Ose HP:358/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Israfel
+3-Hel
+4-Throne
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:1109/1136 MP:413/413
+2-Bishamonten HP:529/700 MP:139/139
+3-Nadja HP:264/399 MP:179/179
+4-Ose HP:358/454 MP:90/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Itsuki
+Itsuki recibe 39 de daño
+Itsuki termina con HP:1070/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:297/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:156/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1070/1136 MP:413/413
+B-Bishamonten HP:529/700 MP:139/139
+C-Nadja HP:264/399 MP:179/179
+D-Ose HP:358/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Hel
+3-Throne
+4-Joker
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Itsuki HP:1070/1136 MP:413/413
+2-Bishamonten HP:529/700 MP:139/139
+3-Nadja HP:264/399 MP:179/179
+4-Ose HP:358/454 MP:90/90
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Itsuki HP:1070/1136 MP:413/413
+2-Bishamonten HP:529/700 MP:139/139
+3-Nadja HP:264/399 MP:179/179
+4-Ose HP:358/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Israfel ataca a Nadja
+Nadja recibe 27 de daño
+Nadja termina con HP:237/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:297/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:156/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1070/1136 MP:413/413
+B-Bishamonten HP:529/700 MP:139/139
+C-Nadja HP:237/399 MP:179/179
+D-Ose HP:358/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Throne
+3-Joker
+4-Israfel
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Itsuki HP:1070/1136 MP:413/413
+2-Bishamonten HP:529/700 MP:139/139
+3-Nadja HP:237/399 MP:179/179
+4-Ose HP:358/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Hel ataca a Nadja
+Nadja recibe 26 de daño
+Nadja termina con HP:211/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:544/597 MP:347/347
+B-Throne HP:297/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:156/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1070/1136 MP:413/413
+B-Bishamonten HP:529/700 MP:139/139
+C-Nadja HP:211/399 MP:179/179
+D-Ose HP:358/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Itsuki
+3-Nadja
+4-Ose
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:544/597 MP:347/347
+2-Throne HP:297/504 MP:225/225
+3-Israfel HP:95/258 MP:251/251
+4-Hel HP:156/254 MP:246/246
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:544/597 MP:347/347
+2-Throne HP:297/504 MP:225/225
+3-Israfel HP:95/258 MP:251/251
+4-Hel HP:156/254 MP:246/246
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:544/597 MP:347/347
+2-Throne HP:297/504 MP:225/225
+3-Israfel HP:95/258 MP:251/251
+4-Hel HP:156/254 MP:246/246
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:544/597 MP:347/347
+2-Throne HP:297/504 MP:225/225
+3-Israfel HP:95/258 MP:251/251
+4-Hel HP:156/254 MP:246/246
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Bishamonten ataca a Joker
+Joker recibe 53 de daño
+Joker termina con HP:491/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:491/597 MP:347/347
+B-Throne HP:297/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:156/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1070/1136 MP:413/413
+B-Bishamonten HP:529/700 MP:139/139
+C-Nadja HP:211/399 MP:179/179
+D-Ose HP:358/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Ose
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:491/597 MP:347/347
+2-Throne HP:297/504 MP:225/225
+3-Israfel HP:95/258 MP:251/251
+4-Hel HP:156/254 MP:246/246
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:491/597 MP:347/347
+2-Throne HP:297/504 MP:225/225
+3-Israfel HP:95/258 MP:251/251
+4-Hel HP:156/254 MP:246/246
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Joker
+Joker recibe 45 de daño
+Joker termina con HP:446/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:446/597 MP:347/347
+B-Throne HP:297/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:156/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1070/1136 MP:413/413
+B-Bishamonten HP:529/700 MP:139/139
+C-Nadja HP:211/399 MP:179/179
+D-Ose HP:358/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Ose
+3-Bishamonten
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Joker HP:446/597 MP:347/347
+2-Throne HP:297/504 MP:225/225
+3-Israfel HP:95/258 MP:251/251
+4-Hel HP:156/254 MP:246/246
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nadja ataca a Joker
+Joker recibe 32 de daño
+Joker termina con HP:414/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:414/597 MP:347/347
+B-Throne HP:297/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:156/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1070/1136 MP:413/413
+B-Bishamonten HP:529/700 MP:139/139
+C-Nadja HP:211/399 MP:179/179
+D-Ose HP:358/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Bishamonten
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:414/597 MP:347/347
+2-Throne HP:297/504 MP:225/225
+3-Israfel HP:95/258 MP:251/251
+4-Hel HP:156/254 MP:246/246
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ose ataca a Hel
+Hel recibe 33 de daño
+Hel termina con HP:123/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:414/597 MP:347/347
+B-Throne HP:297/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:123/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1070/1136 MP:413/413
+B-Bishamonten HP:529/700 MP:139/139
+C-Nadja HP:211/399 MP:179/179
+D-Ose HP:358/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Joker
+3-Israfel
+4-Hel
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:1070/1136 MP:413/413
+2-Bishamonten HP:529/700 MP:139/139
+3-Nadja HP:211/399 MP:179/179
+4-Ose HP:358/454 MP:90/90
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:1070/1136 MP:413/413
+2-Bishamonten HP:529/700 MP:139/139
+3-Nadja HP:211/399 MP:179/179
+4-Ose HP:358/454 MP:90/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:1029/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:414/597 MP:347/347
+B-Throne HP:297/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:123/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1029/1136 MP:413/413
+B-Bishamonten HP:529/700 MP:139/139
+C-Nadja HP:211/399 MP:179/179
+D-Ose HP:358/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Israfel
+3-Hel
+4-Throne
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:1029/1136 MP:413/413
+2-Bishamonten HP:529/700 MP:139/139
+3-Nadja HP:211/399 MP:179/179
+4-Ose HP:358/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Nadja
+Nadja recibe 39 de daño
+Nadja termina con HP:172/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:414/597 MP:347/347
+B-Throne HP:297/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:123/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1029/1136 MP:413/413
+B-Bishamonten HP:529/700 MP:139/139
+C-Nadja HP:172/399 MP:179/179
+D-Ose HP:358/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Hel
+3-Throne
+4-Joker
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Itsuki HP:1029/1136 MP:413/413
+2-Bishamonten HP:529/700 MP:139/139
+3-Nadja HP:172/399 MP:179/179
+4-Ose HP:358/454 MP:90/90
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Israfel ataca a Ose
+Ose recibe 27 de daño
+Ose termina con HP:331/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:414/597 MP:347/347
+B-Throne HP:297/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:123/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1029/1136 MP:413/413
+B-Bishamonten HP:529/700 MP:139/139
+C-Nadja HP:172/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Throne
+3-Joker
+4-Israfel
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Itsuki HP:1029/1136 MP:413/413
+2-Bishamonten HP:529/700 MP:139/139
+3-Nadja HP:172/399 MP:179/179
+4-Ose HP:331/454 MP:90/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ataca a Bishamonten
+Bishamonten recibe 26 de daño
+Bishamonten termina con HP:503/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:414/597 MP:347/347
+B-Throne HP:297/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:123/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1029/1136 MP:413/413
+B-Bishamonten HP:503/700 MP:139/139
+C-Nadja HP:172/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Itsuki
+3-Nadja
+4-Ose
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:414/597 MP:347/347
+2-Throne HP:297/504 MP:225/225
+3-Israfel HP:95/258 MP:251/251
+4-Hel HP:123/254 MP:246/246
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Bishamonten ataca a Throne
+Throne recibe 53 de daño
+Throne termina con HP:244/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:414/597 MP:347/347
+B-Throne HP:244/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:123/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1029/1136 MP:413/413
+B-Bishamonten HP:503/700 MP:139/139
+C-Nadja HP:172/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Ose
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:414/597 MP:347/347
+2-Throne HP:244/504 MP:225/225
+3-Israfel HP:95/258 MP:251/251
+4-Hel HP:123/254 MP:246/246
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:414/597 MP:347/347
+2-Throne HP:244/504 MP:225/225
+3-Israfel HP:95/258 MP:251/251
+4-Hel HP:123/254 MP:246/246
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Joker
+Joker recibe 61 de daño
+Joker termina con HP:353/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:353/597 MP:347/347
+B-Throne HP:244/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:123/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1029/1136 MP:413/413
+B-Bishamonten HP:503/700 MP:139/139
+C-Nadja HP:172/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Ose
+3-Bishamonten
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Joker HP:353/597 MP:347/347
+2-Throne HP:244/504 MP:225/225
+3-Israfel HP:95/258 MP:251/251
+4-Hel HP:123/254 MP:246/246
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nadja ataca a Joker
+Joker recibe 32 de daño
+Joker termina con HP:321/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:321/597 MP:347/347
+B-Throne HP:244/504 MP:225/225
+C-Israfel HP:95/258 MP:251/251
+D-Hel HP:123/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1029/1136 MP:413/413
+B-Bishamonten HP:503/700 MP:139/139
+C-Nadja HP:172/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Bishamonten
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:321/597 MP:347/347
+2-Throne HP:244/504 MP:225/225
+3-Israfel HP:95/258 MP:251/251
+4-Hel HP:123/254 MP:246/246
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ose ataca a Israfel
+Israfel recibe 33 de daño
+Israfel termina con HP:62/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:321/597 MP:347/347
+B-Throne HP:244/504 MP:225/225
+C-Israfel HP:62/258 MP:251/251
+D-Hel HP:123/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:1029/1136 MP:413/413
+B-Bishamonten HP:503/700 MP:139/139
+C-Nadja HP:172/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Joker
+3-Israfel
+4-Hel
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:1029/1136 MP:413/413
+2-Bishamonten HP:503/700 MP:139/139
+3-Nadja HP:172/399 MP:179/179
+4-Ose HP:331/454 MP:90/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:988/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:321/597 MP:347/347
+B-Throne HP:244/504 MP:225/225
+C-Israfel HP:62/258 MP:251/251
+D-Hel HP:123/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:988/1136 MP:413/413
+B-Bishamonten HP:503/700 MP:139/139
+C-Nadja HP:172/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Israfel
+3-Hel
+4-Throne
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:988/1136 MP:413/413
+2-Bishamonten HP:503/700 MP:139/139
+3-Nadja HP:172/399 MP:179/179
+4-Ose HP:331/454 MP:90/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Bishamonten
+Bishamonten recibe 28 de daño
+Bishamonten termina con HP:475/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:321/597 MP:347/347
+B-Throne HP:244/504 MP:225/225
+C-Israfel HP:62/258 MP:251/251
+D-Hel HP:123/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:988/1136 MP:413/413
+B-Bishamonten HP:475/700 MP:139/139
+C-Nadja HP:172/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Hel
+3-Throne
+4-Joker
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Itsuki HP:988/1136 MP:413/413
+2-Bishamonten HP:475/700 MP:139/139
+3-Nadja HP:172/399 MP:179/179
+4-Ose HP:331/454 MP:90/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Israfel ataca a Bishamonten
+Bishamonten recibe 27 de daño
+Bishamonten termina con HP:448/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:321/597 MP:347/347
+B-Throne HP:244/504 MP:225/225
+C-Israfel HP:62/258 MP:251/251
+D-Hel HP:123/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:988/1136 MP:413/413
+B-Bishamonten HP:448/700 MP:139/139
+C-Nadja HP:172/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Throne
+3-Joker
+4-Israfel
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Itsuki HP:988/1136 MP:413/413
+2-Bishamonten HP:448/700 MP:139/139
+3-Nadja HP:172/399 MP:179/179
+4-Ose HP:331/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Hel ataca a Nadja
+Nadja recibe 26 de daño
+Nadja termina con HP:146/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:321/597 MP:347/347
+B-Throne HP:244/504 MP:225/225
+C-Israfel HP:62/258 MP:251/251
+D-Hel HP:123/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:988/1136 MP:413/413
+B-Bishamonten HP:448/700 MP:139/139
+C-Nadja HP:146/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Itsuki
+3-Nadja
+4-Ose
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:321/597 MP:347/347
+2-Throne HP:244/504 MP:225/225
+3-Israfel HP:62/258 MP:251/251
+4-Hel HP:123/254 MP:246/246
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Bishamonten ataca a Israfel
+Israfel recibe 53 de daño
+Israfel termina con HP:9/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:321/597 MP:347/347
+B-Throne HP:244/504 MP:225/225
+C-Israfel HP:9/258 MP:251/251
+D-Hel HP:123/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:988/1136 MP:413/413
+B-Bishamonten HP:448/700 MP:139/139
+C-Nadja HP:146/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Ose
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:321/597 MP:347/347
+2-Throne HP:244/504 MP:225/225
+3-Israfel HP:9/258 MP:251/251
+4-Hel HP:123/254 MP:246/246
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki ataca a Hel
+Hel recibe 45 de daño
+Hel termina con HP:78/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:321/597 MP:347/347
+B-Throne HP:244/504 MP:225/225
+C-Israfel HP:9/258 MP:251/251
+D-Hel HP:78/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:988/1136 MP:413/413
+B-Bishamonten HP:448/700 MP:139/139
+C-Nadja HP:146/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Ose
+3-Bishamonten
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Joker HP:321/597 MP:347/347
+2-Throne HP:244/504 MP:225/225
+3-Israfel HP:9/258 MP:251/251
+4-Hel HP:78/254 MP:246/246
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Joker HP:321/597 MP:347/347
+2-Throne HP:244/504 MP:225/225
+3-Israfel HP:9/258 MP:251/251
+4-Hel HP:78/254 MP:246/246
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nadja ataca a Hel
+Hel recibe 32 de daño
+Hel termina con HP:46/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:321/597 MP:347/347
+B-Throne HP:244/504 MP:225/225
+C-Israfel HP:9/258 MP:251/251
+D-Hel HP:46/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:988/1136 MP:413/413
+B-Bishamonten HP:448/700 MP:139/139
+C-Nadja HP:146/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Bishamonten
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:321/597 MP:347/347
+2-Throne HP:244/504 MP:225/225
+3-Israfel HP:9/258 MP:251/251
+4-Hel HP:46/254 MP:246/246
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ose ataca a Israfel
+Israfel recibe 33 de daño
+Israfel termina con HP:0/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:321/597 MP:347/347
+B-Throne HP:244/504 MP:225/225
+C-
+D-Hel HP:46/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:988/1136 MP:413/413
+B-Bishamonten HP:448/700 MP:139/139
+C-Nadja HP:146/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Joker
+3-Hel
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:988/1136 MP:413/413
+2-Bishamonten HP:448/700 MP:139/139
+3-Nadja HP:146/399 MP:179/179
+4-Ose HP:331/454 MP:90/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Throne ataca a Bishamonten
+Bishamonten recibe 41 de daño
+Bishamonten termina con HP:407/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:321/597 MP:347/347
+B-Throne HP:244/504 MP:225/225
+C-
+D-Hel HP:46/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:988/1136 MP:413/413
+B-Bishamonten HP:407/700 MP:139/139
+C-Nadja HP:146/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Hel
+3-Throne
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:988/1136 MP:413/413
+2-Bishamonten HP:407/700 MP:139/139
+3-Nadja HP:146/399 MP:179/179
+4-Ose HP:331/454 MP:90/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Itsuki
+Itsuki recibe 39 de daño
+Itsuki termina con HP:949/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:321/597 MP:347/347
+B-Throne HP:244/504 MP:225/225
+C-
+D-Hel HP:46/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:949/1136 MP:413/413
+B-Bishamonten HP:407/700 MP:139/139
+C-Nadja HP:146/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Throne
+3-Joker
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Itsuki HP:949/1136 MP:413/413
+2-Bishamonten HP:407/700 MP:139/139
+3-Nadja HP:146/399 MP:179/179
+4-Ose HP:331/454 MP:90/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ataca a Bishamonten
+Bishamonten recibe 26 de daño
+Bishamonten termina con HP:381/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:321/597 MP:347/347
+B-Throne HP:244/504 MP:225/225
+C-
+D-Hel HP:46/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:949/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:146/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Itsuki
+3-Nadja
+4-Ose
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:321/597 MP:347/347
+2-Throne HP:244/504 MP:225/225
+3-Hel HP:46/254 MP:246/246
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:321/597 MP:347/347
+2-Throne HP:244/504 MP:225/225
+3-Hel HP:46/254 MP:246/246
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Bishamonten ataca a Throne
+Throne recibe 53 de daño
+Throne termina con HP:191/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:321/597 MP:347/347
+B-Throne HP:191/504 MP:225/225
+C-
+D-Hel HP:46/254 MP:246/246
+Equipo de Itsuki (J2)
+A-Itsuki HP:949/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:146/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Ose
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:321/597 MP:347/347
+2-Throne HP:191/504 MP:225/225
+3-Hel HP:46/254 MP:246/246
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Hel
+Hel recibe 61 de daño
+Hel termina con HP:0/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:321/597 MP:347/347
+B-Throne HP:191/504 MP:225/225
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:949/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:146/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Ose
+3-Bishamonten
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Joker HP:321/597 MP:347/347
+2-Throne HP:191/504 MP:225/225
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nadja ataca a Throne
+Throne recibe 32 de daño
+Throne termina con HP:159/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:321/597 MP:347/347
+B-Throne HP:159/504 MP:225/225
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:949/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:146/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Bishamonten
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:321/597 MP:347/347
+2-Throne HP:159/504 MP:225/225
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ose ataca a Joker
+Joker recibe 33 de daño
+Joker termina con HP:288/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:288/597 MP:347/347
+B-Throne HP:159/504 MP:225/225
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:949/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:146/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Joker
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:949/1136 MP:413/413
+2-Bishamonten HP:381/700 MP:139/139
+3-Nadja HP:146/399 MP:179/179
+4-Ose HP:331/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Throne ataca a Nadja
+Nadja recibe 41 de daño
+Nadja termina con HP:105/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:288/597 MP:347/347
+B-Throne HP:159/504 MP:225/225
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:949/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:105/399 MP:179/179
+D-Ose HP:331/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Throne
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:949/1136 MP:413/413
+2-Bishamonten HP:381/700 MP:139/139
+3-Nadja HP:105/399 MP:179/179
+4-Ose HP:331/454 MP:90/90
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker dispara a Ose
+Ose recibe 39 de daño
+Ose termina con HP:292/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:288/597 MP:347/347
+B-Throne HP:159/504 MP:225/225
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:949/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:105/399 MP:179/179
+D-Ose HP:292/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Itsuki
+3-Nadja
+4-Ose
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:288/597 MP:347/347
+2-Throne HP:159/504 MP:225/225
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Bishamonten ataca a Throne
+Throne recibe 53 de daño
+Throne termina con HP:106/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:288/597 MP:347/347
+B-Throne HP:106/504 MP:225/225
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:949/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:105/399 MP:179/179
+D-Ose HP:292/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Ose
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:288/597 MP:347/347
+2-Throne HP:106/504 MP:225/225
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Throne
+Throne recibe 45 de daño
+Throne termina con HP:61/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:288/597 MP:347/347
+B-Throne HP:61/504 MP:225/225
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:949/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:105/399 MP:179/179
+D-Ose HP:292/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Ose
+3-Bishamonten
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Joker HP:288/597 MP:347/347
+2-Throne HP:61/504 MP:225/225
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nadja ataca a Throne
+Throne recibe 32 de daño
+Throne termina con HP:29/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:288/597 MP:347/347
+B-Throne HP:29/504 MP:225/225
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:949/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:105/399 MP:179/179
+D-Ose HP:292/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Bishamonten
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:288/597 MP:347/347
+2-Throne HP:29/504 MP:225/225
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ose ataca a Joker
+Joker recibe 33 de daño
+Joker termina con HP:255/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:255/597 MP:347/347
+B-Throne HP:29/504 MP:225/225
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:949/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:105/399 MP:179/179
+D-Ose HP:292/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Joker
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Itsuki HP:949/1136 MP:413/413
+2-Bishamonten HP:381/700 MP:139/139
+3-Nadja HP:105/399 MP:179/179
+4-Ose HP:292/454 MP:90/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:908/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:255/597 MP:347/347
+B-Throne HP:29/504 MP:225/225
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:908/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:105/399 MP:179/179
+D-Ose HP:292/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Throne
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:908/1136 MP:413/413
+2-Bishamonten HP:381/700 MP:139/139
+3-Nadja HP:105/399 MP:179/179
+4-Ose HP:292/454 MP:90/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Itsuki
+Itsuki recibe 28 de daño
+Itsuki termina con HP:880/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:255/597 MP:347/347
+B-Throne HP:29/504 MP:225/225
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:880/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:105/399 MP:179/179
+D-Ose HP:292/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Itsuki
+3-Nadja
+4-Ose
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:255/597 MP:347/347
+2-Throne HP:29/504 MP:225/225
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Bishamonten ataca a Joker
+Joker recibe 53 de daño
+Joker termina con HP:202/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:202/597 MP:347/347
+B-Throne HP:29/504 MP:225/225
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:880/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:105/399 MP:179/179
+D-Ose HP:292/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Ose
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:202/597 MP:347/347
+2-Throne HP:29/504 MP:225/225
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:202/597 MP:347/347
+2-Throne HP:29/504 MP:225/225
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:202/597 MP:347/347
+2-Throne HP:29/504 MP:225/225
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:202/597 MP:347/347
+2-Throne HP:29/504 MP:225/225
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Throne
+Throne recibe 61 de daño
+Throne termina con HP:0/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:202/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:880/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:105/399 MP:179/179
+D-Ose HP:292/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Ose
+3-Bishamonten
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Joker HP:202/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nadja ataca a Joker
+Joker recibe 32 de daño
+Joker termina con HP:170/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:170/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:880/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:105/399 MP:179/179
+D-Ose HP:292/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Bishamonten
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:170/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ose ataca a Joker
+Joker recibe 33 de daño
+Joker termina con HP:137/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:137/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:880/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:105/399 MP:179/179
+D-Ose HP:292/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:880/1136 MP:413/413
+2-Bishamonten HP:381/700 MP:139/139
+3-Nadja HP:105/399 MP:179/179
+4-Ose HP:292/454 MP:90/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Itsuki
+Itsuki recibe 39 de daño
+Itsuki termina con HP:841/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:137/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:841/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:105/399 MP:179/179
+D-Ose HP:292/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Itsuki
+3-Nadja
+4-Ose
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:137/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:137/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:137/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Bishamonten ataca a Joker
+Joker recibe 53 de daño
+Joker termina con HP:84/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:84/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:841/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:105/399 MP:179/179
+D-Ose HP:292/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Ose
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:84/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Joker
+Joker recibe 61 de daño
+Joker termina con HP:23/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:23/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:841/1136 MP:413/413
+B-Bishamonten HP:381/700 MP:139/139
+C-Nadja HP:105/399 MP:179/179
+D-Ose HP:292/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Ose
+3-Bishamonten
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Joker HP:23/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nadja ataca a Joker
+Joker recibe 32 de daño
+Joker termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Itsuki (J2)

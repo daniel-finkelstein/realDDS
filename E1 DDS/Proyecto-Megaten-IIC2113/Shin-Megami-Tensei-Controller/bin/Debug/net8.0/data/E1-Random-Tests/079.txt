@@ -1,0 +1,2550 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 78
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Lorelei HP:291/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:407/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lorelei
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:971/971 MP:527/527
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Orias HP:252/252 MP:112/112
+4-Power HP:407/407 MP:81/81
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:971/971 MP:527/527
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Orias HP:252/252 MP:112/112
+4-Power HP:407/407 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Power
+Power recibe 61 de daño
+Power termina con HP:346/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Lorelei HP:291/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:346/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Flynn HP:971/971 MP:527/527
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Orias HP:252/252 MP:112/112
+4-Power HP:346/407 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Lorelei ataca a Power
+Power recibe 30 de daño
+Power termina con HP:316/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Lorelei HP:291/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:316/407 MP:81/81
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Power
+3-Orias
+4-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:1136/1136 MP:413/413
+2-Lorelei HP:291/291 MP:283/283
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Lorelei
+Lorelei recibe 88 de daño
+Lorelei termina con HP:203/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Lorelei HP:203/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:316/407 MP:81/81
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Orias
+3-Bai Suzhen
+4-Flynn
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Itsuki HP:1136/1136 MP:413/413
+2-Lorelei HP:203/291 MP:283/283
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Power ataca a Lorelei
+Lorelei recibe 29 de daño
+Lorelei termina con HP:174/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Lorelei HP:174/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:316/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Bai Suzhen
+3-Flynn
+4-Power
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:1136/1136 MP:413/413
+2-Lorelei HP:174/291 MP:283/283
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Orias ataca a Lorelei
+Lorelei recibe 19 de daño
+Lorelei termina con HP:155/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Lorelei HP:155/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:316/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Flynn
+3-Power
+4-Orias
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Itsuki HP:1136/1136 MP:413/413
+2-Lorelei HP:155/291 MP:283/283
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Itsuki HP:1136/1136 MP:413/413
+2-Lorelei HP:155/291 MP:283/283
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Bai Suzhen ataca a Itsuki
+Itsuki recibe 16 de daño
+Itsuki termina con HP:1120/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1120/1136 MP:413/413
+B-Lorelei HP:155/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:316/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lorelei
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:971/971 MP:527/527
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Orias HP:252/252 MP:112/112
+4-Power HP:316/407 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Power
+Power recibe 61 de daño
+Power termina con HP:255/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1120/1136 MP:413/413
+B-Lorelei HP:155/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:255/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Flynn HP:971/971 MP:527/527
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Orias HP:252/252 MP:112/112
+4-Power HP:255/407 MP:81/81
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Lorelei ataca a Flynn
+Flynn recibe 30 de daño
+Flynn termina con HP:941/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1120/1136 MP:413/413
+B-Lorelei HP:155/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:255/407 MP:81/81
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Power
+3-Orias
+4-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:1120/1136 MP:413/413
+2-Lorelei HP:155/291 MP:283/283
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Itsuki
+Itsuki recibe 88 de daño
+Itsuki termina con HP:1032/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1032/1136 MP:413/413
+B-Lorelei HP:155/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:255/407 MP:81/81
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Orias
+3-Bai Suzhen
+4-Flynn
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Itsuki HP:1032/1136 MP:413/413
+2-Lorelei HP:155/291 MP:283/283
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Power ataca a Lorelei
+Lorelei recibe 29 de daño
+Lorelei termina con HP:126/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1032/1136 MP:413/413
+B-Lorelei HP:126/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:255/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Bai Suzhen
+3-Flynn
+4-Power
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:1032/1136 MP:413/413
+2-Lorelei HP:126/291 MP:283/283
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:1032/1136 MP:413/413
+2-Lorelei HP:126/291 MP:283/283
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Orias ataca a Lorelei
+Lorelei recibe 19 de daño
+Lorelei termina con HP:107/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1032/1136 MP:413/413
+B-Lorelei HP:107/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:255/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Flynn
+3-Power
+4-Orias
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Itsuki HP:1032/1136 MP:413/413
+2-Lorelei HP:107/291 MP:283/283
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Itsuki HP:1032/1136 MP:413/413
+2-Lorelei HP:107/291 MP:283/283
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Bai Suzhen ataca a Itsuki
+Itsuki recibe 16 de daño
+Itsuki termina con HP:1016/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1016/1136 MP:413/413
+B-Lorelei HP:107/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:255/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lorelei
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:941/971 MP:527/527
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Orias HP:252/252 MP:112/112
+4-Power HP:255/407 MP:81/81
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Bai Suzhen
+Bai Suzhen recibe 45 de daño
+Bai Suzhen termina con HP:110/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1016/1136 MP:413/413
+B-Lorelei HP:107/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:110/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:255/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Flynn HP:941/971 MP:527/527
+2-Bai Suzhen HP:110/155 MP:149/149
+3-Orias HP:252/252 MP:112/112
+4-Power HP:255/407 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Lorelei ataca a Power
+Power recibe 30 de daño
+Power termina con HP:225/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1016/1136 MP:413/413
+B-Lorelei HP:107/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:110/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:225/407 MP:81/81
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Power
+3-Orias
+4-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:1016/1136 MP:413/413
+2-Lorelei HP:107/291 MP:283/283
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:1016/1136 MP:413/413
+2-Lorelei HP:107/291 MP:283/283
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:1016/1136 MP:413/413
+2-Lorelei HP:107/291 MP:283/283
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:906/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:906/1136 MP:413/413
+B-Lorelei HP:107/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:110/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:225/407 MP:81/81
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Orias
+3-Bai Suzhen
+4-Flynn
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Itsuki HP:906/1136 MP:413/413
+2-Lorelei HP:107/291 MP:283/283
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Power ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:877/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:877/1136 MP:413/413
+B-Lorelei HP:107/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:110/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:225/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Bai Suzhen
+3-Flynn
+4-Power
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:877/1136 MP:413/413
+2-Lorelei HP:107/291 MP:283/283
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:877/1136 MP:413/413
+2-Lorelei HP:107/291 MP:283/283
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Orias ataca a Lorelei
+Lorelei recibe 19 de daño
+Lorelei termina con HP:88/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:877/1136 MP:413/413
+B-Lorelei HP:88/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:110/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:225/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Flynn
+3-Power
+4-Orias
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Itsuki HP:877/1136 MP:413/413
+2-Lorelei HP:88/291 MP:283/283
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Bai Suzhen ataca a Itsuki
+Itsuki recibe 16 de daño
+Itsuki termina con HP:861/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:861/1136 MP:413/413
+B-Lorelei HP:88/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:110/155 MP:149/149
+C-Orias HP:252/252 MP:112/112
+D-Power HP:225/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lorelei
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:941/971 MP:527/527
+2-Bai Suzhen HP:110/155 MP:149/149
+3-Orias HP:252/252 MP:112/112
+4-Power HP:225/407 MP:81/81
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Orias
+Orias recibe 45 de daño
+Orias termina con HP:207/252
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:861/1136 MP:413/413
+B-Lorelei HP:88/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:110/155 MP:149/149
+C-Orias HP:207/252 MP:112/112
+D-Power HP:225/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Flynn HP:941/971 MP:527/527
+2-Bai Suzhen HP:110/155 MP:149/149
+3-Orias HP:207/252 MP:112/112
+4-Power HP:225/407 MP:81/81
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Lorelei ataca a Orias
+Orias recibe 30 de daño
+Orias termina con HP:177/252
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:861/1136 MP:413/413
+B-Lorelei HP:88/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:110/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:225/407 MP:81/81
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Power
+3-Orias
+4-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:861/1136 MP:413/413
+2-Lorelei HP:88/291 MP:283/283
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:751/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:751/1136 MP:413/413
+B-Lorelei HP:88/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:110/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:225/407 MP:81/81
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Orias
+3-Bai Suzhen
+4-Flynn
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Itsuki HP:751/1136 MP:413/413
+2-Lorelei HP:88/291 MP:283/283
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Power ataca a Lorelei
+Lorelei recibe 29 de daño
+Lorelei termina con HP:59/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:751/1136 MP:413/413
+B-Lorelei HP:59/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:110/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:225/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Bai Suzhen
+3-Flynn
+4-Power
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:751/1136 MP:413/413
+2-Lorelei HP:59/291 MP:283/283
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:751/1136 MP:413/413
+2-Lorelei HP:59/291 MP:283/283
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:751/1136 MP:413/413
+2-Lorelei HP:59/291 MP:283/283
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Orias ataca a Lorelei
+Lorelei recibe 19 de daño
+Lorelei termina con HP:40/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:751/1136 MP:413/413
+B-Lorelei HP:40/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:110/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:225/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Flynn
+3-Power
+4-Orias
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Itsuki HP:751/1136 MP:413/413
+2-Lorelei HP:40/291 MP:283/283
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Bai Suzhen ataca a Lorelei
+Lorelei recibe 16 de daño
+Lorelei termina con HP:24/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:751/1136 MP:413/413
+B-Lorelei HP:24/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:110/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:225/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lorelei
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:941/971 MP:527/527
+2-Bai Suzhen HP:110/155 MP:149/149
+3-Orias HP:177/252 MP:112/112
+4-Power HP:225/407 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Power
+Power recibe 61 de daño
+Power termina con HP:164/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:751/1136 MP:413/413
+B-Lorelei HP:24/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:110/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:164/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Flynn HP:941/971 MP:527/527
+2-Bai Suzhen HP:110/155 MP:149/149
+3-Orias HP:177/252 MP:112/112
+4-Power HP:164/407 MP:81/81
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Flynn HP:941/971 MP:527/527
+2-Bai Suzhen HP:110/155 MP:149/149
+3-Orias HP:177/252 MP:112/112
+4-Power HP:164/407 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Lorelei ataca a Power
+Power recibe 30 de daño
+Power termina con HP:134/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:751/1136 MP:413/413
+B-Lorelei HP:24/291 MP:283/283
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:110/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:134/407 MP:81/81
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Power
+3-Orias
+4-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:751/1136 MP:413/413
+2-Lorelei HP:24/291 MP:283/283
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Lorelei
+Lorelei recibe 110 de daño
+Lorelei termina con HP:0/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:751/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:110/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:134/407 MP:81/81
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Orias
+3-Bai Suzhen
+4-Flynn
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Itsuki HP:751/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Power ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:722/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:722/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:110/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:134/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Bai Suzhen
+3-Flynn
+4-Power
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:722/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:722/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Orias ataca a Itsuki
+Itsuki recibe 19 de daño
+Itsuki termina con HP:703/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:703/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:110/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:134/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Flynn
+3-Power
+4-Orias
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Itsuki HP:703/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Bai Suzhen ataca a Itsuki
+Itsuki recibe 16 de daño
+Itsuki termina con HP:687/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:687/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:110/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:134/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:941/971 MP:527/527
+2-Bai Suzhen HP:110/155 MP:149/149
+3-Orias HP:177/252 MP:112/112
+4-Power HP:134/407 MP:81/81
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Bai Suzhen
+Bai Suzhen recibe 61 de daño
+Bai Suzhen termina con HP:49/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:687/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:49/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:134/407 MP:81/81
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Power
+3-Orias
+4-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:687/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Itsuki
+Itsuki recibe 88 de daño
+Itsuki termina con HP:599/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:599/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:49/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:134/407 MP:81/81
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Orias
+3-Bai Suzhen
+4-Flynn
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Itsuki HP:599/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Itsuki HP:599/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Itsuki HP:599/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Itsuki HP:599/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Power ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:570/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:570/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:49/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:134/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Bai Suzhen
+3-Flynn
+4-Power
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:570/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:570/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Orias ataca a Itsuki
+Itsuki recibe 19 de daño
+Itsuki termina con HP:551/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:551/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:49/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:134/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Flynn
+3-Power
+4-Orias
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Itsuki HP:551/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Bai Suzhen ataca a Itsuki
+Itsuki recibe 16 de daño
+Itsuki termina con HP:535/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:535/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:49/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:134/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:941/971 MP:527/527
+2-Bai Suzhen HP:49/155 MP:149/149
+3-Orias HP:177/252 MP:112/112
+4-Power HP:134/407 MP:81/81
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:941/971 MP:527/527
+2-Bai Suzhen HP:49/155 MP:149/149
+3-Orias HP:177/252 MP:112/112
+4-Power HP:134/407 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki ataca a Power
+Power recibe 45 de daño
+Power termina con HP:89/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:535/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:49/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:89/407 MP:81/81
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Power
+3-Orias
+4-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:535/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Itsuki
+Itsuki recibe 88 de daño
+Itsuki termina con HP:447/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:447/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:49/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:89/407 MP:81/81
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Orias
+3-Bai Suzhen
+4-Flynn
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Itsuki HP:447/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Power ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:418/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:418/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:49/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:89/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Bai Suzhen
+3-Flynn
+4-Power
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:418/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:418/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Orias ataca a Itsuki
+Itsuki recibe 19 de daño
+Itsuki termina con HP:399/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:399/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:49/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:89/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Flynn
+3-Power
+4-Orias
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Itsuki HP:399/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Itsuki HP:399/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Itsuki HP:399/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Bai Suzhen ataca a Itsuki
+Itsuki recibe 16 de daño
+Itsuki termina con HP:383/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:383/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:49/155 MP:149/149
+C-Orias HP:177/252 MP:112/112
+D-Power HP:89/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:941/971 MP:527/527
+2-Bai Suzhen HP:49/155 MP:149/149
+3-Orias HP:177/252 MP:112/112
+4-Power HP:89/407 MP:81/81
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Orias
+Orias recibe 61 de daño
+Orias termina con HP:116/252
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:383/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:49/155 MP:149/149
+C-Orias HP:116/252 MP:112/112
+D-Power HP:89/407 MP:81/81
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Power
+3-Orias
+4-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:383/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:383/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Itsuki
+Itsuki recibe 88 de daño
+Itsuki termina con HP:295/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:295/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:49/155 MP:149/149
+C-Orias HP:116/252 MP:112/112
+D-Power HP:89/407 MP:81/81
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Orias
+3-Bai Suzhen
+4-Flynn
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Itsuki HP:295/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Itsuki HP:295/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Power ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:266/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:266/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:49/155 MP:149/149
+C-Orias HP:116/252 MP:112/112
+D-Power HP:89/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Bai Suzhen
+3-Flynn
+4-Power
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:266/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:266/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:266/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Orias ataca a Itsuki
+Itsuki recibe 19 de daño
+Itsuki termina con HP:247/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:247/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:49/155 MP:149/149
+C-Orias HP:116/252 MP:112/112
+D-Power HP:89/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Flynn
+3-Power
+4-Orias
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Itsuki HP:247/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Bai Suzhen ataca a Itsuki
+Itsuki recibe 16 de daño
+Itsuki termina con HP:231/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:231/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-Bai Suzhen HP:49/155 MP:149/149
+C-Orias HP:116/252 MP:112/112
+D-Power HP:89/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:941/971 MP:527/527
+2-Bai Suzhen HP:49/155 MP:149/149
+3-Orias HP:116/252 MP:112/112
+4-Power HP:89/407 MP:81/81
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Bai Suzhen
+Bai Suzhen recibe 61 de daño
+Bai Suzhen termina con HP:0/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:231/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-
+C-Orias HP:116/252 MP:112/112
+D-Power HP:89/407 MP:81/81
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Power
+3-Orias
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:231/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:231/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:231/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:121/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:121/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-
+C-Orias HP:116/252 MP:112/112
+D-Power HP:89/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Orias
+3-Flynn
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Itsuki HP:121/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Itsuki HP:121/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Power ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:92/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:92/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-
+C-Orias HP:116/252 MP:112/112
+D-Power HP:89/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Flynn
+3-Power
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:92/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:92/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Orias ataca a Itsuki
+Itsuki recibe 19 de daño
+Itsuki termina con HP:73/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:73/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:941/971 MP:527/527
+B-
+C-Orias HP:116/252 MP:112/112
+D-Power HP:89/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:941/971 MP:527/527
+2-Orias HP:116/252 MP:112/112
+3-Power HP:89/407 MP:81/81
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Flynn
+Flynn recibe 45 de daño
+Flynn termina con HP:896/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:73/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:896/971 MP:527/527
+B-
+C-Orias HP:116/252 MP:112/112
+D-Power HP:89/407 MP:81/81
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Power
+3-Orias
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:73/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Itsuki
+Itsuki recibe 88 de daño
+Itsuki termina con HP:0/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Flynn (J2)

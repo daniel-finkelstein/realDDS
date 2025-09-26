@@ -1,0 +1,6191 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 9
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Tenkai HP:409/409 MP:396/396
+C-Ometeotl HP:324/324 MP:315/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Naga HP:199/199 MP:39/39
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Tenkai HP:409/409 MP:396/396
+C-Ometeotl HP:324/324 MP:315/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Naga HP:199/199 MP:39/39
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Tenkai HP:409/409 MP:396/396
+C-Ometeotl HP:324/324 MP:315/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Naga HP:199/199 MP:39/39
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Kei
+3-Tenkai
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Tenkai HP:409/409 MP:396/396
+C-Ometeotl HP:324/324 MP:315/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Naga HP:199/199 MP:39/39
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Tenkai
+3-Ometeotl
+4-Senri
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:140/140 MP:411/411
+2-Xi Wangmu HP:418/418 MP:405/405
+3-Naga HP:199/199 MP:39/39
+4-Gryphon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei dispara a Xi Wangmu
+Xi Wangmu recibe 15 de daño
+Xi Wangmu termina con HP:403/418
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Tenkai HP:409/409 MP:396/396
+C-Ometeotl HP:324/324 MP:315/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Xi Wangmu HP:403/418 MP:405/405
+C-Naga HP:199/199 MP:39/39
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tenkai use
+1-Hamaon MP:10
+2-Megidola MP:40
+3-Blood Ritual MP:25
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tenkai use
+1-Hamaon MP:10
+2-Megidola MP:40
+3-Blood Ritual MP:25
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Tenkai HP:409/409 MP:396/396
+C-Ometeotl HP:324/324 MP:315/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Xi Wangmu HP:403/418 MP:405/405
+C-Naga HP:199/199 MP:39/39
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Nanashi HP:140/140 MP:411/411
+2-Xi Wangmu HP:403/418 MP:405/405
+3-Naga HP:199/199 MP:39/39
+4-Gryphon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Nanashi HP:140/140 MP:411/411
+2-Xi Wangmu HP:403/418 MP:405/405
+3-Naga HP:199/199 MP:39/39
+4-Gryphon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ometeotl lanza hielo a Nanashi
+Nanashi es resistente el ataque de Ometeotl
+Nanashi recibe 65 de daño
+Nanashi termina con HP:75/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Tenkai HP:409/409 MP:396/396
+C-Ometeotl HP:324/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:75/140 MP:411/411
+B-Xi Wangmu HP:403/418 MP:405/405
+C-Naga HP:199/199 MP:39/39
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Kei
+3-Tenkai
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Tenkai HP:409/409 MP:396/396
+C-Ometeotl HP:324/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:75/140 MP:411/411
+B-Xi Wangmu HP:403/418 MP:405/405
+C-Naga HP:199/199 MP:39/39
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Tenkai
+3-Ometeotl
+4-Senri
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:75/140 MP:411/411
+2-Xi Wangmu HP:403/418 MP:405/405
+3-Naga HP:199/199 MP:39/39
+4-Gryphon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei dispara a Naga
+Naga recibe 15 de daño
+Naga termina con HP:184/199
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Tenkai HP:409/409 MP:396/396
+C-Ometeotl HP:324/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:75/140 MP:411/411
+B-Xi Wangmu HP:403/418 MP:405/405
+C-Naga HP:184/199 MP:39/39
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Nanashi
+3-Naga
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:851/851 MP:170/170
+2-Kikuri-Hime HP:216/216 MP:210/210
+3-Nebiros HP:249/249 MP:242/242
+4-Mastema HP:399/399 MP:387/387
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Xi Wangmu HP:403/418 MP:405/405 (Puesto 2)
+2-Naga HP:184/199 MP:39/39 (Puesto 3)
+3-Gryphon HP:123/123 MP:23/23 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mastema ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Tenkai HP:409/409 MP:396/396
+C-Ometeotl HP:324/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:75/140 MP:411/411
+B-Xi Wangmu HP:403/418 MP:360/405
+C-Mastema HP:399/399 MP:387/387
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Mastema
+3-Gryphon
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:760/760 MP:398/398
+2-Tenkai HP:409/409 MP:396/396
+3-Ometeotl HP:324/324 MP:301/315
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Kei
+Kei es resistente el ataque de Nanashi
+Kei recibe 15 de daño
+Kei termina con HP:745/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:409/409 MP:396/396
+C-Ometeotl HP:324/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:75/140 MP:411/411
+B-Xi Wangmu HP:403/418 MP:360/405
+C-Mastema HP:399/399 MP:387/387
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mastema
+2-Gryphon
+3-Xi Wangmu
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:409/409 MP:396/396
+C-Ometeotl HP:324/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:75/140 MP:411/411
+B-Xi Wangmu HP:403/418 MP:360/405
+C-Mastema HP:399/399 MP:387/387
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gryphon
+2-Xi Wangmu
+3-Nanashi
+4-Mastema
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Kei HP:745/760 MP:398/398
+2-Tenkai HP:409/409 MP:396/396
+3-Ometeotl HP:324/324 MP:301/315
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Gryphon ataca a Tenkai
+Tenkai es resistente el ataque de Gryphon
+Tenkai recibe 2 de daño
+Tenkai termina con HP:407/409
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:407/409 MP:396/396
+C-Ometeotl HP:324/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:75/140 MP:411/411
+B-Xi Wangmu HP:403/418 MP:360/405
+C-Mastema HP:399/399 MP:387/387
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Nanashi
+3-Mastema
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Naga HP:184/199 MP:39/39
+2-Magatsuhi HP:851/851 MP:170/170
+3-Kikuri-Hime HP:216/216 MP:210/210
+4-Nebiros HP:249/249 MP:242/242
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Xi Wangmu HP:403/418 MP:360/405 (Puesto 2)
+2-Mastema HP:399/399 MP:387/387 (Puesto 3)
+3-Gryphon HP:123/123 MP:23/23 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:407/409 MP:396/396
+C-Ometeotl HP:324/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:75/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Mastema HP:399/399 MP:387/387
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Nanashi HP:75/140 MP:411/411
+2-Nebiros HP:249/249 MP:242/242
+3-Mastema HP:399/399 MP:387/387
+4-Gryphon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:407/409 MP:396/396
+C-Ometeotl HP:324/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:75/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Mastema HP:399/399 MP:387/387
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Nanashi HP:75/140 MP:411/411
+2-Nebiros HP:249/249 MP:242/242
+3-Mastema HP:399/399 MP:387/387
+4-Gryphon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ometeotl ataca a Nanashi
+Nanashi recibe 34 de daño
+Nanashi termina con HP:41/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:407/409 MP:396/396
+C-Ometeotl HP:324/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Mastema HP:399/399 MP:387/387
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Kei
+3-Tenkai
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:407/409 MP:396/396
+C-Ometeotl HP:324/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Mastema HP:399/399 MP:387/387
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Tenkai
+3-Ometeotl
+4-Senri
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:407/409 MP:396/396
+C-Ometeotl HP:324/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Mastema HP:399/399 MP:387/387
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tenkai use
+1-Hamaon MP:10
+2-Megidola MP:40
+3-Blood Ritual MP:25
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tenkai use
+1-Hamaon MP:10
+2-Megidola MP:40
+3-Blood Ritual MP:25
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:407/409 MP:396/396
+C-Ometeotl HP:324/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Mastema HP:399/399 MP:387/387
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Nanashi HP:41/140 MP:411/411
+2-Nebiros HP:249/249 MP:242/242
+3-Mastema HP:399/399 MP:387/387
+4-Gryphon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Nanashi HP:41/140 MP:411/411
+2-Nebiros HP:249/249 MP:242/242
+3-Mastema HP:399/399 MP:387/387
+4-Gryphon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ometeotl ataca a Mastema
+Mastema recibe 34 de daño
+Mastema termina con HP:365/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:407/409 MP:396/396
+C-Ometeotl HP:324/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Mastema HP:365/399 MP:387/387
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Kei
+3-Tenkai
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nanashi HP:41/140 MP:411/411
+2-Nebiros HP:249/249 MP:242/242
+3-Mastema HP:365/399 MP:387/387
+4-Gryphon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Senri ataca a Nebiros
+Nebiros bloquea el ataque de Senri
+Nebiros termina con HP:249/249
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:407/409 MP:396/396
+C-Ometeotl HP:324/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Mastema HP:365/399 MP:387/387
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mastema
+2-Nanashi
+3-Nebiros
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mastema use
+1-Megidolaon MP:60
+2-Pandemic Bomb MP:11
+3-Panic Voice MP:15
+4-Mahamaon MP:30
+5-Deadly Wind MP:22
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:403/418 MP:315/405
+2-Naga HP:184/199 MP:39/39
+3-Magatsuhi HP:851/851 MP:170/170
+4-Kikuri-Hime HP:216/216 MP:210/210
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:407/409 MP:396/396
+C-Ometeotl HP:324/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Xi Wangmu HP:403/418 MP:315/405
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Nebiros
+3-Gryphon
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Naga HP:184/199 MP:39/39
+2-Magatsuhi HP:851/851 MP:170/170
+3-Kikuri-Hime HP:216/216 MP:210/210
+4-Mastema HP:365/399 MP:387/387
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Nebiros HP:249/249 MP:242/242 (Puesto 2)
+2-Xi Wangmu HP:403/418 MP:315/405 (Puesto 3)
+3-Gryphon HP:123/123 MP:23/23 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:407/409 MP:396/396
+C-Ometeotl HP:324/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:170/170
+C-Xi Wangmu HP:403/418 MP:315/405
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Gryphon
+3-Xi Wangmu
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:745/760 MP:398/398
+2-Tenkai HP:407/409 MP:396/396
+3-Ometeotl HP:324/324 MP:301/315
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Magatsuhi ataca a Ometeotl
+Ometeotl recibe 65 de daño
+Ometeotl termina con HP:259/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:407/409 MP:396/396
+C-Ometeotl HP:259/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:170/170
+C-Xi Wangmu HP:403/418 MP:315/405
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Xi Wangmu
+3-Nanashi
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Naga HP:184/199 MP:39/39
+2-Kikuri-Hime HP:216/216 MP:210/210
+3-Nebiros HP:249/249 MP:242/242
+4-Mastema HP:365/399 MP:387/387
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Kei HP:745/760 MP:398/398
+2-Tenkai HP:407/409 MP:396/396
+3-Ometeotl HP:259/324 MP:301/315
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Kei HP:745/760 MP:398/398
+2-Tenkai HP:407/409 MP:396/396
+3-Ometeotl HP:259/324 MP:301/315
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Gryphon ataca a Tenkai
+Tenkai es resistente el ataque de Gryphon
+Tenkai recibe 2 de daño
+Tenkai termina con HP:405/409
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:405/409 MP:396/396
+C-Ometeotl HP:259/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:170/170
+C-Xi Wangmu HP:403/418 MP:315/405
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Nanashi
+3-Magatsuhi
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Kei HP:745/760 MP:398/398
+2-Tenkai HP:405/409 MP:396/396
+3-Ometeotl HP:259/324 MP:301/315
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Xi Wangmu ataca a Ometeotl
+Ometeotl recibe 44 de daño
+Ometeotl termina con HP:215/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:405/409 MP:396/396
+C-Ometeotl HP:215/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:170/170
+C-Xi Wangmu HP:403/418 MP:315/405
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:405/409 MP:396/396
+C-Ometeotl HP:215/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:170/170
+C-Xi Wangmu HP:403/418 MP:315/405
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:405/409 MP:396/396
+C-Ometeotl HP:215/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:170/170
+C-Xi Wangmu HP:403/418 MP:315/405
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Kei
+3-Tenkai
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:405/409 MP:396/396
+C-Ometeotl HP:215/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:170/170
+C-Xi Wangmu HP:403/418 MP:315/405
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Tenkai
+3-Ometeotl
+4-Senri
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:405/409 MP:396/396
+C-Ometeotl HP:215/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:170/170
+C-Xi Wangmu HP:403/418 MP:315/405
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tenkai use
+1-Hamaon MP:10
+2-Megidola MP:40
+3-Blood Ritual MP:25
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tenkai use
+1-Hamaon MP:10
+2-Megidola MP:40
+3-Blood Ritual MP:25
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Nanashi HP:41/140 MP:411/411
+2-Magatsuhi HP:851/851 MP:170/170
+3-Xi Wangmu HP:403/418 MP:315/405
+4-Gryphon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tenkai ataca a Gryphon
+Gryphon recibe 43 de daño
+Gryphon termina con HP:80/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:405/409 MP:396/396
+C-Ometeotl HP:215/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:170/170
+C-Xi Wangmu HP:403/418 MP:315/405
+D-Gryphon HP:80/123 MP:23/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Nanashi HP:41/140 MP:411/411
+2-Magatsuhi HP:851/851 MP:170/170
+3-Xi Wangmu HP:403/418 MP:315/405
+4-Gryphon HP:80/123 MP:23/23
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ometeotl ataca a Xi Wangmu
+Xi Wangmu recibe 34 de daño
+Xi Wangmu termina con HP:369/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:405/409 MP:396/396
+C-Ometeotl HP:215/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:170/170
+C-Xi Wangmu HP:369/418 MP:315/405
+D-Gryphon HP:80/123 MP:23/23
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Xi Wangmu
+3-Nanashi
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:745/760 MP:398/398
+2-Tenkai HP:405/409 MP:396/396
+3-Ometeotl HP:215/324 MP:301/315
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi lanza hielo a Tenkai
+Tenkai recibe 124 de daño
+Tenkai termina con HP:281/409
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:281/409 MP:396/396
+C-Ometeotl HP:215/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:156/170
+C-Xi Wangmu HP:369/418 MP:315/405
+D-Gryphon HP:80/123 MP:23/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Nanashi
+3-Gryphon
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Kei HP:745/760 MP:398/398
+2-Tenkai HP:281/409 MP:396/396
+3-Ometeotl HP:215/324 MP:301/315
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Xi Wangmu ataca a Tenkai
+Tenkai es resistente el ataque de Xi Wangmu
+Tenkai recibe 22 de daño
+Tenkai termina con HP:259/409
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:215/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:156/170
+C-Xi Wangmu HP:369/418 MP:315/405
+D-Gryphon HP:80/123 MP:23/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Gryphon
+3-Magatsuhi
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:215/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:156/170
+C-Xi Wangmu HP:369/418 MP:315/405
+D-Gryphon HP:80/123 MP:23/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gryphon
+2-Magatsuhi
+3-Xi Wangmu
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Kei HP:745/760 MP:398/398
+2-Tenkai HP:259/409 MP:396/396
+3-Ometeotl HP:215/324 MP:301/315
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Gryphon ataca a Ometeotl
+Ometeotl recibe 26 de daño
+Ometeotl termina con HP:189/324
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:156/170
+C-Xi Wangmu HP:369/418 MP:315/405
+D-Gryphon HP:80/123 MP:19/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Xi Wangmu
+3-Nanashi
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:745/760 MP:398/398
+2-Tenkai HP:259/409 MP:396/396
+3-Ometeotl HP:189/324 MP:301/315
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:156/170
+C-Xi Wangmu HP:369/418 MP:315/405
+D-Gryphon HP:80/123 MP:19/23
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Nanashi
+3-Gryphon
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Naga HP:184/199 MP:39/39
+2-Kikuri-Hime HP:216/216 MP:210/210
+3-Nebiros HP:249/249 MP:242/242
+4-Mastema HP:365/399 MP:387/387
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kikuri-Hime ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:156/170
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Gryphon HP:80/123 MP:19/23
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:156/170
+C-Kikuri-Hime HP:216/216 MP:210/210
+D-Gryphon HP:80/123 MP:19/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Nanashi HP:41/140 MP:411/411
+2-Magatsuhi HP:851/851 MP:156/170
+3-Kikuri-Hime HP:216/216 MP:210/210
+4-Gryphon HP:80/123 MP:19/23
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ometeotl ataca a Kikuri-Hime
+Kikuri-Hime recibe 34 de daño
+Kikuri-Hime termina con HP:182/216
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:41/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:156/170
+C-Kikuri-Hime HP:182/216 MP:210/210
+D-Gryphon HP:80/123 MP:19/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Kei
+3-Tenkai
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nanashi HP:41/140 MP:411/411
+2-Magatsuhi HP:851/851 MP:156/170
+3-Kikuri-Hime HP:182/216 MP:210/210
+4-Gryphon HP:80/123 MP:19/23
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Senri use
+1-Recarm MP:20
+2-Zanma MP:8
+3-Mazanma MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nanashi HP:41/140 MP:411/411
+2-Magatsuhi HP:851/851 MP:156/170
+3-Kikuri-Hime HP:182/216 MP:210/210
+4-Gryphon HP:80/123 MP:19/23
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Senri ataca a Nanashi
+Nanashi recibe 16 de daño
+Nanashi termina con HP:25/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:25/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:156/170
+C-Kikuri-Hime HP:182/216 MP:210/210
+D-Gryphon HP:80/123 MP:19/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Tenkai
+3-Ometeotl
+4-Senri
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:25/140 MP:411/411
+2-Magatsuhi HP:851/851 MP:156/170
+3-Kikuri-Hime HP:182/216 MP:210/210
+4-Gryphon HP:80/123 MP:19/23
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kei dispara a Gryphon
+Gryphon es débil contra el ataque de Kei
+Gryphon recibe 23 de daño
+Gryphon termina con HP:57/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:25/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:156/170
+C-Kikuri-Hime HP:182/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tenkai use
+1-Hamaon MP:10
+2-Megidola MP:40
+3-Blood Ritual MP:25
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Nanashi HP:25/140 MP:411/411
+2-Magatsuhi HP:851/851 MP:156/170
+3-Kikuri-Hime HP:182/216 MP:210/210
+4-Gryphon HP:57/123 MP:19/23
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tenkai use
+1-Hamaon MP:10
+2-Megidola MP:40
+3-Blood Ritual MP:25
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Nanashi HP:25/140 MP:411/411
+2-Magatsuhi HP:851/851 MP:156/170
+3-Kikuri-Hime HP:182/216 MP:210/210
+4-Gryphon HP:57/123 MP:19/23
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tenkai ataca a Nanashi
+Nanashi recibe 43 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:156/170
+C-Kikuri-Hime HP:182/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Magatsuhi HP:851/851 MP:156/170
+C-Kikuri-Hime HP:182/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Senri
+2-Kei
+3-Tenkai
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Magatsuhi HP:851/851 MP:156/170
+2-Kikuri-Hime HP:182/216 MP:210/210
+3-Gryphon HP:57/123 MP:19/23
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Senri ataca a Magatsuhi
+Magatsuhi recibe 16 de daño
+Magatsuhi termina con HP:835/851
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Magatsuhi HP:835/851 MP:156/170
+C-Kikuri-Hime HP:182/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Kikuri-Hime
+3-Gryphon
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:745/760 MP:398/398
+2-Tenkai HP:259/409 MP:396/396
+3-Ometeotl HP:189/324 MP:301/315
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Magatsuhi ataca a Senri
+Senri recibe 65 de daño
+Senri termina con HP:100/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:100/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Magatsuhi HP:835/851 MP:156/170
+C-Kikuri-Hime HP:182/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Gryphon
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:745/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:100/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Magatsuhi HP:835/851 MP:156/170
+C-Kikuri-Hime HP:182/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gryphon
+2-Magatsuhi
+3-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Kei HP:745/760 MP:398/398
+2-Tenkai HP:259/409 MP:396/396
+3-Ometeotl HP:189/324 MP:301/315
+4-Senri HP:100/165 MP:158/158
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Gryphon ataca a Kei
+Kei es resistente el ataque de Gryphon
+Kei recibe 2 de daño
+Kei termina con HP:743/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:100/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Magatsuhi HP:835/851 MP:156/170
+C-Kikuri-Hime HP:182/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Kikuri-Hime
+3-Gryphon
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:743/760 MP:398/398
+2-Tenkai HP:259/409 MP:396/396
+3-Ometeotl HP:189/324 MP:301/315
+4-Senri HP:100/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:369/418 MP:315/405
+2-Naga HP:184/199 MP:39/39
+3-Nebiros HP:249/249 MP:242/242
+4-Mastema HP:365/399 MP:387/387
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Mastema ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:100/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Mastema HP:365/399 MP:387/387
+C-Kikuri-Hime HP:182/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Gryphon
+3-Mastema
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Kei HP:743/760 MP:398/398
+2-Tenkai HP:259/409 MP:396/396
+3-Ometeotl HP:189/324 MP:301/315
+4-Senri HP:100/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kikuri-Hime ataca a Senri
+Senri recibe 22 de daño
+Senri termina con HP:78/165
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:78/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Mastema HP:365/399 MP:387/387
+C-Kikuri-Hime HP:182/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:78/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Mastema HP:365/399 MP:387/387
+C-Kikuri-Hime HP:182/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Mastema HP:365/399 MP:387/387
+2-Kikuri-Hime HP:182/216 MP:210/210
+3-Gryphon HP:57/123 MP:19/23
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ometeotl ataca a Kikuri-Hime
+Kikuri-Hime recibe 34 de daño
+Kikuri-Hime termina con HP:148/216
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:78/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Mastema HP:365/399 MP:387/387
+C-Kikuri-Hime HP:148/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Kei
+3-Tenkai
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Mastema HP:365/399 MP:387/387
+2-Kikuri-Hime HP:148/216 MP:210/210
+3-Gryphon HP:57/123 MP:19/23
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Senri ataca a Kikuri-Hime
+Kikuri-Hime recibe 16 de daño
+Kikuri-Hime termina con HP:132/216
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:78/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Mastema HP:365/399 MP:387/387
+C-Kikuri-Hime HP:132/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Tenkai
+3-Ometeotl
+4-Senri
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Mastema HP:365/399 MP:387/387
+2-Kikuri-Hime HP:132/216 MP:210/210
+3-Gryphon HP:57/123 MP:19/23
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Mastema
+Mastema recibe 19 de daño
+Mastema termina con HP:346/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:78/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Mastema HP:346/399 MP:387/387
+C-Kikuri-Hime HP:132/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:78/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Mastema HP:346/399 MP:387/387
+C-Kikuri-Hime HP:132/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Mastema HP:346/399 MP:387/387
+2-Kikuri-Hime HP:132/216 MP:210/210
+3-Gryphon HP:57/123 MP:19/23
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ometeotl ataca a Mastema
+Mastema recibe 34 de daño
+Mastema termina con HP:312/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:78/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Mastema HP:312/399 MP:387/387
+C-Kikuri-Hime HP:132/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mastema
+2-Kikuri-Hime
+3-Gryphon
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:369/418 MP:315/405
+2-Naga HP:184/199 MP:39/39
+3-Magatsuhi HP:835/851 MP:156/170
+4-Nebiros HP:249/249 MP:242/242
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:78/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:369/418 MP:315/405
+C-Kikuri-Hime HP:132/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Gryphon
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Kei HP:743/760 MP:398/398
+2-Tenkai HP:259/409 MP:396/396
+3-Ometeotl HP:189/324 MP:301/315
+4-Senri HP:78/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kikuri-Hime ataca a Senri
+Senri recibe 22 de daño
+Senri termina con HP:56/165
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:56/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:369/418 MP:315/405
+C-Kikuri-Hime HP:132/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Xi Wangmu
+3-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:56/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:369/418 MP:315/405
+C-Kikuri-Hime HP:132/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Kikuri-Hime
+3-Gryphon
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Kei HP:743/760 MP:398/398
+2-Tenkai HP:259/409 MP:396/396
+3-Ometeotl HP:189/324 MP:301/315
+4-Senri HP:56/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Xi Wangmu ataca a Senri
+Senri recibe 44 de daño
+Senri termina con HP:12/165
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:12/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:369/418 MP:315/405
+C-Kikuri-Hime HP:132/216 MP:210/210
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Gryphon
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Naga HP:184/199 MP:39/39
+2-Magatsuhi HP:835/851 MP:156/170
+3-Nebiros HP:249/249 MP:242/242
+4-Mastema HP:312/399 MP:387/387
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:189/324 MP:301/315
+D-Senri HP:12/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:369/418 MP:315/405
+C-Naga HP:184/199 MP:39/39
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gryphon
+2-Xi Wangmu
+3-Naga
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Kei HP:743/760 MP:398/398
+2-Tenkai HP:259/409 MP:396/396
+3-Ometeotl HP:189/324 MP:301/315
+4-Senri HP:12/165 MP:158/158
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Gryphon ataca a Ometeotl
+Ometeotl recibe 5 de daño
+Ometeotl termina con HP:184/324
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:301/315
+D-Senri HP:12/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:369/418 MP:315/405
+C-Naga HP:184/199 MP:39/39
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Xi Wangmu HP:369/418 MP:315/405
+2-Naga HP:184/199 MP:39/39
+3-Gryphon HP:57/123 MP:19/23
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tenkai ataca a Naga
+Naga recibe 43 de daño
+Naga termina con HP:141/199
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:301/315
+D-Senri HP:12/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:369/418 MP:315/405
+C-Naga HP:141/199 MP:39/39
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Xi Wangmu HP:369/418 MP:315/405
+2-Naga HP:141/199 MP:39/39
+3-Gryphon HP:57/123 MP:19/23
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ometeotl lanza fuego a Xi Wangmu
+Xi Wangmu recibe 130 de daño
+Xi Wangmu termina con HP:239/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:12/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:239/418 MP:315/405
+C-Naga HP:141/199 MP:39/39
+D-Gryphon HP:57/123 MP:19/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Kei
+3-Tenkai
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Xi Wangmu HP:239/418 MP:315/405
+2-Naga HP:141/199 MP:39/39
+3-Gryphon HP:57/123 MP:19/23
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Senri ataca a Gryphon
+Gryphon recibe 16 de daño
+Gryphon termina con HP:41/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:12/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:239/418 MP:315/405
+C-Naga HP:141/199 MP:39/39
+D-Gryphon HP:41/123 MP:19/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Tenkai
+3-Ometeotl
+4-Senri
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:12/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:239/418 MP:315/405
+C-Naga HP:141/199 MP:39/39
+D-Gryphon HP:41/123 MP:19/23
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Xi Wangmu HP:239/418 MP:315/405
+2-Naga HP:141/199 MP:39/39
+3-Gryphon HP:41/123 MP:19/23
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:12/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:239/418 MP:315/405
+C-Naga HP:141/199 MP:39/39
+D-Gryphon HP:41/123 MP:19/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Naga
+3-Gryphon
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:12/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:239/418 MP:315/405
+C-Naga HP:141/199 MP:39/39
+D-Gryphon HP:41/123 MP:19/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Naga
+2-Gryphon
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:12/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:239/418 MP:315/405
+C-Naga HP:141/199 MP:39/39
+D-Gryphon HP:41/123 MP:19/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Xi Wangmu
+3-Naga
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:835/851 MP:156/170
+2-Kikuri-Hime HP:132/216 MP:210/210
+3-Nebiros HP:249/249 MP:242/242
+4-Mastema HP:312/399 MP:387/387
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:12/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:239/418 MP:315/405
+C-Naga HP:141/199 MP:39/39
+D-Magatsuhi HP:835/851 MP:156/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Naga
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gryphon HP:41/123 MP:19/23
+2-Kikuri-Hime HP:132/216 MP:210/210
+3-Nebiros HP:249/249 MP:242/242
+4-Mastema HP:312/399 MP:387/387
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nebiros ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:12/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Naga HP:141/199 MP:39/39
+D-Magatsuhi HP:835/851 MP:156/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Magatsuhi
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:12/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Naga HP:141/199 MP:39/39
+D-Magatsuhi HP:835/851 MP:156/170
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Nebiros
+3-Naga
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:12/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Naga HP:141/199 MP:39/39
+D-Magatsuhi HP:835/851 MP:156/170
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tenkai use
+1-Hamaon MP:10
+2-Megidola MP:40
+3-Blood Ritual MP:25
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Nebiros HP:249/249 MP:242/242
+2-Naga HP:141/199 MP:39/39
+3-Magatsuhi HP:835/851 MP:156/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Nebiros HP:249/249 MP:242/242
+2-Naga HP:141/199 MP:39/39
+3-Magatsuhi HP:835/851 MP:156/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tenkai use
+1-Hamaon MP:10
+2-Megidola MP:40
+3-Blood Ritual MP:25
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:12/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Naga HP:141/199 MP:39/39
+D-Magatsuhi HP:835/851 MP:156/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:12/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Naga HP:141/199 MP:39/39
+D-Magatsuhi HP:835/851 MP:156/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Kei
+3-Tenkai
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Senri use
+1-Recarm MP:20
+2-Zanma MP:8
+3-Mazanma MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nebiros HP:249/249 MP:242/242
+2-Naga HP:141/199 MP:39/39
+3-Magatsuhi HP:835/851 MP:156/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Senri ataca a Nebiros
+Nebiros bloquea el ataque de Senri
+Nebiros termina con HP:249/249
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:398/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:12/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Naga HP:141/199 MP:39/39
+D-Magatsuhi HP:835/851 MP:156/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Tenkai
+3-Ometeotl
+4-Senri
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Iron Judgement MP:8
+2-Ziodyne MP:14
+3-Fatal Sword MP:8
+4-Riot Gun MP:30
+5-Mudo MP:6
+6-Diarahan MP:16
+7-Bufula MP:8
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Kei HP:743/760 MP:398/398
+2-Tenkai HP:259/409 MP:396/396
+3-Ometeotl HP:184/324 MP:287/315
+4-Senri HP:12/165 MP:158/158
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kei cura a Senri
+Senri recibe 165 de HP
+Senri termina con HP:165/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:382/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Naga HP:141/199 MP:39/39
+D-Magatsuhi HP:835/851 MP:156/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Nebiros
+3-Naga
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:743/760 MP:382/398
+2-Tenkai HP:259/409 MP:396/396
+3-Ometeotl HP:184/324 MP:287/315
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:382/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Naga HP:141/199 MP:39/39
+D-Magatsuhi HP:835/851 MP:156/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Naga
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:382/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Naga HP:141/199 MP:39/39
+D-Magatsuhi HP:835/851 MP:156/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Magatsuhi
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:382/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Naga HP:141/199 MP:39/39
+D-Magatsuhi HP:835/851 MP:156/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Nebiros
+3-Naga
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:743/760 MP:382/398
+2-Tenkai HP:259/409 MP:396/396
+3-Ometeotl HP:184/324 MP:287/315
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:239/418 MP:315/405
+2-Gryphon HP:41/123 MP:19/23
+3-Kikuri-Hime HP:132/216 MP:210/210
+4-Mastema HP:312/399 MP:387/387
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Mastema ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:382/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Nebiros HP:249/249 MP:242/242
+C-Naga HP:141/199 MP:39/39
+D-Mastema HP:312/399 MP:387/387
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Naga
+3-Mastema
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Kei HP:743/760 MP:382/398
+2-Tenkai HP:259/409 MP:396/396
+3-Ometeotl HP:184/324 MP:287/315
+4-Senri HP:165/165 MP:158/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:239/418 MP:315/405
+2-Gryphon HP:41/123 MP:19/23
+3-Magatsuhi HP:835/851 MP:156/170
+4-Kikuri-Hime HP:132/216 MP:210/210
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:382/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:239/418 MP:315/405
+C-Naga HP:141/199 MP:39/39
+D-Mastema HP:312/399 MP:387/387
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Naga
+2-Mastema
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:382/398
+B-Tenkai HP:259/409 MP:396/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:239/418 MP:315/405
+C-Naga HP:141/199 MP:39/39
+D-Mastema HP:312/399 MP:387/387
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tenkai use
+1-Hamaon MP:10
+2-Megidola MP:40
+3-Blood Ritual MP:25
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Xi Wangmu HP:239/418 MP:315/405
+2-Naga HP:141/199 MP:39/39
+3-Mastema HP:312/399 MP:387/387
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tenkai ataca con luz a Mastema
+Mastema bloquea el ataque de Tenkai
+Mastema termina con HP:312/399
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:382/398
+B-Tenkai HP:259/409 MP:386/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:239/418 MP:315/405
+C-Naga HP:141/199 MP:39/39
+D-Mastema HP:312/399 MP:387/387
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Xi Wangmu HP:239/418 MP:315/405
+2-Naga HP:141/199 MP:39/39
+3-Mastema HP:312/399 MP:387/387
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ometeotl ataca a Mastema
+Mastema recibe 34 de daño
+Mastema termina con HP:278/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:382/398
+B-Tenkai HP:259/409 MP:386/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:165/165 MP:158/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:239/418 MP:315/405
+C-Naga HP:141/199 MP:39/39
+D-Mastema HP:278/399 MP:387/387
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Kei
+3-Tenkai
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Senri use
+1-Recarm MP:20
+2-Zanma MP:8
+3-Mazanma MP:20
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Xi Wangmu HP:239/418 MP:315/405
+2-Naga HP:141/199 MP:39/39
+3-Mastema HP:278/399 MP:387/387
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Senri lanza viento a Naga
+Naga recibe 72 de daño
+Naga termina con HP:69/199
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:382/398
+B-Tenkai HP:259/409 MP:386/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:239/418 MP:315/405
+C-Naga HP:69/199 MP:39/39
+D-Mastema HP:278/399 MP:387/387
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Mastema
+3-Naga
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:382/398
+B-Tenkai HP:259/409 MP:386/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:239/418 MP:315/405
+C-Naga HP:69/199 MP:39/39
+D-Mastema HP:278/399 MP:387/387
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mastema
+2-Naga
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gryphon HP:41/123 MP:19/23
+2-Magatsuhi HP:835/851 MP:156/170
+3-Kikuri-Hime HP:132/216 MP:210/210
+4-Nebiros HP:249/249 MP:242/242
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nebiros ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:382/398
+B-Tenkai HP:259/409 MP:386/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:239/418 MP:315/405
+C-Naga HP:69/199 MP:39/39
+D-Nebiros HP:249/249 MP:242/242
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Xi Wangmu
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Naga use
+1-Lunge MP:6
+2-Bufu MP:5
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gryphon HP:41/123 MP:19/23
+2-Magatsuhi HP:835/851 MP:156/170
+3-Kikuri-Hime HP:132/216 MP:210/210
+4-Mastema HP:278/399 MP:387/387
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:382/398
+B-Tenkai HP:259/409 MP:386/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:239/418 MP:315/405
+C-Magatsuhi HP:835/851 MP:156/170
+D-Nebiros HP:249/249 MP:242/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Nebiros
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Kei HP:743/760 MP:382/398
+2-Tenkai HP:259/409 MP:386/396
+3-Ometeotl HP:184/324 MP:287/315
+4-Senri HP:165/165 MP:150/158
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Xi Wangmu ataca a Tenkai
+Tenkai es resistente el ataque de Xi Wangmu
+Tenkai recibe 22 de daño
+Tenkai termina con HP:237/409
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:239/418 MP:315/405
+C-Magatsuhi HP:835/851 MP:156/170
+D-Nebiros HP:249/249 MP:242/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Magatsuhi
+3-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Naga HP:69/199 MP:39/39
+2-Gryphon HP:41/123 MP:19/23
+3-Kikuri-Hime HP:132/216 MP:210/210
+4-Mastema HP:278/399 MP:387/387
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:743/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:239/418 MP:315/405
+C-Magatsuhi HP:835/851 MP:156/170
+D-Naga HP:69/199 MP:39/39
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Xi Wangmu
+3-Naga
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:743/760 MP:382/398
+2-Tenkai HP:237/409 MP:386/396
+3-Ometeotl HP:184/324 MP:287/315
+4-Senri HP:165/165 MP:150/158
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi lanza hielo a Kei
+Kei es resistente el ataque de Magatsuhi
+Kei recibe 62 de daño
+Kei termina con HP:681/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:239/418 MP:315/405
+C-Magatsuhi HP:835/851 MP:142/170
+D-Naga HP:69/199 MP:39/39
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Xi Wangmu HP:239/418 MP:315/405
+2-Magatsuhi HP:835/851 MP:142/170
+3-Naga HP:69/199 MP:39/39
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tenkai ataca a Xi Wangmu
+Xi Wangmu recibe 43 de daño
+Xi Wangmu termina con HP:196/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:184/324 MP:287/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:196/418 MP:315/405
+C-Magatsuhi HP:835/851 MP:142/170
+D-Naga HP:69/199 MP:39/39
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Xi Wangmu HP:196/418 MP:315/405
+2-Magatsuhi HP:835/851 MP:142/170
+3-Naga HP:69/199 MP:39/39
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ometeotl lanza fuego a Naga
+Naga es débil contra el ataque de Ometeotl
+Naga recibe 195 de daño
+Naga termina con HP:0/199
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:184/324 MP:273/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:196/418 MP:315/405
+C-Magatsuhi HP:835/851 MP:142/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Senri
+2-Kei
+3-Tenkai
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Senri use
+1-Recarm MP:20
+2-Zanma MP:8
+3-Mazanma MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Senri use
+1-Recarm MP:20
+2-Zanma MP:8
+3-Mazanma MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Xi Wangmu HP:196/418 MP:315/405
+2-Magatsuhi HP:835/851 MP:142/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Senri use
+1-Recarm MP:20
+2-Zanma MP:8
+3-Mazanma MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:184/324 MP:273/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:196/418 MP:315/405
+C-Magatsuhi HP:835/851 MP:142/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Tenkai
+3-Ometeotl
+4-Senri
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:184/324 MP:273/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:196/418 MP:315/405
+C-Magatsuhi HP:835/851 MP:142/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Xi Wangmu HP:196/418 MP:315/405
+2-Magatsuhi HP:835/851 MP:142/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tenkai ataca a Xi Wangmu
+Xi Wangmu recibe 43 de daño
+Xi Wangmu termina con HP:153/418
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:184/324 MP:273/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:153/418 MP:315/405
+C-Magatsuhi HP:835/851 MP:142/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Xi Wangmu HP:153/418 MP:315/405
+2-Magatsuhi HP:835/851 MP:142/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ometeotl lanza hielo a Xi Wangmu
+Xi Wangmu recibe 130 de daño
+Xi Wangmu termina con HP:23/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:184/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:23/418 MP:315/405
+C-Magatsuhi HP:835/851 MP:142/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:184/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Xi Wangmu HP:23/418 MP:315/405
+C-Magatsuhi HP:835/851 MP:142/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Naga HP:0/199 MP:39/39
+2-Gryphon HP:41/123 MP:19/23
+3-Kikuri-Hime HP:132/216 MP:210/210
+4-Nebiros HP:249/249 MP:242/242
+5-Mastema HP:278/399 MP:387/387
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Xi Wangmu HP:23/418 MP:315/405 (Puesto 2)
+2-Magatsuhi HP:835/851 MP:142/170 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Naga HP:0/199 MP:39/39
+2-Gryphon HP:41/123 MP:19/23
+3-Kikuri-Hime HP:132/216 MP:210/210
+4-Nebiros HP:249/249 MP:242/242
+5-Mastema HP:278/399 MP:387/387
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Xi Wangmu HP:23/418 MP:315/405 (Puesto 2)
+2-Magatsuhi HP:835/851 MP:142/170 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ha sido invocado
+Xi Wangmu revive a Naga
+Naga recibe 199 de HP
+Naga termina con HP:199/199
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:184/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:199/199 MP:39/39
+C-Magatsuhi HP:835/851 MP:142/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Naga
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:681/760 MP:382/398
+2-Tenkai HP:237/409 MP:386/396
+3-Ometeotl HP:184/324 MP:259/315
+4-Senri HP:165/165 MP:150/158
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Magatsuhi lanza hielo a Ometeotl
+Ometeotl es resistente el ataque de Magatsuhi
+Ometeotl recibe 62 de daño
+Ometeotl termina con HP:122/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:199/199 MP:39/39
+C-Magatsuhi HP:835/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:199/199 MP:39/39
+C-Magatsuhi HP:835/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:199/199 MP:39/39
+C-Magatsuhi HP:835/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Kei
+3-Tenkai
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:199/199 MP:39/39
+C-Magatsuhi HP:835/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Tenkai
+3-Ometeotl
+4-Senri
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:199/199 MP:39/39
+C-Magatsuhi HP:835/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:199/199 MP:39/39
+C-Magatsuhi HP:835/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Naga HP:199/199 MP:39/39
+2-Magatsuhi HP:835/851 MP:128/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ometeotl ataca a Naga
+Naga recibe 34 de daño
+Naga termina con HP:165/199
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:165/199 MP:39/39
+C-Magatsuhi HP:835/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Kei
+3-Tenkai
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:165/199 MP:39/39
+C-Magatsuhi HP:835/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Tenkai
+3-Ometeotl
+4-Senri
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Naga HP:165/199 MP:39/39
+2-Magatsuhi HP:835/851 MP:128/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Naga HP:165/199 MP:39/39
+2-Magatsuhi HP:835/851 MP:128/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kei dispara a Magatsuhi
+Magatsuhi recibe 15 de daño
+Magatsuhi termina con HP:820/851
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:165/199 MP:39/39
+C-Magatsuhi HP:820/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Naga
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:165/199 MP:39/39
+C-Magatsuhi HP:820/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Naga
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:23/418 MP:270/405
+2-Gryphon HP:41/123 MP:19/23
+3-Kikuri-Hime HP:132/216 MP:210/210
+4-Nebiros HP:249/249 MP:242/242
+5-Mastema HP:278/399 MP:387/387
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:237/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:165/199 MP:39/39
+C-Magatsuhi HP:820/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Naga
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:681/760 MP:382/398
+2-Tenkai HP:237/409 MP:386/396
+3-Ometeotl HP:122/324 MP:259/315
+4-Senri HP:165/165 MP:150/158
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Tenkai
+Tenkai es resistente el ataque de Magatsuhi
+Tenkai recibe 32 de daño
+Tenkai termina con HP:205/409
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:205/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:165/199 MP:39/39
+C-Magatsuhi HP:820/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:205/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:165/199 MP:39/39
+C-Magatsuhi HP:820/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Naga HP:165/199 MP:39/39
+2-Magatsuhi HP:820/851 MP:128/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ometeotl ataca a Naga
+Naga recibe 34 de daño
+Naga termina con HP:131/199
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:205/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:131/199 MP:39/39
+C-Magatsuhi HP:820/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Kei
+3-Tenkai
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Senri use
+1-Recarm MP:20
+2-Zanma MP:8
+3-Mazanma MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Naga HP:131/199 MP:39/39
+2-Magatsuhi HP:820/851 MP:128/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Senri ataca a Magatsuhi
+Magatsuhi recibe 16 de daño
+Magatsuhi termina con HP:804/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:205/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:131/199 MP:39/39
+C-Magatsuhi HP:804/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Tenkai
+3-Ometeotl
+4-Senri
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Naga HP:131/199 MP:39/39
+2-Magatsuhi HP:804/851 MP:128/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Magatsuhi
+Magatsuhi recibe 19 de daño
+Magatsuhi termina con HP:785/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:205/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:131/199 MP:39/39
+C-Magatsuhi HP:785/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Naga HP:131/199 MP:39/39
+2-Magatsuhi HP:785/851 MP:128/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Tenkai ataca a Magatsuhi
+Magatsuhi recibe 43 de daño
+Magatsuhi termina con HP:742/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:205/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:131/199 MP:39/39
+C-Magatsuhi HP:742/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Naga
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:681/760 MP:382/398
+2-Tenkai HP:205/409 MP:386/396
+3-Ometeotl HP:122/324 MP:259/315
+4-Senri HP:165/165 MP:150/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:205/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Naga HP:131/199 MP:39/39
+C-Magatsuhi HP:742/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Naga
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:23/418 MP:270/405
+2-Gryphon HP:41/123 MP:19/23
+3-Kikuri-Hime HP:132/216 MP:210/210
+4-Nebiros HP:249/249 MP:242/242
+5-Mastema HP:278/399 MP:387/387
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Gryphon ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:681/760 MP:382/398
+B-Tenkai HP:205/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Gryphon HP:41/123 MP:19/23
+C-Magatsuhi HP:742/851 MP:128/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Gryphon
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:681/760 MP:382/398
+2-Tenkai HP:205/409 MP:386/396
+3-Ometeotl HP:122/324 MP:259/315
+4-Senri HP:165/165 MP:150/158
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi lanza hielo a Kei
+Kei es resistente el ataque de Magatsuhi
+Kei recibe 62 de daño
+Kei termina con HP:619/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:619/760 MP:382/398
+B-Tenkai HP:205/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Gryphon HP:41/123 MP:19/23
+C-Magatsuhi HP:742/851 MP:114/170
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:619/760 MP:382/398
+B-Tenkai HP:205/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Gryphon HP:41/123 MP:19/23
+C-Magatsuhi HP:742/851 MP:114/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Gryphon HP:41/123 MP:19/23
+2-Magatsuhi HP:742/851 MP:114/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:619/760 MP:382/398
+B-Tenkai HP:205/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Gryphon HP:41/123 MP:19/23
+C-Magatsuhi HP:742/851 MP:114/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Kei
+3-Tenkai
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:619/760 MP:382/398
+B-Tenkai HP:205/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Gryphon HP:41/123 MP:19/23
+C-Magatsuhi HP:742/851 MP:114/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Tenkai
+3-Ometeotl
+4-Senri
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Gryphon HP:41/123 MP:19/23
+2-Magatsuhi HP:742/851 MP:114/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Iron Judgement MP:8
+2-Ziodyne MP:14
+3-Fatal Sword MP:8
+4-Riot Gun MP:30
+5-Mudo MP:6
+6-Diarahan MP:16
+7-Bufula MP:8
+8-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Gryphon HP:41/123 MP:19/23
+2-Magatsuhi HP:742/851 MP:114/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Magatsuhi
+Magatsuhi recibe 61 de daño
+Magatsuhi termina con HP:681/851
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:619/760 MP:374/398
+B-Tenkai HP:205/409 MP:386/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Gryphon HP:41/123 MP:19/23
+C-Magatsuhi HP:681/851 MP:114/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tenkai use
+1-Hamaon MP:10
+2-Megidola MP:40
+3-Blood Ritual MP:25
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Gryphon HP:41/123 MP:19/23
+2-Magatsuhi HP:681/851 MP:114/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tenkai use
+1-Hamaon MP:10
+2-Megidola MP:40
+3-Blood Ritual MP:25
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Gryphon HP:41/123 MP:19/23
+2-Magatsuhi HP:681/851 MP:114/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Tenkai ataca con luz a Magatsuhi
+Magatsuhi ha sido eliminado
+Magatsuhi termina con HP:0/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:619/760 MP:374/398
+B-Tenkai HP:205/409 MP:376/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Gryphon HP:41/123 MP:19/23
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Senri
+3-Kei
+4-Tenkai
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:619/760 MP:374/398
+B-Tenkai HP:205/409 MP:376/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Gryphon HP:41/123 MP:19/23
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Senri
+2-Kei
+3-Tenkai
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Senri use
+1-Recarm MP:20
+2-Zanma MP:8
+3-Mazanma MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:619/760 MP:374/398
+B-Tenkai HP:205/409 MP:376/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Gryphon HP:41/123 MP:19/23
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Kei HP:619/760 MP:374/398
+2-Tenkai HP:205/409 MP:376/396
+3-Ometeotl HP:122/324 MP:259/315
+4-Senri HP:165/165 MP:150/158
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Kei HP:619/760 MP:374/398
+2-Tenkai HP:205/409 MP:376/396
+3-Ometeotl HP:122/324 MP:259/315
+4-Senri HP:165/165 MP:150/158
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Gryphon ataca a Tenkai
+Tenkai es resistente el ataque de Gryphon
+Tenkai recibe 2 de daño
+Tenkai termina con HP:203/409
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:619/760 MP:374/398
+B-Tenkai HP:203/409 MP:376/396
+C-Ometeotl HP:122/324 MP:259/315
+D-Senri HP:165/165 MP:150/158
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Gryphon HP:41/123 MP:19/23
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Ometeotl
+3-Senri
+4-Kei
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tenkai use
+1-Hamaon MP:10
+2-Megidola MP:40
+3-Blood Ritual MP:25
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Gryphon HP:41/123 MP:19/23
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tenkai ataca a Gryphon
+Gryphon recibe 43 de daño
+Gryphon termina con HP:0/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Kei (J1)

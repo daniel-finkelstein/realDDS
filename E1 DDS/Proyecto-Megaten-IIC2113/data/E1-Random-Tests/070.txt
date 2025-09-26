@@ -1,0 +1,930 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 69
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Gurulu HP:371/371 MP:166/166
+C-Hachiman HP:851/851 MP:170/170
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Oni HP:218/218 MP:43/43
+C-Sedna HP:350/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nanashi HP:140/140 MP:411/411
+2-Oni HP:218/218 MP:43/43
+3-Sedna HP:350/350 MP:68/68
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nanashi HP:140/140 MP:411/411
+2-Oni HP:218/218 MP:43/43
+3-Sedna HP:350/350 MP:68/68
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Oni
+Oni recibe 110 de daño
+Oni termina con HP:108/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Gurulu HP:371/371 MP:166/166
+C-Hachiman HP:851/851 MP:170/170
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Oni HP:108/218 MP:43/43
+C-Sedna HP:350/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Gurulu
+3-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Nanashi HP:140/140 MP:411/411
+2-Oni HP:108/218 MP:43/43
+3-Sedna HP:350/350 MP:68/68
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hachiman ataca a Oni
+Oni recibe 65 de daño
+Oni termina con HP:43/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Gurulu HP:371/371 MP:166/166
+C-Hachiman HP:851/851 MP:170/170
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Oni HP:43/218 MP:43/43
+C-Sedna HP:350/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Flynn
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Nanashi HP:140/140 MP:411/411
+2-Oni HP:43/218 MP:43/43
+3-Sedna HP:350/350 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Gurulu ataca a Nanashi
+Nanashi recibe 30 de daño
+Nanashi termina con HP:110/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Gurulu HP:371/371 MP:166/166
+C-Hachiman HP:851/851 MP:170/170
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:110/140 MP:411/411
+B-Oni HP:43/218 MP:43/43
+C-Sedna HP:350/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Sedna
+3-Oni
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Flynn HP:971/971 MP:527/527
+2-Gurulu HP:371/371 MP:166/166
+3-Hachiman HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi ataca a Gurulu
+Gurulu recibe 92 de daño
+Gurulu termina con HP:279/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Gurulu HP:279/371 MP:166/166
+C-Hachiman HP:851/851 MP:170/170
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:110/140 MP:411/411
+B-Oni HP:43/218 MP:43/43
+C-Sedna HP:350/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Oni
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Flynn HP:971/971 MP:527/527
+2-Gurulu HP:279/371 MP:166/166
+3-Hachiman HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Sedna ataca a Gurulu
+Gurulu recibe 25 de daño
+Gurulu termina con HP:254/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Gurulu HP:254/371 MP:166/166
+C-Hachiman HP:851/851 MP:170/170
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:110/140 MP:411/411
+B-Oni HP:43/218 MP:43/43
+C-Sedna HP:350/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Nanashi
+3-Sedna
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Flynn HP:971/971 MP:527/527
+2-Gurulu HP:254/371 MP:166/166
+3-Hachiman HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Oni ataca a Hachiman
+Hachiman recibe 14 de daño
+Hachiman termina con HP:837/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Gurulu HP:254/371 MP:166/166
+C-Hachiman HP:837/851 MP:170/170
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:110/140 MP:411/411
+B-Oni HP:43/218 MP:43/43
+C-Sedna HP:350/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nanashi HP:110/140 MP:411/411
+2-Oni HP:43/218 MP:43/43
+3-Sedna HP:350/350 MP:68/68
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nanashi HP:110/140 MP:411/411
+2-Oni HP:43/218 MP:43/43
+3-Sedna HP:350/350 MP:68/68
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Oni
+Oni recibe 110 de daño
+Oni termina con HP:0/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Gurulu HP:254/371 MP:166/166
+C-Hachiman HP:837/851 MP:170/170
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:110/140 MP:411/411
+B-
+C-Sedna HP:350/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Gurulu
+3-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Nanashi HP:110/140 MP:411/411
+2-Sedna HP:350/350 MP:68/68
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Nanashi HP:110/140 MP:411/411
+2-Sedna HP:350/350 MP:68/68
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Nanashi HP:110/140 MP:411/411
+2-Sedna HP:350/350 MP:68/68
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Nanashi
+Nanashi recibe 65 de daño
+Nanashi termina con HP:45/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Gurulu HP:254/371 MP:166/166
+C-Hachiman HP:837/851 MP:170/170
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:45/140 MP:411/411
+B-
+C-Sedna HP:350/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Flynn
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Nanashi HP:45/140 MP:411/411
+2-Sedna HP:350/350 MP:68/68
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Nanashi HP:45/140 MP:411/411
+2-Sedna HP:350/350 MP:68/68
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Gurulu ataca a Nanashi
+Nanashi recibe 30 de daño
+Nanashi termina con HP:15/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Gurulu HP:254/371 MP:166/166
+C-Hachiman HP:837/851 MP:170/170
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:15/140 MP:411/411
+B-
+C-Sedna HP:350/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Sedna
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Flynn HP:971/971 MP:527/527
+2-Gurulu HP:254/371 MP:166/166
+3-Hachiman HP:837/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi dispara a Hachiman
+Hachiman recibe 31 de daño
+Hachiman termina con HP:806/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Gurulu HP:254/371 MP:166/166
+C-Hachiman HP:806/851 MP:170/170
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:15/140 MP:411/411
+B-
+C-Sedna HP:350/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Nanashi
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Flynn HP:971/971 MP:527/527
+2-Gurulu HP:254/371 MP:166/166
+3-Hachiman HP:806/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Sedna ataca a Flynn
+Flynn recibe 25 de daño
+Flynn termina con HP:946/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:946/971 MP:527/527
+B-Gurulu HP:254/371 MP:166/166
+C-Hachiman HP:806/851 MP:170/170
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:15/140 MP:411/411
+B-
+C-Sedna HP:350/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nanashi HP:15/140 MP:411/411
+2-Sedna HP:350/350 MP:68/68
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Sedna
+Sedna recibe 110 de daño
+Sedna termina con HP:240/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:946/971 MP:527/527
+B-Gurulu HP:254/371 MP:166/166
+C-Hachiman HP:806/851 MP:170/170
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:15/140 MP:411/411
+B-
+C-Sedna HP:240/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Gurulu
+3-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Nanashi HP:15/140 MP:411/411
+2-Sedna HP:240/350 MP:68/68
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Hachiman ataca a Sedna
+Sedna recibe 65 de daño
+Sedna termina con HP:175/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:946/971 MP:527/527
+B-Gurulu HP:254/371 MP:166/166
+C-Hachiman HP:806/851 MP:170/170
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:15/140 MP:411/411
+B-
+C-Sedna HP:175/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Flynn
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Nanashi HP:15/140 MP:411/411
+2-Sedna HP:175/350 MP:68/68
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Gurulu ataca a Nanashi
+Nanashi recibe 30 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:946/971 MP:527/527
+B-Gurulu HP:254/371 MP:166/166
+C-Hachiman HP:806/851 MP:170/170
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:175/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Flynn HP:946/971 MP:527/527
+2-Gurulu HP:254/371 MP:166/166
+3-Hachiman HP:806/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Sedna ataca a Flynn
+Flynn recibe 25 de daño
+Flynn termina con HP:921/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:921/971 MP:527/527
+B-Gurulu HP:254/371 MP:166/166
+C-Hachiman HP:806/851 MP:170/170
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:175/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Sedna HP:175/350 MP:68/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Sedna
+Sedna recibe 88 de daño
+Sedna termina con HP:87/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:921/971 MP:527/527
+B-Gurulu HP:254/371 MP:166/166
+C-Hachiman HP:806/851 MP:170/170
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:87/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Gurulu
+3-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Sedna HP:87/350 MP:68/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Sedna HP:87/350 MP:68/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Sedna HP:87/350 MP:68/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Sedna
+Sedna recibe 65 de daño
+Sedna termina con HP:22/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:921/971 MP:527/527
+B-Gurulu HP:254/371 MP:166/166
+C-Hachiman HP:806/851 MP:170/170
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:22/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Flynn
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Sedna HP:22/350 MP:68/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Gurulu ataca a Sedna
+Sedna recibe 30 de daño
+Sedna termina con HP:0/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Flynn (J1)

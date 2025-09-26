@@ -1,0 +1,3229 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 94
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Ammut HP:709/709 MP:140/140
+C-Dormarth HP:277/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Itsumade HP:231/231 MP:103/103
+C-Heimdall HP:581/581 MP:261/261
+D-Tiamat HP:305/305 MP:296/296
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nanashi
+3-Dormarth
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:1136/1136 MP:413/413
+2-Itsumade HP:231/231 MP:103/103
+3-Heimdall HP:581/581 MP:261/261
+4-Tiamat HP:305/305 MP:296/296
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:1136/1136 MP:413/413
+2-Itsumade HP:231/231 MP:103/103
+3-Heimdall HP:581/581 MP:261/261
+4-Tiamat HP:305/305 MP:296/296
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ammut ataca a Itsumade
+Itsumade recibe 54 de daño
+Itsumade termina con HP:177/231
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Ammut HP:709/709 MP:140/140
+C-Dormarth HP:277/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Itsumade HP:177/231 MP:103/103
+C-Heimdall HP:581/581 MP:261/261
+D-Tiamat HP:305/305 MP:296/296
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Dormarth
+3-Ishtar
+4-Ammut
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Itsuki HP:1136/1136 MP:413/413
+2-Itsumade HP:177/231 MP:103/103
+3-Heimdall HP:581/581 MP:261/261
+4-Tiamat HP:305/305 MP:296/296
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi ataca a Itsumade
+Itsumade recibe 92 de daño
+Itsumade termina con HP:85/231
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Ammut HP:709/709 MP:140/140
+C-Dormarth HP:277/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Itsumade HP:85/231 MP:103/103
+C-Heimdall HP:581/581 MP:261/261
+D-Tiamat HP:305/305 MP:296/296
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Ishtar
+3-Ammut
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Itsuki HP:1136/1136 MP:413/413
+2-Itsumade HP:85/231 MP:103/103
+3-Heimdall HP:581/581 MP:261/261
+4-Tiamat HP:305/305 MP:296/296
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Dormarth ataca a Heimdall
+Heimdall recibe 29 de daño
+Heimdall termina con HP:552/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Ammut HP:709/709 MP:140/140
+C-Dormarth HP:277/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Itsumade HP:85/231 MP:103/103
+C-Heimdall HP:552/581 MP:261/261
+D-Tiamat HP:305/305 MP:296/296
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Ammut
+3-Nanashi
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Itsuki HP:1136/1136 MP:413/413
+2-Itsumade HP:85/231 MP:103/103
+3-Heimdall HP:552/581 MP:261/261
+4-Tiamat HP:305/305 MP:296/296
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Itsuki
+Itsuki recibe 27 de daño
+Itsuki termina con HP:1109/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Ammut HP:709/709 MP:140/140
+C-Dormarth HP:277/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Itsumade HP:85/231 MP:103/103
+C-Heimdall HP:552/581 MP:261/261
+D-Tiamat HP:305/305 MP:296/296
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Itsuki
+3-Tiamat
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Nanashi HP:140/140 MP:411/411
+2-Ammut HP:709/709 MP:140/140
+3-Dormarth HP:277/277 MP:269/269
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Heimdall ataca a Ammut
+Ammut recibe 48 de daño
+Ammut termina con HP:661/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Ammut HP:661/709 MP:140/140
+C-Dormarth HP:277/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Itsumade HP:85/231 MP:103/103
+C-Heimdall HP:552/581 MP:261/261
+D-Tiamat HP:305/305 MP:296/296
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tiamat
+3-Itsumade
+4-Heimdall
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:140/140 MP:411/411
+2-Ammut HP:661/709 MP:140/140
+3-Dormarth HP:277/277 MP:269/269
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Dormarth
+Dormarth recibe 45 de daño
+Dormarth termina con HP:232/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Ammut HP:661/709 MP:140/140
+C-Dormarth HP:232/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Itsumade HP:85/231 MP:103/103
+C-Heimdall HP:552/581 MP:261/261
+D-Tiamat HP:305/305 MP:296/296
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Itsumade
+3-Heimdall
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Nanashi HP:140/140 MP:411/411
+2-Ammut HP:661/709 MP:140/140
+3-Dormarth HP:232/277 MP:269/269
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tiamat ataca a Nanashi
+Nanashi recibe 32 de daño
+Nanashi termina con HP:108/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:108/140 MP:411/411
+B-Ammut HP:661/709 MP:140/140
+C-Dormarth HP:232/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Itsumade HP:85/231 MP:103/103
+C-Heimdall HP:552/581 MP:261/261
+D-Tiamat HP:305/305 MP:296/296
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Heimdall
+3-Itsuki
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Nanashi HP:108/140 MP:411/411
+2-Ammut HP:661/709 MP:140/140
+3-Dormarth HP:232/277 MP:269/269
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsumade ataca a Ammut
+Ammut recibe 17 de daño
+Ammut termina con HP:644/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:108/140 MP:411/411
+B-Ammut HP:644/709 MP:140/140
+C-Dormarth HP:232/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Itsumade HP:85/231 MP:103/103
+C-Heimdall HP:552/581 MP:261/261
+D-Tiamat HP:305/305 MP:296/296
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nanashi
+3-Dormarth
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:1109/1136 MP:413/413
+2-Itsumade HP:85/231 MP:103/103
+3-Heimdall HP:552/581 MP:261/261
+4-Tiamat HP:305/305 MP:296/296
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:1109/1136 MP:413/413
+2-Itsumade HP:85/231 MP:103/103
+3-Heimdall HP:552/581 MP:261/261
+4-Tiamat HP:305/305 MP:296/296
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:1109/1136 MP:413/413
+2-Itsumade HP:85/231 MP:103/103
+3-Heimdall HP:552/581 MP:261/261
+4-Tiamat HP:305/305 MP:296/296
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:1109/1136 MP:413/413
+2-Itsumade HP:85/231 MP:103/103
+3-Heimdall HP:552/581 MP:261/261
+4-Tiamat HP:305/305 MP:296/296
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:1109/1136 MP:413/413
+2-Itsumade HP:85/231 MP:103/103
+3-Heimdall HP:552/581 MP:261/261
+4-Tiamat HP:305/305 MP:296/296
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ammut ataca a Itsumade
+Itsumade recibe 54 de daño
+Itsumade termina con HP:31/231
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:108/140 MP:411/411
+B-Ammut HP:644/709 MP:140/140
+C-Dormarth HP:232/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Itsumade HP:31/231 MP:103/103
+C-Heimdall HP:552/581 MP:261/261
+D-Tiamat HP:305/305 MP:296/296
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Dormarth
+3-Ishtar
+4-Ammut
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Itsuki HP:1109/1136 MP:413/413
+2-Itsumade HP:31/231 MP:103/103
+3-Heimdall HP:552/581 MP:261/261
+4-Tiamat HP:305/305 MP:296/296
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nanashi ataca a Tiamat
+Tiamat recibe 92 de daño
+Tiamat termina con HP:213/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:108/140 MP:411/411
+B-Ammut HP:644/709 MP:140/140
+C-Dormarth HP:232/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Itsumade HP:31/231 MP:103/103
+C-Heimdall HP:552/581 MP:261/261
+D-Tiamat HP:213/305 MP:296/296
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Ishtar
+3-Ammut
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Itsuki HP:1109/1136 MP:413/413
+2-Itsumade HP:31/231 MP:103/103
+3-Heimdall HP:552/581 MP:261/261
+4-Tiamat HP:213/305 MP:296/296
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Itsuki HP:1109/1136 MP:413/413
+2-Itsumade HP:31/231 MP:103/103
+3-Heimdall HP:552/581 MP:261/261
+4-Tiamat HP:213/305 MP:296/296
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Dormarth ataca a Tiamat
+Tiamat recibe 29 de daño
+Tiamat termina con HP:184/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:108/140 MP:411/411
+B-Ammut HP:644/709 MP:140/140
+C-Dormarth HP:232/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Itsumade HP:31/231 MP:103/103
+C-Heimdall HP:552/581 MP:261/261
+D-Tiamat HP:184/305 MP:296/296
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Ammut
+3-Nanashi
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Itsuki HP:1109/1136 MP:413/413
+2-Itsumade HP:31/231 MP:103/103
+3-Heimdall HP:552/581 MP:261/261
+4-Tiamat HP:184/305 MP:296/296
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Itsuki HP:1109/1136 MP:413/413
+2-Itsumade HP:31/231 MP:103/103
+3-Heimdall HP:552/581 MP:261/261
+4-Tiamat HP:184/305 MP:296/296
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ishtar ataca a Itsumade
+Itsumade recibe 27 de daño
+Itsumade termina con HP:4/231
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:108/140 MP:411/411
+B-Ammut HP:644/709 MP:140/140
+C-Dormarth HP:232/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Itsumade HP:4/231 MP:103/103
+C-Heimdall HP:552/581 MP:261/261
+D-Tiamat HP:184/305 MP:296/296
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Itsuki
+3-Tiamat
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Nanashi HP:108/140 MP:411/411
+2-Ammut HP:644/709 MP:140/140
+3-Dormarth HP:232/277 MP:269/269
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Heimdall ataca a Dormarth
+Dormarth recibe 48 de daño
+Dormarth termina con HP:184/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:108/140 MP:411/411
+B-Ammut HP:644/709 MP:140/140
+C-Dormarth HP:184/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Itsumade HP:4/231 MP:103/103
+C-Heimdall HP:552/581 MP:261/261
+D-Tiamat HP:184/305 MP:296/296
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tiamat
+3-Itsumade
+4-Heimdall
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:108/140 MP:411/411
+2-Ammut HP:644/709 MP:140/140
+3-Dormarth HP:184/277 MP:269/269
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Nanashi
+Nanashi recibe 61 de daño
+Nanashi termina con HP:47/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:47/140 MP:411/411
+B-Ammut HP:644/709 MP:140/140
+C-Dormarth HP:184/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Itsumade HP:4/231 MP:103/103
+C-Heimdall HP:552/581 MP:261/261
+D-Tiamat HP:184/305 MP:296/296
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Itsumade
+3-Heimdall
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Nanashi HP:47/140 MP:411/411
+2-Ammut HP:644/709 MP:140/140
+3-Dormarth HP:184/277 MP:269/269
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tiamat ataca a Ammut
+Ammut recibe 32 de daño
+Ammut termina con HP:612/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:47/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:184/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Itsumade HP:4/231 MP:103/103
+C-Heimdall HP:552/581 MP:261/261
+D-Tiamat HP:184/305 MP:296/296
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Heimdall
+3-Itsuki
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Nanashi HP:47/140 MP:411/411
+2-Ammut HP:612/709 MP:140/140
+3-Dormarth HP:184/277 MP:269/269
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsumade ataca a Dormarth
+Dormarth recibe 17 de daño
+Dormarth termina con HP:167/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:47/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:167/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Itsumade HP:4/231 MP:103/103
+C-Heimdall HP:552/581 MP:261/261
+D-Tiamat HP:184/305 MP:296/296
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nanashi
+3-Dormarth
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:1109/1136 MP:413/413
+2-Itsumade HP:4/231 MP:103/103
+3-Heimdall HP:552/581 MP:261/261
+4-Tiamat HP:184/305 MP:296/296
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:1109/1136 MP:413/413
+2-Itsumade HP:4/231 MP:103/103
+3-Heimdall HP:552/581 MP:261/261
+4-Tiamat HP:184/305 MP:296/296
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ammut ataca a Heimdall
+Heimdall recibe 54 de daño
+Heimdall termina con HP:498/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:47/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:167/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1109/1136 MP:413/413
+B-Itsumade HP:4/231 MP:103/103
+C-Heimdall HP:498/581 MP:261/261
+D-Tiamat HP:184/305 MP:296/296
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Dormarth
+3-Ishtar
+4-Ammut
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Itsuki HP:1109/1136 MP:413/413
+2-Itsumade HP:4/231 MP:103/103
+3-Heimdall HP:498/581 MP:261/261
+4-Tiamat HP:184/305 MP:296/296
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Itsuki HP:1109/1136 MP:413/413
+2-Itsumade HP:4/231 MP:103/103
+3-Heimdall HP:498/581 MP:261/261
+4-Tiamat HP:184/305 MP:296/296
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Itsuki
+Itsuki recibe 92 de daño
+Itsuki termina con HP:1017/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:47/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:167/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1017/1136 MP:413/413
+B-Itsumade HP:4/231 MP:103/103
+C-Heimdall HP:498/581 MP:261/261
+D-Tiamat HP:184/305 MP:296/296
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Ishtar
+3-Ammut
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Itsuki HP:1017/1136 MP:413/413
+2-Itsumade HP:4/231 MP:103/103
+3-Heimdall HP:498/581 MP:261/261
+4-Tiamat HP:184/305 MP:296/296
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Dormarth ataca a Tiamat
+Tiamat recibe 29 de daño
+Tiamat termina con HP:155/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:47/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:167/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1017/1136 MP:413/413
+B-Itsumade HP:4/231 MP:103/103
+C-Heimdall HP:498/581 MP:261/261
+D-Tiamat HP:155/305 MP:296/296
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Ammut
+3-Nanashi
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Itsuki HP:1017/1136 MP:413/413
+2-Itsumade HP:4/231 MP:103/103
+3-Heimdall HP:498/581 MP:261/261
+4-Tiamat HP:155/305 MP:296/296
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Itsuki HP:1017/1136 MP:413/413
+2-Itsumade HP:4/231 MP:103/103
+3-Heimdall HP:498/581 MP:261/261
+4-Tiamat HP:155/305 MP:296/296
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ishtar ataca a Tiamat
+Tiamat recibe 27 de daño
+Tiamat termina con HP:128/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:47/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:167/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1017/1136 MP:413/413
+B-Itsumade HP:4/231 MP:103/103
+C-Heimdall HP:498/581 MP:261/261
+D-Tiamat HP:128/305 MP:296/296
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Itsuki
+3-Tiamat
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Nanashi HP:47/140 MP:411/411
+2-Ammut HP:612/709 MP:140/140
+3-Dormarth HP:167/277 MP:269/269
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Nanashi HP:47/140 MP:411/411
+2-Ammut HP:612/709 MP:140/140
+3-Dormarth HP:167/277 MP:269/269
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Nanashi HP:47/140 MP:411/411
+2-Ammut HP:612/709 MP:140/140
+3-Dormarth HP:167/277 MP:269/269
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Heimdall ataca a Dormarth
+Dormarth recibe 48 de daño
+Dormarth termina con HP:119/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:47/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:119/277 MP:269/269
+D-Ishtar HP:258/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1017/1136 MP:413/413
+B-Itsumade HP:4/231 MP:103/103
+C-Heimdall HP:498/581 MP:261/261
+D-Tiamat HP:128/305 MP:296/296
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tiamat
+3-Itsumade
+4-Heimdall
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:47/140 MP:411/411
+2-Ammut HP:612/709 MP:140/140
+3-Dormarth HP:119/277 MP:269/269
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Ishtar
+Ishtar recibe 61 de daño
+Ishtar termina con HP:197/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:47/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:119/277 MP:269/269
+D-Ishtar HP:197/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1017/1136 MP:413/413
+B-Itsumade HP:4/231 MP:103/103
+C-Heimdall HP:498/581 MP:261/261
+D-Tiamat HP:128/305 MP:296/296
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Itsumade
+3-Heimdall
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Nanashi HP:47/140 MP:411/411
+2-Ammut HP:612/709 MP:140/140
+3-Dormarth HP:119/277 MP:269/269
+4-Ishtar HP:197/258 MP:251/251
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tiamat ataca a Dormarth
+Dormarth recibe 32 de daño
+Dormarth termina con HP:87/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:47/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:87/277 MP:269/269
+D-Ishtar HP:197/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1017/1136 MP:413/413
+B-Itsumade HP:4/231 MP:103/103
+C-Heimdall HP:498/581 MP:261/261
+D-Tiamat HP:128/305 MP:296/296
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Heimdall
+3-Itsuki
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Nanashi HP:47/140 MP:411/411
+2-Ammut HP:612/709 MP:140/140
+3-Dormarth HP:87/277 MP:269/269
+4-Ishtar HP:197/258 MP:251/251
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Nanashi HP:47/140 MP:411/411
+2-Ammut HP:612/709 MP:140/140
+3-Dormarth HP:87/277 MP:269/269
+4-Ishtar HP:197/258 MP:251/251
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsumade ataca a Ishtar
+Ishtar recibe 17 de daño
+Ishtar termina con HP:180/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:47/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:87/277 MP:269/269
+D-Ishtar HP:180/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:1017/1136 MP:413/413
+B-Itsumade HP:4/231 MP:103/103
+C-Heimdall HP:498/581 MP:261/261
+D-Tiamat HP:128/305 MP:296/296
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nanashi
+3-Dormarth
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:1017/1136 MP:413/413
+2-Itsumade HP:4/231 MP:103/103
+3-Heimdall HP:498/581 MP:261/261
+4-Tiamat HP:128/305 MP:296/296
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:963/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:47/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:87/277 MP:269/269
+D-Ishtar HP:180/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:963/1136 MP:413/413
+B-Itsumade HP:4/231 MP:103/103
+C-Heimdall HP:498/581 MP:261/261
+D-Tiamat HP:128/305 MP:296/296
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Dormarth
+3-Ishtar
+4-Ammut
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Itsuki HP:963/1136 MP:413/413
+2-Itsumade HP:4/231 MP:103/103
+3-Heimdall HP:498/581 MP:261/261
+4-Tiamat HP:128/305 MP:296/296
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nanashi ataca a Tiamat
+Tiamat recibe 92 de daño
+Tiamat termina con HP:36/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:47/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:87/277 MP:269/269
+D-Ishtar HP:180/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:963/1136 MP:413/413
+B-Itsumade HP:4/231 MP:103/103
+C-Heimdall HP:498/581 MP:261/261
+D-Tiamat HP:36/305 MP:296/296
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Ishtar
+3-Ammut
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Itsuki HP:963/1136 MP:413/413
+2-Itsumade HP:4/231 MP:103/103
+3-Heimdall HP:498/581 MP:261/261
+4-Tiamat HP:36/305 MP:296/296
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Dormarth ataca a Tiamat
+Tiamat recibe 29 de daño
+Tiamat termina con HP:7/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:47/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:87/277 MP:269/269
+D-Ishtar HP:180/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:963/1136 MP:413/413
+B-Itsumade HP:4/231 MP:103/103
+C-Heimdall HP:498/581 MP:261/261
+D-Tiamat HP:7/305 MP:296/296
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Ammut
+3-Nanashi
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Itsuki HP:963/1136 MP:413/413
+2-Itsumade HP:4/231 MP:103/103
+3-Heimdall HP:498/581 MP:261/261
+4-Tiamat HP:7/305 MP:296/296
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ishtar ataca a Itsumade
+Itsumade recibe 27 de daño
+Itsumade termina con HP:0/231
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:47/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:87/277 MP:269/269
+D-Ishtar HP:180/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:963/1136 MP:413/413
+B-
+C-Heimdall HP:498/581 MP:261/261
+D-Tiamat HP:7/305 MP:296/296
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Itsuki
+3-Tiamat
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Nanashi HP:47/140 MP:411/411
+2-Ammut HP:612/709 MP:140/140
+3-Dormarth HP:87/277 MP:269/269
+4-Ishtar HP:180/258 MP:251/251
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Nanashi HP:47/140 MP:411/411
+2-Ammut HP:612/709 MP:140/140
+3-Dormarth HP:87/277 MP:269/269
+4-Ishtar HP:180/258 MP:251/251
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Nanashi HP:47/140 MP:411/411
+2-Ammut HP:612/709 MP:140/140
+3-Dormarth HP:87/277 MP:269/269
+4-Ishtar HP:180/258 MP:251/251
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Heimdall ataca a Ishtar
+Ishtar recibe 48 de daño
+Ishtar termina con HP:132/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:47/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:87/277 MP:269/269
+D-Ishtar HP:132/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:963/1136 MP:413/413
+B-
+C-Heimdall HP:498/581 MP:261/261
+D-Tiamat HP:7/305 MP:296/296
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tiamat
+3-Heimdall
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:47/140 MP:411/411
+2-Ammut HP:612/709 MP:140/140
+3-Dormarth HP:87/277 MP:269/269
+4-Ishtar HP:132/258 MP:251/251
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:47/140 MP:411/411
+2-Ammut HP:612/709 MP:140/140
+3-Dormarth HP:87/277 MP:269/269
+4-Ishtar HP:132/258 MP:251/251
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Dormarth
+Dormarth recibe 61 de daño
+Dormarth termina con HP:26/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:47/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:26/277 MP:269/269
+D-Ishtar HP:132/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:963/1136 MP:413/413
+B-
+C-Heimdall HP:498/581 MP:261/261
+D-Tiamat HP:7/305 MP:296/296
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Heimdall
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Nanashi HP:47/140 MP:411/411
+2-Ammut HP:612/709 MP:140/140
+3-Dormarth HP:26/277 MP:269/269
+4-Ishtar HP:132/258 MP:251/251
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tiamat ataca a Nanashi
+Nanashi recibe 32 de daño
+Nanashi termina con HP:15/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:15/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:26/277 MP:269/269
+D-Ishtar HP:132/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:963/1136 MP:413/413
+B-
+C-Heimdall HP:498/581 MP:261/261
+D-Tiamat HP:7/305 MP:296/296
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nanashi
+3-Dormarth
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:963/1136 MP:413/413
+2-Heimdall HP:498/581 MP:261/261
+3-Tiamat HP:7/305 MP:296/296
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ammut ataca a Heimdall
+Heimdall recibe 54 de daño
+Heimdall termina con HP:444/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:15/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:26/277 MP:269/269
+D-Ishtar HP:132/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:963/1136 MP:413/413
+B-
+C-Heimdall HP:444/581 MP:261/261
+D-Tiamat HP:7/305 MP:296/296
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Dormarth
+3-Ishtar
+4-Ammut
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Itsuki HP:963/1136 MP:413/413
+2-Heimdall HP:444/581 MP:261/261
+3-Tiamat HP:7/305 MP:296/296
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:932/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:15/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:26/277 MP:269/269
+D-Ishtar HP:132/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:932/1136 MP:413/413
+B-
+C-Heimdall HP:444/581 MP:261/261
+D-Tiamat HP:7/305 MP:296/296
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Ishtar
+3-Ammut
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Itsuki HP:932/1136 MP:413/413
+2-Heimdall HP:444/581 MP:261/261
+3-Tiamat HP:7/305 MP:296/296
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Dormarth ataca a Heimdall
+Heimdall recibe 29 de daño
+Heimdall termina con HP:415/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:15/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:26/277 MP:269/269
+D-Ishtar HP:132/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:932/1136 MP:413/413
+B-
+C-Heimdall HP:415/581 MP:261/261
+D-Tiamat HP:7/305 MP:296/296
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Ammut
+3-Nanashi
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Itsuki HP:932/1136 MP:413/413
+2-Heimdall HP:415/581 MP:261/261
+3-Tiamat HP:7/305 MP:296/296
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Itsuki HP:932/1136 MP:413/413
+2-Heimdall HP:415/581 MP:261/261
+3-Tiamat HP:7/305 MP:296/296
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Itsuki HP:932/1136 MP:413/413
+2-Heimdall HP:415/581 MP:261/261
+3-Tiamat HP:7/305 MP:296/296
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Itsuki
+Itsuki recibe 27 de daño
+Itsuki termina con HP:905/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:15/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:26/277 MP:269/269
+D-Ishtar HP:132/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:905/1136 MP:413/413
+B-
+C-Heimdall HP:415/581 MP:261/261
+D-Tiamat HP:7/305 MP:296/296
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Itsuki
+3-Tiamat
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Nanashi HP:15/140 MP:411/411
+2-Ammut HP:612/709 MP:140/140
+3-Dormarth HP:26/277 MP:269/269
+4-Ishtar HP:132/258 MP:251/251
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Heimdall ataca a Nanashi
+Nanashi recibe 48 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:612/709 MP:140/140
+C-Dormarth HP:26/277 MP:269/269
+D-Ishtar HP:132/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:905/1136 MP:413/413
+B-
+C-Heimdall HP:415/581 MP:261/261
+D-Tiamat HP:7/305 MP:296/296
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tiamat
+3-Heimdall
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Ammut HP:612/709 MP:140/140
+2-Dormarth HP:26/277 MP:269/269
+3-Ishtar HP:132/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Ammut
+Ammut recibe 61 de daño
+Ammut termina con HP:551/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:551/709 MP:140/140
+C-Dormarth HP:26/277 MP:269/269
+D-Ishtar HP:132/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:905/1136 MP:413/413
+B-
+C-Heimdall HP:415/581 MP:261/261
+D-Tiamat HP:7/305 MP:296/296
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Heimdall
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Ammut HP:551/709 MP:140/140
+2-Dormarth HP:26/277 MP:269/269
+3-Ishtar HP:132/258 MP:251/251
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tiamat ataca a Dormarth
+Dormarth recibe 32 de daño
+Dormarth termina con HP:0/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:551/709 MP:140/140
+C-
+D-Ishtar HP:132/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:905/1136 MP:413/413
+B-
+C-Heimdall HP:415/581 MP:261/261
+D-Tiamat HP:7/305 MP:296/296
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Ishtar
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:905/1136 MP:413/413
+2-Heimdall HP:415/581 MP:261/261
+3-Tiamat HP:7/305 MP:296/296
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ammut ataca a Tiamat
+Tiamat recibe 54 de daño
+Tiamat termina con HP:0/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:551/709 MP:140/140
+C-
+D-Ishtar HP:132/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:905/1136 MP:413/413
+B-
+C-Heimdall HP:415/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Ammut
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Itsuki HP:905/1136 MP:413/413
+2-Heimdall HP:415/581 MP:261/261
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Ishtar ataca a Heimdall
+Heimdall recibe 27 de daño
+Heimdall termina con HP:388/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:551/709 MP:140/140
+C-
+D-Ishtar HP:132/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:905/1136 MP:413/413
+B-
+C-Heimdall HP:388/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Ammut HP:551/709 MP:140/140
+2-Ishtar HP:132/258 MP:251/251
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Heimdall ataca a Ammut
+Ammut recibe 48 de daño
+Ammut termina con HP:503/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:503/709 MP:140/140
+C-
+D-Ishtar HP:132/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:905/1136 MP:413/413
+B-
+C-Heimdall HP:388/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Ammut HP:503/709 MP:140/140
+2-Ishtar HP:132/258 MP:251/251
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Ammut
+Ammut recibe 61 de daño
+Ammut termina con HP:442/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:442/709 MP:140/140
+C-
+D-Ishtar HP:132/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:905/1136 MP:413/413
+B-
+C-Heimdall HP:388/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Ishtar
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:905/1136 MP:413/413
+2-Heimdall HP:388/581 MP:261/261
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:851/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:442/709 MP:140/140
+C-
+D-Ishtar HP:132/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:851/1136 MP:413/413
+B-
+C-Heimdall HP:388/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Ammut
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Itsuki HP:851/1136 MP:413/413
+2-Heimdall HP:388/581 MP:261/261
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Itsuki
+Itsuki recibe 27 de daño
+Itsuki termina con HP:824/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:442/709 MP:140/140
+C-
+D-Ishtar HP:132/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:824/1136 MP:413/413
+B-
+C-Heimdall HP:388/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Ammut HP:442/709 MP:140/140
+2-Ishtar HP:132/258 MP:251/251
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Heimdall ataca a Ishtar
+Ishtar recibe 48 de daño
+Ishtar termina con HP:84/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:442/709 MP:140/140
+C-
+D-Ishtar HP:84/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:824/1136 MP:413/413
+B-
+C-Heimdall HP:388/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Ammut HP:442/709 MP:140/140
+2-Ishtar HP:84/258 MP:251/251
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Ishtar
+Ishtar recibe 61 de daño
+Ishtar termina con HP:23/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:442/709 MP:140/140
+C-
+D-Ishtar HP:23/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:824/1136 MP:413/413
+B-
+C-Heimdall HP:388/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Ishtar
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:824/1136 MP:413/413
+2-Heimdall HP:388/581 MP:261/261
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Ammut ataca a Heimdall
+Heimdall recibe 54 de daño
+Heimdall termina con HP:334/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:442/709 MP:140/140
+C-
+D-Ishtar HP:23/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:824/1136 MP:413/413
+B-
+C-Heimdall HP:334/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Ammut
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Itsuki HP:824/1136 MP:413/413
+2-Heimdall HP:334/581 MP:261/261
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Itsuki
+Itsuki recibe 27 de daño
+Itsuki termina con HP:797/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:442/709 MP:140/140
+C-
+D-Ishtar HP:23/258 MP:251/251
+Equipo de Itsuki (J2)
+A-Itsuki HP:797/1136 MP:413/413
+B-
+C-Heimdall HP:334/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Ammut HP:442/709 MP:140/140
+2-Ishtar HP:23/258 MP:251/251
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Ammut HP:442/709 MP:140/140
+2-Ishtar HP:23/258 MP:251/251
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Heimdall ataca a Ishtar
+Ishtar recibe 48 de daño
+Ishtar termina con HP:0/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:442/709 MP:140/140
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:797/1136 MP:413/413
+B-
+C-Heimdall HP:334/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Ammut HP:442/709 MP:140/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Ammut
+Ammut recibe 61 de daño
+Ammut termina con HP:381/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:381/709 MP:140/140
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:797/1136 MP:413/413
+B-
+C-Heimdall HP:334/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:797/1136 MP:413/413
+2-Heimdall HP:334/581 MP:261/261
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:797/1136 MP:413/413
+2-Heimdall HP:334/581 MP:261/261
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Ammut ataca a Heimdall
+Heimdall recibe 54 de daño
+Heimdall termina con HP:280/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:381/709 MP:140/140
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:797/1136 MP:413/413
+B-
+C-Heimdall HP:280/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Ammut HP:381/709 MP:140/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Heimdall ataca a Ammut
+Ammut recibe 48 de daño
+Ammut termina con HP:333/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:333/709 MP:140/140
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:797/1136 MP:413/413
+B-
+C-Heimdall HP:280/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Ammut HP:333/709 MP:140/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Ammut HP:333/709 MP:140/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Ammut HP:333/709 MP:140/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Ammut HP:333/709 MP:140/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Ammut HP:333/709 MP:140/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Ammut
+Ammut recibe 45 de daño
+Ammut termina con HP:288/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:288/709 MP:140/140
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:797/1136 MP:413/413
+B-
+C-Heimdall HP:280/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:797/1136 MP:413/413
+2-Heimdall HP:280/581 MP:261/261
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:797/1136 MP:413/413
+2-Heimdall HP:280/581 MP:261/261
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:797/1136 MP:413/413
+2-Heimdall HP:280/581 MP:261/261
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:743/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:288/709 MP:140/140
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:743/1136 MP:413/413
+B-
+C-Heimdall HP:280/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Ammut HP:288/709 MP:140/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Heimdall ataca a Ammut
+Ammut recibe 48 de daño
+Ammut termina con HP:240/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:240/709 MP:140/140
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:743/1136 MP:413/413
+B-
+C-Heimdall HP:280/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Ammut HP:240/709 MP:140/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Ammut HP:240/709 MP:140/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Ammut
+Ammut recibe 45 de daño
+Ammut termina con HP:195/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:195/709 MP:140/140
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:743/1136 MP:413/413
+B-
+C-Heimdall HP:280/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:743/1136 MP:413/413
+2-Heimdall HP:280/581 MP:261/261
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:743/1136 MP:413/413
+2-Heimdall HP:280/581 MP:261/261
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:689/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:195/709 MP:140/140
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:689/1136 MP:413/413
+B-
+C-Heimdall HP:280/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Ammut HP:195/709 MP:140/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Heimdall ataca a Ammut
+Ammut recibe 48 de daño
+Ammut termina con HP:147/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:147/709 MP:140/140
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:689/1136 MP:413/413
+B-
+C-Heimdall HP:280/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Ammut HP:147/709 MP:140/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Ammut
+Ammut recibe 45 de daño
+Ammut termina con HP:102/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:102/709 MP:140/140
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:689/1136 MP:413/413
+B-
+C-Heimdall HP:280/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:689/1136 MP:413/413
+2-Heimdall HP:280/581 MP:261/261
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:635/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:102/709 MP:140/140
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:635/1136 MP:413/413
+B-
+C-Heimdall HP:280/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Ammut HP:102/709 MP:140/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Ammut HP:102/709 MP:140/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Ammut HP:102/709 MP:140/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Ammut HP:102/709 MP:140/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Ammut HP:102/709 MP:140/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Ammut HP:102/709 MP:140/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Heimdall ataca a Ammut
+Ammut recibe 48 de daño
+Ammut termina con HP:54/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:54/709 MP:140/140
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:635/1136 MP:413/413
+B-
+C-Heimdall HP:280/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Ammut HP:54/709 MP:140/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Ammut HP:54/709 MP:140/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Ammut
+Ammut recibe 45 de daño
+Ammut termina con HP:9/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:9/709 MP:140/140
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:635/1136 MP:413/413
+B-
+C-Heimdall HP:280/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:635/1136 MP:413/413
+2-Heimdall HP:280/581 MP:261/261
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:581/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Ammut HP:9/709 MP:140/140
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:581/1136 MP:413/413
+B-
+C-Heimdall HP:280/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Ammut HP:9/709 MP:140/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Heimdall ataca a Ammut
+Ammut recibe 48 de daño
+Ammut termina con HP:0/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Itsuki (J2)

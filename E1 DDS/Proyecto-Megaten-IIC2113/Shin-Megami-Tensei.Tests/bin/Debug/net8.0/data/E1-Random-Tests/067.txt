@@ -1,0 +1,2368 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 66
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:700/700 MP:139/139
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Archangel HP:265/265 MP:52/52
+C-Sedna HP:350/350 MP:68/68
+D-Murmur HP:511/511 MP:229/229
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Bishamonten
+3-Kamapua'a
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nanashi HP:140/140 MP:411/411
+2-Archangel HP:265/265 MP:52/52
+3-Sedna HP:350/350 MP:68/68
+4-Murmur HP:511/511 MP:229/229
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Flynn dispara a Murmur
+Murmur recibe 110 de daño
+Murmur termina con HP:401/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:700/700 MP:139/139
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Archangel HP:265/265 MP:52/52
+C-Sedna HP:350/350 MP:68/68
+D-Murmur HP:401/511 MP:229/229
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Kamapua'a
+3-Koppa Tengu
+4-Flynn
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Nanashi HP:140/140 MP:411/411
+2-Archangel HP:265/265 MP:52/52
+3-Sedna HP:350/350 MP:68/68
+4-Murmur HP:401/511 MP:229/229
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Bishamonten ataca a Archangel
+Archangel recibe 53 de daño
+Archangel termina con HP:212/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:700/700 MP:139/139
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Archangel HP:212/265 MP:52/52
+C-Sedna HP:350/350 MP:68/68
+D-Murmur HP:401/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kamapua'a
+2-Koppa Tengu
+3-Flynn
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Nanashi HP:140/140 MP:411/411
+2-Archangel HP:212/265 MP:52/52
+3-Sedna HP:350/350 MP:68/68
+4-Murmur HP:401/511 MP:229/229
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kamapua'a ataca a Nanashi
+Nanashi recibe 18 de daño
+Nanashi termina con HP:122/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:700/700 MP:139/139
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:122/140 MP:411/411
+B-Archangel HP:212/265 MP:52/52
+C-Sedna HP:350/350 MP:68/68
+D-Murmur HP:401/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Flynn
+3-Bishamonten
+4-Kamapua'a
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Nanashi HP:122/140 MP:411/411
+2-Archangel HP:212/265 MP:52/52
+3-Sedna HP:350/350 MP:68/68
+4-Murmur HP:401/511 MP:229/229
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Koppa Tengu ataca a Archangel
+Archangel recibe 14 de daño
+Archangel termina con HP:198/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:700/700 MP:139/139
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:122/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:350/350 MP:68/68
+D-Murmur HP:401/511 MP:229/229
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Nanashi
+3-Sedna
+4-Archangel
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Flynn HP:971/971 MP:527/527
+2-Kamapua'a HP:238/238 MP:107/107
+3-Bishamonten HP:700/700 MP:139/139
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Murmur ataca a Flynn
+Flynn recibe 42 de daño
+Flynn termina con HP:929/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:929/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:700/700 MP:139/139
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:122/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:350/350 MP:68/68
+D-Murmur HP:401/511 MP:229/229
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Sedna
+3-Archangel
+4-Murmur
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Flynn HP:929/971 MP:527/527
+2-Kamapua'a HP:238/238 MP:107/107
+3-Bishamonten HP:700/700 MP:139/139
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi dispara a Bishamonten
+Bishamonten recibe 31 de daño
+Bishamonten termina con HP:669/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:929/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:669/700 MP:139/139
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:122/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:350/350 MP:68/68
+D-Murmur HP:401/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Archangel
+3-Murmur
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Flynn HP:929/971 MP:527/527
+2-Kamapua'a HP:238/238 MP:107/107
+3-Bishamonten HP:669/700 MP:139/139
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Sedna ataca a Bishamonten
+Bishamonten recibe 25 de daño
+Bishamonten termina con HP:644/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:929/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:122/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:350/350 MP:68/68
+D-Murmur HP:401/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Murmur
+3-Nanashi
+4-Sedna
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Flynn HP:929/971 MP:527/527
+2-Kamapua'a HP:238/238 MP:107/107
+3-Bishamonten HP:644/700 MP:139/139
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Flynn HP:929/971 MP:527/527
+2-Kamapua'a HP:238/238 MP:107/107
+3-Bishamonten HP:644/700 MP:139/139
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Archangel ataca a Flynn
+Flynn recibe 18 de daño
+Flynn termina con HP:911/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:911/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:122/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:350/350 MP:68/68
+D-Murmur HP:401/511 MP:229/229
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Bishamonten
+3-Kamapua'a
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nanashi HP:122/140 MP:411/411
+2-Archangel HP:198/265 MP:52/52
+3-Sedna HP:350/350 MP:68/68
+4-Murmur HP:401/511 MP:229/229
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Sedna
+Sedna recibe 88 de daño
+Sedna termina con HP:262/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:911/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:122/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:262/350 MP:68/68
+D-Murmur HP:401/511 MP:229/229
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Kamapua'a
+3-Koppa Tengu
+4-Flynn
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Nanashi HP:122/140 MP:411/411
+2-Archangel HP:198/265 MP:52/52
+3-Sedna HP:262/350 MP:68/68
+4-Murmur HP:401/511 MP:229/229
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Bishamonten ataca a Murmur
+Murmur recibe 53 de daño
+Murmur termina con HP:348/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:911/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:122/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:262/350 MP:68/68
+D-Murmur HP:348/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kamapua'a
+2-Koppa Tengu
+3-Flynn
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Nanashi HP:122/140 MP:411/411
+2-Archangel HP:198/265 MP:52/52
+3-Sedna HP:262/350 MP:68/68
+4-Murmur HP:348/511 MP:229/229
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Nanashi HP:122/140 MP:411/411
+2-Archangel HP:198/265 MP:52/52
+3-Sedna HP:262/350 MP:68/68
+4-Murmur HP:348/511 MP:229/229
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Nanashi HP:122/140 MP:411/411
+2-Archangel HP:198/265 MP:52/52
+3-Sedna HP:262/350 MP:68/68
+4-Murmur HP:348/511 MP:229/229
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Nanashi HP:122/140 MP:411/411
+2-Archangel HP:198/265 MP:52/52
+3-Sedna HP:262/350 MP:68/68
+4-Murmur HP:348/511 MP:229/229
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kamapua'a ataca a Murmur
+Murmur recibe 18 de daño
+Murmur termina con HP:330/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:911/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:122/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:262/350 MP:68/68
+D-Murmur HP:330/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Flynn
+3-Bishamonten
+4-Kamapua'a
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Nanashi HP:122/140 MP:411/411
+2-Archangel HP:198/265 MP:52/52
+3-Sedna HP:262/350 MP:68/68
+4-Murmur HP:330/511 MP:229/229
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Koppa Tengu ataca a Murmur
+Murmur recibe 14 de daño
+Murmur termina con HP:316/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:911/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:122/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:262/350 MP:68/68
+D-Murmur HP:316/511 MP:229/229
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Nanashi
+3-Sedna
+4-Archangel
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Flynn HP:911/971 MP:527/527
+2-Kamapua'a HP:238/238 MP:107/107
+3-Bishamonten HP:644/700 MP:139/139
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Murmur ataca a Koppa Tengu
+Koppa Tengu recibe 42 de daño
+Koppa Tengu termina con HP:154/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:911/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:154/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:122/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:262/350 MP:68/68
+D-Murmur HP:316/511 MP:229/229
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Sedna
+3-Archangel
+4-Murmur
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Flynn HP:911/971 MP:527/527
+2-Kamapua'a HP:238/238 MP:107/107
+3-Bishamonten HP:644/700 MP:139/139
+4-Koppa Tengu HP:154/196 MP:88/88
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Flynn
+Flynn recibe 92 de daño
+Flynn termina con HP:819/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:819/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:154/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:122/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:262/350 MP:68/68
+D-Murmur HP:316/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Archangel
+3-Murmur
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Flynn HP:819/971 MP:527/527
+2-Kamapua'a HP:238/238 MP:107/107
+3-Bishamonten HP:644/700 MP:139/139
+4-Koppa Tengu HP:154/196 MP:88/88
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Sedna ataca a Koppa Tengu
+Koppa Tengu recibe 25 de daño
+Koppa Tengu termina con HP:129/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:819/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:129/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:122/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:262/350 MP:68/68
+D-Murmur HP:316/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Murmur
+3-Nanashi
+4-Sedna
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Flynn HP:819/971 MP:527/527
+2-Kamapua'a HP:238/238 MP:107/107
+3-Bishamonten HP:644/700 MP:139/139
+4-Koppa Tengu HP:129/196 MP:88/88
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Archangel ataca a Koppa Tengu
+Koppa Tengu recibe 18 de daño
+Koppa Tengu termina con HP:111/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:819/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:111/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:122/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:262/350 MP:68/68
+D-Murmur HP:316/511 MP:229/229
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Bishamonten
+3-Kamapua'a
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nanashi HP:122/140 MP:411/411
+2-Archangel HP:198/265 MP:52/52
+3-Sedna HP:262/350 MP:68/68
+4-Murmur HP:316/511 MP:229/229
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nanashi HP:122/140 MP:411/411
+2-Archangel HP:198/265 MP:52/52
+3-Sedna HP:262/350 MP:68/68
+4-Murmur HP:316/511 MP:229/229
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Nanashi
+Nanashi recibe 110 de daño
+Nanashi termina con HP:12/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:819/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:111/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:12/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:262/350 MP:68/68
+D-Murmur HP:316/511 MP:229/229
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Kamapua'a
+3-Koppa Tengu
+4-Flynn
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Nanashi HP:12/140 MP:411/411
+2-Archangel HP:198/265 MP:52/52
+3-Sedna HP:262/350 MP:68/68
+4-Murmur HP:316/511 MP:229/229
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Nanashi HP:12/140 MP:411/411
+2-Archangel HP:198/265 MP:52/52
+3-Sedna HP:262/350 MP:68/68
+4-Murmur HP:316/511 MP:229/229
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Nanashi HP:12/140 MP:411/411
+2-Archangel HP:198/265 MP:52/52
+3-Sedna HP:262/350 MP:68/68
+4-Murmur HP:316/511 MP:229/229
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Bishamonten ataca a Nanashi
+Nanashi recibe 53 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:819/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:111/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:262/350 MP:68/68
+D-Murmur HP:316/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kamapua'a
+2-Koppa Tengu
+3-Flynn
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Archangel HP:198/265 MP:52/52
+2-Sedna HP:262/350 MP:68/68
+3-Murmur HP:316/511 MP:229/229
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kamapua'a ataca a Sedna
+Sedna recibe 18 de daño
+Sedna termina con HP:244/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:819/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:111/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:244/350 MP:68/68
+D-Murmur HP:316/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Flynn
+3-Bishamonten
+4-Kamapua'a
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Archangel HP:198/265 MP:52/52
+2-Sedna HP:244/350 MP:68/68
+3-Murmur HP:316/511 MP:229/229
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Koppa Tengu ataca a Murmur
+Murmur recibe 14 de daño
+Murmur termina con HP:302/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:819/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:111/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:244/350 MP:68/68
+D-Murmur HP:302/511 MP:229/229
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Sedna
+3-Archangel
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Flynn HP:819/971 MP:527/527
+2-Kamapua'a HP:238/238 MP:107/107
+3-Bishamonten HP:644/700 MP:139/139
+4-Koppa Tengu HP:111/196 MP:88/88
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Murmur ataca a Koppa Tengu
+Koppa Tengu recibe 42 de daño
+Koppa Tengu termina con HP:69/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:819/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:69/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:244/350 MP:68/68
+D-Murmur HP:302/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Archangel
+3-Murmur
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Flynn HP:819/971 MP:527/527
+2-Kamapua'a HP:238/238 MP:107/107
+3-Bishamonten HP:644/700 MP:139/139
+4-Koppa Tengu HP:69/196 MP:88/88
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Sedna ataca a Flynn
+Flynn recibe 25 de daño
+Flynn termina con HP:794/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:794/971 MP:527/527
+B-Kamapua'a HP:238/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:69/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:244/350 MP:68/68
+D-Murmur HP:302/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Murmur
+3-Sedna
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Flynn HP:794/971 MP:527/527
+2-Kamapua'a HP:238/238 MP:107/107
+3-Bishamonten HP:644/700 MP:139/139
+4-Koppa Tengu HP:69/196 MP:88/88
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Archangel ataca a Kamapua'a
+Kamapua'a recibe 18 de daño
+Kamapua'a termina con HP:220/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:794/971 MP:527/527
+B-Kamapua'a HP:220/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:69/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Archangel HP:198/265 MP:52/52
+C-Sedna HP:244/350 MP:68/68
+D-Murmur HP:302/511 MP:229/229
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Bishamonten
+3-Kamapua'a
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Archangel HP:198/265 MP:52/52
+2-Sedna HP:244/350 MP:68/68
+3-Murmur HP:302/511 MP:229/229
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Archangel HP:198/265 MP:52/52
+2-Sedna HP:244/350 MP:68/68
+3-Murmur HP:302/511 MP:229/229
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Archangel
+Archangel recibe 88 de daño
+Archangel termina con HP:110/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:794/971 MP:527/527
+B-Kamapua'a HP:220/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:69/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Archangel HP:110/265 MP:52/52
+C-Sedna HP:244/350 MP:68/68
+D-Murmur HP:302/511 MP:229/229
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Kamapua'a
+3-Koppa Tengu
+4-Flynn
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Archangel HP:110/265 MP:52/52
+2-Sedna HP:244/350 MP:68/68
+3-Murmur HP:302/511 MP:229/229
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Bishamonten ataca a Sedna
+Sedna recibe 53 de daño
+Sedna termina con HP:191/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:794/971 MP:527/527
+B-Kamapua'a HP:220/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:69/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Archangel HP:110/265 MP:52/52
+C-Sedna HP:191/350 MP:68/68
+D-Murmur HP:302/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kamapua'a
+2-Koppa Tengu
+3-Flynn
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Archangel HP:110/265 MP:52/52
+2-Sedna HP:191/350 MP:68/68
+3-Murmur HP:302/511 MP:229/229
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kamapua'a ataca a Archangel
+Archangel recibe 18 de daño
+Archangel termina con HP:92/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:794/971 MP:527/527
+B-Kamapua'a HP:220/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:69/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Archangel HP:92/265 MP:52/52
+C-Sedna HP:191/350 MP:68/68
+D-Murmur HP:302/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Flynn
+3-Bishamonten
+4-Kamapua'a
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Archangel HP:92/265 MP:52/52
+2-Sedna HP:191/350 MP:68/68
+3-Murmur HP:302/511 MP:229/229
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Koppa Tengu ataca a Sedna
+Sedna recibe 14 de daño
+Sedna termina con HP:177/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:794/971 MP:527/527
+B-Kamapua'a HP:220/238 MP:107/107
+C-Bishamonten HP:644/700 MP:139/139
+D-Koppa Tengu HP:69/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Archangel HP:92/265 MP:52/52
+C-Sedna HP:177/350 MP:68/68
+D-Murmur HP:302/511 MP:229/229
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Sedna
+3-Archangel
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Flynn HP:794/971 MP:527/527
+2-Kamapua'a HP:220/238 MP:107/107
+3-Bishamonten HP:644/700 MP:139/139
+4-Koppa Tengu HP:69/196 MP:88/88
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Murmur ataca a Bishamonten
+Bishamonten recibe 42 de daño
+Bishamonten termina con HP:602/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:794/971 MP:527/527
+B-Kamapua'a HP:220/238 MP:107/107
+C-Bishamonten HP:602/700 MP:139/139
+D-Koppa Tengu HP:69/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Archangel HP:92/265 MP:52/52
+C-Sedna HP:177/350 MP:68/68
+D-Murmur HP:302/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Archangel
+3-Murmur
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Flynn HP:794/971 MP:527/527
+2-Kamapua'a HP:220/238 MP:107/107
+3-Bishamonten HP:602/700 MP:139/139
+4-Koppa Tengu HP:69/196 MP:88/88
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Sedna ataca a Bishamonten
+Bishamonten recibe 25 de daño
+Bishamonten termina con HP:577/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:794/971 MP:527/527
+B-Kamapua'a HP:220/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:69/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Archangel HP:92/265 MP:52/52
+C-Sedna HP:177/350 MP:68/68
+D-Murmur HP:302/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Murmur
+3-Sedna
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Flynn HP:794/971 MP:527/527
+2-Kamapua'a HP:220/238 MP:107/107
+3-Bishamonten HP:577/700 MP:139/139
+4-Koppa Tengu HP:69/196 MP:88/88
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Archangel ataca a Koppa Tengu
+Koppa Tengu recibe 18 de daño
+Koppa Tengu termina con HP:51/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:794/971 MP:527/527
+B-Kamapua'a HP:220/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:51/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Archangel HP:92/265 MP:52/52
+C-Sedna HP:177/350 MP:68/68
+D-Murmur HP:302/511 MP:229/229
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Bishamonten
+3-Kamapua'a
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Archangel HP:92/265 MP:52/52
+2-Sedna HP:177/350 MP:68/68
+3-Murmur HP:302/511 MP:229/229
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Archangel
+Archangel recibe 110 de daño
+Archangel termina con HP:0/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:794/971 MP:527/527
+B-Kamapua'a HP:220/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:51/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:177/350 MP:68/68
+D-Murmur HP:302/511 MP:229/229
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Kamapua'a
+3-Koppa Tengu
+4-Flynn
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Sedna HP:177/350 MP:68/68
+2-Murmur HP:302/511 MP:229/229
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Sedna HP:177/350 MP:68/68
+2-Murmur HP:302/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Bishamonten ataca a Murmur
+Murmur recibe 53 de daño
+Murmur termina con HP:249/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:794/971 MP:527/527
+B-Kamapua'a HP:220/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:51/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:177/350 MP:68/68
+D-Murmur HP:249/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kamapua'a
+2-Koppa Tengu
+3-Flynn
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Sedna HP:177/350 MP:68/68
+2-Murmur HP:249/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kamapua'a ataca a Sedna
+Sedna recibe 18 de daño
+Sedna termina con HP:159/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:794/971 MP:527/527
+B-Kamapua'a HP:220/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:51/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:159/350 MP:68/68
+D-Murmur HP:249/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Flynn
+3-Bishamonten
+4-Kamapua'a
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Sedna HP:159/350 MP:68/68
+2-Murmur HP:249/511 MP:229/229
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Sedna HP:159/350 MP:68/68
+2-Murmur HP:249/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Koppa Tengu ataca a Murmur
+Murmur recibe 14 de daño
+Murmur termina con HP:235/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:794/971 MP:527/527
+B-Kamapua'a HP:220/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:51/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:159/350 MP:68/68
+D-Murmur HP:235/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Sedna
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Flynn HP:794/971 MP:527/527
+2-Kamapua'a HP:220/238 MP:107/107
+3-Bishamonten HP:577/700 MP:139/139
+4-Koppa Tengu HP:51/196 MP:88/88
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Murmur ataca a Kamapua'a
+Kamapua'a recibe 42 de daño
+Kamapua'a termina con HP:178/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:794/971 MP:527/527
+B-Kamapua'a HP:178/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:51/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:159/350 MP:68/68
+D-Murmur HP:235/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Murmur
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Flynn HP:794/971 MP:527/527
+2-Kamapua'a HP:178/238 MP:107/107
+3-Bishamonten HP:577/700 MP:139/139
+4-Koppa Tengu HP:51/196 MP:88/88
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Flynn HP:794/971 MP:527/527
+2-Kamapua'a HP:178/238 MP:107/107
+3-Bishamonten HP:577/700 MP:139/139
+4-Koppa Tengu HP:51/196 MP:88/88
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Flynn HP:794/971 MP:527/527
+2-Kamapua'a HP:178/238 MP:107/107
+3-Bishamonten HP:577/700 MP:139/139
+4-Koppa Tengu HP:51/196 MP:88/88
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Sedna ataca a Flynn
+Flynn recibe 25 de daño
+Flynn termina con HP:769/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:769/971 MP:527/527
+B-Kamapua'a HP:178/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:51/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:159/350 MP:68/68
+D-Murmur HP:235/511 MP:229/229
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Bishamonten
+3-Kamapua'a
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Sedna HP:159/350 MP:68/68
+2-Murmur HP:235/511 MP:229/229
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Sedna HP:159/350 MP:68/68
+2-Murmur HP:235/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Murmur
+Murmur recibe 110 de daño
+Murmur termina con HP:125/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:769/971 MP:527/527
+B-Kamapua'a HP:178/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:51/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:159/350 MP:68/68
+D-Murmur HP:125/511 MP:229/229
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Kamapua'a
+3-Koppa Tengu
+4-Flynn
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Sedna HP:159/350 MP:68/68
+2-Murmur HP:125/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Bishamonten ataca a Murmur
+Murmur recibe 53 de daño
+Murmur termina con HP:72/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:769/971 MP:527/527
+B-Kamapua'a HP:178/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:51/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:159/350 MP:68/68
+D-Murmur HP:72/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kamapua'a
+2-Koppa Tengu
+3-Flynn
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Sedna HP:159/350 MP:68/68
+2-Murmur HP:72/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kamapua'a ataca a Murmur
+Murmur recibe 18 de daño
+Murmur termina con HP:54/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:769/971 MP:527/527
+B-Kamapua'a HP:178/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:51/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:159/350 MP:68/68
+D-Murmur HP:54/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Flynn
+3-Bishamonten
+4-Kamapua'a
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Sedna HP:159/350 MP:68/68
+2-Murmur HP:54/511 MP:229/229
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Sedna HP:159/350 MP:68/68
+2-Murmur HP:54/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Koppa Tengu ataca a Sedna
+Sedna recibe 14 de daño
+Sedna termina con HP:145/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:769/971 MP:527/527
+B-Kamapua'a HP:178/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:51/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:145/350 MP:68/68
+D-Murmur HP:54/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Sedna
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Flynn HP:769/971 MP:527/527
+2-Kamapua'a HP:178/238 MP:107/107
+3-Bishamonten HP:577/700 MP:139/139
+4-Koppa Tengu HP:51/196 MP:88/88
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Murmur ataca a Kamapua'a
+Kamapua'a recibe 42 de daño
+Kamapua'a termina con HP:136/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:769/971 MP:527/527
+B-Kamapua'a HP:136/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:51/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:145/350 MP:68/68
+D-Murmur HP:54/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Murmur
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Flynn HP:769/971 MP:527/527
+2-Kamapua'a HP:136/238 MP:107/107
+3-Bishamonten HP:577/700 MP:139/139
+4-Koppa Tengu HP:51/196 MP:88/88
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Flynn HP:769/971 MP:527/527
+2-Kamapua'a HP:136/238 MP:107/107
+3-Bishamonten HP:577/700 MP:139/139
+4-Koppa Tengu HP:51/196 MP:88/88
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Sedna ataca a Koppa Tengu
+Koppa Tengu recibe 25 de daño
+Koppa Tengu termina con HP:26/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:769/971 MP:527/527
+B-Kamapua'a HP:136/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:26/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:145/350 MP:68/68
+D-Murmur HP:54/511 MP:229/229
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Bishamonten
+3-Kamapua'a
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Sedna HP:145/350 MP:68/68
+2-Murmur HP:54/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Sedna
+Sedna recibe 110 de daño
+Sedna termina con HP:35/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:769/971 MP:527/527
+B-Kamapua'a HP:136/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:26/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:35/350 MP:68/68
+D-Murmur HP:54/511 MP:229/229
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Kamapua'a
+3-Koppa Tengu
+4-Flynn
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Sedna HP:35/350 MP:68/68
+2-Murmur HP:54/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Bishamonten ataca a Murmur
+Murmur recibe 53 de daño
+Murmur termina con HP:1/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:769/971 MP:527/527
+B-Kamapua'a HP:136/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:26/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:35/350 MP:68/68
+D-Murmur HP:1/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kamapua'a
+2-Koppa Tengu
+3-Flynn
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Sedna HP:35/350 MP:68/68
+2-Murmur HP:1/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kamapua'a ataca a Murmur
+Murmur recibe 18 de daño
+Murmur termina con HP:0/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:769/971 MP:527/527
+B-Kamapua'a HP:136/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:26/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:35/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Flynn
+3-Bishamonten
+4-Kamapua'a
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Sedna HP:35/350 MP:68/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Sedna HP:35/350 MP:68/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Koppa Tengu ataca a Sedna
+Sedna recibe 14 de daño
+Sedna termina con HP:21/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:769/971 MP:527/527
+B-Kamapua'a HP:136/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:26/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:21/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Flynn HP:769/971 MP:527/527
+2-Kamapua'a HP:136/238 MP:107/107
+3-Bishamonten HP:577/700 MP:139/139
+4-Koppa Tengu HP:26/196 MP:88/88
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Sedna ataca a Flynn
+Flynn recibe 25 de daño
+Flynn termina con HP:744/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:744/971 MP:527/527
+B-Kamapua'a HP:136/238 MP:107/107
+C-Bishamonten HP:577/700 MP:139/139
+D-Koppa Tengu HP:26/196 MP:88/88
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Sedna HP:21/350 MP:68/68
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Bishamonten
+3-Kamapua'a
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Sedna HP:21/350 MP:68/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Sedna HP:21/350 MP:68/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Sedna
+Sedna recibe 88 de daño
+Sedna termina con HP:0/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Flynn (J1)

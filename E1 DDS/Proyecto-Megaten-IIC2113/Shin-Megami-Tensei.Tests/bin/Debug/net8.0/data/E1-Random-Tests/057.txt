@@ -1,0 +1,1522 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 56
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Manticore HP:385/385 MP:172/172
+D-Ose HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Persephone HP:315/315 MP:306/306
+C-Kazfiel HP:469/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+3-Ose
+4-Hel
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nanashi HP:140/140 MP:411/411
+2-Persephone HP:315/315 MP:306/306
+3-Kazfiel HP:469/469 MP:211/211
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nanashi HP:140/140 MP:411/411
+2-Persephone HP:315/315 MP:306/306
+3-Kazfiel HP:469/469 MP:211/211
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Nanashi
+Nanashi recibe 88 de daño
+Nanashi termina con HP:52/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Manticore HP:385/385 MP:172/172
+D-Ose HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:52/140 MP:411/411
+B-Persephone HP:315/315 MP:306/306
+C-Kazfiel HP:469/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Ose
+3-Hel
+4-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Nanashi HP:52/140 MP:411/411
+2-Persephone HP:315/315 MP:306/306
+3-Kazfiel HP:469/469 MP:211/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Manticore ataca a Persephone
+Persephone recibe 31 de daño
+Persephone termina con HP:284/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Manticore HP:385/385 MP:172/172
+D-Ose HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:52/140 MP:411/411
+B-Persephone HP:284/315 MP:306/306
+C-Kazfiel HP:469/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Hel
+3-Flynn
+4-Manticore
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Nanashi HP:52/140 MP:411/411
+2-Persephone HP:284/315 MP:306/306
+3-Kazfiel HP:469/469 MP:211/211
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Nanashi HP:52/140 MP:411/411
+2-Persephone HP:284/315 MP:306/306
+3-Kazfiel HP:469/469 MP:211/211
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ose ataca a Nanashi
+Nanashi recibe 33 de daño
+Nanashi termina con HP:19/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Manticore HP:385/385 MP:172/172
+D-Ose HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:19/140 MP:411/411
+B-Persephone HP:284/315 MP:306/306
+C-Kazfiel HP:469/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Flynn
+3-Manticore
+4-Ose
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Nanashi HP:19/140 MP:411/411
+2-Persephone HP:284/315 MP:306/306
+3-Kazfiel HP:469/469 MP:211/211
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hel ataca a Kazfiel
+Kazfiel recibe 26 de daño
+Kazfiel termina con HP:443/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Manticore HP:385/385 MP:172/172
+D-Ose HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:19/140 MP:411/411
+B-Persephone HP:284/315 MP:306/306
+C-Kazfiel HP:443/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Nanashi
+3-Persephone
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Flynn HP:971/971 MP:527/527
+2-Hel HP:254/254 MP:246/246
+3-Manticore HP:385/385 MP:172/172
+4-Ose HP:454/454 MP:90/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ataca a Flynn
+Flynn recibe 38 de daño
+Flynn termina con HP:933/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:933/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Manticore HP:385/385 MP:172/172
+D-Ose HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:19/140 MP:411/411
+B-Persephone HP:284/315 MP:306/306
+C-Kazfiel HP:443/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Persephone
+3-Kazfiel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Flynn HP:933/971 MP:527/527
+2-Hel HP:254/254 MP:246/246
+3-Manticore HP:385/385 MP:172/172
+4-Ose HP:454/454 MP:90/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Flynn
+Flynn recibe 92 de daño
+Flynn termina con HP:841/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Manticore HP:385/385 MP:172/172
+D-Ose HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:19/140 MP:411/411
+B-Persephone HP:284/315 MP:306/306
+C-Kazfiel HP:443/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Kazfiel
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Flynn HP:841/971 MP:527/527
+2-Hel HP:254/254 MP:246/246
+3-Manticore HP:385/385 MP:172/172
+4-Ose HP:454/454 MP:90/90
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Persephone ataca a Ose
+Ose recibe 33 de daño
+Ose termina con HP:421/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Manticore HP:385/385 MP:172/172
+D-Ose HP:421/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:19/140 MP:411/411
+B-Persephone HP:284/315 MP:306/306
+C-Kazfiel HP:443/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+3-Ose
+4-Hel
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nanashi HP:19/140 MP:411/411
+2-Persephone HP:284/315 MP:306/306
+3-Kazfiel HP:443/469 MP:211/211
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Nanashi
+Nanashi recibe 88 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Manticore HP:385/385 MP:172/172
+D-Ose HP:421/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:284/315 MP:306/306
+C-Kazfiel HP:443/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Ose
+3-Hel
+4-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Persephone HP:284/315 MP:306/306
+2-Kazfiel HP:443/469 MP:211/211
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Manticore ataca a Kazfiel
+Kazfiel recibe 31 de daño
+Kazfiel termina con HP:412/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Manticore HP:385/385 MP:172/172
+D-Ose HP:421/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:284/315 MP:306/306
+C-Kazfiel HP:412/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Hel
+3-Flynn
+4-Manticore
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Persephone HP:284/315 MP:306/306
+2-Kazfiel HP:412/469 MP:211/211
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Ose ataca a Kazfiel
+Kazfiel recibe 33 de daño
+Kazfiel termina con HP:379/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Manticore HP:385/385 MP:172/172
+D-Ose HP:421/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:284/315 MP:306/306
+C-Kazfiel HP:379/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Flynn
+3-Manticore
+4-Ose
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Persephone HP:284/315 MP:306/306
+2-Kazfiel HP:379/469 MP:211/211
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ataca a Kazfiel
+Kazfiel recibe 26 de daño
+Kazfiel termina con HP:353/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:254/254 MP:246/246
+C-Manticore HP:385/385 MP:172/172
+D-Ose HP:421/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:284/315 MP:306/306
+C-Kazfiel HP:353/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Persephone
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Flynn HP:841/971 MP:527/527
+2-Hel HP:254/254 MP:246/246
+3-Manticore HP:385/385 MP:172/172
+4-Ose HP:421/454 MP:90/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kazfiel ataca a Hel
+Hel recibe 38 de daño
+Hel termina con HP:216/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:216/254 MP:246/246
+C-Manticore HP:385/385 MP:172/172
+D-Ose HP:421/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:284/315 MP:306/306
+C-Kazfiel HP:353/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Kazfiel
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Flynn HP:841/971 MP:527/527
+2-Hel HP:216/254 MP:246/246
+3-Manticore HP:385/385 MP:172/172
+4-Ose HP:421/454 MP:90/90
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Flynn HP:841/971 MP:527/527
+2-Hel HP:216/254 MP:246/246
+3-Manticore HP:385/385 MP:172/172
+4-Ose HP:421/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Persephone ataca a Manticore
+Manticore recibe 33 de daño
+Manticore termina con HP:352/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:216/254 MP:246/246
+C-Manticore HP:352/385 MP:172/172
+D-Ose HP:421/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:284/315 MP:306/306
+C-Kazfiel HP:353/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+3-Ose
+4-Hel
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Persephone HP:284/315 MP:306/306
+2-Kazfiel HP:353/469 MP:211/211
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Kazfiel
+Kazfiel recibe 88 de daño
+Kazfiel termina con HP:265/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:216/254 MP:246/246
+C-Manticore HP:352/385 MP:172/172
+D-Ose HP:421/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:284/315 MP:306/306
+C-Kazfiel HP:265/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Ose
+3-Hel
+4-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Persephone HP:284/315 MP:306/306
+2-Kazfiel HP:265/469 MP:211/211
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Persephone HP:284/315 MP:306/306
+2-Kazfiel HP:265/469 MP:211/211
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Manticore ataca a Kazfiel
+Kazfiel recibe 31 de daño
+Kazfiel termina con HP:234/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:216/254 MP:246/246
+C-Manticore HP:352/385 MP:172/172
+D-Ose HP:421/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:284/315 MP:306/306
+C-Kazfiel HP:234/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Hel
+3-Flynn
+4-Manticore
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Persephone HP:284/315 MP:306/306
+2-Kazfiel HP:234/469 MP:211/211
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ose ataca a Persephone
+Persephone recibe 33 de daño
+Persephone termina con HP:251/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:216/254 MP:246/246
+C-Manticore HP:352/385 MP:172/172
+D-Ose HP:421/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:251/315 MP:306/306
+C-Kazfiel HP:234/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Flynn
+3-Manticore
+4-Ose
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Persephone HP:251/315 MP:306/306
+2-Kazfiel HP:234/469 MP:211/211
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ataca a Kazfiel
+Kazfiel recibe 26 de daño
+Kazfiel termina con HP:208/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:216/254 MP:246/246
+C-Manticore HP:352/385 MP:172/172
+D-Ose HP:421/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:251/315 MP:306/306
+C-Kazfiel HP:208/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Persephone
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Flynn HP:841/971 MP:527/527
+2-Hel HP:216/254 MP:246/246
+3-Manticore HP:352/385 MP:172/172
+4-Ose HP:421/454 MP:90/90
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kazfiel ataca a Ose
+Ose recibe 38 de daño
+Ose termina con HP:383/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:216/254 MP:246/246
+C-Manticore HP:352/385 MP:172/172
+D-Ose HP:383/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:251/315 MP:306/306
+C-Kazfiel HP:208/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Kazfiel
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Flynn HP:841/971 MP:527/527
+2-Hel HP:216/254 MP:246/246
+3-Manticore HP:352/385 MP:172/172
+4-Ose HP:383/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Persephone ataca a Manticore
+Manticore recibe 33 de daño
+Manticore termina con HP:319/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:216/254 MP:246/246
+C-Manticore HP:319/385 MP:172/172
+D-Ose HP:383/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:251/315 MP:306/306
+C-Kazfiel HP:208/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+3-Ose
+4-Hel
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Persephone HP:251/315 MP:306/306
+2-Kazfiel HP:208/469 MP:211/211
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Kazfiel
+Kazfiel recibe 88 de daño
+Kazfiel termina con HP:120/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:216/254 MP:246/246
+C-Manticore HP:319/385 MP:172/172
+D-Ose HP:383/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:251/315 MP:306/306
+C-Kazfiel HP:120/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Ose
+3-Hel
+4-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Persephone HP:251/315 MP:306/306
+2-Kazfiel HP:120/469 MP:211/211
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Persephone
+Persephone recibe 31 de daño
+Persephone termina con HP:220/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:216/254 MP:246/246
+C-Manticore HP:319/385 MP:172/172
+D-Ose HP:383/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:220/315 MP:306/306
+C-Kazfiel HP:120/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Hel
+3-Flynn
+4-Manticore
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Persephone HP:220/315 MP:306/306
+2-Kazfiel HP:120/469 MP:211/211
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ose ataca a Persephone
+Persephone recibe 33 de daño
+Persephone termina con HP:187/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:216/254 MP:246/246
+C-Manticore HP:319/385 MP:172/172
+D-Ose HP:383/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:187/315 MP:306/306
+C-Kazfiel HP:120/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Flynn
+3-Manticore
+4-Ose
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Persephone HP:187/315 MP:306/306
+2-Kazfiel HP:120/469 MP:211/211
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Persephone HP:187/315 MP:306/306
+2-Kazfiel HP:120/469 MP:211/211
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ataca a Persephone
+Persephone recibe 26 de daño
+Persephone termina con HP:161/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:216/254 MP:246/246
+C-Manticore HP:319/385 MP:172/172
+D-Ose HP:383/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:161/315 MP:306/306
+C-Kazfiel HP:120/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Persephone
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Flynn HP:841/971 MP:527/527
+2-Hel HP:216/254 MP:246/246
+3-Manticore HP:319/385 MP:172/172
+4-Ose HP:383/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kazfiel ataca a Manticore
+Manticore recibe 38 de daño
+Manticore termina con HP:281/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:216/254 MP:246/246
+C-Manticore HP:281/385 MP:172/172
+D-Ose HP:383/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:161/315 MP:306/306
+C-Kazfiel HP:120/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Kazfiel
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Flynn HP:841/971 MP:527/527
+2-Hel HP:216/254 MP:246/246
+3-Manticore HP:281/385 MP:172/172
+4-Ose HP:383/454 MP:90/90
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Flynn HP:841/971 MP:527/527
+2-Hel HP:216/254 MP:246/246
+3-Manticore HP:281/385 MP:172/172
+4-Ose HP:383/454 MP:90/90
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Flynn HP:841/971 MP:527/527
+2-Hel HP:216/254 MP:246/246
+3-Manticore HP:281/385 MP:172/172
+4-Ose HP:383/454 MP:90/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Persephone ataca a Hel
+Hel recibe 33 de daño
+Hel termina con HP:183/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:183/254 MP:246/246
+C-Manticore HP:281/385 MP:172/172
+D-Ose HP:383/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:161/315 MP:306/306
+C-Kazfiel HP:120/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+3-Ose
+4-Hel
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Persephone HP:161/315 MP:306/306
+2-Kazfiel HP:120/469 MP:211/211
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Kazfiel
+Kazfiel recibe 110 de daño
+Kazfiel termina con HP:10/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:183/254 MP:246/246
+C-Manticore HP:281/385 MP:172/172
+D-Ose HP:383/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:161/315 MP:306/306
+C-Kazfiel HP:10/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Ose
+3-Hel
+4-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Persephone HP:161/315 MP:306/306
+2-Kazfiel HP:10/469 MP:211/211
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Persephone
+Persephone recibe 31 de daño
+Persephone termina con HP:130/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:183/254 MP:246/246
+C-Manticore HP:281/385 MP:172/172
+D-Ose HP:383/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:130/315 MP:306/306
+C-Kazfiel HP:10/469 MP:211/211
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Hel
+3-Flynn
+4-Manticore
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Persephone HP:130/315 MP:306/306
+2-Kazfiel HP:10/469 MP:211/211
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Ose ataca a Kazfiel
+Kazfiel recibe 33 de daño
+Kazfiel termina con HP:0/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:183/254 MP:246/246
+C-Manticore HP:281/385 MP:172/172
+D-Ose HP:383/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:130/315 MP:306/306
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Flynn
+3-Manticore
+4-Ose
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Persephone HP:130/315 MP:306/306
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Persephone HP:130/315 MP:306/306
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Persephone HP:130/315 MP:306/306
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Persephone HP:130/315 MP:306/306
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ataca a Persephone
+Persephone recibe 26 de daño
+Persephone termina con HP:104/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:841/971 MP:527/527
+B-Hel HP:183/254 MP:246/246
+C-Manticore HP:281/385 MP:172/172
+D-Ose HP:383/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:104/315 MP:306/306
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Flynn HP:841/971 MP:527/527
+2-Hel HP:183/254 MP:246/246
+3-Manticore HP:281/385 MP:172/172
+4-Ose HP:383/454 MP:90/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Flynn
+Flynn recibe 33 de daño
+Flynn termina con HP:808/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:808/971 MP:527/527
+B-Hel HP:183/254 MP:246/246
+C-Manticore HP:281/385 MP:172/172
+D-Ose HP:383/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Persephone HP:104/315 MP:306/306
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+3-Ose
+4-Hel
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Persephone HP:104/315 MP:306/306
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Persephone
+Persephone recibe 110 de daño
+Persephone termina con HP:0/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Flynn (J1)

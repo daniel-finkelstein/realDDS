@@ -1,0 +1,1231 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 39
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Koppa Tengu HP:196/196 MP:88/88
+C-Fuxi HP:52/52 MP:49/49
+D-Atropos HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Aniel HP:567/567 MP:255/255
+C-Quicksilver HP:203/203 MP:90/90
+D-Ancient of Days HP:498/498 MP:484/484
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Atropos
+3-Koppa Tengu
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Deadly Wind MP:22
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tadano HP:388/388 MP:193/193
+2-Aniel HP:567/567 MP:255/255
+3-Quicksilver HP:203/203 MP:90/90
+4-Ancient of Days HP:498/498 MP:484/484
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker lanza viento a Aniel
+Aniel es débil contra el ataque de Joker
+Aniel recibe 181 de daño
+Aniel termina con HP:386/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:325/347
+B-Koppa Tengu HP:196/196 MP:88/88
+C-Fuxi HP:52/52 MP:49/49
+D-Atropos HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Aniel HP:386/567 MP:255/255
+C-Quicksilver HP:203/203 MP:90/90
+D-Ancient of Days HP:498/498 MP:484/484
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Atropos
+2-Koppa Tengu
+3-Fuxi
+4-Joker
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Atropos use
+1-Hamaon MP:10
+2-Tathlum Shot MP:7
+3-Ziodyne MP:14
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Tadano HP:388/388 MP:193/193
+2-Aniel HP:386/567 MP:255/255
+3-Quicksilver HP:203/203 MP:90/90
+4-Ancient of Days HP:498/498 MP:484/484
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Atropos lanza viento a Quicksilver
+Quicksilver es débil contra el ataque de Atropos
+Quicksilver recibe 179 de daño
+Quicksilver termina con HP:24/203
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:325/347
+B-Koppa Tengu HP:196/196 MP:88/88
+C-Fuxi HP:52/52 MP:49/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Aniel HP:386/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:498/498 MP:484/484
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Fuxi
+3-Joker
+4-Atropos
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Koppa Tengu use
+1-Zanma MP:8
+2-Bad Company MP:15
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Tadano HP:388/388 MP:193/193
+2-Aniel HP:386/567 MP:255/255
+3-Quicksilver HP:24/203 MP:90/90
+4-Ancient of Days HP:498/498 MP:484/484
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Koppa Tengu lanza viento a Ancient of Days
+Ancient of Days es débil contra el ataque de Koppa Tengu
+Ancient of Days recibe 83 de daño
+Ancient of Days termina con HP:415/498
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:325/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:49/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Aniel HP:386/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Fuxi
+2-Joker
+3-Atropos
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Fuxi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Fuxi use
+1-Zan MP:5
+2-Patra MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fuxi
+1-Tadano HP:388/388 MP:193/193
+2-Aniel HP:386/567 MP:255/255
+3-Quicksilver HP:24/203 MP:90/90
+4-Ancient of Days HP:415/498 MP:484/484
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Fuxi lanza viento a Aniel
+Aniel es débil contra el ataque de Fuxi
+Aniel recibe 37 de daño
+Aniel termina con HP:349/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:325/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:44/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Aniel HP:349/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 4
+----------------------------------------
+Orden:
+1-Joker
+2-Atropos
+3-Koppa Tengu
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Deadly Wind MP:22
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tadano HP:388/388 MP:193/193
+2-Aniel HP:349/567 MP:255/255
+3-Quicksilver HP:24/203 MP:90/90
+4-Ancient of Days HP:415/498 MP:484/484
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker lanza viento a Aniel
+Aniel es débil contra el ataque de Joker
+Aniel recibe 181 de daño
+Aniel termina con HP:168/567
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:303/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:44/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Aniel HP:168/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Atropos
+2-Koppa Tengu
+3-Fuxi
+4-Joker
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Tadano HP:388/388 MP:193/193
+2-Aniel HP:168/567 MP:255/255
+3-Quicksilver HP:24/203 MP:90/90
+4-Ancient of Days HP:415/498 MP:484/484
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Tadano
+Tadano es resistente el ataque de Atropos
+Tadano recibe 14 de daño
+Tadano termina con HP:374/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:303/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:44/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:374/388 MP:193/193
+B-Aniel HP:168/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Fuxi
+3-Joker
+4-Atropos
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Tadano HP:374/388 MP:193/193
+2-Aniel HP:168/567 MP:255/255
+3-Quicksilver HP:24/203 MP:90/90
+4-Ancient of Days HP:415/498 MP:484/484
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Koppa Tengu ataca a Tadano
+Tadano es resistente el ataque de Koppa Tengu
+Tadano recibe 7 de daño
+Tadano termina con HP:367/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:303/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:44/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:367/388 MP:193/193
+B-Aniel HP:168/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Fuxi
+2-Joker
+3-Atropos
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Fuxi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fuxi
+1-Tadano HP:367/388 MP:193/193
+2-Aniel HP:168/567 MP:255/255
+3-Quicksilver HP:24/203 MP:90/90
+4-Ancient of Days HP:415/498 MP:484/484
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Fuxi ataca a Tadano
+Tadano es resistente el ataque de Fuxi
+Tadano recibe 2 de daño
+Tadano termina con HP:365/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:303/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:44/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:365/388 MP:193/193
+B-Aniel HP:168/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ancient of Days
+2-Aniel
+3-Tadano
+4-Quicksilver
+----------------------------------------
+Seleccione una acción para Ancient of Days
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ancient of Days
+1-Joker HP:597/597 MP:303/347
+2-Koppa Tengu HP:196/196 MP:80/88
+3-Fuxi HP:52/52 MP:44/49
+4-Atropos HP:277/277 MP:255/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ancient of Days ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:543/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:543/597 MP:303/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:44/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:365/388 MP:193/193
+B-Aniel HP:168/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Tadano
+3-Quicksilver
+4-Ancient of Days
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Joker HP:543/597 MP:303/347
+2-Koppa Tengu HP:196/196 MP:80/88
+3-Fuxi HP:52/52 MP:44/49
+4-Atropos HP:277/277 MP:255/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Joker
+Joker recibe 47 de daño
+Joker termina con HP:496/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:496/597 MP:303/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:44/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:365/388 MP:193/193
+B-Aniel HP:168/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Quicksilver
+3-Ancient of Days
+4-Aniel
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Joker HP:496/597 MP:303/347
+2-Koppa Tengu HP:196/196 MP:80/88
+3-Fuxi HP:52/52 MP:44/49
+4-Atropos HP:277/277 MP:255/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Joker
+Joker recibe 16 de daño
+Joker termina con HP:480/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:480/597 MP:303/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:44/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:365/388 MP:193/193
+B-Aniel HP:168/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quicksilver
+2-Ancient of Days
+3-Aniel
+4-Tadano
+----------------------------------------
+Seleccione una acción para Quicksilver
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quicksilver
+1-Joker HP:480/597 MP:303/347
+2-Koppa Tengu HP:196/196 MP:80/88
+3-Fuxi HP:52/52 MP:44/49
+4-Atropos HP:277/277 MP:255/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Quicksilver ataca a Joker
+Joker recibe 15 de daño
+Joker termina con HP:465/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:465/597 MP:303/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:44/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:365/388 MP:193/193
+B-Aniel HP:168/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Atropos
+3-Koppa Tengu
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tadano HP:365/388 MP:193/193
+2-Aniel HP:168/567 MP:255/255
+3-Quicksilver HP:24/203 MP:90/90
+4-Ancient of Days HP:415/498 MP:484/484
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Tadano
+Tadano es resistente el ataque de Joker
+Tadano recibe 14 de daño
+Tadano termina con HP:351/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:465/597 MP:303/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:44/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:351/388 MP:193/193
+B-Aniel HP:168/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Koppa Tengu
+3-Fuxi
+4-Joker
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Tadano HP:351/388 MP:193/193
+2-Aniel HP:168/567 MP:255/255
+3-Quicksilver HP:24/203 MP:90/90
+4-Ancient of Days HP:415/498 MP:484/484
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Tadano
+Tadano es resistente el ataque de Atropos
+Tadano recibe 14 de daño
+Tadano termina con HP:337/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:465/597 MP:303/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:44/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:337/388 MP:193/193
+B-Aniel HP:168/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Fuxi
+3-Joker
+4-Atropos
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Tadano HP:337/388 MP:193/193
+2-Aniel HP:168/567 MP:255/255
+3-Quicksilver HP:24/203 MP:90/90
+4-Ancient of Days HP:415/498 MP:484/484
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Koppa Tengu ataca a Tadano
+Tadano es resistente el ataque de Koppa Tengu
+Tadano recibe 7 de daño
+Tadano termina con HP:330/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:465/597 MP:303/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:44/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:330/388 MP:193/193
+B-Aniel HP:168/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fuxi
+2-Joker
+3-Atropos
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Fuxi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Fuxi use
+1-Zan MP:5
+2-Patra MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fuxi
+1-Tadano HP:330/388 MP:193/193
+2-Aniel HP:168/567 MP:255/255
+3-Quicksilver HP:24/203 MP:90/90
+4-Ancient of Days HP:415/498 MP:484/484
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Fuxi lanza viento a Aniel
+Aniel es débil contra el ataque de Fuxi
+Aniel recibe 37 de daño
+Aniel termina con HP:131/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:465/597 MP:303/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:39/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:330/388 MP:193/193
+B-Aniel HP:131/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Atropos
+3-Koppa Tengu
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Deadly Wind MP:22
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tadano HP:330/388 MP:193/193
+2-Aniel HP:131/567 MP:255/255
+3-Quicksilver HP:24/203 MP:90/90
+4-Ancient of Days HP:415/498 MP:484/484
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker lanza viento a Tadano
+Tadano recibe 121 de daño
+Tadano termina con HP:209/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:465/597 MP:281/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:39/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:209/388 MP:193/193
+B-Aniel HP:131/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ancient of Days
+2-Aniel
+3-Tadano
+4-Quicksilver
+----------------------------------------
+Seleccione una acción para Ancient of Days
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ancient of Days
+1-Joker HP:465/597 MP:281/347
+2-Koppa Tengu HP:196/196 MP:80/88
+3-Fuxi HP:52/52 MP:39/49
+4-Atropos HP:277/277 MP:255/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ancient of Days ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:411/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:411/597 MP:281/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:39/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:209/388 MP:193/193
+B-Aniel HP:131/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Tadano
+3-Quicksilver
+4-Ancient of Days
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Joker HP:411/597 MP:281/347
+2-Koppa Tengu HP:196/196 MP:80/88
+3-Fuxi HP:52/52 MP:39/49
+4-Atropos HP:277/277 MP:255/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Joker
+Joker recibe 47 de daño
+Joker termina con HP:364/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:364/597 MP:281/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:39/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:209/388 MP:193/193
+B-Aniel HP:131/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Quicksilver
+3-Ancient of Days
+4-Aniel
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Joker HP:364/597 MP:281/347
+2-Koppa Tengu HP:196/196 MP:80/88
+3-Fuxi HP:52/52 MP:39/49
+4-Atropos HP:277/277 MP:255/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Joker
+Joker recibe 16 de daño
+Joker termina con HP:348/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:348/597 MP:281/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:39/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:209/388 MP:193/193
+B-Aniel HP:131/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quicksilver
+2-Ancient of Days
+3-Aniel
+4-Tadano
+----------------------------------------
+Seleccione una acción para Quicksilver
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quicksilver
+1-Joker HP:348/597 MP:281/347
+2-Koppa Tengu HP:196/196 MP:80/88
+3-Fuxi HP:52/52 MP:39/49
+4-Atropos HP:277/277 MP:255/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Quicksilver ataca a Joker
+Joker recibe 15 de daño
+Joker termina con HP:333/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:333/597 MP:281/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:39/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:209/388 MP:193/193
+B-Aniel HP:131/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Atropos
+3-Koppa Tengu
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Deadly Wind MP:22
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tadano HP:209/388 MP:193/193
+2-Aniel HP:131/567 MP:255/255
+3-Quicksilver HP:24/203 MP:90/90
+4-Ancient of Days HP:415/498 MP:484/484
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker lanza viento a Tadano
+Tadano recibe 121 de daño
+Tadano termina con HP:88/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:333/597 MP:259/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:39/49
+D-Atropos HP:277/277 MP:255/269
+Equipo de Tadano (J2)
+A-Tadano HP:88/388 MP:193/193
+B-Aniel HP:131/567 MP:255/255
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Koppa Tengu
+3-Fuxi
+4-Joker
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Atropos use
+1-Hamaon MP:10
+2-Tathlum Shot MP:7
+3-Ziodyne MP:14
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Tadano HP:88/388 MP:193/193
+2-Aniel HP:131/567 MP:255/255
+3-Quicksilver HP:24/203 MP:90/90
+4-Ancient of Days HP:415/498 MP:484/484
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Atropos lanza viento a Aniel
+Aniel es débil contra el ataque de Atropos
+Aniel recibe 179 de daño
+Aniel termina con HP:0/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:333/597 MP:259/347
+B-Koppa Tengu HP:196/196 MP:80/88
+C-Fuxi HP:52/52 MP:39/49
+D-Atropos HP:277/277 MP:241/269
+Equipo de Tadano (J2)
+A-Tadano HP:88/388 MP:193/193
+B-
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Fuxi
+3-Joker
+4-Atropos
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Koppa Tengu use
+1-Zanma MP:8
+2-Bad Company MP:15
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Tadano HP:88/388 MP:193/193
+2-Quicksilver HP:24/203 MP:90/90
+3-Ancient of Days HP:415/498 MP:484/484
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Koppa Tengu lanza viento a Tadano
+Tadano recibe 55 de daño
+Tadano termina con HP:33/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:333/597 MP:259/347
+B-Koppa Tengu HP:196/196 MP:72/88
+C-Fuxi HP:52/52 MP:39/49
+D-Atropos HP:277/277 MP:241/269
+Equipo de Tadano (J2)
+A-Tadano HP:33/388 MP:193/193
+B-
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fuxi
+2-Joker
+3-Atropos
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Fuxi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fuxi
+1-Tadano HP:33/388 MP:193/193
+2-Quicksilver HP:24/203 MP:90/90
+3-Ancient of Days HP:415/498 MP:484/484
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Fuxi ataca a Tadano
+Tadano es resistente el ataque de Fuxi
+Tadano recibe 2 de daño
+Tadano termina con HP:31/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:333/597 MP:259/347
+B-Koppa Tengu HP:196/196 MP:72/88
+C-Fuxi HP:52/52 MP:39/49
+D-Atropos HP:277/277 MP:241/269
+Equipo de Tadano (J2)
+A-Tadano HP:31/388 MP:193/193
+B-
+C-Quicksilver HP:24/203 MP:90/90
+D-Ancient of Days HP:415/498 MP:484/484
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Atropos
+3-Koppa Tengu
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Joker (J1) se rinde
+----------------------------------------
+Ganador: Tadano (J2)

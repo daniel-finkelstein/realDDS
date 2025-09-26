@@ -1,0 +1,2333 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 67
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Atropos HP:277/277 MP:269/269
+C-Shax HP:371/371 MP:360/360
+D-Seth HP:898/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Sarasvati HP:273/273 MP:264/264
+C-Murmur HP:511/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Shax
+3-Joker
+4-Atropos
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Nahobino HP:453/453 MP:389/389
+2-Sarasvati HP:273/273 MP:264/264
+3-Murmur HP:511/511 MP:229/229
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Nahobino HP:453/453 MP:389/389
+2-Sarasvati HP:273/273 MP:264/264
+3-Murmur HP:511/511 MP:229/229
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Nahobino HP:453/453 MP:389/389
+2-Sarasvati HP:273/273 MP:264/264
+3-Murmur HP:511/511 MP:229/229
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Nahobino HP:453/453 MP:389/389
+2-Sarasvati HP:273/273 MP:264/264
+3-Murmur HP:511/511 MP:229/229
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seth ataca a Nahobino
+Nahobino recibe 69 de daño
+Nahobino termina con HP:384/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Atropos HP:277/277 MP:269/269
+C-Shax HP:371/371 MP:360/360
+D-Seth HP:898/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:384/453 MP:389/389
+B-Sarasvati HP:273/273 MP:264/264
+C-Murmur HP:511/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Joker
+3-Atropos
+4-Seth
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:384/453 MP:389/389
+2-Sarasvati HP:273/273 MP:264/264
+3-Murmur HP:511/511 MP:229/229
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Shax ataca a Murmur
+Murmur recibe 40 de daño
+Murmur termina con HP:471/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Atropos HP:277/277 MP:269/269
+C-Shax HP:371/371 MP:360/360
+D-Seth HP:898/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:384/453 MP:389/389
+B-Sarasvati HP:273/273 MP:264/264
+C-Murmur HP:471/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Atropos
+3-Seth
+4-Shax
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:384/453 MP:389/389
+2-Sarasvati HP:273/273 MP:264/264
+3-Murmur HP:471/511 MP:229/229
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca a Murmur
+Murmur recibe 28 de daño
+Murmur termina con HP:443/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Atropos HP:277/277 MP:269/269
+C-Shax HP:371/371 MP:360/360
+D-Seth HP:898/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:384/453 MP:389/389
+B-Sarasvati HP:273/273 MP:264/264
+C-Murmur HP:443/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Seth
+3-Shax
+4-Joker
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Nahobino HP:384/453 MP:389/389
+2-Sarasvati HP:273/273 MP:264/264
+3-Murmur HP:443/511 MP:229/229
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Atropos ataca a Sarasvati
+Sarasvati recibe 29 de daño
+Sarasvati termina con HP:244/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Atropos HP:277/277 MP:269/269
+C-Shax HP:371/371 MP:360/360
+D-Seth HP:898/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:384/453 MP:389/389
+B-Sarasvati HP:244/273 MP:264/264
+C-Murmur HP:443/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Nahobino
+3-Sarasvati
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:597/597 MP:347/347
+2-Atropos HP:277/277 MP:269/269
+3-Shax HP:371/371 MP:360/360
+4-Seth HP:898/898 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Murmur ataca a Atropos
+Atropos recibe 42 de daño
+Atropos termina con HP:235/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Atropos HP:235/277 MP:269/269
+C-Shax HP:371/371 MP:360/360
+D-Seth HP:898/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:384/453 MP:389/389
+B-Sarasvati HP:244/273 MP:264/264
+C-Murmur HP:443/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Sarasvati
+3-Murmur
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:597/597 MP:347/347
+2-Atropos HP:235/277 MP:269/269
+3-Shax HP:371/371 MP:360/360
+4-Seth HP:898/898 MP:179/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Shax
+Shax recibe 29 de daño
+Shax termina con HP:342/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Atropos HP:235/277 MP:269/269
+C-Shax HP:342/371 MP:360/360
+D-Seth HP:898/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:384/453 MP:389/389
+B-Sarasvati HP:244/273 MP:264/264
+C-Murmur HP:443/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Murmur
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:597/597 MP:347/347
+2-Atropos HP:235/277 MP:269/269
+3-Shax HP:342/371 MP:360/360
+4-Seth HP:898/898 MP:179/179
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Sarasvati ataca a Joker
+Joker recibe 28 de daño
+Joker termina con HP:569/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Atropos HP:235/277 MP:269/269
+C-Shax HP:342/371 MP:360/360
+D-Seth HP:898/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:384/453 MP:389/389
+B-Sarasvati HP:244/273 MP:264/264
+C-Murmur HP:443/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Shax
+3-Joker
+4-Atropos
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Nahobino HP:384/453 MP:389/389
+2-Sarasvati HP:244/273 MP:264/264
+3-Murmur HP:443/511 MP:229/229
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seth ataca a Murmur
+Murmur recibe 69 de daño
+Murmur termina con HP:374/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Atropos HP:235/277 MP:269/269
+C-Shax HP:342/371 MP:360/360
+D-Seth HP:898/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:384/453 MP:389/389
+B-Sarasvati HP:244/273 MP:264/264
+C-Murmur HP:374/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Joker
+3-Atropos
+4-Seth
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:384/453 MP:389/389
+2-Sarasvati HP:244/273 MP:264/264
+3-Murmur HP:374/511 MP:229/229
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Shax ataca a Sarasvati
+Sarasvati recibe 40 de daño
+Sarasvati termina con HP:204/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Atropos HP:235/277 MP:269/269
+C-Shax HP:342/371 MP:360/360
+D-Seth HP:898/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:384/453 MP:389/389
+B-Sarasvati HP:204/273 MP:264/264
+C-Murmur HP:374/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Atropos
+3-Seth
+4-Shax
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:384/453 MP:389/389
+2-Sarasvati HP:204/273 MP:264/264
+3-Murmur HP:374/511 MP:229/229
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Murmur
+Murmur recibe 39 de daño
+Murmur termina con HP:335/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Atropos HP:235/277 MP:269/269
+C-Shax HP:342/371 MP:360/360
+D-Seth HP:898/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:384/453 MP:389/389
+B-Sarasvati HP:204/273 MP:264/264
+C-Murmur HP:335/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Seth
+3-Shax
+4-Joker
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Nahobino HP:384/453 MP:389/389
+2-Sarasvati HP:204/273 MP:264/264
+3-Murmur HP:335/511 MP:229/229
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Nahobino
+Nahobino recibe 29 de daño
+Nahobino termina con HP:355/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Atropos HP:235/277 MP:269/269
+C-Shax HP:342/371 MP:360/360
+D-Seth HP:898/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:355/453 MP:389/389
+B-Sarasvati HP:204/273 MP:264/264
+C-Murmur HP:335/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Nahobino
+3-Sarasvati
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:569/597 MP:347/347
+2-Atropos HP:235/277 MP:269/269
+3-Shax HP:342/371 MP:360/360
+4-Seth HP:898/898 MP:179/179
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Murmur ataca a Seth
+Seth recibe 42 de daño
+Seth termina con HP:856/898
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Atropos HP:235/277 MP:269/269
+C-Shax HP:342/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:355/453 MP:389/389
+B-Sarasvati HP:204/273 MP:264/264
+C-Murmur HP:335/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Sarasvati
+3-Murmur
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:569/597 MP:347/347
+2-Atropos HP:235/277 MP:269/269
+3-Shax HP:342/371 MP:360/360
+4-Seth HP:856/898 MP:179/179
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:569/597 MP:347/347
+2-Atropos HP:235/277 MP:269/269
+3-Shax HP:342/371 MP:360/360
+4-Seth HP:856/898 MP:179/179
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:569/597 MP:347/347
+2-Atropos HP:235/277 MP:269/269
+3-Shax HP:342/371 MP:360/360
+4-Seth HP:856/898 MP:179/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Shax
+Shax recibe 29 de daño
+Shax termina con HP:313/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Atropos HP:235/277 MP:269/269
+C-Shax HP:313/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:355/453 MP:389/389
+B-Sarasvati HP:204/273 MP:264/264
+C-Murmur HP:335/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Murmur
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:569/597 MP:347/347
+2-Atropos HP:235/277 MP:269/269
+3-Shax HP:313/371 MP:360/360
+4-Seth HP:856/898 MP:179/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Sarasvati ataca a Shax
+Shax recibe 28 de daño
+Shax termina con HP:285/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Atropos HP:235/277 MP:269/269
+C-Shax HP:285/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:355/453 MP:389/389
+B-Sarasvati HP:204/273 MP:264/264
+C-Murmur HP:335/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Shax
+3-Joker
+4-Atropos
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Nahobino HP:355/453 MP:389/389
+2-Sarasvati HP:204/273 MP:264/264
+3-Murmur HP:335/511 MP:229/229
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Nahobino HP:355/453 MP:389/389
+2-Sarasvati HP:204/273 MP:264/264
+3-Murmur HP:335/511 MP:229/229
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seth ataca a Murmur
+Murmur recibe 69 de daño
+Murmur termina con HP:266/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Atropos HP:235/277 MP:269/269
+C-Shax HP:285/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:355/453 MP:389/389
+B-Sarasvati HP:204/273 MP:264/264
+C-Murmur HP:266/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Joker
+3-Atropos
+4-Seth
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:355/453 MP:389/389
+2-Sarasvati HP:204/273 MP:264/264
+3-Murmur HP:266/511 MP:229/229
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Shax ataca a Nahobino
+Nahobino recibe 40 de daño
+Nahobino termina con HP:315/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Atropos HP:235/277 MP:269/269
+C-Shax HP:285/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:315/453 MP:389/389
+B-Sarasvati HP:204/273 MP:264/264
+C-Murmur HP:266/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Atropos
+3-Seth
+4-Shax
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:315/453 MP:389/389
+2-Sarasvati HP:204/273 MP:264/264
+3-Murmur HP:266/511 MP:229/229
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Nahobino
+Nahobino recibe 39 de daño
+Nahobino termina con HP:276/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Atropos HP:235/277 MP:269/269
+C-Shax HP:285/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:276/453 MP:389/389
+B-Sarasvati HP:204/273 MP:264/264
+C-Murmur HP:266/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Seth
+3-Shax
+4-Joker
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Nahobino HP:276/453 MP:389/389
+2-Sarasvati HP:204/273 MP:264/264
+3-Murmur HP:266/511 MP:229/229
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Nahobino HP:276/453 MP:389/389
+2-Sarasvati HP:204/273 MP:264/264
+3-Murmur HP:266/511 MP:229/229
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Nahobino HP:276/453 MP:389/389
+2-Sarasvati HP:204/273 MP:264/264
+3-Murmur HP:266/511 MP:229/229
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Nahobino HP:276/453 MP:389/389
+2-Sarasvati HP:204/273 MP:264/264
+3-Murmur HP:266/511 MP:229/229
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Atropos ataca a Sarasvati
+Sarasvati recibe 29 de daño
+Sarasvati termina con HP:175/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Atropos HP:235/277 MP:269/269
+C-Shax HP:285/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:276/453 MP:389/389
+B-Sarasvati HP:175/273 MP:264/264
+C-Murmur HP:266/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Nahobino
+3-Sarasvati
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:569/597 MP:347/347
+2-Atropos HP:235/277 MP:269/269
+3-Shax HP:285/371 MP:360/360
+4-Seth HP:856/898 MP:179/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Murmur ataca a Shax
+Shax recibe 42 de daño
+Shax termina con HP:243/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Atropos HP:235/277 MP:269/269
+C-Shax HP:243/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:276/453 MP:389/389
+B-Sarasvati HP:175/273 MP:264/264
+C-Murmur HP:266/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Sarasvati
+3-Murmur
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:569/597 MP:347/347
+2-Atropos HP:235/277 MP:269/269
+3-Shax HP:243/371 MP:360/360
+4-Seth HP:856/898 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Atropos
+Atropos recibe 83 de daño
+Atropos termina con HP:152/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:569/597 MP:347/347
+B-Atropos HP:152/277 MP:269/269
+C-Shax HP:243/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:276/453 MP:389/389
+B-Sarasvati HP:175/273 MP:264/264
+C-Murmur HP:266/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Murmur
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:569/597 MP:347/347
+2-Atropos HP:152/277 MP:269/269
+3-Shax HP:243/371 MP:360/360
+4-Seth HP:856/898 MP:179/179
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:569/597 MP:347/347
+2-Atropos HP:152/277 MP:269/269
+3-Shax HP:243/371 MP:360/360
+4-Seth HP:856/898 MP:179/179
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Sarasvati ataca a Joker
+Joker recibe 28 de daño
+Joker termina con HP:541/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:541/597 MP:347/347
+B-Atropos HP:152/277 MP:269/269
+C-Shax HP:243/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:276/453 MP:389/389
+B-Sarasvati HP:175/273 MP:264/264
+C-Murmur HP:266/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Shax
+3-Joker
+4-Atropos
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Nahobino HP:276/453 MP:389/389
+2-Sarasvati HP:175/273 MP:264/264
+3-Murmur HP:266/511 MP:229/229
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seth ataca a Murmur
+Murmur recibe 69 de daño
+Murmur termina con HP:197/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:541/597 MP:347/347
+B-Atropos HP:152/277 MP:269/269
+C-Shax HP:243/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:276/453 MP:389/389
+B-Sarasvati HP:175/273 MP:264/264
+C-Murmur HP:197/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Joker
+3-Atropos
+4-Seth
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:276/453 MP:389/389
+2-Sarasvati HP:175/273 MP:264/264
+3-Murmur HP:197/511 MP:229/229
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Shax ataca a Nahobino
+Nahobino recibe 40 de daño
+Nahobino termina con HP:236/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:541/597 MP:347/347
+B-Atropos HP:152/277 MP:269/269
+C-Shax HP:243/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:236/453 MP:389/389
+B-Sarasvati HP:175/273 MP:264/264
+C-Murmur HP:197/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Atropos
+3-Seth
+4-Shax
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:236/453 MP:389/389
+2-Sarasvati HP:175/273 MP:264/264
+3-Murmur HP:197/511 MP:229/229
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:236/453 MP:389/389
+2-Sarasvati HP:175/273 MP:264/264
+3-Murmur HP:197/511 MP:229/229
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca a Murmur
+Murmur recibe 28 de daño
+Murmur termina con HP:169/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:541/597 MP:347/347
+B-Atropos HP:152/277 MP:269/269
+C-Shax HP:243/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:236/453 MP:389/389
+B-Sarasvati HP:175/273 MP:264/264
+C-Murmur HP:169/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Seth
+3-Shax
+4-Joker
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Nahobino HP:236/453 MP:389/389
+2-Sarasvati HP:175/273 MP:264/264
+3-Murmur HP:169/511 MP:229/229
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Atropos ataca a Murmur
+Murmur recibe 29 de daño
+Murmur termina con HP:140/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:541/597 MP:347/347
+B-Atropos HP:152/277 MP:269/269
+C-Shax HP:243/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:236/453 MP:389/389
+B-Sarasvati HP:175/273 MP:264/264
+C-Murmur HP:140/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Nahobino
+3-Sarasvati
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:541/597 MP:347/347
+2-Atropos HP:152/277 MP:269/269
+3-Shax HP:243/371 MP:360/360
+4-Seth HP:856/898 MP:179/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Murmur ataca a Shax
+Shax recibe 42 de daño
+Shax termina con HP:201/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:541/597 MP:347/347
+B-Atropos HP:152/277 MP:269/269
+C-Shax HP:201/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:236/453 MP:389/389
+B-Sarasvati HP:175/273 MP:264/264
+C-Murmur HP:140/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Sarasvati
+3-Murmur
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:541/597 MP:347/347
+2-Atropos HP:152/277 MP:269/269
+3-Shax HP:201/371 MP:360/360
+4-Seth HP:856/898 MP:179/179
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Joker
+Joker recibe 29 de daño
+Joker termina con HP:512/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:512/597 MP:347/347
+B-Atropos HP:152/277 MP:269/269
+C-Shax HP:201/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:236/453 MP:389/389
+B-Sarasvati HP:175/273 MP:264/264
+C-Murmur HP:140/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Murmur
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:512/597 MP:347/347
+2-Atropos HP:152/277 MP:269/269
+3-Shax HP:201/371 MP:360/360
+4-Seth HP:856/898 MP:179/179
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:512/597 MP:347/347
+2-Atropos HP:152/277 MP:269/269
+3-Shax HP:201/371 MP:360/360
+4-Seth HP:856/898 MP:179/179
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:512/597 MP:347/347
+2-Atropos HP:152/277 MP:269/269
+3-Shax HP:201/371 MP:360/360
+4-Seth HP:856/898 MP:179/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Sarasvati ataca a Shax
+Shax recibe 28 de daño
+Shax termina con HP:173/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:512/597 MP:347/347
+B-Atropos HP:152/277 MP:269/269
+C-Shax HP:173/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:236/453 MP:389/389
+B-Sarasvati HP:175/273 MP:264/264
+C-Murmur HP:140/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Shax
+3-Joker
+4-Atropos
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Nahobino HP:236/453 MP:389/389
+2-Sarasvati HP:175/273 MP:264/264
+3-Murmur HP:140/511 MP:229/229
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seth ataca a Murmur
+Murmur recibe 69 de daño
+Murmur termina con HP:71/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:512/597 MP:347/347
+B-Atropos HP:152/277 MP:269/269
+C-Shax HP:173/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:236/453 MP:389/389
+B-Sarasvati HP:175/273 MP:264/264
+C-Murmur HP:71/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Joker
+3-Atropos
+4-Seth
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:236/453 MP:389/389
+2-Sarasvati HP:175/273 MP:264/264
+3-Murmur HP:71/511 MP:229/229
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:236/453 MP:389/389
+2-Sarasvati HP:175/273 MP:264/264
+3-Murmur HP:71/511 MP:229/229
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Shax ataca a Nahobino
+Nahobino recibe 40 de daño
+Nahobino termina con HP:196/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:512/597 MP:347/347
+B-Atropos HP:152/277 MP:269/269
+C-Shax HP:173/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:196/453 MP:389/389
+B-Sarasvati HP:175/273 MP:264/264
+C-Murmur HP:71/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Atropos
+3-Seth
+4-Shax
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:196/453 MP:389/389
+2-Sarasvati HP:175/273 MP:264/264
+3-Murmur HP:71/511 MP:229/229
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Sarasvati
+Sarasvati recibe 39 de daño
+Sarasvati termina con HP:136/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:512/597 MP:347/347
+B-Atropos HP:152/277 MP:269/269
+C-Shax HP:173/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:196/453 MP:389/389
+B-Sarasvati HP:136/273 MP:264/264
+C-Murmur HP:71/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Seth
+3-Shax
+4-Joker
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Nahobino HP:196/453 MP:389/389
+2-Sarasvati HP:136/273 MP:264/264
+3-Murmur HP:71/511 MP:229/229
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Atropos ataca a Sarasvati
+Sarasvati recibe 29 de daño
+Sarasvati termina con HP:107/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:512/597 MP:347/347
+B-Atropos HP:152/277 MP:269/269
+C-Shax HP:173/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:196/453 MP:389/389
+B-Sarasvati HP:107/273 MP:264/264
+C-Murmur HP:71/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Nahobino
+3-Sarasvati
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Joker HP:512/597 MP:347/347
+2-Atropos HP:152/277 MP:269/269
+3-Shax HP:173/371 MP:360/360
+4-Seth HP:856/898 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Murmur ataca a Atropos
+Atropos recibe 42 de daño
+Atropos termina con HP:110/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:512/597 MP:347/347
+B-Atropos HP:110/277 MP:269/269
+C-Shax HP:173/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:196/453 MP:389/389
+B-Sarasvati HP:107/273 MP:264/264
+C-Murmur HP:71/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Sarasvati
+3-Murmur
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:512/597 MP:347/347
+2-Atropos HP:110/277 MP:269/269
+3-Shax HP:173/371 MP:360/360
+4-Seth HP:856/898 MP:179/179
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Joker
+Joker recibe 29 de daño
+Joker termina con HP:483/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:483/597 MP:347/347
+B-Atropos HP:110/277 MP:269/269
+C-Shax HP:173/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:196/453 MP:389/389
+B-Sarasvati HP:107/273 MP:264/264
+C-Murmur HP:71/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Murmur
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:483/597 MP:347/347
+2-Atropos HP:110/277 MP:269/269
+3-Shax HP:173/371 MP:360/360
+4-Seth HP:856/898 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Sarasvati ataca a Atropos
+Atropos recibe 28 de daño
+Atropos termina con HP:82/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:483/597 MP:347/347
+B-Atropos HP:82/277 MP:269/269
+C-Shax HP:173/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:196/453 MP:389/389
+B-Sarasvati HP:107/273 MP:264/264
+C-Murmur HP:71/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Shax
+3-Joker
+4-Atropos
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Nahobino HP:196/453 MP:389/389
+2-Sarasvati HP:107/273 MP:264/264
+3-Murmur HP:71/511 MP:229/229
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Nahobino HP:196/453 MP:389/389
+2-Sarasvati HP:107/273 MP:264/264
+3-Murmur HP:71/511 MP:229/229
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seth ataca a Murmur
+Murmur recibe 69 de daño
+Murmur termina con HP:2/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:483/597 MP:347/347
+B-Atropos HP:82/277 MP:269/269
+C-Shax HP:173/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:196/453 MP:389/389
+B-Sarasvati HP:107/273 MP:264/264
+C-Murmur HP:2/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Joker
+3-Atropos
+4-Seth
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:196/453 MP:389/389
+2-Sarasvati HP:107/273 MP:264/264
+3-Murmur HP:2/511 MP:229/229
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Shax ataca a Sarasvati
+Sarasvati recibe 40 de daño
+Sarasvati termina con HP:67/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:483/597 MP:347/347
+B-Atropos HP:82/277 MP:269/269
+C-Shax HP:173/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:196/453 MP:389/389
+B-Sarasvati HP:67/273 MP:264/264
+C-Murmur HP:2/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Atropos
+3-Seth
+4-Shax
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:196/453 MP:389/389
+2-Sarasvati HP:67/273 MP:264/264
+3-Murmur HP:2/511 MP:229/229
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nahobino
+Nahobino recibe 28 de daño
+Nahobino termina con HP:168/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:483/597 MP:347/347
+B-Atropos HP:82/277 MP:269/269
+C-Shax HP:173/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:168/453 MP:389/389
+B-Sarasvati HP:67/273 MP:264/264
+C-Murmur HP:2/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Seth
+3-Shax
+4-Joker
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Nahobino HP:168/453 MP:389/389
+2-Sarasvati HP:67/273 MP:264/264
+3-Murmur HP:2/511 MP:229/229
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Atropos ataca a Murmur
+Murmur recibe 29 de daño
+Murmur termina con HP:0/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:483/597 MP:347/347
+B-Atropos HP:82/277 MP:269/269
+C-Shax HP:173/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:168/453 MP:389/389
+B-Sarasvati HP:67/273 MP:264/264
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Sarasvati
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:483/597 MP:347/347
+2-Atropos HP:82/277 MP:269/269
+3-Shax HP:173/371 MP:360/360
+4-Seth HP:856/898 MP:179/179
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:483/597 MP:347/347
+2-Atropos HP:82/277 MP:269/269
+3-Shax HP:173/371 MP:360/360
+4-Seth HP:856/898 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Atropos
+Atropos recibe 83 de daño
+Atropos termina con HP:0/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:483/597 MP:347/347
+B-
+C-Shax HP:173/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:168/453 MP:389/389
+B-Sarasvati HP:67/273 MP:264/264
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:483/597 MP:347/347
+2-Shax HP:173/371 MP:360/360
+3-Seth HP:856/898 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Joker HP:483/597 MP:347/347
+2-Shax HP:173/371 MP:360/360
+3-Seth HP:856/898 MP:179/179
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Sarasvati ataca a Shax
+Shax recibe 28 de daño
+Shax termina con HP:145/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:483/597 MP:347/347
+B-
+C-Shax HP:145/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:168/453 MP:389/389
+B-Sarasvati HP:67/273 MP:264/264
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Shax
+3-Joker
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Nahobino HP:168/453 MP:389/389
+2-Sarasvati HP:67/273 MP:264/264
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seth ataca a Sarasvati
+Sarasvati recibe 69 de daño
+Sarasvati termina con HP:0/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:483/597 MP:347/347
+B-
+C-Shax HP:145/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:168/453 MP:389/389
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Joker
+3-Seth
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:168/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shax ataca a Nahobino
+Nahobino recibe 40 de daño
+Nahobino termina con HP:128/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:483/597 MP:347/347
+B-
+C-Shax HP:145/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:128/453 MP:389/389
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Seth
+3-Shax
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:128/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nahobino
+Nahobino recibe 28 de daño
+Nahobino termina con HP:100/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:483/597 MP:347/347
+B-
+C-Shax HP:145/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:100/453 MP:389/389
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:483/597 MP:347/347
+2-Shax HP:145/371 MP:360/360
+3-Seth HP:856/898 MP:179/179
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca a Shax
+Shax recibe 29 de daño
+Shax termina con HP:116/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:483/597 MP:347/347
+B-
+C-Shax HP:116/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:100/453 MP:389/389
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Shax
+3-Joker
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Nahobino HP:100/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Nahobino HP:100/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seth ataca a Nahobino
+Nahobino recibe 69 de daño
+Nahobino termina con HP:31/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:483/597 MP:347/347
+B-
+C-Shax HP:116/371 MP:360/360
+D-Seth HP:856/898 MP:179/179
+Equipo de Nahobino (J2)
+A-Nahobino HP:31/453 MP:389/389
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Joker
+3-Seth
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Nahobino HP:31/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shax ataca a Nahobino
+Nahobino recibe 40 de daño
+Nahobino termina con HP:0/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Joker (J1)

@@ -1,0 +1,156 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+INPUT: 2
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Kanbari HP:350/350 MP:68/68
+C-Tam Lin HP:218/218 MP:43/43
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Asmodeus HP:427/427 MP:192/192
+C-Python HP:637/637 MP:286/286
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kanbari
+3-Tam Lin
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:597/597 MP:347/347
+2-Asmodeus HP:427/427 MP:192/192
+3-Python HP:637/637 MP:286/286
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca con luz a Joker
+Joker es débil contra el ataque de Flynn
+Joker ha sido eliminado
+Joker termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-Kanbari HP:350/350 MP:68/68
+C-Tam Lin HP:218/218 MP:43/43
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-Asmodeus HP:427/427 MP:192/192
+C-Python HP:637/637 MP:286/286
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kanbari
+2-Tam Lin
+3-Flynn
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kanbari use
+1-Hama MP:6
+2-Rapid Needle MP:9
+3-Tetrakarn MP:50
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kanbari
+1-Asmodeus HP:427/427 MP:192/192
+2-Python HP:637/637 MP:286/286
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kanbari ataca con luz a Asmodeus
+Asmodeus es débil contra el ataque de Kanbari
+Asmodeus ha sido eliminado
+Asmodeus termina con HP:0/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:517/527
+B-Kanbari HP:350/350 MP:62/68
+C-Tam Lin HP:218/218 MP:43/43
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-Python HP:637/637 MP:286/286
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Flynn
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Python HP:637/637 MP:286/286
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ataca con luz a Python
+Python es débil contra el ataque de Tam Lin
+Python ha sido eliminado
+Python termina con HP:0/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Ganador: Flynn (J1)

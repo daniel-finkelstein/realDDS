@@ -1,0 +1,2576 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 70
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Wendigo HP:331/331 MP:66/66
+D-Black Rider HP:686/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Peri HP:483/483 MP:216/216
+C-Enku HP:235/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+2-Nanashi
+3-Wendigo
+4-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Flynn HP:971/971 MP:527/527
+2-Peri HP:483/483 MP:216/216
+3-Enku HP:235/235 MP:228/228
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Black Rider ataca a Flynn
+Flynn recibe 57 de daño
+Flynn termina con HP:914/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Wendigo HP:331/331 MP:66/66
+D-Black Rider HP:686/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:914/971 MP:527/527
+B-Peri HP:483/483 MP:216/216
+C-Enku HP:235/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Wendigo
+3-Bai Suzhen
+4-Black Rider
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Flynn HP:914/971 MP:527/527
+2-Peri HP:483/483 MP:216/216
+3-Enku HP:235/235 MP:228/228
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi ataca a Peri
+Peri recibe 92 de daño
+Peri termina con HP:391/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Wendigo HP:331/331 MP:66/66
+D-Black Rider HP:686/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:914/971 MP:527/527
+B-Peri HP:391/483 MP:216/216
+C-Enku HP:235/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Bai Suzhen
+3-Black Rider
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:914/971 MP:527/527
+2-Peri HP:391/483 MP:216/216
+3-Enku HP:235/235 MP:228/228
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Wendigo ataca a Peri
+Peri recibe 23 de daño
+Peri termina con HP:368/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Wendigo HP:331/331 MP:66/66
+D-Black Rider HP:686/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:914/971 MP:527/527
+B-Peri HP:368/483 MP:216/216
+C-Enku HP:235/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Black Rider
+3-Nanashi
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Flynn HP:914/971 MP:527/527
+2-Peri HP:368/483 MP:216/216
+3-Enku HP:235/235 MP:228/228
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Bai Suzhen ataca a Enku
+Enku recibe 16 de daño
+Enku termina con HP:219/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Wendigo HP:331/331 MP:66/66
+D-Black Rider HP:686/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:914/971 MP:527/527
+B-Peri HP:368/483 MP:216/216
+C-Enku HP:219/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Peri
+3-Enku
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nanashi HP:140/140 MP:411/411
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Wendigo HP:331/331 MP:66/66
+4-Black Rider HP:686/686 MP:307/307
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nanashi HP:140/140 MP:411/411
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Wendigo HP:331/331 MP:66/66
+4-Black Rider HP:686/686 MP:307/307
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Nanashi
+Nanashi recibe 88 de daño
+Nanashi termina con HP:52/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Wendigo HP:331/331 MP:66/66
+D-Black Rider HP:686/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:914/971 MP:527/527
+B-Peri HP:368/483 MP:216/216
+C-Enku HP:219/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Enku
+3-Flynn
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:52/140 MP:411/411
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Wendigo HP:331/331 MP:66/66
+4-Black Rider HP:686/686 MP:307/307
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Peri ataca a Black Rider
+Black Rider recibe 40 de daño
+Black Rider termina con HP:646/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Wendigo HP:331/331 MP:66/66
+D-Black Rider HP:646/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:914/971 MP:527/527
+B-Peri HP:368/483 MP:216/216
+C-Enku HP:219/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Flynn
+3-Peri
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Nanashi HP:52/140 MP:411/411
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Wendigo HP:331/331 MP:66/66
+4-Black Rider HP:646/686 MP:307/307
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Enku ataca a Wendigo
+Wendigo recibe 24 de daño
+Wendigo termina con HP:307/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Wendigo HP:307/331 MP:66/66
+D-Black Rider HP:646/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:914/971 MP:527/527
+B-Peri HP:368/483 MP:216/216
+C-Enku HP:219/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+2-Nanashi
+3-Wendigo
+4-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Flynn HP:914/971 MP:527/527
+2-Peri HP:368/483 MP:216/216
+3-Enku HP:219/235 MP:228/228
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Black Rider ataca a Peri
+Peri recibe 57 de daño
+Peri termina con HP:311/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Wendigo HP:307/331 MP:66/66
+D-Black Rider HP:646/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:914/971 MP:527/527
+B-Peri HP:311/483 MP:216/216
+C-Enku HP:219/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Wendigo
+3-Bai Suzhen
+4-Black Rider
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Flynn HP:914/971 MP:527/527
+2-Peri HP:311/483 MP:216/216
+3-Enku HP:219/235 MP:228/228
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Flynn
+Flynn recibe 31 de daño
+Flynn termina con HP:883/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Wendigo HP:307/331 MP:66/66
+D-Black Rider HP:646/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:883/971 MP:527/527
+B-Peri HP:311/483 MP:216/216
+C-Enku HP:219/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Bai Suzhen
+3-Black Rider
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:883/971 MP:527/527
+2-Peri HP:311/483 MP:216/216
+3-Enku HP:219/235 MP:228/228
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Wendigo ataca a Peri
+Peri recibe 23 de daño
+Peri termina con HP:288/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Wendigo HP:307/331 MP:66/66
+D-Black Rider HP:646/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:883/971 MP:527/527
+B-Peri HP:288/483 MP:216/216
+C-Enku HP:219/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Black Rider
+3-Nanashi
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Flynn HP:883/971 MP:527/527
+2-Peri HP:288/483 MP:216/216
+3-Enku HP:219/235 MP:228/228
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Bai Suzhen ataca a Flynn
+Flynn recibe 16 de daño
+Flynn termina con HP:867/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Bai Suzhen HP:155/155 MP:149/149
+C-Wendigo HP:307/331 MP:66/66
+D-Black Rider HP:646/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:867/971 MP:527/527
+B-Peri HP:288/483 MP:216/216
+C-Enku HP:219/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Peri
+3-Enku
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nanashi HP:52/140 MP:411/411
+2-Bai Suzhen HP:155/155 MP:149/149
+3-Wendigo HP:307/331 MP:66/66
+4-Black Rider HP:646/686 MP:307/307
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Bai Suzhen
+Bai Suzhen recibe 110 de daño
+Bai Suzhen termina con HP:45/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Bai Suzhen HP:45/155 MP:149/149
+C-Wendigo HP:307/331 MP:66/66
+D-Black Rider HP:646/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:867/971 MP:527/527
+B-Peri HP:288/483 MP:216/216
+C-Enku HP:219/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Enku
+3-Flynn
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:52/140 MP:411/411
+2-Bai Suzhen HP:45/155 MP:149/149
+3-Wendigo HP:307/331 MP:66/66
+4-Black Rider HP:646/686 MP:307/307
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:52/140 MP:411/411
+2-Bai Suzhen HP:45/155 MP:149/149
+3-Wendigo HP:307/331 MP:66/66
+4-Black Rider HP:646/686 MP:307/307
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:52/140 MP:411/411
+2-Bai Suzhen HP:45/155 MP:149/149
+3-Wendigo HP:307/331 MP:66/66
+4-Black Rider HP:646/686 MP:307/307
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:52/140 MP:411/411
+2-Bai Suzhen HP:45/155 MP:149/149
+3-Wendigo HP:307/331 MP:66/66
+4-Black Rider HP:646/686 MP:307/307
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:52/140 MP:411/411
+2-Bai Suzhen HP:45/155 MP:149/149
+3-Wendigo HP:307/331 MP:66/66
+4-Black Rider HP:646/686 MP:307/307
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:52/140 MP:411/411
+2-Bai Suzhen HP:45/155 MP:149/149
+3-Wendigo HP:307/331 MP:66/66
+4-Black Rider HP:646/686 MP:307/307
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Peri ataca a Wendigo
+Wendigo recibe 40 de daño
+Wendigo termina con HP:267/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Bai Suzhen HP:45/155 MP:149/149
+C-Wendigo HP:267/331 MP:66/66
+D-Black Rider HP:646/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:867/971 MP:527/527
+B-Peri HP:288/483 MP:216/216
+C-Enku HP:219/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Flynn
+3-Peri
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Nanashi HP:52/140 MP:411/411
+2-Bai Suzhen HP:45/155 MP:149/149
+3-Wendigo HP:267/331 MP:66/66
+4-Black Rider HP:646/686 MP:307/307
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Nanashi HP:52/140 MP:411/411
+2-Bai Suzhen HP:45/155 MP:149/149
+3-Wendigo HP:267/331 MP:66/66
+4-Black Rider HP:646/686 MP:307/307
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Enku ataca a Bai Suzhen
+Bai Suzhen recibe 24 de daño
+Bai Suzhen termina con HP:21/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Bai Suzhen HP:21/155 MP:149/149
+C-Wendigo HP:267/331 MP:66/66
+D-Black Rider HP:646/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:867/971 MP:527/527
+B-Peri HP:288/483 MP:216/216
+C-Enku HP:219/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+2-Nanashi
+3-Wendigo
+4-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Flynn HP:867/971 MP:527/527
+2-Peri HP:288/483 MP:216/216
+3-Enku HP:219/235 MP:228/228
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Black Rider ataca a Peri
+Peri recibe 57 de daño
+Peri termina con HP:231/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Bai Suzhen HP:21/155 MP:149/149
+C-Wendigo HP:267/331 MP:66/66
+D-Black Rider HP:646/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:867/971 MP:527/527
+B-Peri HP:231/483 MP:216/216
+C-Enku HP:219/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Wendigo
+3-Bai Suzhen
+4-Black Rider
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Flynn HP:867/971 MP:527/527
+2-Peri HP:231/483 MP:216/216
+3-Enku HP:219/235 MP:228/228
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Flynn
+Flynn recibe 92 de daño
+Flynn termina con HP:775/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Bai Suzhen HP:21/155 MP:149/149
+C-Wendigo HP:267/331 MP:66/66
+D-Black Rider HP:646/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:775/971 MP:527/527
+B-Peri HP:231/483 MP:216/216
+C-Enku HP:219/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Bai Suzhen
+3-Black Rider
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:775/971 MP:527/527
+2-Peri HP:231/483 MP:216/216
+3-Enku HP:219/235 MP:228/228
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Wendigo ataca a Enku
+Enku recibe 23 de daño
+Enku termina con HP:196/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Bai Suzhen HP:21/155 MP:149/149
+C-Wendigo HP:267/331 MP:66/66
+D-Black Rider HP:646/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:775/971 MP:527/527
+B-Peri HP:231/483 MP:216/216
+C-Enku HP:196/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Black Rider
+3-Nanashi
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Flynn HP:775/971 MP:527/527
+2-Peri HP:231/483 MP:216/216
+3-Enku HP:196/235 MP:228/228
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Bai Suzhen ataca a Peri
+Peri recibe 16 de daño
+Peri termina con HP:215/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:411/411
+B-Bai Suzhen HP:21/155 MP:149/149
+C-Wendigo HP:267/331 MP:66/66
+D-Black Rider HP:646/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:775/971 MP:527/527
+B-Peri HP:215/483 MP:216/216
+C-Enku HP:196/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Peri
+3-Enku
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nanashi HP:52/140 MP:411/411
+2-Bai Suzhen HP:21/155 MP:149/149
+3-Wendigo HP:267/331 MP:66/66
+4-Black Rider HP:646/686 MP:307/307
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Nanashi
+Nanashi recibe 110 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Bai Suzhen HP:21/155 MP:149/149
+C-Wendigo HP:267/331 MP:66/66
+D-Black Rider HP:646/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:775/971 MP:527/527
+B-Peri HP:215/483 MP:216/216
+C-Enku HP:196/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Enku
+3-Flynn
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Bai Suzhen HP:21/155 MP:149/149
+2-Wendigo HP:267/331 MP:66/66
+3-Black Rider HP:646/686 MP:307/307
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Peri ataca a Wendigo
+Wendigo recibe 40 de daño
+Wendigo termina con HP:227/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Bai Suzhen HP:21/155 MP:149/149
+C-Wendigo HP:227/331 MP:66/66
+D-Black Rider HP:646/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:775/971 MP:527/527
+B-Peri HP:215/483 MP:216/216
+C-Enku HP:196/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Flynn
+3-Peri
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Bai Suzhen HP:21/155 MP:149/149
+2-Wendigo HP:227/331 MP:66/66
+3-Black Rider HP:646/686 MP:307/307
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Bai Suzhen HP:21/155 MP:149/149
+2-Wendigo HP:227/331 MP:66/66
+3-Black Rider HP:646/686 MP:307/307
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Enku ataca a Black Rider
+Black Rider recibe 24 de daño
+Black Rider termina con HP:622/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Bai Suzhen HP:21/155 MP:149/149
+C-Wendigo HP:227/331 MP:66/66
+D-Black Rider HP:622/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:775/971 MP:527/527
+B-Peri HP:215/483 MP:216/216
+C-Enku HP:196/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+2-Wendigo
+3-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Flynn HP:775/971 MP:527/527
+2-Peri HP:215/483 MP:216/216
+3-Enku HP:196/235 MP:228/228
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Black Rider ataca a Flynn
+Flynn recibe 57 de daño
+Flynn termina con HP:718/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Bai Suzhen HP:21/155 MP:149/149
+C-Wendigo HP:227/331 MP:66/66
+D-Black Rider HP:622/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:718/971 MP:527/527
+B-Peri HP:215/483 MP:216/216
+C-Enku HP:196/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Bai Suzhen
+3-Black Rider
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:718/971 MP:527/527
+2-Peri HP:215/483 MP:216/216
+3-Enku HP:196/235 MP:228/228
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Wendigo ataca a Enku
+Enku recibe 23 de daño
+Enku termina con HP:173/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Bai Suzhen HP:21/155 MP:149/149
+C-Wendigo HP:227/331 MP:66/66
+D-Black Rider HP:622/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:718/971 MP:527/527
+B-Peri HP:215/483 MP:216/216
+C-Enku HP:173/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Black Rider
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Flynn HP:718/971 MP:527/527
+2-Peri HP:215/483 MP:216/216
+3-Enku HP:173/235 MP:228/228
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Bai Suzhen ataca a Flynn
+Flynn recibe 16 de daño
+Flynn termina con HP:702/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Bai Suzhen HP:21/155 MP:149/149
+C-Wendigo HP:227/331 MP:66/66
+D-Black Rider HP:622/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:702/971 MP:527/527
+B-Peri HP:215/483 MP:216/216
+C-Enku HP:173/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Peri
+3-Enku
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Bai Suzhen HP:21/155 MP:149/149
+2-Wendigo HP:227/331 MP:66/66
+3-Black Rider HP:622/686 MP:307/307
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Bai Suzhen
+Bai Suzhen recibe 110 de daño
+Bai Suzhen termina con HP:0/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:227/331 MP:66/66
+D-Black Rider HP:622/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:702/971 MP:527/527
+B-Peri HP:215/483 MP:216/216
+C-Enku HP:173/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Enku
+3-Flynn
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Wendigo HP:227/331 MP:66/66
+2-Black Rider HP:622/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Peri ataca a Black Rider
+Black Rider recibe 40 de daño
+Black Rider termina con HP:582/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:227/331 MP:66/66
+D-Black Rider HP:582/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:702/971 MP:527/527
+B-Peri HP:215/483 MP:216/216
+C-Enku HP:173/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Flynn
+3-Peri
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Wendigo HP:227/331 MP:66/66
+2-Black Rider HP:582/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Wendigo HP:227/331 MP:66/66
+2-Black Rider HP:582/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Enku ataca a Black Rider
+Black Rider recibe 24 de daño
+Black Rider termina con HP:558/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:227/331 MP:66/66
+D-Black Rider HP:558/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:702/971 MP:527/527
+B-Peri HP:215/483 MP:216/216
+C-Enku HP:173/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+2-Wendigo
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Flynn HP:702/971 MP:527/527
+2-Peri HP:215/483 MP:216/216
+3-Enku HP:173/235 MP:228/228
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Black Rider ataca a Enku
+Enku recibe 57 de daño
+Enku termina con HP:116/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:227/331 MP:66/66
+D-Black Rider HP:558/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:702/971 MP:527/527
+B-Peri HP:215/483 MP:216/216
+C-Enku HP:116/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Black Rider
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:702/971 MP:527/527
+2-Peri HP:215/483 MP:216/216
+3-Enku HP:116/235 MP:228/228
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:702/971 MP:527/527
+2-Peri HP:215/483 MP:216/216
+3-Enku HP:116/235 MP:228/228
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Wendigo ataca a Peri
+Peri recibe 23 de daño
+Peri termina con HP:192/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:227/331 MP:66/66
+D-Black Rider HP:558/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:702/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:116/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Peri
+3-Enku
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Wendigo HP:227/331 MP:66/66
+2-Black Rider HP:558/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Wendigo
+Wendigo recibe 110 de daño
+Wendigo termina con HP:117/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:117/331 MP:66/66
+D-Black Rider HP:558/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:702/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:116/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Enku
+3-Flynn
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Wendigo HP:117/331 MP:66/66
+2-Black Rider HP:558/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Peri ataca a Black Rider
+Black Rider recibe 40 de daño
+Black Rider termina con HP:518/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:117/331 MP:66/66
+D-Black Rider HP:518/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:702/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:116/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Flynn
+3-Peri
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Wendigo HP:117/331 MP:66/66
+2-Black Rider HP:518/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Enku ataca a Black Rider
+Black Rider recibe 24 de daño
+Black Rider termina con HP:494/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:117/331 MP:66/66
+D-Black Rider HP:494/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:702/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:116/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+2-Wendigo
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Flynn HP:702/971 MP:527/527
+2-Peri HP:192/483 MP:216/216
+3-Enku HP:116/235 MP:228/228
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Black Rider ataca a Flynn
+Flynn recibe 57 de daño
+Flynn termina con HP:645/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:117/331 MP:66/66
+D-Black Rider HP:494/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:645/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:116/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Black Rider
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:645/971 MP:527/527
+2-Peri HP:192/483 MP:216/216
+3-Enku HP:116/235 MP:228/228
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:645/971 MP:527/527
+2-Peri HP:192/483 MP:216/216
+3-Enku HP:116/235 MP:228/228
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:645/971 MP:527/527
+2-Peri HP:192/483 MP:216/216
+3-Enku HP:116/235 MP:228/228
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Wendigo ataca a Enku
+Enku recibe 23 de daño
+Enku termina con HP:93/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:117/331 MP:66/66
+D-Black Rider HP:494/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:645/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:93/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Peri
+3-Enku
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Wendigo HP:117/331 MP:66/66
+2-Black Rider HP:494/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Black Rider
+Black Rider recibe 110 de daño
+Black Rider termina con HP:384/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:117/331 MP:66/66
+D-Black Rider HP:384/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:645/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:93/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Enku
+3-Flynn
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Wendigo HP:117/331 MP:66/66
+2-Black Rider HP:384/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Wendigo HP:117/331 MP:66/66
+2-Black Rider HP:384/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Peri ataca a Black Rider
+Black Rider recibe 40 de daño
+Black Rider termina con HP:344/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:117/331 MP:66/66
+D-Black Rider HP:344/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:645/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:93/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Flynn
+3-Peri
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Wendigo HP:117/331 MP:66/66
+2-Black Rider HP:344/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Wendigo
+Wendigo recibe 24 de daño
+Wendigo termina con HP:93/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:93/331 MP:66/66
+D-Black Rider HP:344/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:645/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:93/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+2-Wendigo
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Flynn HP:645/971 MP:527/527
+2-Peri HP:192/483 MP:216/216
+3-Enku HP:93/235 MP:228/228
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Black Rider ataca a Flynn
+Flynn recibe 57 de daño
+Flynn termina con HP:588/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:93/331 MP:66/66
+D-Black Rider HP:344/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:588/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:93/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Black Rider
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:588/971 MP:527/527
+2-Peri HP:192/483 MP:216/216
+3-Enku HP:93/235 MP:228/228
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Flynn
+Flynn recibe 23 de daño
+Flynn termina con HP:565/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:93/331 MP:66/66
+D-Black Rider HP:344/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:565/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:93/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Peri
+3-Enku
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Wendigo HP:93/331 MP:66/66
+2-Black Rider HP:344/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Black Rider
+Black Rider recibe 88 de daño
+Black Rider termina con HP:256/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:93/331 MP:66/66
+D-Black Rider HP:256/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:565/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:93/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Enku
+3-Flynn
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Wendigo HP:93/331 MP:66/66
+2-Black Rider HP:256/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Wendigo
+Wendigo recibe 40 de daño
+Wendigo termina con HP:53/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:53/331 MP:66/66
+D-Black Rider HP:256/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:565/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:93/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Flynn
+3-Peri
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Wendigo HP:53/331 MP:66/66
+2-Black Rider HP:256/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Wendigo HP:53/331 MP:66/66
+2-Black Rider HP:256/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Wendigo HP:53/331 MP:66/66
+2-Black Rider HP:256/686 MP:307/307
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Wendigo HP:53/331 MP:66/66
+2-Black Rider HP:256/686 MP:307/307
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Enku ataca a Black Rider
+Black Rider recibe 24 de daño
+Black Rider termina con HP:232/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:53/331 MP:66/66
+D-Black Rider HP:232/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:565/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:93/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+2-Wendigo
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Flynn HP:565/971 MP:527/527
+2-Peri HP:192/483 MP:216/216
+3-Enku HP:93/235 MP:228/228
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Black Rider ataca a Enku
+Enku recibe 57 de daño
+Enku termina con HP:36/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:53/331 MP:66/66
+D-Black Rider HP:232/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:565/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:36/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Black Rider
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:565/971 MP:527/527
+2-Peri HP:192/483 MP:216/216
+3-Enku HP:36/235 MP:228/228
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:565/971 MP:527/527
+2-Peri HP:192/483 MP:216/216
+3-Enku HP:36/235 MP:228/228
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Wendigo ataca a Enku
+Enku recibe 23 de daño
+Enku termina con HP:13/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Wendigo HP:53/331 MP:66/66
+D-Black Rider HP:232/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:565/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:13/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Peri
+3-Enku
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Wendigo HP:53/331 MP:66/66
+2-Black Rider HP:232/686 MP:307/307
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Wendigo
+Wendigo recibe 88 de daño
+Wendigo termina con HP:0/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Black Rider HP:232/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:565/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:13/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Enku
+3-Flynn
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Black Rider HP:232/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Black Rider HP:232/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Black Rider
+Black Rider recibe 40 de daño
+Black Rider termina con HP:192/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Black Rider HP:192/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:565/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:13/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Flynn
+3-Peri
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Black Rider HP:192/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Black Rider
+Black Rider recibe 24 de daño
+Black Rider termina con HP:168/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Black Rider HP:168/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:565/971 MP:527/527
+B-Peri HP:192/483 MP:216/216
+C-Enku HP:13/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Flynn HP:565/971 MP:527/527
+2-Peri HP:192/483 MP:216/216
+3-Enku HP:13/235 MP:228/228
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Black Rider ataca a Peri
+Peri recibe 57 de daño
+Peri termina con HP:135/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Black Rider HP:168/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:565/971 MP:527/527
+B-Peri HP:135/483 MP:216/216
+C-Enku HP:13/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Peri
+3-Enku
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Black Rider HP:168/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Black Rider
+Black Rider recibe 88 de daño
+Black Rider termina con HP:80/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Black Rider HP:80/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:565/971 MP:527/527
+B-Peri HP:135/483 MP:216/216
+C-Enku HP:13/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Enku
+3-Flynn
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Black Rider HP:80/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Black Rider HP:80/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Black Rider HP:80/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Black Rider HP:80/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Black Rider
+Black Rider recibe 40 de daño
+Black Rider termina con HP:40/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Black Rider HP:40/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:565/971 MP:527/527
+B-Peri HP:135/483 MP:216/216
+C-Enku HP:13/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Flynn
+3-Peri
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Black Rider HP:40/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Black Rider
+Black Rider recibe 24 de daño
+Black Rider termina con HP:16/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Black Rider HP:16/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:565/971 MP:527/527
+B-Peri HP:135/483 MP:216/216
+C-Enku HP:13/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Rider
+1-Flynn HP:565/971 MP:527/527
+2-Peri HP:135/483 MP:216/216
+3-Enku HP:13/235 MP:228/228
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Black Rider ataca a Enku
+Enku recibe 57 de daño
+Enku termina con HP:0/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Black Rider HP:16/686 MP:307/307
+Equipo de Flynn (J2)
+A-Flynn HP:565/971 MP:527/527
+B-Peri HP:135/483 MP:216/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Peri
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Black Rider HP:16/686 MP:307/307
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Black Rider HP:16/686 MP:307/307
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Black Rider
+Black Rider recibe 88 de daño
+Black Rider termina con HP:0/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Flynn (J2)

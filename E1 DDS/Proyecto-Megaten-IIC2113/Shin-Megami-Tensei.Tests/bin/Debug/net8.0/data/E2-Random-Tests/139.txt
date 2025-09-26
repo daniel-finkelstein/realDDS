@@ -1,0 +1,5532 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+INPUT: 138
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Mokoi HP:74/74 MP:36/36
+D-Zouchouten HP:221/221 MP:214/214
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Ishtar HP:258/258 MP:251/251
+C-Nebiros HP:249/249 MP:242/242
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+3-Zouchouten
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:322/322 MP:63/63
+2-Ghoul HP:558/558 MP:111/111
+3-Taown HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ghoul ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Mokoi HP:74/74 MP:36/36
+D-Zouchouten HP:221/221 MP:214/214
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Ishtar HP:258/258 MP:251/251
+C-Nebiros HP:249/249 MP:242/242
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Zouchouten
+3-Mokoi
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Mokoi HP:74/74 MP:36/36
+D-Zouchouten HP:221/221 MP:214/214
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Ishtar HP:258/258 MP:251/251
+C-Nebiros HP:249/249 MP:242/242
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Mokoi
+3-Ghoul
+4-Yu
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zouchouten
+1-Aleph HP:1309/1309 MP:613/613
+2-Ishtar HP:258/258 MP:251/251
+3-Nebiros HP:249/249 MP:242/242
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Zouchouten ataca a Ishtar
+Ishtar recibe 22 de daño
+Ishtar termina con HP:236/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Mokoi HP:74/74 MP:36/36
+D-Zouchouten HP:221/221 MP:214/214
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Ishtar HP:236/258 MP:251/251
+C-Nebiros HP:249/249 MP:242/242
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mokoi
+2-Ghoul
+3-Yu
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mokoi
+1-Aleph HP:1309/1309 MP:613/613
+2-Ishtar HP:236/258 MP:251/251
+3-Nebiros HP:249/249 MP:242/242
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:851/851 MP:170/170
+2-Goblin HP:322/322 MP:63/63
+3-Taown HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Taown ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:709/709 MP:140/140
+D-Zouchouten HP:221/221 MP:214/214
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Ishtar HP:236/258 MP:251/251
+C-Nebiros HP:249/249 MP:242/242
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ghoul
+2-Yu
+3-Zouchouten
+4-Taown
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Aleph HP:1309/1309 MP:613/613
+2-Ishtar HP:236/258 MP:251/251
+3-Nebiros HP:249/249 MP:242/242
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ghoul ataca a Asherah
+Asherah recibe 41 de daño
+Asherah termina con HP:392/433
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:709/709 MP:140/140
+D-Zouchouten HP:221/221 MP:214/214
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Ishtar HP:236/258 MP:251/251
+C-Nebiros HP:249/249 MP:242/242
+D-Asherah HP:392/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Zouchouten
+3-Taown
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1309/1309 MP:613/613
+2-Ishtar HP:236/258 MP:251/251
+3-Nebiros HP:249/249 MP:242/242
+4-Asherah HP:392/433 MP:195/195
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yu ataca a Nebiros
+Nebiros bloquea el ataque de Yu
+Nebiros termina con HP:249/249
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:709/709 MP:140/140
+D-Zouchouten HP:221/221 MP:214/214
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Ishtar HP:236/258 MP:251/251
+C-Nebiros HP:249/249 MP:242/242
+D-Asherah HP:392/433 MP:195/195
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Asherah
+3-Ishtar
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:228/228
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:597/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Taown HP:709/709 MP:140/140
+4-Zouchouten HP:221/221 MP:214/214
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:597/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Taown HP:709/709 MP:140/140
+4-Zouchouten HP:221/221 MP:214/214
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Aleph ataca a Zouchouten
+Zouchouten recibe 157 de daño
+Zouchouten termina con HP:64/221
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:709/709 MP:140/140
+D-Zouchouten HP:64/221 MP:214/214
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Ishtar HP:236/258 MP:251/251
+C-Nebiros HP:249/249 MP:242/242
+D-Asherah HP:392/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Ishtar
+3-Nebiros
+4-Aleph
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:228/228
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:709/709 MP:140/140
+D-Zouchouten HP:64/221 MP:214/214
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Ishtar HP:236/258 MP:251/251
+C-Nebiros HP:249/249 MP:242/242
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ishtar
+2-Nebiros
+3-Aleph
+4-Enku
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:709/709 MP:140/140
+D-Zouchouten HP:64/221 MP:214/214
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Ishtar HP:236/258 MP:251/251
+C-Nebiros HP:249/249 MP:242/242
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Aleph
+3-Enku
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Asherah HP:392/433 MP:195/195
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Ishtar HP:236/258 MP:251/251 (Puesto 2)
+2-Nebiros HP:249/249 MP:242/242 (Puesto 3)
+3-Enku HP:235/235 MP:228/228 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Asherah HP:392/433 MP:195/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Asherah HP:392/433 MP:195/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Yu HP:597/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Taown HP:709/709 MP:140/140
+4-Zouchouten HP:64/221 MP:214/214
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nebiros ataca a Zouchouten
+Zouchouten recibe 26 de daño
+Zouchouten termina con HP:38/221
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:709/709 MP:140/140
+D-Zouchouten HP:38/221 MP:214/214
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Ishtar HP:236/258 MP:251/251
+C-Nebiros HP:249/249 MP:242/242
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Enku
+3-Ishtar
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:597/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Taown HP:709/709 MP:140/140
+4-Zouchouten HP:38/221 MP:214/214
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Aleph dispara a Zouchouten
+Zouchouten recibe 276 de daño
+Zouchouten termina con HP:0/221
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:709/709 MP:140/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Ishtar HP:236/258 MP:251/251
+C-Nebiros HP:249/249 MP:242/242
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taown
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:709/709 MP:140/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Ishtar HP:236/258 MP:251/251
+C-Nebiros HP:249/249 MP:242/242
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Ghoul
+3-Yu
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Aleph HP:1309/1309 MP:613/613
+2-Ishtar HP:236/258 MP:251/251
+3-Nebiros HP:249/249 MP:242/242
+4-Enku HP:235/235 MP:228/228
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Aleph
+Aleph es resistente el ataque de Taown
+Aleph recibe 27 de daño
+Aleph termina con HP:1282/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:709/709 MP:140/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Ishtar HP:236/258 MP:251/251
+C-Nebiros HP:249/249 MP:242/242
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Yu
+3-Taown
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:709/709 MP:140/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Ishtar HP:236/258 MP:251/251
+C-Nebiros HP:249/249 MP:242/242
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Taown
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1282/1309 MP:613/613
+2-Ishtar HP:236/258 MP:251/251
+3-Nebiros HP:249/249 MP:242/242
+4-Enku HP:235/235 MP:228/228
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Aleph
+Aleph bloquea el ataque de Yu
+Aleph termina con HP:1282/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:709/709 MP:140/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Ishtar HP:236/258 MP:251/251
+C-Nebiros HP:249/249 MP:242/242
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Ishtar
+3-Nebiros
+4-Enku
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:597/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Taown HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Aleph ataca a Taown
+Taown recibe 157 de daño
+Taown termina con HP:552/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:552/709 MP:140/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Ishtar HP:236/258 MP:251/251
+C-Nebiros HP:249/249 MP:242/242
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Nebiros
+3-Enku
+4-Aleph
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:552/709 MP:140/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Ishtar HP:236/258 MP:251/251
+C-Nebiros HP:249/249 MP:242/242
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Enku
+3-Aleph
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Asherah HP:392/433 MP:195/195
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Ishtar HP:236/258 MP:251/251 (Puesto 2)
+2-Nebiros HP:249/249 MP:242/242 (Puesto 3)
+3-Enku HP:235/235 MP:228/228 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:552/709 MP:140/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Asherah HP:392/433 MP:195/195
+C-Nebiros HP:249/249 MP:222/242
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Aleph
+3-Asherah
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Yu HP:597/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Taown HP:552/709 MP:140/140
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Yu
+Yu es resistente el ataque de Enku
+Yu recibe 12 de daño
+Yu termina con HP:585/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:585/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:552/709 MP:140/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Asherah HP:392/433 MP:195/195
+C-Nebiros HP:249/249 MP:222/242
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Asherah
+3-Nebiros
+4-Enku
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:585/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:552/709 MP:140/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Asherah HP:392/433 MP:195/195
+C-Nebiros HP:249/249 MP:222/242
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Asherah
+2-Nebiros
+3-Enku
+4-Aleph
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ishtar HP:236/258 MP:251/251
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Yu HP:585/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Taown HP:552/709 MP:140/140
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Yu
+Yu es resistente el ataque de Asherah
+Yu recibe 17 de daño
+Yu termina con HP:568/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:552/709 MP:140/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Asherah HP:392/433 MP:195/195
+C-Nebiros HP:249/249 MP:222/242
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taown
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1282/1309 MP:613/613
+2-Asherah HP:392/433 MP:195/195
+3-Nebiros HP:249/249 MP:222/242
+4-Enku HP:235/235 MP:228/228
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Yu ataca a Enku
+Enku recibe 49 de daño
+Enku termina con HP:186/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:552/709 MP:140/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Asherah HP:392/433 MP:195/195
+C-Nebiros HP:249/249 MP:222/242
+D-Enku HP:186/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Ghoul
+3-Yu
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:552/709 MP:140/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Asherah HP:392/433 MP:195/195
+C-Nebiros HP:249/249 MP:222/242
+D-Enku HP:186/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ghoul
+2-Yu
+3-Taown
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Taown HP:552/709 MP:140/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Asherah HP:392/433 MP:195/195
+C-Nebiros HP:249/249 MP:222/242
+D-Enku HP:186/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taown
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:851/851 MP:170/170
+2-Mokoi HP:74/74 MP:36/36
+3-Goblin HP:322/322 MP:63/63
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Ghoul HP:558/558 MP:111/111 (Puesto 2)
+2-Taown HP:552/709 MP:140/140 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Goblin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Goblin HP:322/322 MP:63/63
+C-Taown HP:552/709 MP:140/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Asherah HP:392/433 MP:195/195
+C-Nebiros HP:249/249 MP:222/242
+D-Enku HP:186/235 MP:228/228
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Goblin
+3-Yu
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Aleph HP:1282/1309 MP:613/613
+2-Asherah HP:392/433 MP:195/195
+3-Nebiros HP:249/249 MP:222/242
+4-Enku HP:186/235 MP:228/228
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Taown ataca a Enku
+Enku recibe 142 de daño
+Enku termina con HP:44/235
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Goblin HP:322/322 MP:63/63
+C-Taown HP:552/709 MP:129/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Asherah HP:392/433 MP:195/195
+C-Nebiros HP:249/249 MP:222/242
+D-Enku HP:44/235 MP:228/228
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Asherah
+3-Nebiros
+4-Enku
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Goblin HP:322/322 MP:63/63
+C-Taown HP:552/709 MP:129/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Asherah HP:392/433 MP:195/195
+C-Nebiros HP:249/249 MP:222/242
+D-Enku HP:44/235 MP:228/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Asherah
+2-Nebiros
+3-Enku
+4-Aleph
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Yu HP:568/597 MP:347/347
+2-Goblin HP:322/322 MP:63/63
+3-Taown HP:552/709 MP:129/140
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Asherah ataca a Goblin
+Goblin recibe 35 de daño
+Goblin termina con HP:287/322
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Goblin HP:287/322 MP:63/63
+C-Taown HP:552/709 MP:129/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Asherah HP:392/433 MP:195/195
+C-Nebiros HP:249/249 MP:222/242
+D-Enku HP:44/235 MP:228/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Enku
+3-Aleph
+4-Asherah
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Goblin HP:287/322 MP:63/63
+C-Taown HP:552/709 MP:129/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Asherah HP:392/433 MP:195/195
+C-Nebiros HP:249/249 MP:222/242
+D-Enku HP:44/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Enku
+2-Aleph
+3-Asherah
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ishtar HP:236/258 MP:251/251
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Yu HP:568/597 MP:347/347
+2-Goblin HP:287/322 MP:63/63
+3-Taown HP:552/709 MP:129/140
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Goblin HP:287/322 MP:63/63
+C-Taown HP:552/709 MP:129/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Asherah HP:392/433 MP:195/195
+C-Nebiros HP:249/249 MP:222/242
+D-Enku HP:44/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Asherah
+3-Nebiros
+4-Enku
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Goblin HP:287/322 MP:63/63
+C-Taown HP:552/709 MP:129/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1282/1309 MP:613/613
+B-Asherah HP:392/433 MP:195/195
+C-Nebiros HP:249/249 MP:222/242
+D-Enku HP:44/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Asherah
+2-Nebiros
+3-Enku
+4-Aleph
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Aleph HP:1282/1309 MP:613/613
+2-Asherah HP:392/433 MP:195/195
+3-Nebiros HP:249/249 MP:222/242
+4-Enku HP:44/235 MP:228/228
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah cura a Aleph
+Aleph recibe 654 de HP
+Aleph termina con HP:1309/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Goblin HP:287/322 MP:63/63
+C-Taown HP:552/709 MP:129/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-Nebiros HP:249/249 MP:222/242
+D-Enku HP:44/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Enku
+3-Aleph
+4-Asherah
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Yu HP:568/597 MP:347/347
+2-Goblin HP:287/322 MP:63/63
+3-Taown HP:552/709 MP:129/140
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ishtar HP:236/258 MP:251/251
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ishtar HP:236/258 MP:251/251
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Asherah HP:392/433 MP:186/195 (Puesto 2)
+2-Nebiros HP:249/249 MP:222/242 (Puesto 3)
+3-Enku HP:44/235 MP:228/228 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ishtar ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Goblin HP:287/322 MP:63/63
+C-Taown HP:552/709 MP:129/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-Nebiros HP:249/249 MP:202/242
+D-Ishtar HP:236/258 MP:251/251
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taown
+3-Goblin
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Goblin HP:287/322 MP:63/63
+C-Taown HP:552/709 MP:129/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-Nebiros HP:249/249 MP:202/242
+D-Ishtar HP:236/258 MP:251/251
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Goblin
+3-Yu
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:851/851 MP:170/170
+2-Mokoi HP:74/74 MP:36/36
+3-Ghoul HP:558/558 MP:111/111
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mokoi ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Goblin HP:287/322 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-Nebiros HP:249/249 MP:202/242
+D-Ishtar HP:236/258 MP:251/251
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Goblin
+2-Yu
+3-Mokoi
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Goblin use
+1-Oni-Kagura MP:9
+2-Tarukaja MP:15
+3-Bad Company MP:15
+4-Charge MP:9
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:851/851 MP:170/170
+2-Ghoul HP:558/558 MP:111/111
+3-Taown HP:552/709 MP:129/140
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Goblin HP:287/322 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-Nebiros HP:249/249 MP:202/242
+D-Ishtar HP:236/258 MP:251/251
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Mokoi
+3-Goblin
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1309/1309 MP:613/613
+2-Asherah HP:392/433 MP:186/195
+3-Nebiros HP:249/249 MP:202/242
+4-Ishtar HP:236/258 MP:251/251
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Yu ataca a Ishtar
+Ishtar recibe 49 de daño
+Ishtar termina con HP:187/258
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Goblin HP:287/322 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-Nebiros HP:249/249 MP:202/242
+D-Ishtar HP:187/258 MP:251/251
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mokoi
+2-Goblin
+3-Yu
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mokoi
+1-Aleph HP:1309/1309 MP:613/613
+2-Asherah HP:392/433 MP:186/195
+3-Nebiros HP:249/249 MP:202/242
+4-Ishtar HP:187/258 MP:251/251
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Mokoi ataca a Nebiros
+Nebiros bloquea el ataque de Mokoi
+Nebiros termina con HP:249/249
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Goblin HP:287/322 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-Nebiros HP:249/249 MP:202/242
+D-Ishtar HP:187/258 MP:251/251
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Asherah
+3-Ishtar
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:568/597 MP:347/347
+2-Goblin HP:287/322 MP:63/63
+3-Mokoi HP:74/74 MP:36/36
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Goblin HP:287/322 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-Nebiros HP:249/249 MP:202/242
+D-Ishtar HP:187/258 MP:251/251
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Asherah
+2-Ishtar
+3-Nebiros
+4-Aleph
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Yu HP:568/597 MP:347/347
+2-Goblin HP:287/322 MP:63/63
+3-Mokoi HP:74/74 MP:36/36
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Asherah ataca a Goblin
+Goblin recibe 35 de daño
+Goblin termina con HP:252/322
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:568/597 MP:347/347
+B-Goblin HP:252/322 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-Nebiros HP:249/249 MP:202/242
+D-Ishtar HP:187/258 MP:251/251
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Nebiros
+3-Aleph
+4-Asherah
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:44/235 MP:228/228
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:44/235 MP:228/228
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Yu HP:568/597 MP:347/347
+2-Goblin HP:252/322 MP:63/63
+3-Mokoi HP:74/74 MP:36/36
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Yu
+Yu es resistente el ataque de Ishtar
+Yu recibe 13 de daño
+Yu termina con HP:555/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:555/597 MP:347/347
+B-Goblin HP:252/322 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-Nebiros HP:249/249 MP:202/242
+D-Ishtar HP:187/258 MP:251/251
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Aleph
+3-Asherah
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:44/235 MP:228/228
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:44/235 MP:228/228
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:555/597 MP:347/347
+B-Goblin HP:252/322 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-Enku HP:44/235 MP:228/228
+D-Ishtar HP:187/258 MP:251/251
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Asherah
+3-Ishtar
+4-Enku
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:555/597 MP:347/347
+B-Goblin HP:252/322 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-Enku HP:44/235 MP:228/228
+D-Ishtar HP:187/258 MP:251/251
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Ishtar
+3-Enku
+4-Aleph
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:202/242
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:555/597 MP:347/347
+B-Goblin HP:252/322 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-Enku HP:44/235 MP:228/228
+D-Ishtar HP:187/258 MP:251/251
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ishtar
+2-Enku
+3-Aleph
+4-Asherah
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Yu HP:555/597 MP:347/347
+2-Goblin HP:252/322 MP:63/63
+3-Mokoi HP:74/74 MP:36/36
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Yu
+Yu es resistente el ataque de Ishtar
+Yu recibe 13 de daño
+Yu termina con HP:542/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:542/597 MP:347/347
+B-Goblin HP:252/322 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-Enku HP:44/235 MP:228/228
+D-Ishtar HP:187/258 MP:251/251
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Goblin
+3-Mokoi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1309/1309 MP:613/613
+2-Asherah HP:392/433 MP:186/195
+3-Enku HP:44/235 MP:228/228
+4-Ishtar HP:187/258 MP:251/251
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yu dispara a Enku
+Enku recibe 72 de daño
+Enku termina con HP:0/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:542/597 MP:347/347
+B-Goblin HP:252/322 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-
+D-Ishtar HP:187/258 MP:251/251
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Goblin
+2-Mokoi
+3-Yu
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Goblin use
+1-Oni-Kagura MP:9
+2-Tarukaja MP:15
+3-Bad Company MP:15
+4-Charge MP:9
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Goblin
+1-Aleph HP:1309/1309 MP:613/613
+2-Asherah HP:392/433 MP:186/195
+3-Ishtar HP:187/258 MP:251/251
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Goblin ataca a Ishtar
+Ishtar recibe 74 de daño
+Ishtar termina con HP:113/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:542/597 MP:347/347
+B-Goblin HP:252/322 MP:54/63
+C-Mokoi HP:74/74 MP:36/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-
+D-Ishtar HP:113/258 MP:251/251
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mokoi
+2-Yu
+3-Goblin
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mokoi use
+1-Zio MP:5
+2-Dream Fist MP:9
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mokoi
+1-Aleph HP:1309/1309 MP:613/613
+2-Asherah HP:392/433 MP:186/195
+3-Ishtar HP:113/258 MP:251/251
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Mokoi lanza electricidad a Ishtar
+Ishtar absorbe 20 daño
+Ishtar termina con HP:133/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:542/597 MP:347/347
+B-Goblin HP:252/322 MP:54/63
+C-Mokoi HP:74/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-
+D-Ishtar HP:133/258 MP:251/251
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Asherah
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:542/597 MP:347/347
+B-Goblin HP:252/322 MP:54/63
+C-Mokoi HP:74/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-
+D-Ishtar HP:133/258 MP:251/251
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Asherah
+2-Ishtar
+3-Aleph
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Yu HP:542/597 MP:347/347
+2-Goblin HP:252/322 MP:54/63
+3-Mokoi HP:74/74 MP:31/36
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Asherah ataca a Mokoi
+Mokoi recibe 35 de daño
+Mokoi termina con HP:39/74
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:542/597 MP:347/347
+B-Goblin HP:252/322 MP:54/63
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-
+D-Ishtar HP:133/258 MP:251/251
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Aleph
+3-Asherah
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:202/242
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:542/597 MP:347/347
+B-Goblin HP:252/322 MP:54/63
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Asherah
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:542/597 MP:347/347
+B-Goblin HP:252/322 MP:54/63
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Nebiros
+3-Aleph
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ishtar HP:133/258 MP:251/251
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:542/597 MP:347/347
+B-Goblin HP:252/322 MP:54/63
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Ishtar HP:133/258 MP:251/251
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Aleph
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:542/597 MP:347/347
+B-Goblin HP:252/322 MP:54/63
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Ishtar HP:133/258 MP:251/251
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Goblin
+3-Mokoi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:851/851 MP:170/170
+2-Ghoul HP:558/558 MP:111/111
+3-Taown HP:552/709 MP:129/140
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Gram Slice MP:5
+2-Fatal Sword MP:8
+3-Sabbatma MP:20
+4-Zanma MP:8
+5-Trisagion MP:22
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1309/1309 MP:613/613
+2-Ishtar HP:133/258 MP:251/251
+3-Nebiros HP:249/249 MP:202/242
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza viento a Aleph
+Aleph recibe 105 de daño
+Aleph termina con HP:1204/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:542/597 MP:339/347
+B-Goblin HP:252/322 MP:54/63
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1204/1309 MP:613/613
+B-Ishtar HP:133/258 MP:251/251
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Goblin
+2-Mokoi
+3-Yu
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Goblin
+1-Aleph HP:1204/1309 MP:613/613
+2-Ishtar HP:133/258 MP:251/251
+3-Nebiros HP:249/249 MP:202/242
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:851/851 MP:170/170
+2-Ghoul HP:558/558 MP:111/111
+3-Taown HP:552/709 MP:129/140
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:542/597 MP:339/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1204/1309 MP:613/613
+B-Ishtar HP:133/258 MP:251/251
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mokoi
+2-Yu
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:542/597 MP:339/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1204/1309 MP:613/613
+B-Ishtar HP:133/258 MP:251/251
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Magatsuhi
+3-Mokoi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Gram Slice MP:5
+2-Fatal Sword MP:8
+3-Sabbatma MP:20
+4-Zanma MP:8
+5-Trisagion MP:22
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1204/1309 MP:613/613
+2-Ishtar HP:133/258 MP:251/251
+3-Nebiros HP:249/249 MP:202/242
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yu ataca a Nebiros
+Nebiros bloquea el ataque de Yu
+Nebiros termina con HP:249/249
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:542/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1204/1309 MP:613/613
+B-Ishtar HP:133/258 MP:251/251
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Ishtar
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:542/597 MP:331/347
+2-Magatsuhi HP:851/851 MP:170/170
+3-Mokoi HP:39/74 MP:31/36
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Yu
+Yu recibe 276 de daño
+Yu termina con HP:266/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:266/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1204/1309 MP:613/613
+B-Ishtar HP:133/258 MP:251/251
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Nebiros
+3-Aleph
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Asherah HP:392/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Asherah HP:392/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Asherah HP:392/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Yu HP:266/597 MP:331/347
+2-Magatsuhi HP:851/851 MP:170/170
+3-Mokoi HP:39/74 MP:31/36
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Asherah HP:392/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:266/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1204/1309 MP:613/613
+B-Ishtar HP:133/258 MP:251/251
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Aleph
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Yu HP:266/597 MP:331/347
+2-Magatsuhi HP:851/851 MP:170/170
+3-Mokoi HP:39/74 MP:31/36
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Asherah HP:392/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Asherah HP:392/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:266/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1204/1309 MP:613/613
+B-Ishtar HP:133/258 MP:251/251
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Ishtar
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Asherah HP:392/433 MP:186/195
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Ishtar HP:133/258 MP:251/251 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Nebiros HP:249/249 MP:202/242 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:266/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1204/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Asherah
+2-Nebiros
+3-Aleph
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ishtar HP:133/258 MP:251/251
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Yu HP:266/597 MP:331/347
+2-Magatsuhi HP:851/851 MP:170/170
+3-Mokoi HP:39/74 MP:31/36
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Yu
+Yu es resistente el ataque de Asherah
+Yu recibe 17 de daño
+Yu termina con HP:249/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:249/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1204/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+3-Mokoi
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Aleph HP:1204/1309 MP:613/613
+2-Asherah HP:392/433 MP:186/195
+3-Nebiros HP:249/249 MP:202/242
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Aleph
+Aleph es resistente el ataque de Magatsuhi
+Aleph recibe 32 de daño
+Aleph termina con HP:1172/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:249/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Mokoi
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:249/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mokoi
+2-Magatsuhi
+3-Yu
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mokoi use
+1-Zio MP:5
+2-Dream Fist MP:9
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:252/322 MP:54/63
+2-Ghoul HP:558/558 MP:111/111
+3-Taown HP:552/709 MP:129/140
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Taown ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:249/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Taown HP:552/709 MP:129/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yu
+3-Taown
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Aleph HP:1172/1309 MP:613/613
+2-Asherah HP:392/433 MP:186/195
+3-Nebiros HP:249/249 MP:202/242
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Magatsuhi ataca a Nebiros
+Nebiros bloquea el ataque de Magatsuhi
+Nebiros termina con HP:249/249
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:249/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Taown HP:552/709 MP:129/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Asherah
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:249/597 MP:331/347
+2-Magatsuhi HP:851/851 MP:170/170
+3-Taown HP:552/709 MP:129/140
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Yu
+Yu recibe 276 de daño
+Yu termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Taown HP:552/709 MP:129/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-Asherah HP:392/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Nebiros
+3-Aleph
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ishtar HP:133/258 MP:251/251
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Taown HP:552/709 MP:129/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-Ishtar HP:133/258 MP:251/251
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Aleph
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Asherah HP:392/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Asherah HP:392/433 MP:186/195
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Taown HP:552/709 MP:129/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-Ishtar HP:133/258 MP:251/251
+C-
+D-Asherah HP:392/433 MP:186/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Ishtar
+3-Asherah
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Magatsuhi HP:851/851 MP:170/170
+2-Taown HP:552/709 MP:129/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph dispara a Taown
+Taown recibe 276 de daño
+Taown termina con HP:276/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Taown HP:276/709 MP:129/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-Ishtar HP:133/258 MP:251/251
+C-
+D-Asherah HP:392/433 MP:186/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Taown
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Aleph HP:1172/1309 MP:613/613
+2-Ishtar HP:133/258 MP:251/251
+3-Asherah HP:392/433 MP:186/195
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Ishtar
+Ishtar recibe 65 de daño
+Ishtar termina con HP:68/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Taown HP:276/709 MP:129/140
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-Ishtar HP:68/258 MP:251/251
+C-
+D-Asherah HP:392/433 MP:186/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:39/74 MP:31/36
+2-Goblin HP:252/322 MP:54/63
+3-Ghoul HP:558/558 MP:111/111
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Goblin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Goblin HP:252/322 MP:54/63
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-Ishtar HP:68/258 MP:251/251
+C-
+D-Asherah HP:392/433 MP:186/195
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Goblin
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:39/74 MP:31/36
+2-Ghoul HP:558/558 MP:111/111
+3-Taown HP:276/709 MP:129/140
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Aleph HP:1172/1309 MP:613/613
+2-Ishtar HP:68/258 MP:251/251
+3-Asherah HP:392/433 MP:186/195
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Aleph HP:1172/1309 MP:613/613
+2-Ishtar HP:68/258 MP:251/251
+3-Asherah HP:392/433 MP:186/195
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Magatsuhi lanza hielo a Asherah
+Asherah es débil contra el ataque de Magatsuhi
+Asherah recibe 186 de daño
+Asherah termina con HP:206/433
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:156/170
+C-Goblin HP:252/322 MP:54/63
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-Ishtar HP:68/258 MP:251/251
+C-
+D-Asherah HP:206/433 MP:186/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Asherah
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Magatsuhi HP:851/851 MP:156/170
+2-Goblin HP:252/322 MP:54/63
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Magatsuhi HP:851/851 MP:156/170
+2-Goblin HP:252/322 MP:54/63
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:202/242
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Ishtar HP:68/258 MP:251/251 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Asherah HP:206/433 MP:186/195 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nebiros ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:156/170
+C-Goblin HP:252/322 MP:54/63
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-Ishtar HP:68/258 MP:251/251
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Ishtar
+3-Aleph
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Asherah HP:206/433 MP:186/195
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:156/170
+C-Goblin HP:252/322 MP:54/63
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-Ishtar HP:68/258 MP:251/251
+C-
+D-Asherah HP:206/433 MP:186/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Aleph
+3-Asherah
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:156/170
+C-Goblin HP:252/322 MP:54/63
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-Ishtar HP:68/258 MP:251/251
+C-
+D-Asherah HP:206/433 MP:186/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Asherah
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:156/170
+C-Goblin HP:252/322 MP:54/63
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-Ishtar HP:68/258 MP:251/251
+C-
+D-Asherah HP:206/433 MP:186/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Ishtar
+3-Aleph
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:156/170
+C-Goblin HP:252/322 MP:54/63
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-Ishtar HP:68/258 MP:251/251
+C-
+D-Asherah HP:206/433 MP:186/195
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ishtar
+2-Aleph
+3-Asherah
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:202/242
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:156/170
+C-Goblin HP:252/322 MP:54/63
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-Ishtar HP:68/258 MP:251/251
+C-
+D-Asherah HP:206/433 MP:186/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Goblin
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Aleph HP:1172/1309 MP:613/613
+2-Ishtar HP:68/258 MP:251/251
+3-Asherah HP:206/433 MP:186/195
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi lanza hielo a Ishtar
+Ishtar recibe 124 de daño
+Ishtar termina con HP:0/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:142/170
+C-Goblin HP:252/322 MP:54/63
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-
+C-
+D-Asherah HP:206/433 MP:186/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Goblin
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:39/74 MP:31/36
+2-Ghoul HP:558/558 MP:111/111
+3-Taown HP:276/709 MP:129/140
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mokoi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:142/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-
+C-
+D-Asherah HP:206/433 MP:186/195
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Mokoi
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:142/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-
+C-
+D-Asherah HP:206/433 MP:186/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Asherah
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:142/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-
+C-
+D-Asherah HP:206/433 MP:186/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Asherah
+2-Aleph
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:202/242
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:142/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:613/613
+B-
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Nebiros
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Zan MP:5
+2-Bufudyne MP:14
+3-Zanma MP:8
+4-Oni-Kagura MP:9
+5-Berserker God MP:12
+6-Sabbatma MP:20
+7-Tathlum Shot MP:7
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Asherah HP:206/433 MP:186/195
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Nebiros HP:249/249 MP:202/242 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:142/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:593/613
+B-Asherah HP:206/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Mokoi
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:252/322 MP:54/63
+2-Ghoul HP:558/558 MP:111/111
+3-Taown HP:276/709 MP:129/140
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Taown ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Taown HP:276/709 MP:129/140
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1172/1309 MP:593/613
+B-Asherah HP:206/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mokoi
+2-Taown
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mokoi
+1-Aleph HP:1172/1309 MP:593/613
+2-Asherah HP:206/433 MP:186/195
+3-Nebiros HP:249/249 MP:202/242
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mokoi ataca a Aleph
+Aleph es resistente el ataque de Mokoi
+Aleph recibe 1 de daño
+Aleph termina con HP:1171/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Taown HP:276/709 MP:129/140
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:206/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Mokoi
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:851/851 MP:142/170
+2-Goblin HP:252/322 MP:54/63
+3-Ghoul HP:558/558 MP:111/111
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:142/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:206/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mokoi
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:252/322 MP:54/63
+2-Ghoul HP:558/558 MP:111/111
+3-Taown HP:276/709 MP:129/140
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mokoi
+1-Aleph HP:1171/1309 MP:593/613
+2-Asherah HP:206/433 MP:186/195
+3-Nebiros HP:249/249 MP:202/242
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mokoi
+1-Aleph HP:1171/1309 MP:593/613
+2-Asherah HP:206/433 MP:186/195
+3-Nebiros HP:249/249 MP:202/242
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Mokoi ataca a Nebiros
+Nebiros bloquea el ataque de Mokoi
+Nebiros termina con HP:249/249
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:851/851 MP:142/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:206/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Asherah
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Magatsuhi HP:851/851 MP:142/170
+2-Mokoi HP:39/74 MP:31/36
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Magatsuhi
+Magatsuhi recibe 157 de daño
+Magatsuhi termina con HP:694/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:694/851 MP:142/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:206/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Nebiros
+3-Aleph
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:694/851 MP:142/170
+C-Mokoi HP:39/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:206/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Aleph
+3-Asherah
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Magatsuhi HP:694/851 MP:142/170
+2-Mokoi HP:39/74 MP:31/36
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nebiros ataca a Mokoi
+Mokoi recibe 26 de daño
+Mokoi termina con HP:13/74
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:694/851 MP:142/170
+C-Mokoi HP:13/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:206/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Asherah
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Zan MP:5
+2-Bufudyne MP:14
+3-Zanma MP:8
+4-Oni-Kagura MP:9
+5-Berserker God MP:12
+6-Sabbatma MP:20
+7-Tathlum Shot MP:7
+8-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Magatsuhi HP:694/851 MP:142/170
+2-Mokoi HP:13/74 MP:31/36
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Magatsuhi HP:694/851 MP:142/170
+2-Mokoi HP:13/74 MP:31/36
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Magatsuhi
+Magatsuhi recibe 157 de daño
+Magatsuhi termina con HP:537/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:537/851 MP:142/170
+C-Mokoi HP:13/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:206/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Mokoi
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:537/851 MP:142/170
+C-Mokoi HP:13/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:206/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mokoi
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:537/851 MP:142/170
+C-Mokoi HP:13/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:206/433 MP:186/195
+C-
+D-Nebiros HP:249/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Mokoi
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Aleph HP:1171/1309 MP:593/613
+2-Asherah HP:206/433 MP:186/195
+3-Nebiros HP:249/249 MP:202/242
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Magatsuhi lanza hielo a Nebiros
+Nebiros recibe 124 de daño
+Nebiros termina con HP:125/249
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:537/851 MP:128/170
+C-Mokoi HP:13/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:206/433 MP:186/195
+C-
+D-Nebiros HP:125/249 MP:202/242
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Asherah
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Magatsuhi HP:537/851 MP:128/170
+2-Mokoi HP:13/74 MP:31/36
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Magatsuhi HP:537/851 MP:128/170
+2-Mokoi HP:13/74 MP:31/36
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Magatsuhi
+Magatsuhi recibe 157 de daño
+Magatsuhi termina con HP:380/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:380/851 MP:128/170
+C-Mokoi HP:13/74 MP:31/36
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:206/433 MP:186/195
+C-
+D-Nebiros HP:125/249 MP:202/242
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Nebiros
+3-Aleph
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Magatsuhi HP:380/851 MP:128/170
+2-Mokoi HP:13/74 MP:31/36
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Asherah ataca a Mokoi
+Mokoi recibe 35 de daño
+Mokoi termina con HP:0/74
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:380/851 MP:128/170
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:206/433 MP:186/195
+C-
+D-Nebiros HP:125/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Aleph
+3-Asherah
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:380/851 MP:128/170
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:206/433 MP:186/195
+C-
+D-Nebiros HP:125/249 MP:202/242
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Asherah
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Magatsuhi HP:380/851 MP:128/170
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Zan MP:5
+2-Bufudyne MP:14
+3-Zanma MP:8
+4-Oni-Kagura MP:9
+5-Berserker God MP:12
+6-Sabbatma MP:20
+7-Tathlum Shot MP:7
+8-Cancelar
+INPUT: 8
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:380/851 MP:128/170
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:206/433 MP:186/195
+C-
+D-Nebiros HP:125/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Aleph HP:1171/1309 MP:593/613
+2-Asherah HP:206/433 MP:186/195
+3-Nebiros HP:125/249 MP:202/242
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi lanza hielo a Asherah
+Asherah es débil contra el ataque de Magatsuhi
+Asherah recibe 186 de daño
+Asherah termina con HP:20/433
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Magatsuhi HP:380/851 MP:114/170
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:20/433 MP:186/195
+C-
+D-Nebiros HP:125/249 MP:202/242
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:252/322 MP:54/63
+2-Ghoul HP:558/558 MP:111/111
+3-Taown HP:276/709 MP:129/140
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Taown ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Taown HP:276/709 MP:129/140
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:20/433 MP:186/195
+C-
+D-Nebiros HP:125/249 MP:202/242
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Asherah
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Zan MP:5
+2-Bufudyne MP:14
+3-Zanma MP:8
+4-Oni-Kagura MP:9
+5-Berserker God MP:12
+6-Sabbatma MP:20
+7-Tathlum Shot MP:7
+8-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Taown HP:276/709 MP:129/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Zan MP:5
+2-Bufudyne MP:14
+3-Zanma MP:8
+4-Oni-Kagura MP:9
+5-Berserker God MP:12
+6-Sabbatma MP:20
+7-Tathlum Shot MP:7
+8-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Taown HP:276/709 MP:129/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Taown HP:276/709 MP:129/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Taown
+Taown recibe 157 de daño
+Taown termina con HP:119/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Taown HP:119/709 MP:129/140
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:20/433 MP:186/195
+C-
+D-Nebiros HP:125/249 MP:202/242
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Nebiros
+3-Aleph
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Taown HP:119/709 MP:129/140
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:20/433 MP:186/195
+C-
+D-Nebiros HP:125/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Aleph
+3-Asherah
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Taown HP:119/709 MP:129/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ataca a Taown
+Taown recibe 26 de daño
+Taown termina con HP:93/709
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:331/347
+B-Taown HP:93/709 MP:129/140
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1171/1309 MP:593/613
+B-Asherah HP:20/433 MP:186/195
+C-
+D-Nebiros HP:125/249 MP:202/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Asherah
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Zan MP:5
+2-Bufudyne MP:14
+3-Zanma MP:8
+4-Oni-Kagura MP:9
+5-Berserker God MP:12
+6-Sabbatma MP:20
+7-Tathlum Shot MP:7
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Taown HP:93/709 MP:129/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Zan MP:5
+2-Bufudyne MP:14
+3-Zanma MP:8
+4-Oni-Kagura MP:9
+5-Berserker God MP:12
+6-Sabbatma MP:20
+7-Tathlum Shot MP:7
+8-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Taown HP:93/709 MP:129/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Zan MP:5
+2-Bufudyne MP:14
+3-Zanma MP:8
+4-Oni-Kagura MP:9
+5-Berserker God MP:12
+6-Sabbatma MP:20
+7-Tathlum Shot MP:7
+8-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Taown HP:93/709 MP:129/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Zan MP:5
+2-Bufudyne MP:14
+3-Zanma MP:8
+4-Oni-Kagura MP:9
+5-Berserker God MP:12
+6-Sabbatma MP:20
+7-Tathlum Shot MP:7
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Zan MP:5
+2-Bufudyne MP:14
+3-Zanma MP:8
+4-Oni-Kagura MP:9
+5-Berserker God MP:12
+6-Sabbatma MP:20
+7-Tathlum Shot MP:7
+8-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Taown HP:93/709 MP:129/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph lanza hielo a Taown
+Taown recibe 127 de daño
+Taown termina con HP:0/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Aleph (J2)

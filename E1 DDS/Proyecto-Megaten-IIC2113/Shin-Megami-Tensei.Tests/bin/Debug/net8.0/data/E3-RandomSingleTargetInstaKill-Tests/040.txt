@@ -1,0 +1,2469 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 39
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Pisaca HP:454/454 MP:90/90
+C-Archangel HP:265/265 MP:52/52
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Archangel
+3-Kei
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Yu HP:597/597 MP:347/347
+2-Python HP:637/637 MP:286/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Senri HP:165/165 MP:158/158
+2-Hachiman HP:851/851 MP:170/170
+3-Knocker HP:126/126 MP:55/55
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hachiman ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Hachiman HP:851/851 MP:170/170
+C-Archangel HP:265/265 MP:52/52
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Kei
+3-Gryphon
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pisaca HP:454/454 MP:90/90
+2-Senri HP:165/165 MP:158/158
+3-Knocker HP:126/126 MP:55/55
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Hachiman HP:851/851 MP:170/170
+C-Pisaca HP:454/454 MP:90/90
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Gryphon
+3-Hachiman
+4-Pisaca
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Yu HP:597/597 MP:347/347
+2-Python HP:637/637 MP:286/286
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kei dispara a Yu
+Yu recibe 15 de daño
+Yu termina con HP:582/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Hachiman HP:851/851 MP:170/170
+C-Pisaca HP:454/454 MP:90/90
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:582/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Hachiman
+3-Pisaca
+4-Kei
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Hachiman HP:851/851 MP:170/170
+C-Pisaca HP:454/454 MP:90/90
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:582/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Pisaca
+3-Kei
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Archangel HP:265/265 MP:52/52
+2-Senri HP:165/165 MP:158/158
+3-Knocker HP:126/126 MP:55/55
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Archangel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-Pisaca HP:454/454 MP:90/90
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:582/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Kei
+3-Gryphon
+4-Archangel
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Senri HP:165/165 MP:158/158
+2-Hachiman HP:851/851 MP:170/170
+3-Knocker HP:126/126 MP:55/55
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Knocker ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-Knocker HP:126/126 MP:55/55
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:582/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Gryphon
+3-Archangel
+4-Knocker
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Yu HP:582/597 MP:347/347
+2-Python HP:637/637 MP:286/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pisaca HP:454/454 MP:90/90
+2-Senri HP:165/165 MP:158/158
+3-Hachiman HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Archangel HP:265/265 MP:52/52 (Puesto 2)
+2-Knocker HP:126/126 MP:55/55 (Puesto 3)
+3-Gryphon HP:123/123 MP:23/23 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pisaca HP:454/454 MP:90/90
+2-Senri HP:165/165 MP:158/158
+3-Hachiman HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Archangel HP:265/265 MP:52/52 (Puesto 2)
+2-Knocker HP:126/126 MP:55/55 (Puesto 3)
+3-Gryphon HP:123/123 MP:23/23 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Pisaca ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-Knocker HP:126/126 MP:55/55
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Yu (J2)
+A-Yu HP:582/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Yu
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Kei HP:760/760 MP:398/398
+2-Archangel HP:265/265 MP:52/52
+3-Knocker HP:126/126 MP:55/55
+4-Pisaca HP:454/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Python ataca a Knocker
+Knocker recibe 53 de daño
+Knocker termina con HP:73/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-Knocker HP:73/126 MP:55/55
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Yu (J2)
+A-Yu HP:582/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Python
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kei HP:760/760 MP:398/398
+2-Archangel HP:265/265 MP:52/52
+3-Knocker HP:73/126 MP:55/55
+4-Pisaca HP:454/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yu ataca a Knocker
+Knocker recibe 49 de daño
+Knocker termina con HP:24/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-Knocker HP:24/126 MP:55/55
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Yu (J2)
+A-Yu HP:582/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Archangel
+3-Kei
+4-Knocker
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pisaca use
+1-Bind Voice MP:15
+2-Life Drain MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pisaca use
+1-Bind Voice MP:15
+2-Life Drain MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pisaca use
+1-Bind Voice MP:15
+2-Life Drain MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Yu HP:582/597 MP:347/347
+2-Python HP:637/637 MP:286/286
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ataca a Yu
+Yu es resistente el ataque de Pisaca
+Yu recibe 16 de daño
+Yu termina con HP:566/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-Knocker HP:24/126 MP:55/55
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Yu (J2)
+A-Yu HP:566/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Kei
+3-Knocker
+4-Pisaca
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-Knocker HP:24/126 MP:55/55
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Yu (J2)
+A-Yu HP:566/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Knocker
+3-Pisaca
+4-Archangel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-Knocker HP:24/126 MP:55/55
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Yu (J2)
+A-Yu HP:566/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Knocker
+2-Pisaca
+3-Archangel
+4-Kei
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Yu HP:566/597 MP:347/347
+2-Python HP:637/637 MP:286/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Knocker use
+1-Bufu MP:5
+2-Rakukaja MP:15
+3-Taunt MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Yu HP:566/597 MP:347/347
+2-Python HP:637/637 MP:286/286
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Knocker lanza hielo a Yu
+Yu es resistente el ataque de Knocker
+Yu recibe 16 de daño
+Yu termina con HP:550/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-Knocker HP:24/126 MP:50/55
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Yu (J2)
+A-Yu HP:550/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Archangel
+3-Kei
+4-Knocker
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-Knocker HP:24/126 MP:50/55
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Yu (J2)
+A-Yu HP:550/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Kei
+3-Knocker
+4-Pisaca
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Yu HP:550/597 MP:347/347
+2-Python HP:637/637 MP:286/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Yu HP:550/597 MP:347/347
+2-Python HP:637/637 MP:286/286
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Archangel ataca a Python
+Python recibe 18 de daño
+Python termina con HP:619/637
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-Knocker HP:24/126 MP:50/55
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Yu (J2)
+A-Yu HP:550/597 MP:347/347
+B-Python HP:619/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Yu
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Kei HP:760/760 MP:398/398
+2-Archangel HP:265/265 MP:52/52
+3-Knocker HP:24/126 MP:50/55
+4-Pisaca HP:454/454 MP:90/90
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Python ataca a Pisaca
+Pisaca recibe 53 de daño
+Pisaca termina con HP:401/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-Knocker HP:24/126 MP:50/55
+D-Pisaca HP:401/454 MP:90/90
+Equipo de Yu (J2)
+A-Yu HP:550/597 MP:347/347
+B-Python HP:619/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Python
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kei HP:760/760 MP:398/398
+2-Archangel HP:265/265 MP:52/52
+3-Knocker HP:24/126 MP:50/55
+4-Pisaca HP:401/454 MP:90/90
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kei HP:760/760 MP:398/398
+2-Archangel HP:265/265 MP:52/52
+3-Knocker HP:24/126 MP:50/55
+4-Pisaca HP:401/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yu dispara a Knocker
+Knocker recibe 72 de daño
+Knocker termina con HP:0/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-
+D-Pisaca HP:401/454 MP:90/90
+Equipo de Yu (J2)
+A-Yu HP:550/597 MP:347/347
+B-Python HP:619/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Archangel
+3-Kei
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gryphon HP:123/123 MP:23/23
+2-Senri HP:165/165 MP:158/158
+3-Hachiman HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Gryphon ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:550/597 MP:347/347
+B-Python HP:619/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Kei
+3-Gryphon
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:550/597 MP:347/347
+B-Python HP:619/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Gryphon
+3-Archangel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Yu HP:550/597 MP:347/347
+2-Python HP:619/637 MP:286/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Yu HP:550/597 MP:347/347
+2-Python HP:619/637 MP:286/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pisaca HP:401/454 MP:90/90
+2-Senri HP:165/165 MP:158/158
+3-Hachiman HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Archangel HP:265/265 MP:52/52 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Gryphon HP:123/123 MP:23/23 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pisaca HP:401/454 MP:90/90
+2-Senri HP:165/165 MP:158/158
+3-Hachiman HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Archangel HP:265/265 MP:52/52 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Gryphon HP:123/123 MP:23/23 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Yu HP:550/597 MP:347/347
+2-Python HP:619/637 MP:286/286
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Python
+Python recibe 19 de daño
+Python termina con HP:600/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:550/597 MP:347/347
+B-Python HP:600/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Archangel
+3-Kei
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Yu HP:550/597 MP:347/347
+2-Python HP:600/637 MP:286/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pisaca HP:401/454 MP:90/90
+2-Senri HP:165/165 MP:158/158
+3-Hachiman HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Senri ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-
+D-Senri HP:165/165 MP:158/158
+Equipo de Yu (J2)
+A-Yu HP:550/597 MP:347/347
+B-Python HP:600/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Kei
+3-Senri
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Yu HP:550/597 MP:347/347
+2-Python HP:600/637 MP:286/286
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Archangel ataca a Python
+Python recibe 18 de daño
+Python termina con HP:582/637
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-
+D-Senri HP:165/165 MP:158/158
+Equipo de Yu (J2)
+A-Yu HP:550/597 MP:347/347
+B-Python HP:582/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Yu
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Kei HP:760/760 MP:398/398
+2-Archangel HP:265/265 MP:52/52
+3-Senri HP:165/165 MP:158/158
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Python ataca a Senri
+Senri recibe 53 de daño
+Senri termina con HP:112/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:265/265 MP:52/52
+C-
+D-Senri HP:112/165 MP:158/158
+Equipo de Yu (J2)
+A-Yu HP:550/597 MP:347/347
+B-Python HP:582/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Python
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kei HP:760/760 MP:398/398
+2-Archangel HP:265/265 MP:52/52
+3-Senri HP:112/165 MP:158/158
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Archangel
+Archangel recibe 49 de daño
+Archangel termina con HP:216/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:216/265 MP:52/52
+C-
+D-Senri HP:112/165 MP:158/158
+Equipo de Yu (J2)
+A-Yu HP:550/597 MP:347/347
+B-Python HP:582/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Archangel
+3-Kei
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yu HP:550/597 MP:347/347
+2-Python HP:582/637 MP:286/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pisaca HP:401/454 MP:90/90
+2-Gryphon HP:123/123 MP:23/23
+3-Hachiman HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:216/265 MP:52/52
+C-
+D-Pisaca HP:401/454 MP:90/90
+Equipo de Yu (J2)
+A-Yu HP:550/597 MP:347/347
+B-Python HP:582/637 MP:286/286
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Kei
+3-Pisaca
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Archangel use
+1-Hama MP:6
+2-Heat Wave MP:11
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Yu HP:550/597 MP:347/347
+2-Python HP:582/637 MP:286/286
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Archangel use
+1-Hama MP:6
+2-Heat Wave MP:11
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Yu HP:550/597 MP:347/347
+2-Python HP:582/637 MP:286/286
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Archangel ataca con luz a Python
+Python es débil contra el ataque de Archangel
+Python ha sido eliminado
+Python termina con HP:0/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:216/265 MP:46/52
+C-
+D-Pisaca HP:401/454 MP:90/90
+Equipo de Yu (J2)
+A-Yu HP:550/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Kei
+2-Pisaca
+3-Archangel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Yu HP:550/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei dispara a Yu
+Yu recibe 15 de daño
+Yu termina con HP:535/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:216/265 MP:46/52
+C-
+D-Pisaca HP:401/454 MP:90/90
+Equipo de Yu (J2)
+A-Yu HP:535/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pisaca
+2-Archangel
+3-Kei
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gryphon HP:123/123 MP:23/23
+2-Senri HP:112/165 MP:158/158
+3-Hachiman HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Gryphon ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:216/265 MP:46/52
+C-
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:535/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Kei
+3-Gryphon
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:216/265 MP:46/52
+C-
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:535/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Gryphon
+3-Archangel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:216/265 MP:46/52
+C-
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:535/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:216/265 MP:46/52
+C-
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:535/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kei HP:760/760 MP:398/398
+2-Archangel HP:216/265 MP:46/52
+3-Gryphon HP:123/123 MP:23/23
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yu ataca a Gryphon
+Gryphon recibe 49 de daño
+Gryphon termina con HP:74/123
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:216/265 MP:46/52
+C-
+D-Gryphon HP:74/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:535/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Kei
+3-Gryphon
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Yu HP:535/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Archangel ataca a Yu
+Yu es resistente el ataque de Archangel
+Yu recibe 9 de daño
+Yu termina con HP:526/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:216/265 MP:46/52
+C-
+D-Gryphon HP:74/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:526/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Gryphon
+3-Archangel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:216/265 MP:46/52
+C-
+D-Gryphon HP:74/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:526/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gryphon
+2-Archangel
+3-Kei
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Yu HP:526/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Yu HP:526/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:216/265 MP:46/52
+C-
+D-Gryphon HP:74/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:526/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Kei
+3-Gryphon
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Archangel use
+1-Hama MP:6
+2-Heat Wave MP:11
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Yu HP:526/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Archangel use
+1-Hama MP:6
+2-Heat Wave MP:11
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Archangel HP:216/265 MP:46/52
+C-
+D-Gryphon HP:74/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:526/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Gryphon
+3-Archangel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pisaca HP:401/454 MP:90/90
+2-Senri HP:112/165 MP:158/158
+3-Hachiman HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Archangel HP:216/265 MP:46/52 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Gryphon HP:74/123 MP:23/23 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Pisaca HP:401/454 MP:90/90
+C-
+D-Gryphon HP:74/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:526/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kei HP:760/760 MP:398/398
+2-Pisaca HP:401/454 MP:90/90
+3-Gryphon HP:74/123 MP:23/23
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Kei
+Kei es resistente el ataque de Yu
+Kei recibe 36 de daño
+Kei termina con HP:724/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pisaca HP:401/454 MP:90/90
+C-
+D-Gryphon HP:74/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:526/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Kei
+3-Gryphon
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pisaca HP:401/454 MP:90/90
+C-
+D-Gryphon HP:74/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:526/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Gryphon
+3-Pisaca
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Yu HP:526/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei dispara a Yu
+Yu recibe 15 de daño
+Yu termina con HP:511/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pisaca HP:401/454 MP:90/90
+C-
+D-Gryphon HP:74/123 MP:23/23
+Equipo de Yu (J2)
+A-Yu HP:511/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Pisaca
+3-Kei
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Archangel HP:216/265 MP:46/52
+2-Senri HP:112/165 MP:158/158
+3-Hachiman HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Senri ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pisaca HP:401/454 MP:90/90
+C-
+D-Senri HP:112/165 MP:158/158
+Equipo de Yu (J2)
+A-Yu HP:511/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pisaca
+2-Kei
+3-Senri
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Yu HP:511/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ataca a Yu
+Yu es resistente el ataque de Pisaca
+Yu recibe 16 de daño
+Yu termina con HP:495/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pisaca HP:401/454 MP:90/90
+C-
+D-Senri HP:112/165 MP:158/158
+Equipo de Yu (J2)
+A-Yu HP:495/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Senri
+3-Pisaca
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Yu HP:495/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Yu
+Yu es resistente el ataque de Kei
+Yu recibe 9 de daño
+Yu termina con HP:486/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pisaca HP:401/454 MP:90/90
+C-
+D-Senri HP:112/165 MP:158/158
+Equipo de Yu (J2)
+A-Yu HP:486/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mudo MP:6
+2-Zan MP:5
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pisaca HP:401/454 MP:90/90
+C-
+D-Senri HP:112/165 MP:158/158
+Equipo de Yu (J2)
+A-Yu HP:486/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pisaca HP:401/454 MP:90/90
+C-
+D-Senri HP:112/165 MP:158/158
+Equipo de Yu (J2)
+A-Yu HP:486/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Senri
+3-Kei
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pisaca HP:401/454 MP:90/90
+C-
+D-Senri HP:112/165 MP:158/158
+Equipo de Yu (J2)
+A-Yu HP:486/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Senri
+2-Kei
+3-Pisaca
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Senri use
+1-Recarm MP:20
+2-Zanma MP:8
+3-Mazanma MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Senri use
+1-Recarm MP:20
+2-Zanma MP:8
+3-Mazanma MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pisaca HP:401/454 MP:90/90
+C-
+D-Senri HP:112/165 MP:158/158
+Equipo de Yu (J2)
+A-Yu HP:486/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Pisaca
+3-Senri
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Mudo MP:6
+2-Invitation MP:45
+3-Lunge MP:6
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Archangel HP:216/265 MP:46/52
+2-Gryphon HP:74/123 MP:23/23
+3-Hachiman HP:851/851 MP:170/170
+4-Knocker HP:0/126 MP:50/55
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Pisaca HP:401/454 MP:90/90 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Senri HP:112/165 MP:158/158 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Knocker ha sido invocado
+Kei revive a Knocker
+Knocker recibe 126 de HP
+Knocker termina con HP:126/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:353/398
+B-Pisaca HP:401/454 MP:90/90
+C-
+D-Knocker HP:126/126 MP:50/55
+Equipo de Yu (J2)
+A-Yu HP:486/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Knocker
+3-Kei
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Yu HP:486/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ataca a Yu
+Yu es resistente el ataque de Pisaca
+Yu recibe 16 de daño
+Yu termina con HP:470/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:353/398
+B-Pisaca HP:401/454 MP:90/90
+C-
+D-Knocker HP:126/126 MP:50/55
+Equipo de Yu (J2)
+A-Yu HP:470/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kei HP:724/760 MP:353/398
+2-Pisaca HP:401/454 MP:90/90
+3-Knocker HP:126/126 MP:50/55
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yu dispara a Knocker
+Knocker recibe 72 de daño
+Knocker termina con HP:54/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:353/398
+B-Pisaca HP:401/454 MP:90/90
+C-
+D-Knocker HP:54/126 MP:50/55
+Equipo de Yu (J2)
+A-Yu HP:470/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Kei
+3-Knocker
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Yu HP:470/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pisaca use
+1-Bind Voice MP:15
+2-Life Drain MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Yu HP:470/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pisaca use
+1-Bind Voice MP:15
+2-Life Drain MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Yu HP:470/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ataca con oscuridad a Yu
+Yu ha sido eliminado
+Yu termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Kei (J1)

@@ -1,0 +1,1355 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 35
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Seth HP:898/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Ziodyne MP:14
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nahobino HP:453/453 MP:389/389
+2-Seth HP:898/898 MP:179/179
+3-Alciel HP:719/719 MP:143/143
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza electricidad a Nahobino
+Nahobino es débil contra el ataque de Yu
+Nahobino recibe 194 de daño
+Nahobino termina con HP:259/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:149/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Seth HP:898/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Hamsa
+3-Yu
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bai Suzhen use
+1-Zionga MP:8
+2-Binding Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Nahobino HP:259/453 MP:389/389
+2-Seth HP:898/898 MP:179/179
+3-Alciel HP:719/719 MP:143/143
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Bai Suzhen lanza electricidad a Seth
+Seth bloquea el ataque de Bai Suzhen
+Seth termina con HP:898/898
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Hamsa HP:91/91 MP:40/40
+C-Bai Suzhen HP:155/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Seth HP:898/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hamsa
+2-Yu
+3-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hamsa use
+1-Zio MP:5
+2-Dia MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hamsa
+1-Nahobino HP:259/453 MP:389/389
+2-Seth HP:898/898 MP:179/179
+3-Alciel HP:719/719 MP:143/143
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hamsa lanza electricidad a Seth
+Seth bloquea el ataque de Hamsa
+Seth termina con HP:898/898
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Seth HP:898/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Alciel
+3-Nahobino
+4-Sandman
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Yu HP:597/597 MP:333/347
+2-Hamsa HP:91/91 MP:35/40
+3-Bai Suzhen HP:155/155 MP:141/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seth ataca a Yu
+Yu es resistente el ataque de Seth
+Yu recibe 34 de daño
+Yu termina con HP:563/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:563/597 MP:333/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Seth HP:898/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alciel
+2-Nahobino
+3-Sandman
+4-Seth
+----------------------------------------
+Seleccione una acción para Alciel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alciel
+1-Yu HP:563/597 MP:333/347
+2-Hamsa HP:91/91 MP:35/40
+3-Bai Suzhen HP:155/155 MP:141/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alciel ataca a Yu
+Yu es resistente el ataque de Alciel
+Yu recibe 27 de daño
+Yu termina con HP:536/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:536/597 MP:333/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Seth HP:898/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Sandman
+3-Seth
+4-Alciel
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Yu HP:536/597 MP:333/347
+2-Hamsa HP:91/91 MP:35/40
+3-Bai Suzhen HP:155/155 MP:141/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Yu
+Yu es resistente el ataque de Nahobino
+Yu recibe 14 de daño
+Yu termina con HP:522/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:522/597 MP:333/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Seth HP:898/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sandman
+2-Seth
+3-Alciel
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sandman
+1-Yu HP:522/597 MP:333/347
+2-Hamsa HP:91/91 MP:35/40
+3-Bai Suzhen HP:155/155 MP:141/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Sandman ataca a Yu
+Yu es resistente el ataque de Sandman
+Yu recibe 5 de daño
+Yu termina con HP:517/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:517/597 MP:333/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Seth HP:898/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Ziodyne MP:14
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nahobino HP:259/453 MP:389/389
+2-Seth HP:898/898 MP:179/179
+3-Alciel HP:719/719 MP:143/143
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu lanza electricidad a Seth
+Seth bloquea el ataque de Yu
+Seth termina con HP:898/898
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:517/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:259/453 MP:389/389
+B-Seth HP:898/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Hamsa
+3-Yu
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Nahobino HP:259/453 MP:389/389
+2-Seth HP:898/898 MP:179/179
+3-Alciel HP:719/719 MP:143/143
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Bai Suzhen ataca a Nahobino
+Nahobino recibe 16 de daño
+Nahobino termina con HP:243/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:517/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:243/453 MP:389/389
+B-Seth HP:898/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Alciel
+3-Nahobino
+4-Sandman
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Yu HP:517/597 MP:319/347
+2-Hamsa HP:91/91 MP:35/40
+3-Bai Suzhen HP:155/155 MP:141/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seth ataca a Yu
+Yu es resistente el ataque de Seth
+Yu recibe 34 de daño
+Yu termina con HP:483/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:483/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:243/453 MP:389/389
+B-Seth HP:898/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alciel
+2-Nahobino
+3-Sandman
+4-Seth
+----------------------------------------
+Seleccione una acción para Alciel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alciel
+1-Yu HP:483/597 MP:319/347
+2-Hamsa HP:91/91 MP:35/40
+3-Bai Suzhen HP:155/155 MP:141/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alciel ataca a Yu
+Yu es resistente el ataque de Alciel
+Yu recibe 27 de daño
+Yu termina con HP:456/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:456/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:243/453 MP:389/389
+B-Seth HP:898/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Sandman
+3-Seth
+4-Alciel
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Yu HP:456/597 MP:319/347
+2-Hamsa HP:91/91 MP:35/40
+3-Bai Suzhen HP:155/155 MP:141/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Yu
+Yu es resistente el ataque de Nahobino
+Yu recibe 14 de daño
+Yu termina con HP:442/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:442/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:243/453 MP:389/389
+B-Seth HP:898/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sandman
+2-Seth
+3-Alciel
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sandman
+1-Yu HP:442/597 MP:319/347
+2-Hamsa HP:91/91 MP:35/40
+3-Bai Suzhen HP:155/155 MP:141/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Sandman ataca a Yu
+Yu es resistente el ataque de Sandman
+Yu recibe 5 de daño
+Yu termina con HP:437/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:437/597 MP:319/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:243/453 MP:389/389
+B-Seth HP:898/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Ziodyne MP:14
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nahobino HP:243/453 MP:389/389
+2-Seth HP:898/898 MP:179/179
+3-Alciel HP:719/719 MP:143/143
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza electricidad a Nahobino
+Nahobino es débil contra el ataque de Yu
+Nahobino recibe 194 de daño
+Nahobino termina con HP:49/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:437/597 MP:305/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:141/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:49/453 MP:389/389
+B-Seth HP:898/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Hamsa
+3-Yu
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bai Suzhen use
+1-Zionga MP:8
+2-Binding Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Nahobino HP:49/453 MP:389/389
+2-Seth HP:898/898 MP:179/179
+3-Alciel HP:719/719 MP:143/143
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Bai Suzhen lanza electricidad a Nahobino
+Nahobino es débil contra el ataque de Bai Suzhen
+Nahobino recibe 106 de daño
+Nahobino termina con HP:0/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:437/597 MP:305/347
+B-Hamsa HP:91/91 MP:35/40
+C-Bai Suzhen HP:155/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Seth HP:898/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Hamsa
+2-Yu
+3-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hamsa use
+1-Zio MP:5
+2-Dia MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hamsa
+1-Seth HP:898/898 MP:179/179
+2-Alciel HP:719/719 MP:143/143
+3-Sandman HP:113/113 MP:108/108
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hamsa lanza electricidad a Alciel
+Alciel bloquea el ataque de Hamsa
+Alciel termina con HP:719/719
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 2 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:437/597 MP:305/347
+B-Hamsa HP:91/91 MP:30/40
+C-Bai Suzhen HP:155/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Seth HP:898/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Seth HP:898/898 MP:179/179
+2-Alciel HP:719/719 MP:143/143
+3-Sandman HP:113/113 MP:108/108
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Seth
+Seth recibe 49 de daño
+Seth termina con HP:849/898
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:437/597 MP:305/347
+B-Hamsa HP:91/91 MP:30/40
+C-Bai Suzhen HP:155/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Seth HP:849/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Alciel
+3-Sandman
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Yu HP:437/597 MP:305/347
+2-Hamsa HP:91/91 MP:30/40
+3-Bai Suzhen HP:155/155 MP:133/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seth ataca a Yu
+Yu es resistente el ataque de Seth
+Yu recibe 34 de daño
+Yu termina con HP:403/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:403/597 MP:305/347
+B-Hamsa HP:91/91 MP:30/40
+C-Bai Suzhen HP:155/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Seth HP:849/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alciel
+2-Sandman
+3-Seth
+----------------------------------------
+Seleccione una acción para Alciel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alciel
+1-Yu HP:403/597 MP:305/347
+2-Hamsa HP:91/91 MP:30/40
+3-Bai Suzhen HP:155/155 MP:133/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alciel ataca a Yu
+Yu es resistente el ataque de Alciel
+Yu recibe 27 de daño
+Yu termina con HP:376/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:376/597 MP:305/347
+B-Hamsa HP:91/91 MP:30/40
+C-Bai Suzhen HP:155/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Seth HP:849/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sandman
+2-Seth
+3-Alciel
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sandman
+1-Yu HP:376/597 MP:305/347
+2-Hamsa HP:91/91 MP:30/40
+3-Bai Suzhen HP:155/155 MP:133/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Sandman ataca a Yu
+Yu es resistente el ataque de Sandman
+Yu recibe 5 de daño
+Yu termina con HP:371/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:371/597 MP:305/347
+B-Hamsa HP:91/91 MP:30/40
+C-Bai Suzhen HP:155/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Seth HP:849/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Seth HP:849/898 MP:179/179
+2-Alciel HP:719/719 MP:143/143
+3-Sandman HP:113/113 MP:108/108
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Seth
+Seth recibe 49 de daño
+Seth termina con HP:800/898
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:371/597 MP:305/347
+B-Hamsa HP:91/91 MP:30/40
+C-Bai Suzhen HP:155/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Seth HP:800/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Hamsa
+3-Yu
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Seth HP:800/898 MP:179/179
+2-Alciel HP:719/719 MP:143/143
+3-Sandman HP:113/113 MP:108/108
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Bai Suzhen ataca a Seth
+Seth recibe 16 de daño
+Seth termina con HP:784/898
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:371/597 MP:305/347
+B-Hamsa HP:91/91 MP:30/40
+C-Bai Suzhen HP:155/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Seth HP:784/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hamsa
+2-Yu
+3-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hamsa
+1-Seth HP:784/898 MP:179/179
+2-Alciel HP:719/719 MP:143/143
+3-Sandman HP:113/113 MP:108/108
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hamsa ataca a Seth
+Seth recibe 5 de daño
+Seth termina con HP:779/898
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:371/597 MP:305/347
+B-Hamsa HP:91/91 MP:30/40
+C-Bai Suzhen HP:155/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Seth HP:779/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Alciel
+3-Sandman
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Yu HP:371/597 MP:305/347
+2-Hamsa HP:91/91 MP:30/40
+3-Bai Suzhen HP:155/155 MP:133/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seth ataca a Yu
+Yu es resistente el ataque de Seth
+Yu recibe 34 de daño
+Yu termina con HP:337/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:337/597 MP:305/347
+B-Hamsa HP:91/91 MP:30/40
+C-Bai Suzhen HP:155/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Seth HP:779/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alciel
+2-Sandman
+3-Seth
+----------------------------------------
+Seleccione una acción para Alciel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alciel
+1-Yu HP:337/597 MP:305/347
+2-Hamsa HP:91/91 MP:30/40
+3-Bai Suzhen HP:155/155 MP:133/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alciel ataca a Yu
+Yu es resistente el ataque de Alciel
+Yu recibe 27 de daño
+Yu termina con HP:310/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:310/597 MP:305/347
+B-Hamsa HP:91/91 MP:30/40
+C-Bai Suzhen HP:155/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Seth HP:779/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sandman
+2-Seth
+3-Alciel
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sandman
+1-Yu HP:310/597 MP:305/347
+2-Hamsa HP:91/91 MP:30/40
+3-Bai Suzhen HP:155/155 MP:133/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Sandman ataca a Yu
+Yu es resistente el ataque de Sandman
+Yu recibe 5 de daño
+Yu termina con HP:305/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:305/597 MP:305/347
+B-Hamsa HP:91/91 MP:30/40
+C-Bai Suzhen HP:155/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Seth HP:779/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Ziodyne MP:14
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Seth HP:779/898 MP:179/179
+2-Alciel HP:719/719 MP:143/143
+3-Sandman HP:113/113 MP:108/108
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yu lanza electricidad a Sandman
+Sandman es débil contra el ataque de Yu
+Sandman recibe 194 de daño
+Sandman termina con HP:0/113
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:305/597 MP:291/347
+B-Hamsa HP:91/91 MP:30/40
+C-Bai Suzhen HP:155/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Seth HP:779/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bai Suzhen
+2-Hamsa
+3-Yu
+----------------------------------------
+Seleccione una acción para Bai Suzhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bai Suzhen
+1-Seth HP:779/898 MP:179/179
+2-Alciel HP:719/719 MP:143/143
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Bai Suzhen ataca a Seth
+Seth recibe 16 de daño
+Seth termina con HP:763/898
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:305/597 MP:291/347
+B-Hamsa HP:91/91 MP:30/40
+C-Bai Suzhen HP:155/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Seth HP:763/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hamsa
+2-Yu
+3-Bai Suzhen
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hamsa
+1-Seth HP:763/898 MP:179/179
+2-Alciel HP:719/719 MP:143/143
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Hamsa ataca a Seth
+Seth recibe 5 de daño
+Seth termina con HP:758/898
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:305/597 MP:291/347
+B-Hamsa HP:91/91 MP:30/40
+C-Bai Suzhen HP:155/155 MP:133/149
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Seth HP:758/898 MP:179/179
+C-Alciel HP:719/719 MP:143/143
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Bai Suzhen
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Yu (J1) se rinde
+----------------------------------------
+Ganador: Nahobino (J2)

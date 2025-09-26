@@ -1,0 +1,2407 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+INPUT: 4
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:1136/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:1026/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:1026/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Itsuki HP:1026/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:997/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:997/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Flynn
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Itsuki HP:997/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Itsuki
+Itsuki recibe 17 de daño
+Itsuki termina con HP:980/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:980/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Itsuki HP:980/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kabuso ataca a Itsuki
+Itsuki recibe 13 de daño
+Itsuki termina con HP:967/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:967/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Wendigo
+4-Gremlin
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Flynn HP:971/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Flynn
+Flynn recibe 54 de daño
+Flynn termina con HP:917/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:917/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:967/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Wendigo
+3-Gremlin
+4-Ammut
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:917/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:856/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:856/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:967/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Gremlin
+3-Ammut
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:856/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Flynn
+Flynn recibe 23 de daño
+Flynn termina con HP:833/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:833/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:967/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gremlin
+2-Ammut
+3-Itsuki
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Gremlin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gremlin
+1-Flynn HP:833/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Gremlin ataca a Flynn
+Flynn recibe 9 de daño
+Flynn termina con HP:824/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:824/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:967/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:967/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:857/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:824/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:857/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Itsuki HP:857/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:828/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:824/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:828/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Flynn
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Itsuki HP:828/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Itsuki
+Itsuki recibe 17 de daño
+Itsuki termina con HP:811/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:824/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:811/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Itsuki HP:811/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kabuso ataca a Itsuki
+Itsuki recibe 13 de daño
+Itsuki termina con HP:798/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:824/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:798/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Wendigo
+4-Gremlin
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Flynn HP:824/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Flynn
+Flynn recibe 54 de daño
+Flynn termina con HP:770/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:770/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:798/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Wendigo
+3-Gremlin
+4-Ammut
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:770/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:709/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:709/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:798/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Gremlin
+3-Ammut
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:709/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Flynn
+Flynn recibe 23 de daño
+Flynn termina con HP:686/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:686/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:798/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gremlin
+2-Ammut
+3-Itsuki
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Gremlin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gremlin
+1-Flynn HP:686/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Gremlin ataca a Flynn
+Flynn recibe 9 de daño
+Flynn termina con HP:677/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:677/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:798/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:798/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:688/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:677/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:688/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Itsuki HP:688/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:659/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:677/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:659/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Flynn
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Itsuki HP:659/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Itsuki
+Itsuki recibe 17 de daño
+Itsuki termina con HP:642/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:677/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:642/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Itsuki HP:642/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kabuso ataca a Itsuki
+Itsuki recibe 13 de daño
+Itsuki termina con HP:629/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:677/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:629/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Wendigo
+4-Gremlin
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Flynn HP:677/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Flynn
+Flynn recibe 54 de daño
+Flynn termina con HP:623/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:623/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:629/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Wendigo
+3-Gremlin
+4-Ammut
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:623/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:562/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:562/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:629/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Gremlin
+3-Ammut
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:562/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Flynn
+Flynn recibe 23 de daño
+Flynn termina con HP:539/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:539/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:629/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gremlin
+2-Ammut
+3-Itsuki
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Gremlin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gremlin
+1-Flynn HP:539/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Gremlin ataca a Flynn
+Flynn recibe 9 de daño
+Flynn termina con HP:530/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:530/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:629/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:629/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:519/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:530/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:519/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Itsuki HP:519/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:490/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:530/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:490/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Flynn
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Itsuki HP:490/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Itsuki
+Itsuki recibe 17 de daño
+Itsuki termina con HP:473/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:530/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:473/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Itsuki HP:473/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kabuso ataca a Itsuki
+Itsuki recibe 13 de daño
+Itsuki termina con HP:460/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:530/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:460/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Wendigo
+4-Gremlin
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Flynn HP:530/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Flynn
+Flynn recibe 54 de daño
+Flynn termina con HP:476/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:476/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:460/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Wendigo
+3-Gremlin
+4-Ammut
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:476/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:415/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:415/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:460/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Gremlin
+3-Ammut
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:415/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Flynn
+Flynn recibe 23 de daño
+Flynn termina con HP:392/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:392/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:460/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gremlin
+2-Ammut
+3-Itsuki
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Gremlin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gremlin
+1-Flynn HP:392/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Gremlin ataca a Flynn
+Flynn recibe 9 de daño
+Flynn termina con HP:383/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:383/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:460/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:460/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:350/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:383/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:350/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Itsuki HP:350/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:321/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:383/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:321/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Flynn
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Itsuki HP:321/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Itsuki
+Itsuki recibe 17 de daño
+Itsuki termina con HP:304/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:383/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:304/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Itsuki HP:304/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kabuso ataca a Itsuki
+Itsuki recibe 13 de daño
+Itsuki termina con HP:291/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:383/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:291/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Wendigo
+4-Gremlin
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Flynn HP:383/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Flynn
+Flynn recibe 54 de daño
+Flynn termina con HP:329/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:329/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:291/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Wendigo
+3-Gremlin
+4-Ammut
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:329/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:268/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:268/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:291/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Gremlin
+3-Ammut
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:268/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Flynn
+Flynn recibe 23 de daño
+Flynn termina con HP:245/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:245/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:291/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gremlin
+2-Ammut
+3-Itsuki
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Gremlin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gremlin
+1-Flynn HP:245/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Gremlin ataca a Flynn
+Flynn recibe 9 de daño
+Flynn termina con HP:236/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:236/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:291/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:291/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:181/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:236/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:181/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Itsuki HP:181/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:152/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:236/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:152/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Flynn
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Itsuki HP:152/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Itsuki
+Itsuki recibe 17 de daño
+Itsuki termina con HP:135/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:236/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:135/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Itsuki HP:135/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kabuso ataca a Itsuki
+Itsuki recibe 13 de daño
+Itsuki termina con HP:122/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:236/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:122/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Wendigo
+4-Gremlin
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Flynn HP:236/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Flynn
+Flynn recibe 54 de daño
+Flynn termina con HP:182/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:182/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:122/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Wendigo
+3-Gremlin
+4-Ammut
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:182/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:121/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:121/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:122/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Gremlin
+3-Ammut
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:121/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Flynn
+Flynn recibe 23 de daño
+Flynn termina con HP:98/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:98/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:122/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gremlin
+2-Ammut
+3-Itsuki
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Gremlin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gremlin
+1-Flynn HP:98/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Gremlin ataca a Flynn
+Flynn recibe 9 de daño
+Flynn termina con HP:89/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:89/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:122/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:122/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:12/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:89/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:12/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Itsuki HP:12/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Wendigo HP:331/331 MP:66/66
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:0/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:89/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:331/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Flynn
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Ammut HP:709/709 MP:140/140
+2-Wendigo HP:331/331 MP:66/66
+3-Gremlin HP:140/140 MP:63/63
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Inugami ataca a Wendigo
+Wendigo recibe 17 de daño
+Wendigo termina con HP:314/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:89/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:314/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Ammut HP:709/709 MP:140/140
+2-Wendigo HP:314/331 MP:66/66
+3-Gremlin HP:140/140 MP:63/63
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kabuso ataca a Wendigo
+Wendigo recibe 13 de daño
+Wendigo termina con HP:301/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:89/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:301/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Wendigo
+3-Gremlin
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Flynn HP:89/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Flynn
+Flynn recibe 54 de daño
+Flynn termina con HP:35/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:35/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:301/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Gremlin
+3-Ammut
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Flynn HP:35/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Flynn
+Flynn recibe 23 de daño
+Flynn termina con HP:12/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:12/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:301/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gremlin
+2-Ammut
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Gremlin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gremlin
+1-Flynn HP:12/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Gremlin ataca a Flynn
+Flynn recibe 9 de daño
+Flynn termina con HP:3/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:3/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Wendigo HP:301/331 MP:66/66
+D-Gremlin HP:140/140 MP:63/63
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Flynn (J1) se rinde
+----------------------------------------
+Ganador: Itsuki (J2)

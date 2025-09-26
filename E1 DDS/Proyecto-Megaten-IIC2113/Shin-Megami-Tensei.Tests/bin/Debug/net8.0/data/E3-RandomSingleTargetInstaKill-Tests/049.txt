@@ -1,0 +1,3148 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 48
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Alilat HP:441/441 MP:428/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Mokoi HP:74/74 MP:36/36
+C-Tam Lin HP:218/218 MP:43/43
+D-Sedna HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Alilat
+3-Nidhoggr
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:999/999 MP:0/0
+2-Mokoi HP:74/74 MP:36/36
+3-Tam Lin HP:218/218 MP:43/43
+4-Sedna HP:350/350 MP:68/68
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko ataca a Mokoi
+Mokoi recibe 187 de daño
+Mokoi termina con HP:0/74
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Alilat HP:441/441 MP:428/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-Tam Lin HP:218/218 MP:43/43
+D-Sedna HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Nidhoggr
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Shujinko HP:1317/1317 MP:625/625
+2-Alilat HP:441/441 MP:428/428
+3-Nidhoggr HP:681/681 MP:135/135
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Alilat cura a Alilat
+Alilat recibe 441 de HP
+Alilat termina con HP:441/441
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Alilat HP:441/441 MP:412/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-Tam Lin HP:218/218 MP:43/43
+D-Sedna HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Shujinko
+3-Alilat
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Kyouji HP:999/999 MP:0/0
+2-Tam Lin HP:218/218 MP:43/43
+3-Sedna HP:350/350 MP:68/68
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nidhoggr ataca a Tam Lin
+Tam Lin recibe 52 de daño
+Tam Lin termina con HP:166/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Alilat HP:441/441 MP:412/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-Tam Lin HP:166/218 MP:43/43
+D-Sedna HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Kyouji
+3-Tam Lin
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:228/228
+2-Patriot HP:511/511 MP:102/102
+3-Hel HP:254/254 MP:246/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Alilat HP:441/441 MP:412/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-Tam Lin HP:166/218 MP:43/43
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+2-Tam Lin
+3-Enku
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Shujinko HP:1317/1317 MP:625/625
+2-Alilat HP:441/441 MP:412/428
+3-Nidhoggr HP:681/681 MP:135/135
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:350/350 MP:68/68
+2-Patriot HP:511/511 MP:102/102
+3-Hel HP:254/254 MP:246/246
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Alilat HP:441/441 MP:412/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-Tam Lin HP:166/218 MP:43/43
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Enku
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:350/350 MP:68/68
+2-Patriot HP:511/511 MP:102/102
+3-Hel HP:254/254 MP:246/246
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Alilat HP:441/441 MP:412/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-Hel HP:254/254 MP:246/246
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Enku
+2-Kyouji
+3-Hel
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Shujinko HP:1317/1317 MP:625/625
+2-Alilat HP:441/441 MP:412/428
+3-Nidhoggr HP:681/681 MP:135/135
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Enku ataca a Alilat
+Alilat es resistente el ataque de Enku
+Alilat recibe 12 de daño
+Alilat termina con HP:429/441
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Alilat HP:429/441 MP:412/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-Hel HP:254/254 MP:246/246
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Hel
+3-Enku
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Alilat HP:429/441 MP:412/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-Hel HP:254/254 MP:246/246
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Enku
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Shujinko HP:1317/1317 MP:625/625
+2-Alilat HP:429/441 MP:412/428
+3-Nidhoggr HP:681/681 MP:135/135
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ataca a Shujinko
+Shujinko es resistente el ataque de Hel
+Shujinko recibe 13 de daño
+Shujinko termina con HP:1304/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:625/625
+B-Alilat HP:429/441 MP:412/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-Hel HP:254/254 MP:246/246
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Alilat
+3-Nidhoggr
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Dia MP:5
+2-Iron Judgement MP:8
+3-Zan MP:5
+4-Mudoon MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:999/999 MP:0/0
+2-Hel HP:254/254 MP:246/246
+3-Enku HP:235/235 MP:228/228
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca a Kyouji
+Kyouji recibe 187 de daño
+Kyouji termina con HP:812/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:625/625
+B-Alilat HP:429/441 MP:412/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:812/999 MP:0/0
+B-
+C-Hel HP:254/254 MP:246/246
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Nidhoggr
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Shujinko HP:1304/1317 MP:625/625
+2-Alilat HP:429/441 MP:412/428
+3-Nidhoggr HP:681/681 MP:135/135
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Alilat cura a Alilat
+Alilat recibe 441 de HP
+Alilat termina con HP:441/441
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:625/625
+B-Alilat HP:441/441 MP:396/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:812/999 MP:0/0
+B-
+C-Hel HP:254/254 MP:246/246
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Shujinko
+3-Alilat
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:625/625
+B-Alilat HP:441/441 MP:396/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:812/999 MP:0/0
+B-
+C-Hel HP:254/254 MP:246/246
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Alilat
+3-Nidhoggr
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Dia MP:5
+2-Iron Judgement MP:8
+3-Zan MP:5
+4-Mudoon MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:812/999 MP:0/0
+2-Hel HP:254/254 MP:246/246
+3-Enku HP:235/235 MP:228/228
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Dia MP:5
+2-Iron Judgement MP:8
+3-Zan MP:5
+4-Mudoon MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:812/999 MP:0/0
+2-Hel HP:254/254 MP:246/246
+3-Enku HP:235/235 MP:228/228
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko lanza viento a Hel
+Hel recibe 80 de daño
+Hel termina con HP:174/254
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:620/625
+B-Alilat HP:441/441 MP:396/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:812/999 MP:0/0
+B-
+C-Hel HP:174/254 MP:246/246
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Enku
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Shujinko HP:1304/1317 MP:620/625
+2-Alilat HP:441/441 MP:396/428
+3-Nidhoggr HP:681/681 MP:135/135
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ataca a Alilat
+Alilat es resistente el ataque de Hel
+Alilat recibe 13 de daño
+Alilat termina con HP:428/441
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:620/625
+B-Alilat HP:428/441 MP:396/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:812/999 MP:0/0
+B-
+C-Hel HP:174/254 MP:246/246
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Kyouji
+3-Hel
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Shujinko HP:1304/1317 MP:620/625
+2-Alilat HP:428/441 MP:396/428
+3-Nidhoggr HP:681/681 MP:135/135
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Enku ataca a Alilat
+Alilat es resistente el ataque de Enku
+Alilat recibe 37 de daño
+Alilat termina con HP:391/441
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:620/625
+B-Alilat HP:391/441 MP:396/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:812/999 MP:0/0
+B-
+C-Hel HP:174/254 MP:246/246
+D-Enku HP:235/235 MP:221/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Hel
+3-Enku
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:620/625
+B-Alilat HP:391/441 MP:396/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:812/999 MP:0/0
+B-
+C-Hel HP:174/254 MP:246/246
+D-Enku HP:235/235 MP:221/228
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Enku
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Shujinko HP:1304/1317 MP:620/625
+2-Alilat HP:391/441 MP:396/428
+3-Nidhoggr HP:681/681 MP:135/135
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:166/218 MP:43/43
+2-Sedna HP:350/350 MP:68/68
+3-Patriot HP:511/511 MP:102/102
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Patriot ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:620/625
+B-Alilat HP:391/441 MP:396/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:812/999 MP:0/0
+B-
+C-Patriot HP:511/511 MP:102/102
+D-Enku HP:235/235 MP:221/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Alilat
+3-Nidhoggr
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:812/999 MP:0/0
+2-Patriot HP:511/511 MP:102/102
+3-Enku HP:235/235 MP:221/228
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:620/625
+B-Alilat HP:391/441 MP:396/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:812/999 MP:0/0
+B-
+C-Patriot HP:511/511 MP:102/102
+D-Enku HP:235/235 MP:221/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alilat
+2-Nidhoggr
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Kyouji HP:812/999 MP:0/0
+2-Patriot HP:511/511 MP:102/102
+3-Enku HP:235/235 MP:221/228
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Kyouji HP:812/999 MP:0/0
+2-Patriot HP:511/511 MP:102/102
+3-Enku HP:235/235 MP:221/228
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Alilat ataca a Patriot
+Patriot recibe 47 de daño
+Patriot termina con HP:464/511
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:620/625
+B-Alilat HP:391/441 MP:396/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:812/999 MP:0/0
+B-
+C-Patriot HP:464/511 MP:102/102
+D-Enku HP:235/235 MP:221/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Shujinko
+3-Alilat
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Kyouji HP:812/999 MP:0/0
+2-Patriot HP:464/511 MP:102/102
+3-Enku HP:235/235 MP:221/228
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Kyouji HP:812/999 MP:0/0
+2-Patriot HP:464/511 MP:102/102
+3-Enku HP:235/235 MP:221/228
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:620/625
+B-Alilat HP:391/441 MP:396/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:812/999 MP:0/0
+B-
+C-Patriot HP:464/511 MP:102/102
+D-Enku HP:235/235 MP:221/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Alilat
+3-Nidhoggr
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Dia MP:5
+2-Iron Judgement MP:8
+3-Zan MP:5
+4-Mudoon MP:10
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Shujinko HP:1304/1317 MP:620/625
+2-Alilat HP:391/441 MP:396/428
+3-Nidhoggr HP:681/681 MP:135/135
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko cura a Alilat
+Alilat recibe 110 de HP
+Alilat termina con HP:441/441
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:615/625
+B-Alilat HP:441/441 MP:396/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:812/999 MP:0/0
+B-
+C-Patriot HP:464/511 MP:102/102
+D-Enku HP:235/235 MP:221/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Nidhoggr
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Kyouji HP:812/999 MP:0/0
+2-Patriot HP:464/511 MP:102/102
+3-Enku HP:235/235 MP:221/228
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alilat ataca a Kyouji
+Kyouji recibe 47 de daño
+Kyouji termina con HP:765/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:615/625
+B-Alilat HP:441/441 MP:396/428
+C-Nidhoggr HP:681/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:464/511 MP:102/102
+D-Enku HP:235/235 MP:221/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patriot
+2-Enku
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patriot
+1-Shujinko HP:1304/1317 MP:615/625
+2-Alilat HP:441/441 MP:396/428
+3-Nidhoggr HP:681/681 MP:135/135
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Patriot ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Patriot
+Nidhoggr recibe 19 de daño
+Nidhoggr termina con HP:662/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:615/625
+B-Alilat HP:441/441 MP:396/428
+C-Nidhoggr HP:662/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:464/511 MP:102/102
+D-Enku HP:235/235 MP:221/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Kyouji
+3-Patriot
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:166/218 MP:43/43
+2-Sedna HP:350/350 MP:68/68
+3-Hel HP:174/254 MP:246/246
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:615/625
+B-Alilat HP:441/441 MP:396/428
+C-Nidhoggr HP:662/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:464/511 MP:102/102
+D-Hel HP:174/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+2-Patriot
+3-Hel
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Shujinko HP:1304/1317 MP:615/625
+2-Alilat HP:441/441 MP:396/428
+3-Nidhoggr HP:662/681 MP:135/135
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kyouji dispara a Nidhoggr
+Nidhoggr es resistente el ataque de Kyouji
+Nidhoggr recibe 455 de daño
+Nidhoggr termina con HP:207/681
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:615/625
+B-Alilat HP:441/441 MP:396/428
+C-Nidhoggr HP:207/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:464/511 MP:102/102
+D-Hel HP:174/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patriot
+2-Hel
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Patriot use
+1-Taunt MP:20
+2-Mudoon MP:10
+3-Blast Arrow MP:16
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:166/218 MP:43/43
+2-Sedna HP:350/350 MP:68/68
+3-Enku HP:235/235 MP:221/228
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patriot
+1-Shujinko HP:1304/1317 MP:615/625
+2-Alilat HP:441/441 MP:396/428
+3-Nidhoggr HP:207/681 MP:135/135
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Patriot ataca a Shujinko
+Shujinko es resistente el ataque de Patriot
+Shujinko recibe 19 de daño
+Shujinko termina con HP:1285/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1285/1317 MP:615/625
+B-Alilat HP:441/441 MP:396/428
+C-Nidhoggr HP:207/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:464/511 MP:102/102
+D-Hel HP:174/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Alilat
+3-Nidhoggr
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Dia MP:5
+2-Iron Judgement MP:8
+3-Zan MP:5
+4-Mudoon MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:765/999 MP:0/0
+2-Patriot HP:464/511 MP:102/102
+3-Hel HP:174/254 MP:246/246
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko lanza viento a Patriot
+Patriot recibe 80 de daño
+Patriot termina con HP:384/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1285/1317 MP:610/625
+B-Alilat HP:441/441 MP:396/428
+C-Nidhoggr HP:207/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:384/511 MP:102/102
+D-Hel HP:174/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Nidhoggr
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Shujinko HP:1285/1317 MP:610/625
+2-Alilat HP:441/441 MP:396/428
+3-Nidhoggr HP:207/681 MP:135/135
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alilat cura a Shujinko
+Shujinko recibe 1317 de HP
+Shujinko termina con HP:1317/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:610/625
+B-Alilat HP:441/441 MP:380/428
+C-Nidhoggr HP:207/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:384/511 MP:102/102
+D-Hel HP:174/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Shujinko
+3-Alilat
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:610/625
+B-Alilat HP:441/441 MP:380/428
+C-Nidhoggr HP:207/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:384/511 MP:102/102
+D-Hel HP:174/254 MP:246/246
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Alilat
+3-Nidhoggr
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:610/625
+B-Alilat HP:441/441 MP:380/428
+C-Nidhoggr HP:207/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:384/511 MP:102/102
+D-Hel HP:174/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patriot
+2-Hel
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Patriot use
+1-Taunt MP:20
+2-Mudoon MP:10
+3-Blast Arrow MP:16
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Patriot use
+1-Taunt MP:20
+2-Mudoon MP:10
+3-Blast Arrow MP:16
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patriot
+1-Shujinko HP:1317/1317 MP:610/625
+2-Alilat HP:441/441 MP:380/428
+3-Nidhoggr HP:207/681 MP:135/135
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Patriot ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Patriot
+Nidhoggr recibe 19 de daño
+Nidhoggr termina con HP:188/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:610/625
+B-Alilat HP:441/441 MP:380/428
+C-Nidhoggr HP:188/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:384/511 MP:102/102
+D-Hel HP:174/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Kyouji
+3-Patriot
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Shujinko HP:1317/1317 MP:610/625
+2-Alilat HP:441/441 MP:380/428
+3-Nidhoggr HP:188/681 MP:135/135
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ataca a Shujinko
+Shujinko es resistente el ataque de Hel
+Shujinko recibe 13 de daño
+Shujinko termina con HP:1304/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:610/625
+B-Alilat HP:441/441 MP:380/428
+C-Nidhoggr HP:188/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:384/511 MP:102/102
+D-Hel HP:174/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Patriot
+3-Hel
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Shujinko HP:1304/1317 MP:610/625
+2-Alilat HP:441/441 MP:380/428
+3-Nidhoggr HP:188/681 MP:135/135
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kyouji dispara a Alilat
+Alilat es resistente el ataque de Kyouji
+Alilat recibe 455 de daño
+Alilat termina con HP:0/441
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:610/625
+B-
+C-Nidhoggr HP:188/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:384/511 MP:102/102
+D-Hel HP:174/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nidhoggr
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:610/625
+B-
+C-Nidhoggr HP:188/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:384/511 MP:102/102
+D-Hel HP:174/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:610/625
+B-
+C-Nidhoggr HP:188/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:384/511 MP:102/102
+D-Hel HP:174/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nidhoggr
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:765/999 MP:0/0
+2-Patriot HP:384/511 MP:102/102
+3-Hel HP:174/254 MP:246/246
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Shujinko ataca a Hel
+Hel recibe 187 de daño
+Hel termina con HP:0/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:610/625
+B-
+C-Nidhoggr HP:188/681 MP:135/135
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:384/511 MP:102/102
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patriot
+2-Kyouji
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Patriot use
+1-Taunt MP:20
+2-Mudoon MP:10
+3-Blast Arrow MP:16
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Patriot use
+1-Taunt MP:20
+2-Mudoon MP:10
+3-Blast Arrow MP:16
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Patriot
+1-Shujinko HP:1304/1317 MP:610/625
+2-Nidhoggr HP:188/681 MP:135/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Patriot ataca con oscuridad a Nidhoggr
+Nidhoggr ha sido eliminado
+Nidhoggr termina con HP:0/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1304/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:384/511 MP:92/102
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Patriot
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Shujinko HP:1304/1317 MP:610/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji ataca a Shujinko
+Shujinko es resistente el ataque de Kyouji
+Shujinko recibe 307 de daño
+Shujinko termina con HP:997/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:997/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:384/511 MP:92/102
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:765/999 MP:0/0
+2-Patriot HP:384/511 MP:92/102
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko dispara a Patriot
+Patriot es resistente el ataque de Shujinko
+Patriot recibe 114 de daño
+Patriot termina con HP:270/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:997/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:270/511 MP:92/102
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patriot
+2-Kyouji
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patriot
+1-Shujinko HP:997/1317 MP:610/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patriot
+1-Shujinko HP:997/1317 MP:610/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:166/218 MP:43/43
+2-Sedna HP:350/350 MP:68/68
+3-Enku HP:235/235 MP:221/228
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Patriot use
+1-Taunt MP:20
+2-Mudoon MP:10
+3-Blast Arrow MP:16
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:997/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:270/511 MP:92/102
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+2-Patriot
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Shujinko HP:997/1317 MP:610/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Shujinko HP:997/1317 MP:610/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji ataca a Shujinko
+Shujinko es resistente el ataque de Kyouji
+Shujinko recibe 307 de daño
+Shujinko termina con HP:690/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:690/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:270/511 MP:92/102
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patriot
+2-Kyouji
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patriot
+1-Shujinko HP:690/1317 MP:610/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patriot
+1-Shujinko HP:690/1317 MP:610/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Patriot ataca a Shujinko
+Shujinko es resistente el ataque de Patriot
+Shujinko recibe 19 de daño
+Shujinko termina con HP:671/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:671/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:765/999 MP:0/0
+B-
+C-Patriot HP:270/511 MP:92/102
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Dia MP:5
+2-Iron Judgement MP:8
+3-Zan MP:5
+4-Mudoon MP:10
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Shujinko HP:671/1317 MP:610/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:765/999 MP:0/0
+2-Patriot HP:270/511 MP:92/102
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca a Kyouji
+Kyouji recibe 187 de daño
+Kyouji termina con HP:578/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:671/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:578/999 MP:0/0
+B-
+C-Patriot HP:270/511 MP:92/102
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patriot
+2-Kyouji
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:671/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:578/999 MP:0/0
+B-
+C-Patriot HP:270/511 MP:92/102
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+2-Patriot
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:166/218 MP:43/43
+2-Sedna HP:350/350 MP:68/68
+3-Enku HP:235/235 MP:221/228
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Patriot HP:270/511 MP:92/102 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Enku ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:671/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:578/999 MP:0/0
+B-
+C-Patriot HP:270/511 MP:92/102
+D-Enku HP:235/235 MP:221/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patriot
+2-Enku
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:671/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:578/999 MP:0/0
+B-
+C-Patriot HP:270/511 MP:92/102
+D-Enku HP:235/235 MP:221/228
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Enku
+2-Kyouji
+3-Patriot
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Shujinko HP:671/1317 MP:610/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Shujinko HP:671/1317 MP:610/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Shujinko HP:671/1317 MP:610/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Shujinko
+Shujinko es resistente el ataque de Enku
+Shujinko recibe 12 de daño
+Shujinko termina con HP:659/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:659/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:578/999 MP:0/0
+B-
+C-Patriot HP:270/511 MP:92/102
+D-Enku HP:235/235 MP:221/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:659/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:578/999 MP:0/0
+B-
+C-Patriot HP:270/511 MP:92/102
+D-Enku HP:235/235 MP:221/228
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:578/999 MP:0/0
+2-Patriot HP:270/511 MP:92/102
+3-Enku HP:235/235 MP:221/228
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko ataca a Patriot
+Patriot recibe 187 de daño
+Patriot termina con HP:83/511
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:659/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:578/999 MP:0/0
+B-
+C-Patriot HP:83/511 MP:92/102
+D-Enku HP:235/235 MP:221/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patriot
+2-Enku
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:659/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:578/999 MP:0/0
+B-
+C-Patriot HP:83/511 MP:92/102
+D-Enku HP:235/235 MP:221/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Enku
+2-Kyouji
+3-Patriot
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Shujinko HP:659/1317 MP:610/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Shujinko
+Shujinko es resistente el ataque de Enku
+Shujinko recibe 12 de daño
+Shujinko termina con HP:647/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:647/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:578/999 MP:0/0
+B-
+C-Patriot HP:83/511 MP:92/102
+D-Enku HP:235/235 MP:221/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Patriot
+3-Enku
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:166/218 MP:43/43
+2-Sedna HP:350/350 MP:68/68
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Patriot HP:83/511 MP:92/102 (Puesto 3)
+3-Enku HP:235/235 MP:221/228 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Shujinko HP:647/1317 MP:610/625
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:166/218 MP:43/43
+2-Sedna HP:350/350 MP:68/68
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:166/218 MP:43/43
+2-Sedna HP:350/350 MP:68/68
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Patriot HP:83/511 MP:92/102 (Puesto 3)
+3-Enku HP:235/235 MP:221/228 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tam Lin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:647/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:578/999 MP:0/0
+B-
+C-Patriot HP:83/511 MP:92/102
+D-Tam Lin HP:166/218 MP:43/43
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Patriot
+2-Tam Lin
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Patriot use
+1-Taunt MP:20
+2-Mudoon MP:10
+3-Blast Arrow MP:16
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Patriot
+1-Shujinko HP:647/1317 MP:610/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Patriot ataca con oscuridad a Shujinko
+Shujinko bloquea el ataque de Patriot
+Shujinko termina con HP:647/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:647/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:578/999 MP:0/0
+B-
+C-Patriot HP:83/511 MP:82/102
+D-Tam Lin HP:166/218 MP:43/43
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:578/999 MP:0/0
+2-Patriot HP:83/511 MP:82/102
+3-Tam Lin HP:166/218 MP:43/43
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko dispara a Patriot
+Patriot es resistente el ataque de Shujinko
+Patriot recibe 114 de daño
+Patriot termina con HP:0/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:647/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:578/999 MP:0/0
+B-
+C-
+D-Tam Lin HP:166/218 MP:43/43
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Tam Lin
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Shujinko HP:647/1317 MP:610/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji dispara a Shujinko
+Shujinko es resistente el ataque de Kyouji
+Shujinko recibe 455 de daño
+Shujinko termina con HP:192/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:192/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:578/999 MP:0/0
+B-
+C-
+D-Tam Lin HP:166/218 MP:43/43
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Kyouji
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Shujinko HP:192/1317 MP:610/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ataca con luz a Shujinko
+Shujinko bloquea el ataque de Tam Lin
+Shujinko termina con HP:192/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:192/1317 MP:610/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:578/999 MP:0/0
+B-
+C-
+D-Tam Lin HP:166/218 MP:37/43
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Dia MP:5
+2-Iron Judgement MP:8
+3-Zan MP:5
+4-Mudoon MP:10
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:578/999 MP:0/0
+2-Tam Lin HP:166/218 MP:37/43
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko ataca a Tam Lin
+Tam Lin recibe 190 de daño
+Tam Lin termina con HP:0/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:192/1317 MP:602/625
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:578/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Shujinko HP:192/1317 MP:602/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji ataca a Shujinko
+Shujinko es resistente el ataque de Kyouji
+Shujinko recibe 307 de daño
+Shujinko termina con HP:0/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Kyouji (J2)

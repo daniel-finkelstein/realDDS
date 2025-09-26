@@ -1,0 +1,407 @@
+[
+    {
+        "name": "Shujinko",
+        "stats": {
+            "HP": 1317,
+            "MP": 625,
+            "Str": 304,
+            "Skl": 250,
+            "Mag": 80,
+            "Spd": 170,
+            "Lck": 130
+        },
+        "affinity": {
+            "Phys": "Rs",
+            "Gun": "Rs",
+            "Fire": "-",
+            "Ice": "-",
+            "Elec": "-",
+            "Force": "-",
+            "Light": "Nu",
+            "Dark": "Nu",
+            "Bind": "Nu",
+            "Sleep": "Nu",
+            "Sick": "Nu",
+            "Panic": "Nu",
+            "Poison": "Nu"
+        }
+    },
+    {
+        "name": "Aleph",
+        "stats": {
+            "HP": 1309,
+            "MP": 613,
+            "Str": 256,
+            "Skl": 303,
+            "Mag": 77,
+            "Spd": 172,
+            "Lck": 131
+        },
+        "affinity": {
+            "Phys": "Rs",
+            "Gun": "Nu",
+            "Fire": "-",
+            "Ice": "-",
+            "Elec": "-",
+            "Force": "-",
+            "Light": "-",
+            "Dark": "-",
+            "Bind": "Nu",
+            "Sleep": "Nu",
+            "Sick": "Nu",
+            "Panic": "Nu",
+            "Poison": "Nu"
+        }
+    },
+    {
+        "name": "Tamaki",
+        "stats": {
+            "HP": 999,
+            "MP": 542,
+            "Str": 30,
+            "Skl": 17,
+            "Mag": 20,
+            "Spd": 18,
+            "Lck": 20
+        },
+        "affinity": {
+            "Phys": "Rs",
+            "Gun": "Rs",
+            "Fire": "Rs",
+            "Ice": "Rs",
+            "Elec": "Rs",
+            "Force": "Rs",
+            "Light": "Nu",
+            "Dark": "Rs",
+            "Bind": "Rs",
+            "Sleep": "Rs",
+            "Sick": "Rs",
+            "Panic": "Rs",
+            "Poison": "Rs"
+        }
+    },
+    {
+        "name": "Kei",
+        "stats": {
+            "HP": 760,
+            "MP": 398,
+            "Str": 32,
+            "Skl": 17,
+            "Mag": 23,
+            "Spd": 19,
+            "Lck": 14
+        },
+        "affinity": {
+            "Phys": "Rs",
+            "Gun": "Rs",
+            "Fire": "Rs",
+            "Ice": "Rs",
+            "Elec": "Rs",
+            "Force": "Rs",
+            "Light": "Rs",
+            "Dark": "Rs",
+            "Bind": "Rs",
+            "Sleep": "Rs",
+            "Sick": "Rs",
+            "Panic": "Rs",
+            "Poison": "Rs"
+        }
+    },
+    {
+        "name": "Kyouji",
+        "stats": {
+            "HP": 999,
+            "MP": 0,
+            "Str": 999,
+            "Skl": 999,
+            "Mag": 0,
+            "Spd": 32,
+            "Lck": 13
+        },
+        "affinity": {
+            "Phys": "-",
+            "Gun": "Nu",
+            "Fire": "Rs",
+            "Ice": "Rs",
+            "Elec": "Rs",
+            "Force": "Rs",
+            "Light": "Nu",
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Nu",
+            "Poison": "-"
+        }
+    },
+    {
+        "name": "Demi-Fiend",
+        "stats": {
+            "HP": 1227,
+            "MP": 834,
+            "Str": 273,
+            "Skl": 125,
+            "Mag": 300,
+            "Spd": 161,
+            "Lck": 151
+        },
+        "affinity": {
+            "Phys": "Nu",
+            "Gun": "-",
+            "Fire": "Nu",
+            "Ice": "Nu",
+            "Elec": "Nu",
+            "Force": "Nu",
+            "Light": "Nu",
+            "Dark": "Nu",
+            "Bind": "Nu",
+            "Sleep": "Nu",
+            "Sick": "Nu",
+            "Panic": "Nu",
+            "Poison": "Nu"
+        }
+    },
+    {
+        "name": "Tadano",
+        "stats": {
+            "HP": 388,
+            "MP": 193,
+            "Str": 27,
+            "Skl": 23,
+            "Mag": 28,
+            "Spd": 30,
+            "Lck": 43
+        },
+        "affinity": {
+            "Phys": "Rs",
+            "Gun": "-",
+            "Fire": "-",
+            "Ice": "-",
+            "Elec": "-",
+            "Force": "-",
+            "Light": "Nu",
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
+        }
+    },
+    {
+        "name": "Flynn",
+        "stats": {
+            "HP": 971,
+            "MP": 527,
+            "Str": 143,
+            "Skl": 121,
+            "Mag": 143,
+            "Spd": 136,
+            "Lck": 95
+        },
+        "affinity": {
+            "Phys": "-",
+            "Gun": "-",
+            "Fire": "-",
+            "Ice": "-",
+            "Elec": "-",
+            "Force": "-",
+            "Light": "Nu",
+            "Dark": "Nu",
+            "Bind": "Nu",
+            "Sleep": "Nu",
+            "Sick": "Nu",
+            "Panic": "Nu",
+            "Poison": "Nu"
+        }
+    },
+    {
+        "name": "Nanashi",
+        "stats": {
+            "HP": 140,
+            "MP": 411,
+            "Str": 150,
+            "Skl": 34,
+            "Mag": 22,
+            "Spd": 52,
+            "Lck": 46
+        },
+        "affinity": {
+            "Phys": "-",
+            "Gun": "-",
+            "Fire": "-",
+            "Ice": "Rs",
+            "Elec": "-",
+            "Force": "-",
+            "Light": "Nu",
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
+        }
+    },
+    {
+        "name": "Itsuki",
+        "stats": {
+            "HP": 1136,
+            "MP": 413,
+            "Str": 74,
+            "Skl": 67,
+            "Mag": 62,
+            "Spd": 69,
+            "Lck": 60
+        },
+        "affinity": {
+            "Phys": "-",
+            "Gun": "-",
+            "Fire": "Wk",
+            "Ice": "-",
+            "Elec": "Dr",
+            "Force": "-",
+            "Light": "-",
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
+        }
+    },
+    {
+        "name": "Nahobino",
+        "stats": {
+            "HP": 453,
+            "MP": 389,
+            "Str": 48,
+            "Skl": 92,
+            "Mag": 111,
+            "Spd": 52,
+            "Lck": 55
+        },
+        "affinity": {
+            "Phys": "-",
+            "Gun": "-",
+            "Fire": "Rs",
+            "Ice": "-",
+            "Elec": "Wk",
+            "Force": "-",
+            "Light": "-",
+            "Dark": "Rp",
+            "Bind": "Nu",
+            "Sleep": "Nu",
+            "Sick": "Nu",
+            "Panic": "Nu",
+            "Poison": "Nu"
+        }
+    },
+    {
+        "name": "Makoto",
+        "stats": {
+            "HP": 597,
+            "MP": 347,
+            "Str": 63,
+            "Skl": 63,
+            "Mag": 63,
+            "Spd": 63,
+            "Lck": 63
+        },
+        "affinity": {
+            "Phys": "Rs",
+            "Gun": "Rs",
+            "Fire": "Rs",
+            "Ice": "Rs",
+            "Elec": "Rs",
+            "Force": "Rs",
+            "Light": "Rs",
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
+        }
+    },
+    {
+        "name": "Kotone",
+        "stats": {
+            "HP": 597,
+            "MP": 347,
+            "Str": 63,
+            "Skl": 63,
+            "Mag": 63,
+            "Spd": 63,
+            "Lck": 63
+        },
+        "affinity": {
+            "Phys": "Rs",
+            "Gun": "Rs",
+            "Fire": "Rs",
+            "Ice": "Rs",
+            "Elec": "Rs",
+            "Force": "Rs",
+            "Light": "Rs",
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
+        }
+    },
+    {
+        "name": "Yu",
+        "stats": {
+            "HP": 597,
+            "MP": 347,
+            "Str": 80,
+            "Skl": 80,
+            "Mag": 80,
+            "Spd": 80,
+            "Lck": 80
+        },
+        "affinity": {
+            "Phys": "Rs",
+            "Gun": "-",
+            "Fire": "Rs",
+            "Ice": "Rs",
+            "Elec": "Rs",
+            "Force": "Rs",
+            "Light": "-",
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
+        }
+    },
+    {
+        "name": "Joker",
+        "stats": {
+            "HP": 597,
+            "MP": 347,
+            "Str": 47,
+            "Skl": 43,
+            "Mag": 49,
+            "Spd": 54,
+            "Lck": 42
+        },
+        "affinity": {
+            "Phys": "-",
+            "Gun": "-",
+            "Fire": "-",
+            "Ice": "-",
+            "Elec": "-",
+            "Force": "-",
+            "Light": "Wk",
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
+        }
+    }
+]

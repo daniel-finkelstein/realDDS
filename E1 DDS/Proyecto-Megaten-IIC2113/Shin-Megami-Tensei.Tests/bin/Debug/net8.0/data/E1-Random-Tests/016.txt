@@ -1,0 +1,3459 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 15
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Apis HP:265/265 MP:52/52
+C-Magatsuhi HP:851/851 MP:170/170
+D-Tlazolteotl HP:315/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Raphael HP:623/623 MP:279/279
+C-Peri HP:483/483 MP:216/216
+D-Throne HP:504/504 MP:225/225
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+3-Tlazolteotl
+4-Apis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nahobino HP:453/453 MP:389/389
+2-Raphael HP:623/623 MP:279/279
+3-Peri HP:483/483 MP:216/216
+4-Throne HP:504/504 MP:225/225
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn dispara a Peri
+Peri recibe 110 de daño
+Peri termina con HP:373/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Apis HP:265/265 MP:52/52
+C-Magatsuhi HP:851/851 MP:170/170
+D-Tlazolteotl HP:315/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Raphael HP:623/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:504/504 MP:225/225
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Tlazolteotl
+3-Apis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Nahobino HP:453/453 MP:389/389
+2-Raphael HP:623/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:504/504 MP:225/225
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Nahobino HP:453/453 MP:389/389
+2-Raphael HP:623/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:504/504 MP:225/225
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Nahobino HP:453/453 MP:389/389
+2-Raphael HP:623/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:504/504 MP:225/225
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Raphael
+Raphael recibe 65 de daño
+Raphael termina con HP:558/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Apis HP:265/265 MP:52/52
+C-Magatsuhi HP:851/851 MP:170/170
+D-Tlazolteotl HP:315/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Raphael HP:558/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:504/504 MP:225/225
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Apis
+3-Flynn
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Nahobino HP:453/453 MP:389/389
+2-Raphael HP:558/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:504/504 MP:225/225
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tlazolteotl ataca a Raphael
+Raphael recibe 33 de daño
+Raphael termina con HP:525/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Apis HP:265/265 MP:52/52
+C-Magatsuhi HP:851/851 MP:170/170
+D-Tlazolteotl HP:315/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Raphael HP:525/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:504/504 MP:225/225
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apis
+2-Flynn
+3-Magatsuhi
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apis
+1-Nahobino HP:453/453 MP:389/389
+2-Raphael HP:525/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:504/504 MP:225/225
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Apis ataca a Throne
+Throne recibe 18 de daño
+Throne termina con HP:486/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Apis HP:265/265 MP:52/52
+C-Magatsuhi HP:851/851 MP:170/170
+D-Tlazolteotl HP:315/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Raphael HP:525/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:486/504 MP:225/225
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Throne
+3-Peri
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:971/971 MP:527/527
+2-Apis HP:265/265 MP:52/52
+3-Magatsuhi HP:851/851 MP:170/170
+4-Tlazolteotl HP:315/315 MP:306/306
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Raphael ataca a Tlazolteotl
+Tlazolteotl recibe 52 de daño
+Tlazolteotl termina con HP:263/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Apis HP:265/265 MP:52/52
+C-Magatsuhi HP:851/851 MP:170/170
+D-Tlazolteotl HP:263/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Raphael HP:525/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:486/504 MP:225/225
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Peri
+3-Nahobino
+4-Raphael
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Flynn HP:971/971 MP:527/527
+2-Apis HP:265/265 MP:52/52
+3-Magatsuhi HP:851/851 MP:170/170
+4-Tlazolteotl HP:263/315 MP:306/306
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Throne ataca a Magatsuhi
+Magatsuhi recibe 41 de daño
+Magatsuhi termina con HP:810/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Apis HP:265/265 MP:52/52
+C-Magatsuhi HP:810/851 MP:170/170
+D-Tlazolteotl HP:263/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Raphael HP:525/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:486/504 MP:225/225
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+3-Raphael
+4-Throne
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Flynn HP:971/971 MP:527/527
+2-Apis HP:265/265 MP:52/52
+3-Magatsuhi HP:810/851 MP:170/170
+4-Tlazolteotl HP:263/315 MP:306/306
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Flynn HP:971/971 MP:527/527
+2-Apis HP:265/265 MP:52/52
+3-Magatsuhi HP:810/851 MP:170/170
+4-Tlazolteotl HP:263/315 MP:306/306
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Flynn
+Flynn recibe 40 de daño
+Flynn termina con HP:931/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:931/971 MP:527/527
+B-Apis HP:265/265 MP:52/52
+C-Magatsuhi HP:810/851 MP:170/170
+D-Tlazolteotl HP:263/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Raphael HP:525/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:486/504 MP:225/225
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Raphael
+3-Throne
+4-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Flynn HP:931/971 MP:527/527
+2-Apis HP:265/265 MP:52/52
+3-Magatsuhi HP:810/851 MP:170/170
+4-Tlazolteotl HP:263/315 MP:306/306
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nahobino dispara a Tlazolteotl
+Tlazolteotl recibe 83 de daño
+Tlazolteotl termina con HP:180/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:931/971 MP:527/527
+B-Apis HP:265/265 MP:52/52
+C-Magatsuhi HP:810/851 MP:170/170
+D-Tlazolteotl HP:180/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Raphael HP:525/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:486/504 MP:225/225
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+3-Tlazolteotl
+4-Apis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nahobino HP:453/453 MP:389/389
+2-Raphael HP:525/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:486/504 MP:225/225
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Nahobino
+Nahobino recibe 88 de daño
+Nahobino termina con HP:365/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:931/971 MP:527/527
+B-Apis HP:265/265 MP:52/52
+C-Magatsuhi HP:810/851 MP:170/170
+D-Tlazolteotl HP:180/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:365/453 MP:389/389
+B-Raphael HP:525/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:486/504 MP:225/225
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Tlazolteotl
+3-Apis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Nahobino HP:365/453 MP:389/389
+2-Raphael HP:525/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:486/504 MP:225/225
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Nahobino HP:365/453 MP:389/389
+2-Raphael HP:525/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:486/504 MP:225/225
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Nahobino
+Nahobino recibe 65 de daño
+Nahobino termina con HP:300/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:931/971 MP:527/527
+B-Apis HP:265/265 MP:52/52
+C-Magatsuhi HP:810/851 MP:170/170
+D-Tlazolteotl HP:180/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:300/453 MP:389/389
+B-Raphael HP:525/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:486/504 MP:225/225
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Apis
+3-Flynn
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Nahobino HP:300/453 MP:389/389
+2-Raphael HP:525/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:486/504 MP:225/225
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tlazolteotl ataca a Throne
+Throne recibe 33 de daño
+Throne termina con HP:453/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:931/971 MP:527/527
+B-Apis HP:265/265 MP:52/52
+C-Magatsuhi HP:810/851 MP:170/170
+D-Tlazolteotl HP:180/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:300/453 MP:389/389
+B-Raphael HP:525/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:453/504 MP:225/225
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apis
+2-Flynn
+3-Magatsuhi
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apis
+1-Nahobino HP:300/453 MP:389/389
+2-Raphael HP:525/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:453/504 MP:225/225
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Apis ataca a Raphael
+Raphael recibe 18 de daño
+Raphael termina con HP:507/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:931/971 MP:527/527
+B-Apis HP:265/265 MP:52/52
+C-Magatsuhi HP:810/851 MP:170/170
+D-Tlazolteotl HP:180/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:300/453 MP:389/389
+B-Raphael HP:507/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:453/504 MP:225/225
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Throne
+3-Peri
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:931/971 MP:527/527
+2-Apis HP:265/265 MP:52/52
+3-Magatsuhi HP:810/851 MP:170/170
+4-Tlazolteotl HP:180/315 MP:306/306
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Raphael ataca a Tlazolteotl
+Tlazolteotl recibe 52 de daño
+Tlazolteotl termina con HP:128/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:931/971 MP:527/527
+B-Apis HP:265/265 MP:52/52
+C-Magatsuhi HP:810/851 MP:170/170
+D-Tlazolteotl HP:128/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:300/453 MP:389/389
+B-Raphael HP:507/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:453/504 MP:225/225
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Peri
+3-Nahobino
+4-Raphael
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Flynn HP:931/971 MP:527/527
+2-Apis HP:265/265 MP:52/52
+3-Magatsuhi HP:810/851 MP:170/170
+4-Tlazolteotl HP:128/315 MP:306/306
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Throne ataca a Apis
+Apis recibe 41 de daño
+Apis termina con HP:224/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:931/971 MP:527/527
+B-Apis HP:224/265 MP:52/52
+C-Magatsuhi HP:810/851 MP:170/170
+D-Tlazolteotl HP:128/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:300/453 MP:389/389
+B-Raphael HP:507/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:453/504 MP:225/225
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+3-Raphael
+4-Throne
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Flynn HP:931/971 MP:527/527
+2-Apis HP:224/265 MP:52/52
+3-Magatsuhi HP:810/851 MP:170/170
+4-Tlazolteotl HP:128/315 MP:306/306
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Flynn HP:931/971 MP:527/527
+2-Apis HP:224/265 MP:52/52
+3-Magatsuhi HP:810/851 MP:170/170
+4-Tlazolteotl HP:128/315 MP:306/306
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Flynn HP:931/971 MP:527/527
+2-Apis HP:224/265 MP:52/52
+3-Magatsuhi HP:810/851 MP:170/170
+4-Tlazolteotl HP:128/315 MP:306/306
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Peri ataca a Magatsuhi
+Magatsuhi recibe 40 de daño
+Magatsuhi termina con HP:770/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:931/971 MP:527/527
+B-Apis HP:224/265 MP:52/52
+C-Magatsuhi HP:770/851 MP:170/170
+D-Tlazolteotl HP:128/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:300/453 MP:389/389
+B-Raphael HP:507/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:453/504 MP:225/225
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Raphael
+3-Throne
+4-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Flynn HP:931/971 MP:527/527
+2-Apis HP:224/265 MP:52/52
+3-Magatsuhi HP:770/851 MP:170/170
+4-Tlazolteotl HP:128/315 MP:306/306
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nahobino dispara a Tlazolteotl
+Tlazolteotl recibe 83 de daño
+Tlazolteotl termina con HP:45/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:931/971 MP:527/527
+B-Apis HP:224/265 MP:52/52
+C-Magatsuhi HP:770/851 MP:170/170
+D-Tlazolteotl HP:45/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:300/453 MP:389/389
+B-Raphael HP:507/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:453/504 MP:225/225
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+3-Tlazolteotl
+4-Apis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nahobino HP:300/453 MP:389/389
+2-Raphael HP:507/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:453/504 MP:225/225
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Nahobino
+Nahobino recibe 88 de daño
+Nahobino termina con HP:212/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:931/971 MP:527/527
+B-Apis HP:224/265 MP:52/52
+C-Magatsuhi HP:770/851 MP:170/170
+D-Tlazolteotl HP:45/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:212/453 MP:389/389
+B-Raphael HP:507/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:453/504 MP:225/225
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Tlazolteotl
+3-Apis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Nahobino HP:212/453 MP:389/389
+2-Raphael HP:507/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:453/504 MP:225/225
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Nahobino HP:212/453 MP:389/389
+2-Raphael HP:507/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:453/504 MP:225/225
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Raphael
+Raphael recibe 65 de daño
+Raphael termina con HP:442/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:931/971 MP:527/527
+B-Apis HP:224/265 MP:52/52
+C-Magatsuhi HP:770/851 MP:170/170
+D-Tlazolteotl HP:45/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:212/453 MP:389/389
+B-Raphael HP:442/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:453/504 MP:225/225
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Apis
+3-Flynn
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Nahobino HP:212/453 MP:389/389
+2-Raphael HP:442/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:453/504 MP:225/225
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Nahobino HP:212/453 MP:389/389
+2-Raphael HP:442/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:453/504 MP:225/225
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl ataca a Nahobino
+Nahobino recibe 33 de daño
+Nahobino termina con HP:179/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:931/971 MP:527/527
+B-Apis HP:224/265 MP:52/52
+C-Magatsuhi HP:770/851 MP:170/170
+D-Tlazolteotl HP:45/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:179/453 MP:389/389
+B-Raphael HP:442/623 MP:279/279
+C-Peri HP:373/483 MP:216/216
+D-Throne HP:453/504 MP:225/225
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apis
+2-Flynn
+3-Magatsuhi
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apis
+1-Nahobino HP:179/453 MP:389/389
+2-Raphael HP:442/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:453/504 MP:225/225
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apis
+1-Nahobino HP:179/453 MP:389/389
+2-Raphael HP:442/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:453/504 MP:225/225
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apis
+1-Nahobino HP:179/453 MP:389/389
+2-Raphael HP:442/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:453/504 MP:225/225
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apis
+1-Nahobino HP:179/453 MP:389/389
+2-Raphael HP:442/623 MP:279/279
+3-Peri HP:373/483 MP:216/216
+4-Throne HP:453/504 MP:225/225
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Apis ataca a Peri
+Peri recibe 18 de daño
+Peri termina con HP:355/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:931/971 MP:527/527
+B-Apis HP:224/265 MP:52/52
+C-Magatsuhi HP:770/851 MP:170/170
+D-Tlazolteotl HP:45/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:179/453 MP:389/389
+B-Raphael HP:442/623 MP:279/279
+C-Peri HP:355/483 MP:216/216
+D-Throne HP:453/504 MP:225/225
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Throne
+3-Peri
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:931/971 MP:527/527
+2-Apis HP:224/265 MP:52/52
+3-Magatsuhi HP:770/851 MP:170/170
+4-Tlazolteotl HP:45/315 MP:306/306
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Flynn
+Flynn recibe 52 de daño
+Flynn termina con HP:879/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:879/971 MP:527/527
+B-Apis HP:224/265 MP:52/52
+C-Magatsuhi HP:770/851 MP:170/170
+D-Tlazolteotl HP:45/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:179/453 MP:389/389
+B-Raphael HP:442/623 MP:279/279
+C-Peri HP:355/483 MP:216/216
+D-Throne HP:453/504 MP:225/225
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Peri
+3-Nahobino
+4-Raphael
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Flynn HP:879/971 MP:527/527
+2-Apis HP:224/265 MP:52/52
+3-Magatsuhi HP:770/851 MP:170/170
+4-Tlazolteotl HP:45/315 MP:306/306
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Throne ataca a Apis
+Apis recibe 41 de daño
+Apis termina con HP:183/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:879/971 MP:527/527
+B-Apis HP:183/265 MP:52/52
+C-Magatsuhi HP:770/851 MP:170/170
+D-Tlazolteotl HP:45/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:179/453 MP:389/389
+B-Raphael HP:442/623 MP:279/279
+C-Peri HP:355/483 MP:216/216
+D-Throne HP:453/504 MP:225/225
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+3-Raphael
+4-Throne
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Flynn HP:879/971 MP:527/527
+2-Apis HP:183/265 MP:52/52
+3-Magatsuhi HP:770/851 MP:170/170
+4-Tlazolteotl HP:45/315 MP:306/306
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Peri ataca a Tlazolteotl
+Tlazolteotl recibe 40 de daño
+Tlazolteotl termina con HP:5/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:879/971 MP:527/527
+B-Apis HP:183/265 MP:52/52
+C-Magatsuhi HP:770/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:179/453 MP:389/389
+B-Raphael HP:442/623 MP:279/279
+C-Peri HP:355/483 MP:216/216
+D-Throne HP:453/504 MP:225/225
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Raphael
+3-Throne
+4-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Flynn HP:879/971 MP:527/527
+2-Apis HP:183/265 MP:52/52
+3-Magatsuhi HP:770/851 MP:170/170
+4-Tlazolteotl HP:5/315 MP:306/306
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca a Apis
+Apis recibe 29 de daño
+Apis termina con HP:154/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:879/971 MP:527/527
+B-Apis HP:154/265 MP:52/52
+C-Magatsuhi HP:770/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:179/453 MP:389/389
+B-Raphael HP:442/623 MP:279/279
+C-Peri HP:355/483 MP:216/216
+D-Throne HP:453/504 MP:225/225
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+3-Tlazolteotl
+4-Apis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nahobino HP:179/453 MP:389/389
+2-Raphael HP:442/623 MP:279/279
+3-Peri HP:355/483 MP:216/216
+4-Throne HP:453/504 MP:225/225
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Flynn ataca a Throne
+Throne recibe 88 de daño
+Throne termina con HP:365/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:879/971 MP:527/527
+B-Apis HP:154/265 MP:52/52
+C-Magatsuhi HP:770/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:179/453 MP:389/389
+B-Raphael HP:442/623 MP:279/279
+C-Peri HP:355/483 MP:216/216
+D-Throne HP:365/504 MP:225/225
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Tlazolteotl
+3-Apis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Nahobino HP:179/453 MP:389/389
+2-Raphael HP:442/623 MP:279/279
+3-Peri HP:355/483 MP:216/216
+4-Throne HP:365/504 MP:225/225
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Nahobino HP:179/453 MP:389/389
+2-Raphael HP:442/623 MP:279/279
+3-Peri HP:355/483 MP:216/216
+4-Throne HP:365/504 MP:225/225
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Magatsuhi ataca a Peri
+Peri recibe 65 de daño
+Peri termina con HP:290/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:879/971 MP:527/527
+B-Apis HP:154/265 MP:52/52
+C-Magatsuhi HP:770/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:179/453 MP:389/389
+B-Raphael HP:442/623 MP:279/279
+C-Peri HP:290/483 MP:216/216
+D-Throne HP:365/504 MP:225/225
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Apis
+3-Flynn
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Nahobino HP:179/453 MP:389/389
+2-Raphael HP:442/623 MP:279/279
+3-Peri HP:290/483 MP:216/216
+4-Throne HP:365/504 MP:225/225
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl ataca a Nahobino
+Nahobino recibe 33 de daño
+Nahobino termina con HP:146/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:879/971 MP:527/527
+B-Apis HP:154/265 MP:52/52
+C-Magatsuhi HP:770/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:146/453 MP:389/389
+B-Raphael HP:442/623 MP:279/279
+C-Peri HP:290/483 MP:216/216
+D-Throne HP:365/504 MP:225/225
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apis
+2-Flynn
+3-Magatsuhi
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apis
+1-Nahobino HP:146/453 MP:389/389
+2-Raphael HP:442/623 MP:279/279
+3-Peri HP:290/483 MP:216/216
+4-Throne HP:365/504 MP:225/225
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apis
+1-Nahobino HP:146/453 MP:389/389
+2-Raphael HP:442/623 MP:279/279
+3-Peri HP:290/483 MP:216/216
+4-Throne HP:365/504 MP:225/225
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Apis ataca a Raphael
+Raphael recibe 18 de daño
+Raphael termina con HP:424/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:879/971 MP:527/527
+B-Apis HP:154/265 MP:52/52
+C-Magatsuhi HP:770/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:146/453 MP:389/389
+B-Raphael HP:424/623 MP:279/279
+C-Peri HP:290/483 MP:216/216
+D-Throne HP:365/504 MP:225/225
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Throne
+3-Peri
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:879/971 MP:527/527
+2-Apis HP:154/265 MP:52/52
+3-Magatsuhi HP:770/851 MP:170/170
+4-Tlazolteotl HP:5/315 MP:306/306
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Flynn
+Flynn recibe 52 de daño
+Flynn termina con HP:827/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:827/971 MP:527/527
+B-Apis HP:154/265 MP:52/52
+C-Magatsuhi HP:770/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:146/453 MP:389/389
+B-Raphael HP:424/623 MP:279/279
+C-Peri HP:290/483 MP:216/216
+D-Throne HP:365/504 MP:225/225
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Peri
+3-Nahobino
+4-Raphael
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Flynn HP:827/971 MP:527/527
+2-Apis HP:154/265 MP:52/52
+3-Magatsuhi HP:770/851 MP:170/170
+4-Tlazolteotl HP:5/315 MP:306/306
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Throne ataca a Apis
+Apis recibe 41 de daño
+Apis termina con HP:113/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:827/971 MP:527/527
+B-Apis HP:113/265 MP:52/52
+C-Magatsuhi HP:770/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:146/453 MP:389/389
+B-Raphael HP:424/623 MP:279/279
+C-Peri HP:290/483 MP:216/216
+D-Throne HP:365/504 MP:225/225
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+3-Raphael
+4-Throne
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Flynn HP:827/971 MP:527/527
+2-Apis HP:113/265 MP:52/52
+3-Magatsuhi HP:770/851 MP:170/170
+4-Tlazolteotl HP:5/315 MP:306/306
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Peri ataca a Apis
+Apis recibe 40 de daño
+Apis termina con HP:73/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:827/971 MP:527/527
+B-Apis HP:73/265 MP:52/52
+C-Magatsuhi HP:770/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:146/453 MP:389/389
+B-Raphael HP:424/623 MP:279/279
+C-Peri HP:290/483 MP:216/216
+D-Throne HP:365/504 MP:225/225
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Raphael
+3-Throne
+4-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Flynn HP:827/971 MP:527/527
+2-Apis HP:73/265 MP:52/52
+3-Magatsuhi HP:770/851 MP:170/170
+4-Tlazolteotl HP:5/315 MP:306/306
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino dispara a Magatsuhi
+Magatsuhi recibe 83 de daño
+Magatsuhi termina con HP:687/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:827/971 MP:527/527
+B-Apis HP:73/265 MP:52/52
+C-Magatsuhi HP:687/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:146/453 MP:389/389
+B-Raphael HP:424/623 MP:279/279
+C-Peri HP:290/483 MP:216/216
+D-Throne HP:365/504 MP:225/225
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+3-Tlazolteotl
+4-Apis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nahobino HP:146/453 MP:389/389
+2-Raphael HP:424/623 MP:279/279
+3-Peri HP:290/483 MP:216/216
+4-Throne HP:365/504 MP:225/225
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Flynn dispara a Throne
+Throne recibe 110 de daño
+Throne termina con HP:255/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:827/971 MP:527/527
+B-Apis HP:73/265 MP:52/52
+C-Magatsuhi HP:687/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:146/453 MP:389/389
+B-Raphael HP:424/623 MP:279/279
+C-Peri HP:290/483 MP:216/216
+D-Throne HP:255/504 MP:225/225
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Tlazolteotl
+3-Apis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Nahobino HP:146/453 MP:389/389
+2-Raphael HP:424/623 MP:279/279
+3-Peri HP:290/483 MP:216/216
+4-Throne HP:255/504 MP:225/225
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Magatsuhi ataca a Peri
+Peri recibe 65 de daño
+Peri termina con HP:225/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:827/971 MP:527/527
+B-Apis HP:73/265 MP:52/52
+C-Magatsuhi HP:687/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:146/453 MP:389/389
+B-Raphael HP:424/623 MP:279/279
+C-Peri HP:225/483 MP:216/216
+D-Throne HP:255/504 MP:225/225
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Apis
+3-Flynn
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Nahobino HP:146/453 MP:389/389
+2-Raphael HP:424/623 MP:279/279
+3-Peri HP:225/483 MP:216/216
+4-Throne HP:255/504 MP:225/225
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tlazolteotl ataca a Peri
+Peri recibe 33 de daño
+Peri termina con HP:192/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:827/971 MP:527/527
+B-Apis HP:73/265 MP:52/52
+C-Magatsuhi HP:687/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:146/453 MP:389/389
+B-Raphael HP:424/623 MP:279/279
+C-Peri HP:192/483 MP:216/216
+D-Throne HP:255/504 MP:225/225
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apis
+2-Flynn
+3-Magatsuhi
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apis
+1-Nahobino HP:146/453 MP:389/389
+2-Raphael HP:424/623 MP:279/279
+3-Peri HP:192/483 MP:216/216
+4-Throne HP:255/504 MP:225/225
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Apis ataca a Peri
+Peri recibe 18 de daño
+Peri termina con HP:174/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:827/971 MP:527/527
+B-Apis HP:73/265 MP:52/52
+C-Magatsuhi HP:687/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:146/453 MP:389/389
+B-Raphael HP:424/623 MP:279/279
+C-Peri HP:174/483 MP:216/216
+D-Throne HP:255/504 MP:225/225
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Throne
+3-Peri
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:827/971 MP:527/527
+2-Apis HP:73/265 MP:52/52
+3-Magatsuhi HP:687/851 MP:170/170
+4-Tlazolteotl HP:5/315 MP:306/306
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:827/971 MP:527/527
+2-Apis HP:73/265 MP:52/52
+3-Magatsuhi HP:687/851 MP:170/170
+4-Tlazolteotl HP:5/315 MP:306/306
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:827/971 MP:527/527
+2-Apis HP:73/265 MP:52/52
+3-Magatsuhi HP:687/851 MP:170/170
+4-Tlazolteotl HP:5/315 MP:306/306
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Flynn
+Flynn recibe 52 de daño
+Flynn termina con HP:775/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:775/971 MP:527/527
+B-Apis HP:73/265 MP:52/52
+C-Magatsuhi HP:687/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:146/453 MP:389/389
+B-Raphael HP:424/623 MP:279/279
+C-Peri HP:174/483 MP:216/216
+D-Throne HP:255/504 MP:225/225
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Peri
+3-Nahobino
+4-Raphael
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Flynn HP:775/971 MP:527/527
+2-Apis HP:73/265 MP:52/52
+3-Magatsuhi HP:687/851 MP:170/170
+4-Tlazolteotl HP:5/315 MP:306/306
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Throne ataca a Flynn
+Flynn recibe 41 de daño
+Flynn termina con HP:734/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:734/971 MP:527/527
+B-Apis HP:73/265 MP:52/52
+C-Magatsuhi HP:687/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:146/453 MP:389/389
+B-Raphael HP:424/623 MP:279/279
+C-Peri HP:174/483 MP:216/216
+D-Throne HP:255/504 MP:225/225
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+3-Raphael
+4-Throne
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Flynn HP:734/971 MP:527/527
+2-Apis HP:73/265 MP:52/52
+3-Magatsuhi HP:687/851 MP:170/170
+4-Tlazolteotl HP:5/315 MP:306/306
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Flynn HP:734/971 MP:527/527
+2-Apis HP:73/265 MP:52/52
+3-Magatsuhi HP:687/851 MP:170/170
+4-Tlazolteotl HP:5/315 MP:306/306
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Peri ataca a Apis
+Apis recibe 40 de daño
+Apis termina con HP:33/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:734/971 MP:527/527
+B-Apis HP:33/265 MP:52/52
+C-Magatsuhi HP:687/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:146/453 MP:389/389
+B-Raphael HP:424/623 MP:279/279
+C-Peri HP:174/483 MP:216/216
+D-Throne HP:255/504 MP:225/225
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Raphael
+3-Throne
+4-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Flynn HP:734/971 MP:527/527
+2-Apis HP:33/265 MP:52/52
+3-Magatsuhi HP:687/851 MP:170/170
+4-Tlazolteotl HP:5/315 MP:306/306
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Flynn HP:734/971 MP:527/527
+2-Apis HP:33/265 MP:52/52
+3-Magatsuhi HP:687/851 MP:170/170
+4-Tlazolteotl HP:5/315 MP:306/306
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Flynn
+Flynn recibe 83 de daño
+Flynn termina con HP:651/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:651/971 MP:527/527
+B-Apis HP:33/265 MP:52/52
+C-Magatsuhi HP:687/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:146/453 MP:389/389
+B-Raphael HP:424/623 MP:279/279
+C-Peri HP:174/483 MP:216/216
+D-Throne HP:255/504 MP:225/225
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+3-Tlazolteotl
+4-Apis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nahobino HP:146/453 MP:389/389
+2-Raphael HP:424/623 MP:279/279
+3-Peri HP:174/483 MP:216/216
+4-Throne HP:255/504 MP:225/225
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Peri
+Peri recibe 88 de daño
+Peri termina con HP:86/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:651/971 MP:527/527
+B-Apis HP:33/265 MP:52/52
+C-Magatsuhi HP:687/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:146/453 MP:389/389
+B-Raphael HP:424/623 MP:279/279
+C-Peri HP:86/483 MP:216/216
+D-Throne HP:255/504 MP:225/225
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Tlazolteotl
+3-Apis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Nahobino HP:146/453 MP:389/389
+2-Raphael HP:424/623 MP:279/279
+3-Peri HP:86/483 MP:216/216
+4-Throne HP:255/504 MP:225/225
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Raphael
+Raphael recibe 65 de daño
+Raphael termina con HP:359/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:651/971 MP:527/527
+B-Apis HP:33/265 MP:52/52
+C-Magatsuhi HP:687/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:146/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:86/483 MP:216/216
+D-Throne HP:255/504 MP:225/225
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Apis
+3-Flynn
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Nahobino HP:146/453 MP:389/389
+2-Raphael HP:359/623 MP:279/279
+3-Peri HP:86/483 MP:216/216
+4-Throne HP:255/504 MP:225/225
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tlazolteotl ataca a Peri
+Peri recibe 33 de daño
+Peri termina con HP:53/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:651/971 MP:527/527
+B-Apis HP:33/265 MP:52/52
+C-Magatsuhi HP:687/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:146/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-Throne HP:255/504 MP:225/225
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apis
+2-Flynn
+3-Magatsuhi
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apis
+1-Nahobino HP:146/453 MP:389/389
+2-Raphael HP:359/623 MP:279/279
+3-Peri HP:53/483 MP:216/216
+4-Throne HP:255/504 MP:225/225
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apis
+1-Nahobino HP:146/453 MP:389/389
+2-Raphael HP:359/623 MP:279/279
+3-Peri HP:53/483 MP:216/216
+4-Throne HP:255/504 MP:225/225
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Apis ataca a Nahobino
+Nahobino recibe 18 de daño
+Nahobino termina con HP:128/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:651/971 MP:527/527
+B-Apis HP:33/265 MP:52/52
+C-Magatsuhi HP:687/851 MP:170/170
+D-Tlazolteotl HP:5/315 MP:306/306
+Equipo de Nahobino (J2)
+A-Nahobino HP:128/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-Throne HP:255/504 MP:225/225
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Throne
+3-Peri
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:651/971 MP:527/527
+2-Apis HP:33/265 MP:52/52
+3-Magatsuhi HP:687/851 MP:170/170
+4-Tlazolteotl HP:5/315 MP:306/306
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Raphael ataca a Tlazolteotl
+Tlazolteotl recibe 52 de daño
+Tlazolteotl termina con HP:0/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:651/971 MP:527/527
+B-Apis HP:33/265 MP:52/52
+C-Magatsuhi HP:687/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:128/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-Throne HP:255/504 MP:225/225
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Peri
+3-Nahobino
+4-Raphael
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Flynn HP:651/971 MP:527/527
+2-Apis HP:33/265 MP:52/52
+3-Magatsuhi HP:687/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Throne ataca a Magatsuhi
+Magatsuhi recibe 41 de daño
+Magatsuhi termina con HP:646/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:651/971 MP:527/527
+B-Apis HP:33/265 MP:52/52
+C-Magatsuhi HP:646/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:128/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-Throne HP:255/504 MP:225/225
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+3-Raphael
+4-Throne
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Flynn HP:651/971 MP:527/527
+2-Apis HP:33/265 MP:52/52
+3-Magatsuhi HP:646/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Peri ataca a Magatsuhi
+Magatsuhi recibe 40 de daño
+Magatsuhi termina con HP:606/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:651/971 MP:527/527
+B-Apis HP:33/265 MP:52/52
+C-Magatsuhi HP:606/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:128/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-Throne HP:255/504 MP:225/225
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Raphael
+3-Throne
+4-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Flynn HP:651/971 MP:527/527
+2-Apis HP:33/265 MP:52/52
+3-Magatsuhi HP:606/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino dispara a Magatsuhi
+Magatsuhi recibe 83 de daño
+Magatsuhi termina con HP:523/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:651/971 MP:527/527
+B-Apis HP:33/265 MP:52/52
+C-Magatsuhi HP:523/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:128/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-Throne HP:255/504 MP:225/225
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+3-Apis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nahobino HP:128/453 MP:389/389
+2-Raphael HP:359/623 MP:279/279
+3-Peri HP:53/483 MP:216/216
+4-Throne HP:255/504 MP:225/225
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nahobino HP:128/453 MP:389/389
+2-Raphael HP:359/623 MP:279/279
+3-Peri HP:53/483 MP:216/216
+4-Throne HP:255/504 MP:225/225
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Flynn ataca a Throne
+Throne recibe 88 de daño
+Throne termina con HP:167/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:651/971 MP:527/527
+B-Apis HP:33/265 MP:52/52
+C-Magatsuhi HP:523/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:128/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-Throne HP:167/504 MP:225/225
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Apis
+3-Flynn
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Nahobino HP:128/453 MP:389/389
+2-Raphael HP:359/623 MP:279/279
+3-Peri HP:53/483 MP:216/216
+4-Throne HP:167/504 MP:225/225
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Magatsuhi ataca a Throne
+Throne recibe 65 de daño
+Throne termina con HP:102/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:651/971 MP:527/527
+B-Apis HP:33/265 MP:52/52
+C-Magatsuhi HP:523/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:128/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-Throne HP:102/504 MP:225/225
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apis
+2-Flynn
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apis
+1-Nahobino HP:128/453 MP:389/389
+2-Raphael HP:359/623 MP:279/279
+3-Peri HP:53/483 MP:216/216
+4-Throne HP:102/504 MP:225/225
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apis
+1-Nahobino HP:128/453 MP:389/389
+2-Raphael HP:359/623 MP:279/279
+3-Peri HP:53/483 MP:216/216
+4-Throne HP:102/504 MP:225/225
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Apis ataca a Nahobino
+Nahobino recibe 18 de daño
+Nahobino termina con HP:110/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:651/971 MP:527/527
+B-Apis HP:33/265 MP:52/52
+C-Magatsuhi HP:523/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:110/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-Throne HP:102/504 MP:225/225
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Throne
+3-Peri
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:651/971 MP:527/527
+2-Apis HP:33/265 MP:52/52
+3-Magatsuhi HP:523/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Flynn
+Flynn recibe 52 de daño
+Flynn termina con HP:599/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:599/971 MP:527/527
+B-Apis HP:33/265 MP:52/52
+C-Magatsuhi HP:523/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:110/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-Throne HP:102/504 MP:225/225
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Throne
+2-Peri
+3-Nahobino
+4-Raphael
+----------------------------------------
+Seleccione una acción para Throne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throne
+1-Flynn HP:599/971 MP:527/527
+2-Apis HP:33/265 MP:52/52
+3-Magatsuhi HP:523/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Throne ataca a Magatsuhi
+Magatsuhi recibe 41 de daño
+Magatsuhi termina con HP:482/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:599/971 MP:527/527
+B-Apis HP:33/265 MP:52/52
+C-Magatsuhi HP:482/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:110/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-Throne HP:102/504 MP:225/225
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+3-Raphael
+4-Throne
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Flynn HP:599/971 MP:527/527
+2-Apis HP:33/265 MP:52/52
+3-Magatsuhi HP:482/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Peri ataca a Apis
+Apis recibe 40 de daño
+Apis termina con HP:0/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:599/971 MP:527/527
+B-
+C-Magatsuhi HP:482/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:110/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-Throne HP:102/504 MP:225/225
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Raphael
+3-Throne
+4-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Flynn HP:599/971 MP:527/527
+2-Magatsuhi HP:482/851 MP:170/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca a Magatsuhi
+Magatsuhi recibe 29 de daño
+Magatsuhi termina con HP:453/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:599/971 MP:527/527
+B-
+C-Magatsuhi HP:453/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:110/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-Throne HP:102/504 MP:225/225
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nahobino HP:110/453 MP:389/389
+2-Raphael HP:359/623 MP:279/279
+3-Peri HP:53/483 MP:216/216
+4-Throne HP:102/504 MP:225/225
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Flynn ataca a Throne
+Throne recibe 88 de daño
+Throne termina con HP:14/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:599/971 MP:527/527
+B-
+C-Magatsuhi HP:453/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:110/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-Throne HP:14/504 MP:225/225
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Flynn
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Nahobino HP:110/453 MP:389/389
+2-Raphael HP:359/623 MP:279/279
+3-Peri HP:53/483 MP:216/216
+4-Throne HP:14/504 MP:225/225
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Magatsuhi ataca a Throne
+Throne recibe 65 de daño
+Throne termina con HP:0/504
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:599/971 MP:527/527
+B-
+C-Magatsuhi HP:453/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:110/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Peri
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:599/971 MP:527/527
+2-Magatsuhi HP:453/851 MP:170/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Flynn
+Flynn recibe 52 de daño
+Flynn termina con HP:547/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:547/971 MP:527/527
+B-
+C-Magatsuhi HP:453/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:110/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+3-Raphael
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Flynn HP:547/971 MP:527/527
+2-Magatsuhi HP:453/851 MP:170/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Flynn
+Flynn recibe 40 de daño
+Flynn termina con HP:507/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:507/971 MP:527/527
+B-
+C-Magatsuhi HP:453/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:110/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Raphael
+3-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Flynn HP:507/971 MP:527/527
+2-Magatsuhi HP:453/851 MP:170/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Magatsuhi
+Magatsuhi recibe 83 de daño
+Magatsuhi termina con HP:370/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:507/971 MP:527/527
+B-
+C-Magatsuhi HP:370/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:110/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nahobino HP:110/453 MP:389/389
+2-Raphael HP:359/623 MP:279/279
+3-Peri HP:53/483 MP:216/216
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nahobino HP:110/453 MP:389/389
+2-Raphael HP:359/623 MP:279/279
+3-Peri HP:53/483 MP:216/216
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Nahobino
+Nahobino recibe 110 de daño
+Nahobino termina con HP:0/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:507/971 MP:527/527
+B-
+C-Magatsuhi HP:370/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Raphael HP:359/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Flynn
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Raphael HP:359/623 MP:279/279
+2-Peri HP:53/483 MP:216/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Raphael
+Raphael recibe 65 de daño
+Raphael termina con HP:294/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:507/971 MP:527/527
+B-
+C-Magatsuhi HP:370/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Raphael HP:294/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Peri
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:507/971 MP:527/527
+2-Magatsuhi HP:370/851 MP:170/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Flynn
+Flynn recibe 52 de daño
+Flynn termina con HP:455/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:455/971 MP:527/527
+B-
+C-Magatsuhi HP:370/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Raphael HP:294/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Raphael
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Flynn HP:455/971 MP:527/527
+2-Magatsuhi HP:370/851 MP:170/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Flynn
+Flynn recibe 40 de daño
+Flynn termina con HP:415/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:415/971 MP:527/527
+B-
+C-Magatsuhi HP:370/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Raphael HP:294/623 MP:279/279
+C-Peri HP:53/483 MP:216/216
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Raphael HP:294/623 MP:279/279
+2-Peri HP:53/483 MP:216/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Peri
+Peri recibe 88 de daño
+Peri termina con HP:0/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:415/971 MP:527/527
+B-
+C-Magatsuhi HP:370/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Raphael HP:294/623 MP:279/279
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Flynn
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Raphael HP:294/623 MP:279/279
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Raphael
+Raphael recibe 65 de daño
+Raphael termina con HP:229/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:415/971 MP:527/527
+B-
+C-Magatsuhi HP:370/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Raphael HP:229/623 MP:279/279
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:415/971 MP:527/527
+2-Magatsuhi HP:370/851 MP:170/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael ataca a Magatsuhi
+Magatsuhi recibe 52 de daño
+Magatsuhi termina con HP:318/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:415/971 MP:527/527
+B-
+C-Magatsuhi HP:318/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Raphael HP:229/623 MP:279/279
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Raphael HP:229/623 MP:279/279
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Raphael HP:229/623 MP:279/279
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Raphael
+Raphael recibe 88 de daño
+Raphael termina con HP:141/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:415/971 MP:527/527
+B-
+C-Magatsuhi HP:318/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Raphael HP:141/623 MP:279/279
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Flynn
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Raphael HP:141/623 MP:279/279
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Raphael HP:141/623 MP:279/279
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Raphael
+Raphael recibe 65 de daño
+Raphael termina con HP:76/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:415/971 MP:527/527
+B-
+C-Magatsuhi HP:318/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Raphael HP:76/623 MP:279/279
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Flynn HP:415/971 MP:527/527
+2-Magatsuhi HP:318/851 MP:170/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Flynn
+Flynn recibe 52 de daño
+Flynn termina con HP:363/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:363/971 MP:527/527
+B-
+C-Magatsuhi HP:318/851 MP:170/170
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Raphael HP:76/623 MP:279/279
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Raphael HP:76/623 MP:279/279
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Raphael HP:76/623 MP:279/279
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Raphael
+Raphael recibe 88 de daño
+Raphael termina con HP:0/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Flynn (J1)

@@ -1,0 +1,516 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 20
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Kaso HP:108/108 MP:104/104
+C-Gu Huo Niao HP:122/122 MP:117/117
+D-Master Therion HP:497/497 MP:223/223
+Equipo de Tamaki (J2)
+A-Tamaki HP:999/999 MP:542/542
+B-Nergal HP:644/644 MP:288/288
+C-Kamapua'a HP:238/238 MP:107/107
+D-Mastema HP:399/399 MP:387/387
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Master Therion
+2-Nahobino
+3-Gu Huo Niao
+4-Kaso
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Master Therion use
+1-Pandemic Bomb MP:11
+2-Agidyne MP:14
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Master Therion
+1-Tamaki HP:999/999 MP:542/542
+2-Nergal HP:644/644 MP:288/288
+3-Kamapua'a HP:238/238 MP:107/107
+4-Mastema HP:399/399 MP:387/387
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Master Therion lanza fuego a Tamaki
+Tamaki es resistente el ataque de Master Therion
+Tamaki recibe 59 de daño
+Tamaki termina con HP:940/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Kaso HP:108/108 MP:104/104
+C-Gu Huo Niao HP:122/122 MP:117/117
+D-Master Therion HP:497/497 MP:209/223
+Equipo de Tamaki (J2)
+A-Tamaki HP:940/999 MP:542/542
+B-Nergal HP:644/644 MP:288/288
+C-Kamapua'a HP:238/238 MP:107/107
+D-Mastema HP:399/399 MP:387/387
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Gu Huo Niao
+3-Kaso
+4-Master Therion
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Trisagion MP:22
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Tamaki HP:940/999 MP:542/542
+2-Nergal HP:644/644 MP:288/288
+3-Kamapua'a HP:238/238 MP:107/107
+4-Mastema HP:399/399 MP:387/387
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nahobino lanza fuego a Mastema
+Mastema es débil contra el ataque de Nahobino
+Mastema recibe 273 de daño
+Mastema termina con HP:126/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:367/389
+B-Kaso HP:108/108 MP:104/104
+C-Gu Huo Niao HP:122/122 MP:117/117
+D-Master Therion HP:497/497 MP:209/223
+Equipo de Tamaki (J2)
+A-Tamaki HP:940/999 MP:542/542
+B-Nergal HP:644/644 MP:288/288
+C-Kamapua'a HP:238/238 MP:107/107
+D-Mastema HP:126/399 MP:387/387
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Kaso
+3-Master Therion
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gu Huo Niao use
+1-Agilao MP:8
+2-Patra MP:5
+3-Lullaby MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gu Huo Niao
+1-Tamaki HP:940/999 MP:542/542
+2-Nergal HP:644/644 MP:288/288
+3-Kamapua'a HP:238/238 MP:107/107
+4-Mastema HP:126/399 MP:387/387
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Gu Huo Niao lanza fuego a Tamaki
+Tamaki es resistente el ataque de Gu Huo Niao
+Tamaki recibe 30 de daño
+Tamaki termina con HP:910/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:367/389
+B-Kaso HP:108/108 MP:104/104
+C-Gu Huo Niao HP:122/122 MP:109/117
+D-Master Therion HP:497/497 MP:209/223
+Equipo de Tamaki (J2)
+A-Tamaki HP:910/999 MP:542/542
+B-Nergal HP:644/644 MP:288/288
+C-Kamapua'a HP:238/238 MP:107/107
+D-Mastema HP:126/399 MP:387/387
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kaso
+2-Master Therion
+3-Nahobino
+4-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Kaso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kaso use
+1-Agi MP:5
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kaso
+1-Tamaki HP:910/999 MP:542/542
+2-Nergal HP:644/644 MP:288/288
+3-Kamapua'a HP:238/238 MP:107/107
+4-Mastema HP:126/399 MP:387/387
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kaso lanza fuego a Mastema
+Mastema es débil contra el ataque de Kaso
+Mastema recibe 58 de daño
+Mastema termina con HP:68/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:367/389
+B-Kaso HP:108/108 MP:99/104
+C-Gu Huo Niao HP:122/122 MP:109/117
+D-Master Therion HP:497/497 MP:209/223
+Equipo de Tamaki (J2)
+A-Tamaki HP:910/999 MP:542/542
+B-Nergal HP:644/644 MP:288/288
+C-Kamapua'a HP:238/238 MP:107/107
+D-Mastema HP:68/399 MP:387/387
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Master Therion
+2-Nahobino
+3-Gu Huo Niao
+4-Kaso
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Master Therion use
+1-Pandemic Bomb MP:11
+2-Agidyne MP:14
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Master Therion
+1-Tamaki HP:910/999 MP:542/542
+2-Nergal HP:644/644 MP:288/288
+3-Kamapua'a HP:238/238 MP:107/107
+4-Mastema HP:68/399 MP:387/387
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Master Therion lanza fuego a Mastema
+Mastema es débil contra el ataque de Master Therion
+Mastema recibe 177 de daño
+Mastema termina con HP:0/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:367/389
+B-Kaso HP:108/108 MP:99/104
+C-Gu Huo Niao HP:122/122 MP:109/117
+D-Master Therion HP:497/497 MP:195/223
+Equipo de Tamaki (J2)
+A-Tamaki HP:910/999 MP:542/542
+B-Nergal HP:644/644 MP:288/288
+C-Kamapua'a HP:238/238 MP:107/107
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Nahobino
+2-Gu Huo Niao
+3-Kaso
+4-Master Therion
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Trisagion MP:22
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Tamaki HP:910/999 MP:542/542
+2-Nergal HP:644/644 MP:288/288
+3-Kamapua'a HP:238/238 MP:107/107
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino lanza fuego a Tamaki
+Tamaki es resistente el ataque de Nahobino
+Tamaki recibe 91 de daño
+Tamaki termina con HP:819/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:345/389
+B-Kaso HP:108/108 MP:99/104
+C-Gu Huo Niao HP:122/122 MP:109/117
+D-Master Therion HP:497/497 MP:195/223
+Equipo de Tamaki (J2)
+A-Tamaki HP:819/999 MP:542/542
+B-Nergal HP:644/644 MP:288/288
+C-Kamapua'a HP:238/238 MP:107/107
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Kaso
+3-Master Therion
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gu Huo Niao use
+1-Agilao MP:8
+2-Patra MP:5
+3-Lullaby MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gu Huo Niao
+1-Tamaki HP:819/999 MP:542/542
+2-Nergal HP:644/644 MP:288/288
+3-Kamapua'a HP:238/238 MP:107/107
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Gu Huo Niao lanza fuego a Tamaki
+Tamaki es resistente el ataque de Gu Huo Niao
+Tamaki recibe 30 de daño
+Tamaki termina con HP:789/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:345/389
+B-Kaso HP:108/108 MP:99/104
+C-Gu Huo Niao HP:122/122 MP:101/117
+D-Master Therion HP:497/497 MP:195/223
+Equipo de Tamaki (J2)
+A-Tamaki HP:789/999 MP:542/542
+B-Nergal HP:644/644 MP:288/288
+C-Kamapua'a HP:238/238 MP:107/107
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Kamapua'a
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nahobino HP:453/453 MP:345/389
+2-Kaso HP:108/108 MP:99/104
+3-Gu Huo Niao HP:122/122 MP:101/117
+4-Master Therion HP:497/497 MP:195/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Nahobino
+Nahobino recibe 54 de daño
+Nahobino termina con HP:399/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:399/453 MP:345/389
+B-Kaso HP:108/108 MP:99/104
+C-Gu Huo Niao HP:122/122 MP:101/117
+D-Master Therion HP:497/497 MP:195/223
+Equipo de Tamaki (J2)
+A-Tamaki HP:789/999 MP:542/542
+B-Nergal HP:644/644 MP:288/288
+C-Kamapua'a HP:238/238 MP:107/107
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kamapua'a
+2-Tamaki
+3-Nergal
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Nahobino HP:399/453 MP:345/389
+2-Kaso HP:108/108 MP:99/104
+3-Gu Huo Niao HP:122/122 MP:101/117
+4-Master Therion HP:497/497 MP:195/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kamapua'a ataca a Nahobino
+Nahobino recibe 18 de daño
+Nahobino termina con HP:381/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:381/453 MP:345/389
+B-Kaso HP:108/108 MP:99/104
+C-Gu Huo Niao HP:122/122 MP:101/117
+D-Master Therion HP:497/497 MP:195/223
+Equipo de Tamaki (J2)
+A-Tamaki HP:789/999 MP:542/542
+B-Nergal HP:644/644 MP:288/288
+C-Kamapua'a HP:238/238 MP:107/107
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Nergal
+3-Kamapua'a
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Tamaki (J2) se rinde
+----------------------------------------
+Ganador: Nahobino (J1)

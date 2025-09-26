@@ -1,0 +1,2949 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 89
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-Raphael HP:623/623 MP:279/279
+D-Oni HP:218/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Michael HP:1002/1002 MP:199/199
+C-Tam Lin HP:218/218 MP:43/43
+D-Bishamonten HP:700/700 MP:139/139
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Joker
+3-Kikuri-Hime
+4-Oni
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Nanashi HP:140/140 MP:411/411
+2-Michael HP:1002/1002 MP:199/199
+3-Tam Lin HP:218/218 MP:43/43
+4-Bishamonten HP:700/700 MP:139/139
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Nanashi
+Nanashi recibe 52 de daño
+Nanashi termina con HP:88/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-Raphael HP:623/623 MP:279/279
+D-Oni HP:218/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:88/140 MP:411/411
+B-Michael HP:1002/1002 MP:199/199
+C-Tam Lin HP:218/218 MP:43/43
+D-Bishamonten HP:700/700 MP:139/139
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Kikuri-Hime
+3-Oni
+4-Raphael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:88/140 MP:411/411
+2-Michael HP:1002/1002 MP:199/199
+3-Tam Lin HP:218/218 MP:43/43
+4-Bishamonten HP:700/700 MP:139/139
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Tam Lin
+Tam Lin recibe 39 de daño
+Tam Lin termina con HP:179/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-Raphael HP:623/623 MP:279/279
+D-Oni HP:218/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:88/140 MP:411/411
+B-Michael HP:1002/1002 MP:199/199
+C-Tam Lin HP:179/218 MP:43/43
+D-Bishamonten HP:700/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Oni
+3-Raphael
+4-Joker
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Nanashi HP:88/140 MP:411/411
+2-Michael HP:1002/1002 MP:199/199
+3-Tam Lin HP:179/218 MP:43/43
+4-Bishamonten HP:700/700 MP:139/139
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kikuri-Hime ataca a Michael
+Michael recibe 22 de daño
+Michael termina con HP:980/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-Raphael HP:623/623 MP:279/279
+D-Oni HP:218/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:88/140 MP:411/411
+B-Michael HP:980/1002 MP:199/199
+C-Tam Lin HP:179/218 MP:43/43
+D-Bishamonten HP:700/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Raphael
+3-Joker
+4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Nanashi HP:88/140 MP:411/411
+2-Michael HP:980/1002 MP:199/199
+3-Tam Lin HP:179/218 MP:43/43
+4-Bishamonten HP:700/700 MP:139/139
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Oni ataca a Michael
+Michael recibe 14 de daño
+Michael termina con HP:966/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-Raphael HP:623/623 MP:279/279
+D-Oni HP:218/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:88/140 MP:411/411
+B-Michael HP:966/1002 MP:199/199
+C-Tam Lin HP:179/218 MP:43/43
+D-Bishamonten HP:700/700 MP:139/139
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Bishamonten
+3-Nanashi
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:597/597 MP:347/347
+2-Kikuri-Hime HP:216/216 MP:210/210
+3-Raphael HP:623/623 MP:279/279
+4-Oni HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Michael ataca a Raphael
+Raphael recibe 78 de daño
+Raphael termina con HP:545/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-Raphael HP:545/623 MP:279/279
+D-Oni HP:218/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:88/140 MP:411/411
+B-Michael HP:966/1002 MP:199/199
+C-Tam Lin HP:179/218 MP:43/43
+D-Bishamonten HP:700/700 MP:139/139
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Nanashi
+3-Tam Lin
+4-Michael
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:597/597 MP:347/347
+2-Kikuri-Hime HP:216/216 MP:210/210
+3-Raphael HP:545/623 MP:279/279
+4-Oni HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Bishamonten ataca a Kikuri-Hime
+Kikuri-Hime recibe 53 de daño
+Kikuri-Hime termina con HP:163/216
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kikuri-Hime HP:163/216 MP:210/210
+C-Raphael HP:545/623 MP:279/279
+D-Oni HP:218/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:88/140 MP:411/411
+B-Michael HP:966/1002 MP:199/199
+C-Tam Lin HP:179/218 MP:43/43
+D-Bishamonten HP:700/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Tam Lin
+3-Michael
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:597/597 MP:347/347
+2-Kikuri-Hime HP:163/216 MP:210/210
+3-Raphael HP:545/623 MP:279/279
+4-Oni HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi ataca a Raphael
+Raphael recibe 92 de daño
+Raphael termina con HP:453/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kikuri-Hime HP:163/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-Oni HP:218/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:88/140 MP:411/411
+B-Michael HP:966/1002 MP:199/199
+C-Tam Lin HP:179/218 MP:43/43
+D-Bishamonten HP:700/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Michael
+3-Bishamonten
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:597/597 MP:347/347
+2-Kikuri-Hime HP:163/216 MP:210/210
+3-Raphael HP:453/623 MP:279/279
+4-Oni HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:597/597 MP:347/347
+2-Kikuri-Hime HP:163/216 MP:210/210
+3-Raphael HP:453/623 MP:279/279
+4-Oni HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tam Lin ataca a Kikuri-Hime
+Kikuri-Hime recibe 14 de daño
+Kikuri-Hime termina con HP:149/216
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kikuri-Hime HP:149/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-Oni HP:218/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:88/140 MP:411/411
+B-Michael HP:966/1002 MP:199/199
+C-Tam Lin HP:179/218 MP:43/43
+D-Bishamonten HP:700/700 MP:139/139
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Joker
+3-Kikuri-Hime
+4-Oni
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Nanashi HP:88/140 MP:411/411
+2-Michael HP:966/1002 MP:199/199
+3-Tam Lin HP:179/218 MP:43/43
+4-Bishamonten HP:700/700 MP:139/139
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Raphael ataca a Bishamonten
+Bishamonten recibe 52 de daño
+Bishamonten termina con HP:648/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kikuri-Hime HP:149/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-Oni HP:218/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:88/140 MP:411/411
+B-Michael HP:966/1002 MP:199/199
+C-Tam Lin HP:179/218 MP:43/43
+D-Bishamonten HP:648/700 MP:139/139
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Kikuri-Hime
+3-Oni
+4-Raphael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:88/140 MP:411/411
+2-Michael HP:966/1002 MP:199/199
+3-Tam Lin HP:179/218 MP:43/43
+4-Bishamonten HP:648/700 MP:139/139
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Michael
+Michael recibe 28 de daño
+Michael termina con HP:938/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kikuri-Hime HP:149/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-Oni HP:218/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:88/140 MP:411/411
+B-Michael HP:938/1002 MP:199/199
+C-Tam Lin HP:179/218 MP:43/43
+D-Bishamonten HP:648/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Oni
+3-Raphael
+4-Joker
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Nanashi HP:88/140 MP:411/411
+2-Michael HP:938/1002 MP:199/199
+3-Tam Lin HP:179/218 MP:43/43
+4-Bishamonten HP:648/700 MP:139/139
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kikuri-Hime ataca a Nanashi
+Nanashi recibe 22 de daño
+Nanashi termina con HP:66/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kikuri-Hime HP:149/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-Oni HP:218/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:66/140 MP:411/411
+B-Michael HP:938/1002 MP:199/199
+C-Tam Lin HP:179/218 MP:43/43
+D-Bishamonten HP:648/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Raphael
+3-Joker
+4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Nanashi HP:66/140 MP:411/411
+2-Michael HP:938/1002 MP:199/199
+3-Tam Lin HP:179/218 MP:43/43
+4-Bishamonten HP:648/700 MP:139/139
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Oni ataca a Nanashi
+Nanashi recibe 14 de daño
+Nanashi termina con HP:52/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kikuri-Hime HP:149/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-Oni HP:218/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:52/140 MP:411/411
+B-Michael HP:938/1002 MP:199/199
+C-Tam Lin HP:179/218 MP:43/43
+D-Bishamonten HP:648/700 MP:139/139
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Bishamonten
+3-Nanashi
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:597/597 MP:347/347
+2-Kikuri-Hime HP:149/216 MP:210/210
+3-Raphael HP:453/623 MP:279/279
+4-Oni HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Michael ataca a Kikuri-Hime
+Kikuri-Hime recibe 78 de daño
+Kikuri-Hime termina con HP:71/216
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kikuri-Hime HP:71/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-Oni HP:218/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:52/140 MP:411/411
+B-Michael HP:938/1002 MP:199/199
+C-Tam Lin HP:179/218 MP:43/43
+D-Bishamonten HP:648/700 MP:139/139
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Nanashi
+3-Tam Lin
+4-Michael
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:597/597 MP:347/347
+2-Kikuri-Hime HP:71/216 MP:210/210
+3-Raphael HP:453/623 MP:279/279
+4-Oni HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:597/597 MP:347/347
+2-Kikuri-Hime HP:71/216 MP:210/210
+3-Raphael HP:453/623 MP:279/279
+4-Oni HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Bishamonten ataca a Oni
+Oni recibe 53 de daño
+Oni termina con HP:165/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kikuri-Hime HP:71/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-Oni HP:165/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:52/140 MP:411/411
+B-Michael HP:938/1002 MP:199/199
+C-Tam Lin HP:179/218 MP:43/43
+D-Bishamonten HP:648/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Tam Lin
+3-Michael
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:597/597 MP:347/347
+2-Kikuri-Hime HP:71/216 MP:210/210
+3-Raphael HP:453/623 MP:279/279
+4-Oni HP:165/218 MP:43/43
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nanashi ataca a Oni
+Oni recibe 92 de daño
+Oni termina con HP:73/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kikuri-Hime HP:71/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-Oni HP:73/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:52/140 MP:411/411
+B-Michael HP:938/1002 MP:199/199
+C-Tam Lin HP:179/218 MP:43/43
+D-Bishamonten HP:648/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Michael
+3-Bishamonten
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:597/597 MP:347/347
+2-Kikuri-Hime HP:71/216 MP:210/210
+3-Raphael HP:453/623 MP:279/279
+4-Oni HP:73/218 MP:43/43
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ataca a Joker
+Joker recibe 14 de daño
+Joker termina con HP:583/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:583/597 MP:347/347
+B-Kikuri-Hime HP:71/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-Oni HP:73/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:52/140 MP:411/411
+B-Michael HP:938/1002 MP:199/199
+C-Tam Lin HP:179/218 MP:43/43
+D-Bishamonten HP:648/700 MP:139/139
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Joker
+3-Kikuri-Hime
+4-Oni
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Nanashi HP:52/140 MP:411/411
+2-Michael HP:938/1002 MP:199/199
+3-Tam Lin HP:179/218 MP:43/43
+4-Bishamonten HP:648/700 MP:139/139
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Raphael ataca a Tam Lin
+Tam Lin recibe 52 de daño
+Tam Lin termina con HP:127/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:583/597 MP:347/347
+B-Kikuri-Hime HP:71/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-Oni HP:73/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:52/140 MP:411/411
+B-Michael HP:938/1002 MP:199/199
+C-Tam Lin HP:127/218 MP:43/43
+D-Bishamonten HP:648/700 MP:139/139
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Kikuri-Hime
+3-Oni
+4-Raphael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:52/140 MP:411/411
+2-Michael HP:938/1002 MP:199/199
+3-Tam Lin HP:127/218 MP:43/43
+4-Bishamonten HP:648/700 MP:139/139
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Nanashi
+Nanashi recibe 39 de daño
+Nanashi termina con HP:13/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:583/597 MP:347/347
+B-Kikuri-Hime HP:71/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-Oni HP:73/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:938/1002 MP:199/199
+C-Tam Lin HP:127/218 MP:43/43
+D-Bishamonten HP:648/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Oni
+3-Raphael
+4-Joker
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Nanashi HP:13/140 MP:411/411
+2-Michael HP:938/1002 MP:199/199
+3-Tam Lin HP:127/218 MP:43/43
+4-Bishamonten HP:648/700 MP:139/139
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Nanashi HP:13/140 MP:411/411
+2-Michael HP:938/1002 MP:199/199
+3-Tam Lin HP:127/218 MP:43/43
+4-Bishamonten HP:648/700 MP:139/139
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kikuri-Hime ataca a Michael
+Michael recibe 22 de daño
+Michael termina con HP:916/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:583/597 MP:347/347
+B-Kikuri-Hime HP:71/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-Oni HP:73/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-Tam Lin HP:127/218 MP:43/43
+D-Bishamonten HP:648/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Raphael
+3-Joker
+4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Nanashi HP:13/140 MP:411/411
+2-Michael HP:916/1002 MP:199/199
+3-Tam Lin HP:127/218 MP:43/43
+4-Bishamonten HP:648/700 MP:139/139
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Nanashi HP:13/140 MP:411/411
+2-Michael HP:916/1002 MP:199/199
+3-Tam Lin HP:127/218 MP:43/43
+4-Bishamonten HP:648/700 MP:139/139
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Nanashi HP:13/140 MP:411/411
+2-Michael HP:916/1002 MP:199/199
+3-Tam Lin HP:127/218 MP:43/43
+4-Bishamonten HP:648/700 MP:139/139
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Oni ataca a Bishamonten
+Bishamonten recibe 14 de daño
+Bishamonten termina con HP:634/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:583/597 MP:347/347
+B-Kikuri-Hime HP:71/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-Oni HP:73/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-Tam Lin HP:127/218 MP:43/43
+D-Bishamonten HP:634/700 MP:139/139
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Bishamonten
+3-Nanashi
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:583/597 MP:347/347
+2-Kikuri-Hime HP:71/216 MP:210/210
+3-Raphael HP:453/623 MP:279/279
+4-Oni HP:73/218 MP:43/43
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Joker
+Joker recibe 78 de daño
+Joker termina con HP:505/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:505/597 MP:347/347
+B-Kikuri-Hime HP:71/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-Oni HP:73/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-Tam Lin HP:127/218 MP:43/43
+D-Bishamonten HP:634/700 MP:139/139
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Nanashi
+3-Tam Lin
+4-Michael
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:505/597 MP:347/347
+2-Kikuri-Hime HP:71/216 MP:210/210
+3-Raphael HP:453/623 MP:279/279
+4-Oni HP:73/218 MP:43/43
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Bishamonten ataca a Oni
+Oni recibe 53 de daño
+Oni termina con HP:20/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:505/597 MP:347/347
+B-Kikuri-Hime HP:71/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-Oni HP:20/218 MP:43/43
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-Tam Lin HP:127/218 MP:43/43
+D-Bishamonten HP:634/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Tam Lin
+3-Michael
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:505/597 MP:347/347
+2-Kikuri-Hime HP:71/216 MP:210/210
+3-Raphael HP:453/623 MP:279/279
+4-Oni HP:20/218 MP:43/43
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nanashi ataca a Oni
+Oni recibe 92 de daño
+Oni termina con HP:0/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:505/597 MP:347/347
+B-Kikuri-Hime HP:71/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-Tam Lin HP:127/218 MP:43/43
+D-Bishamonten HP:634/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Michael
+3-Bishamonten
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:505/597 MP:347/347
+2-Kikuri-Hime HP:71/216 MP:210/210
+3-Raphael HP:453/623 MP:279/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tam Lin ataca a Kikuri-Hime
+Kikuri-Hime recibe 14 de daño
+Kikuri-Hime termina con HP:57/216
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:505/597 MP:347/347
+B-Kikuri-Hime HP:57/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-Tam Lin HP:127/218 MP:43/43
+D-Bishamonten HP:634/700 MP:139/139
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Joker
+3-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Nanashi HP:13/140 MP:411/411
+2-Michael HP:916/1002 MP:199/199
+3-Tam Lin HP:127/218 MP:43/43
+4-Bishamonten HP:634/700 MP:139/139
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Raphael ataca a Tam Lin
+Tam Lin recibe 52 de daño
+Tam Lin termina con HP:75/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:505/597 MP:347/347
+B-Kikuri-Hime HP:57/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-Tam Lin HP:75/218 MP:43/43
+D-Bishamonten HP:634/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Kikuri-Hime
+3-Raphael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:13/140 MP:411/411
+2-Michael HP:916/1002 MP:199/199
+3-Tam Lin HP:75/218 MP:43/43
+4-Bishamonten HP:634/700 MP:139/139
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca a Tam Lin
+Tam Lin recibe 28 de daño
+Tam Lin termina con HP:47/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:505/597 MP:347/347
+B-Kikuri-Hime HP:57/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-Tam Lin HP:47/218 MP:43/43
+D-Bishamonten HP:634/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Raphael
+3-Joker
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Nanashi HP:13/140 MP:411/411
+2-Michael HP:916/1002 MP:199/199
+3-Tam Lin HP:47/218 MP:43/43
+4-Bishamonten HP:634/700 MP:139/139
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kikuri-Hime ataca a Bishamonten
+Bishamonten recibe 22 de daño
+Bishamonten termina con HP:612/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:505/597 MP:347/347
+B-Kikuri-Hime HP:57/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-Tam Lin HP:47/218 MP:43/43
+D-Bishamonten HP:612/700 MP:139/139
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Bishamonten
+3-Nanashi
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:505/597 MP:347/347
+2-Kikuri-Hime HP:57/216 MP:210/210
+3-Raphael HP:453/623 MP:279/279
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:505/597 MP:347/347
+2-Kikuri-Hime HP:57/216 MP:210/210
+3-Raphael HP:453/623 MP:279/279
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Joker
+Joker recibe 78 de daño
+Joker termina con HP:427/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:427/597 MP:347/347
+B-Kikuri-Hime HP:57/216 MP:210/210
+C-Raphael HP:453/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-Tam Lin HP:47/218 MP:43/43
+D-Bishamonten HP:612/700 MP:139/139
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Nanashi
+3-Tam Lin
+4-Michael
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:427/597 MP:347/347
+2-Kikuri-Hime HP:57/216 MP:210/210
+3-Raphael HP:453/623 MP:279/279
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:427/597 MP:347/347
+2-Kikuri-Hime HP:57/216 MP:210/210
+3-Raphael HP:453/623 MP:279/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Bishamonten ataca a Raphael
+Raphael recibe 53 de daño
+Raphael termina con HP:400/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:427/597 MP:347/347
+B-Kikuri-Hime HP:57/216 MP:210/210
+C-Raphael HP:400/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-Tam Lin HP:47/218 MP:43/43
+D-Bishamonten HP:612/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Tam Lin
+3-Michael
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:427/597 MP:347/347
+2-Kikuri-Hime HP:57/216 MP:210/210
+3-Raphael HP:400/623 MP:279/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi dispara a Kikuri-Hime
+Kikuri-Hime recibe 31 de daño
+Kikuri-Hime termina con HP:26/216
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:427/597 MP:347/347
+B-Kikuri-Hime HP:26/216 MP:210/210
+C-Raphael HP:400/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-Tam Lin HP:47/218 MP:43/43
+D-Bishamonten HP:612/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Michael
+3-Bishamonten
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Joker HP:427/597 MP:347/347
+2-Kikuri-Hime HP:26/216 MP:210/210
+3-Raphael HP:400/623 MP:279/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tam Lin ataca a Raphael
+Raphael recibe 14 de daño
+Raphael termina con HP:386/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:427/597 MP:347/347
+B-Kikuri-Hime HP:26/216 MP:210/210
+C-Raphael HP:386/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-Tam Lin HP:47/218 MP:43/43
+D-Bishamonten HP:612/700 MP:139/139
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Joker
+3-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Nanashi HP:13/140 MP:411/411
+2-Michael HP:916/1002 MP:199/199
+3-Tam Lin HP:47/218 MP:43/43
+4-Bishamonten HP:612/700 MP:139/139
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Nanashi HP:13/140 MP:411/411
+2-Michael HP:916/1002 MP:199/199
+3-Tam Lin HP:47/218 MP:43/43
+4-Bishamonten HP:612/700 MP:139/139
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Nanashi HP:13/140 MP:411/411
+2-Michael HP:916/1002 MP:199/199
+3-Tam Lin HP:47/218 MP:43/43
+4-Bishamonten HP:612/700 MP:139/139
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Raphael ataca a Bishamonten
+Bishamonten recibe 52 de daño
+Bishamonten termina con HP:560/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:427/597 MP:347/347
+B-Kikuri-Hime HP:26/216 MP:210/210
+C-Raphael HP:386/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-Tam Lin HP:47/218 MP:43/43
+D-Bishamonten HP:560/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Kikuri-Hime
+3-Raphael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:13/140 MP:411/411
+2-Michael HP:916/1002 MP:199/199
+3-Tam Lin HP:47/218 MP:43/43
+4-Bishamonten HP:560/700 MP:139/139
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca a Tam Lin
+Tam Lin recibe 28 de daño
+Tam Lin termina con HP:19/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:427/597 MP:347/347
+B-Kikuri-Hime HP:26/216 MP:210/210
+C-Raphael HP:386/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-Tam Lin HP:19/218 MP:43/43
+D-Bishamonten HP:560/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Raphael
+3-Joker
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Nanashi HP:13/140 MP:411/411
+2-Michael HP:916/1002 MP:199/199
+3-Tam Lin HP:19/218 MP:43/43
+4-Bishamonten HP:560/700 MP:139/139
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Nanashi HP:13/140 MP:411/411
+2-Michael HP:916/1002 MP:199/199
+3-Tam Lin HP:19/218 MP:43/43
+4-Bishamonten HP:560/700 MP:139/139
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Nanashi HP:13/140 MP:411/411
+2-Michael HP:916/1002 MP:199/199
+3-Tam Lin HP:19/218 MP:43/43
+4-Bishamonten HP:560/700 MP:139/139
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kikuri-Hime ataca a Tam Lin
+Tam Lin recibe 22 de daño
+Tam Lin termina con HP:0/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:427/597 MP:347/347
+B-Kikuri-Hime HP:26/216 MP:210/210
+C-Raphael HP:386/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-
+D-Bishamonten HP:560/700 MP:139/139
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Bishamonten
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:427/597 MP:347/347
+2-Kikuri-Hime HP:26/216 MP:210/210
+3-Raphael HP:386/623 MP:279/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Michael ataca a Raphael
+Raphael recibe 78 de daño
+Raphael termina con HP:308/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:427/597 MP:347/347
+B-Kikuri-Hime HP:26/216 MP:210/210
+C-Raphael HP:308/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-
+D-Bishamonten HP:560/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Nanashi
+3-Michael
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:427/597 MP:347/347
+2-Kikuri-Hime HP:26/216 MP:210/210
+3-Raphael HP:308/623 MP:279/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Bishamonten ataca a Kikuri-Hime
+Kikuri-Hime recibe 53 de daño
+Kikuri-Hime termina con HP:0/216
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:427/597 MP:347/347
+B-
+C-Raphael HP:308/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-
+D-Bishamonten HP:560/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Michael
+3-Bishamonten
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:427/597 MP:347/347
+2-Raphael HP:308/623 MP:279/279
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Joker
+Joker recibe 92 de daño
+Joker termina con HP:335/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:335/597 MP:347/347
+B-
+C-Raphael HP:308/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-
+D-Bishamonten HP:560/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Joker
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Nanashi HP:13/140 MP:411/411
+2-Michael HP:916/1002 MP:199/199
+3-Bishamonten HP:560/700 MP:139/139
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Raphael ataca a Bishamonten
+Bishamonten recibe 52 de daño
+Bishamonten termina con HP:508/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:335/597 MP:347/347
+B-
+C-Raphael HP:308/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:13/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-
+D-Bishamonten HP:508/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Raphael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:13/140 MP:411/411
+2-Michael HP:916/1002 MP:199/199
+3-Bishamonten HP:508/700 MP:139/139
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Nanashi
+Nanashi recibe 39 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:335/597 MP:347/347
+B-
+C-Raphael HP:308/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-
+D-Bishamonten HP:508/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Bishamonten
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:335/597 MP:347/347
+2-Raphael HP:308/623 MP:279/279
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:335/597 MP:347/347
+2-Raphael HP:308/623 MP:279/279
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Joker
+Joker recibe 78 de daño
+Joker termina con HP:257/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:257/597 MP:347/347
+B-
+C-Raphael HP:308/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-
+D-Bishamonten HP:508/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Michael
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:257/597 MP:347/347
+2-Raphael HP:308/623 MP:279/279
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Bishamonten ataca a Raphael
+Raphael recibe 53 de daño
+Raphael termina con HP:255/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:257/597 MP:347/347
+B-
+C-Raphael HP:255/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-
+D-Bishamonten HP:508/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Joker
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Michael HP:916/1002 MP:199/199
+2-Bishamonten HP:508/700 MP:139/139
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael ataca a Bishamonten
+Bishamonten recibe 52 de daño
+Bishamonten termina con HP:456/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:257/597 MP:347/347
+B-
+C-Raphael HP:255/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:916/1002 MP:199/199
+C-
+D-Bishamonten HP:456/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Raphael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Michael HP:916/1002 MP:199/199
+2-Bishamonten HP:456/700 MP:139/139
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Michael
+Michael recibe 28 de daño
+Michael termina con HP:888/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:257/597 MP:347/347
+B-
+C-Raphael HP:255/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:888/1002 MP:199/199
+C-
+D-Bishamonten HP:456/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Bishamonten
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:257/597 MP:347/347
+2-Raphael HP:255/623 MP:279/279
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:257/597 MP:347/347
+2-Raphael HP:255/623 MP:279/279
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:257/597 MP:347/347
+2-Raphael HP:255/623 MP:279/279
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Joker
+Joker recibe 78 de daño
+Joker termina con HP:179/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:179/597 MP:347/347
+B-
+C-Raphael HP:255/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:888/1002 MP:199/199
+C-
+D-Bishamonten HP:456/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Michael
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:179/597 MP:347/347
+2-Raphael HP:255/623 MP:279/279
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:179/597 MP:347/347
+2-Raphael HP:255/623 MP:279/279
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:179/597 MP:347/347
+2-Raphael HP:255/623 MP:279/279
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:179/597 MP:347/347
+2-Raphael HP:255/623 MP:279/279
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Bishamonten ataca a Joker
+Joker recibe 53 de daño
+Joker termina con HP:126/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:126/597 MP:347/347
+B-
+C-Raphael HP:255/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:888/1002 MP:199/199
+C-
+D-Bishamonten HP:456/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Joker
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Michael HP:888/1002 MP:199/199
+2-Bishamonten HP:456/700 MP:139/139
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael ataca a Bishamonten
+Bishamonten recibe 52 de daño
+Bishamonten termina con HP:404/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:126/597 MP:347/347
+B-
+C-Raphael HP:255/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:888/1002 MP:199/199
+C-
+D-Bishamonten HP:404/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Raphael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Michael HP:888/1002 MP:199/199
+2-Bishamonten HP:404/700 MP:139/139
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Michael
+Michael recibe 39 de daño
+Michael termina con HP:849/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:126/597 MP:347/347
+B-
+C-Raphael HP:255/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:849/1002 MP:199/199
+C-
+D-Bishamonten HP:404/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Bishamonten
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:126/597 MP:347/347
+2-Raphael HP:255/623 MP:279/279
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Michael ataca a Raphael
+Raphael recibe 78 de daño
+Raphael termina con HP:177/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:126/597 MP:347/347
+B-
+C-Raphael HP:177/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:849/1002 MP:199/199
+C-
+D-Bishamonten HP:404/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Michael
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:126/597 MP:347/347
+2-Raphael HP:177/623 MP:279/279
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:126/597 MP:347/347
+2-Raphael HP:177/623 MP:279/279
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:126/597 MP:347/347
+2-Raphael HP:177/623 MP:279/279
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:126/597 MP:347/347
+2-Raphael HP:177/623 MP:279/279
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Bishamonten ataca a Joker
+Joker recibe 53 de daño
+Joker termina con HP:73/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:73/597 MP:347/347
+B-
+C-Raphael HP:177/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:849/1002 MP:199/199
+C-
+D-Bishamonten HP:404/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Joker
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Michael HP:849/1002 MP:199/199
+2-Bishamonten HP:404/700 MP:139/139
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael ataca a Bishamonten
+Bishamonten recibe 52 de daño
+Bishamonten termina con HP:352/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:73/597 MP:347/347
+B-
+C-Raphael HP:177/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:849/1002 MP:199/199
+C-
+D-Bishamonten HP:352/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Raphael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Michael HP:849/1002 MP:199/199
+2-Bishamonten HP:352/700 MP:139/139
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Michael HP:849/1002 MP:199/199
+2-Bishamonten HP:352/700 MP:139/139
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Michael
+Michael recibe 39 de daño
+Michael termina con HP:810/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:73/597 MP:347/347
+B-
+C-Raphael HP:177/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:810/1002 MP:199/199
+C-
+D-Bishamonten HP:352/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Bishamonten
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:73/597 MP:347/347
+2-Raphael HP:177/623 MP:279/279
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:73/597 MP:347/347
+2-Raphael HP:177/623 MP:279/279
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Michael ataca a Raphael
+Raphael recibe 78 de daño
+Raphael termina con HP:99/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:73/597 MP:347/347
+B-
+C-Raphael HP:99/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:810/1002 MP:199/199
+C-
+D-Bishamonten HP:352/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Michael
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:73/597 MP:347/347
+2-Raphael HP:99/623 MP:279/279
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Bishamonten ataca a Joker
+Joker recibe 53 de daño
+Joker termina con HP:20/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:20/597 MP:347/347
+B-
+C-Raphael HP:99/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:810/1002 MP:199/199
+C-
+D-Bishamonten HP:352/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Joker
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Michael HP:810/1002 MP:199/199
+2-Bishamonten HP:352/700 MP:139/139
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Michael HP:810/1002 MP:199/199
+2-Bishamonten HP:352/700 MP:139/139
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Michael
+Michael recibe 52 de daño
+Michael termina con HP:758/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:20/597 MP:347/347
+B-
+C-Raphael HP:99/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:758/1002 MP:199/199
+C-
+D-Bishamonten HP:352/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Raphael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Michael HP:758/1002 MP:199/199
+2-Bishamonten HP:352/700 MP:139/139
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Michael
+Michael recibe 28 de daño
+Michael termina con HP:730/1002
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:20/597 MP:347/347
+B-
+C-Raphael HP:99/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:730/1002 MP:199/199
+C-
+D-Bishamonten HP:352/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Bishamonten
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:20/597 MP:347/347
+2-Raphael HP:99/623 MP:279/279
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Joker HP:20/597 MP:347/347
+2-Raphael HP:99/623 MP:279/279
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Michael ataca a Raphael
+Raphael recibe 78 de daño
+Raphael termina con HP:21/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:20/597 MP:347/347
+B-
+C-Raphael HP:21/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:730/1002 MP:199/199
+C-
+D-Bishamonten HP:352/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Michael
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:20/597 MP:347/347
+2-Raphael HP:21/623 MP:279/279
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Joker HP:20/597 MP:347/347
+2-Raphael HP:21/623 MP:279/279
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Bishamonten ataca a Joker
+Joker recibe 53 de daño
+Joker termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:347/347
+B-
+C-Raphael HP:21/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:730/1002 MP:199/199
+C-
+D-Bishamonten HP:352/700 MP:139/139
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Michael HP:730/1002 MP:199/199
+2-Bishamonten HP:352/700 MP:139/139
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Michael HP:730/1002 MP:199/199
+2-Bishamonten HP:352/700 MP:139/139
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Michael HP:730/1002 MP:199/199
+2-Bishamonten HP:352/700 MP:139/139
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Michael HP:730/1002 MP:199/199
+2-Bishamonten HP:352/700 MP:139/139
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Michael HP:730/1002 MP:199/199
+2-Bishamonten HP:352/700 MP:139/139
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael ataca a Bishamonten
+Bishamonten recibe 52 de daño
+Bishamonten termina con HP:300/700
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:347/347
+B-
+C-Raphael HP:21/623 MP:279/279
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Michael HP:730/1002 MP:199/199
+C-
+D-Bishamonten HP:300/700 MP:139/139
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Michael
+2-Bishamonten
+----------------------------------------
+Seleccione una acción para Michael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Michael
+1-Raphael HP:21/623 MP:279/279
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Michael ataca a Raphael
+Raphael recibe 78 de daño
+Raphael termina con HP:0/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Nanashi (J2)

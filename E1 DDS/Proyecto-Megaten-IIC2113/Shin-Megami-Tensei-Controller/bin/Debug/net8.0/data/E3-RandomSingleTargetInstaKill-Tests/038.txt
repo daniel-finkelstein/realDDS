@@ -1,0 +1,1436 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 37
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nebiros HP:249/249 MP:242/242
+C-Hachiman HP:851/851 MP:170/170
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Atropos HP:277/277 MP:269/269
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Pisaca
+3-Nebiros
+4-Kyouji
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:497/497 MP:223/223
+2-Taown HP:709/709 MP:140/140
+3-Nergal HP:644/644 MP:288/288
+4-Dybbuk HP:66/66 MP:63/63
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Taown ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nebiros HP:249/249 MP:242/242
+C-Taown HP:709/709 MP:140/140
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Atropos HP:277/277 MP:269/269
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pisaca
+2-Nebiros
+3-Kyouji
+4-Taown
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pisaca use
+1-Bind Voice MP:15
+2-Life Drain MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Yu HP:597/597 MP:347/347
+2-Atropos HP:277/277 MP:269/269
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pisaca ataca con oscuridad a Atropos
+Atropos bloquea el ataque de Pisaca
+Atropos termina con HP:277/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nebiros HP:249/249 MP:242/242
+C-Taown HP:709/709 MP:140/140
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Atropos HP:277/277 MP:269/269
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Kyouji
+3-Taown
+4-Pisaca
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Yu HP:597/597 MP:347/347
+2-Atropos HP:277/277 MP:269/269
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nebiros ataca a Atropos
+Atropos recibe 26 de daño
+Atropos termina con HP:251/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nebiros HP:249/249 MP:242/242
+C-Taown HP:709/709 MP:140/140
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Atropos HP:251/277 MP:269/269
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Taown
+3-Pisaca
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hachiman HP:851/851 MP:170/170
+2-Anubis HP:497/497 MP:223/223
+3-Nergal HP:644/644 MP:288/288
+4-Dybbuk HP:66/66 MP:63/63
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Nebiros HP:249/249 MP:242/242 (Puesto 2)
+2-Taown HP:709/709 MP:140/140 (Puesto 3)
+3-Pisaca HP:454/454 MP:80/90 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nergal HP:644/644 MP:288/288
+C-Taown HP:709/709 MP:140/140
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Atropos HP:251/277 MP:269/269
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Pisaca
+3-Nergal
+4-Kyouji
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Yu HP:597/597 MP:347/347
+2-Atropos HP:251/277 MP:269/269
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Yu
+Yu es resistente el ataque de Taown
+Yu recibe 27 de daño
+Yu termina con HP:570/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nergal HP:644/644 MP:288/288
+C-Taown HP:709/709 MP:140/140
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Yu (J2)
+A-Yu HP:570/597 MP:347/347
+B-Atropos HP:251/277 MP:269/269
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Atropos
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kyouji HP:999/999 MP:0/0
+2-Nergal HP:644/644 MP:288/288
+3-Taown HP:709/709 MP:140/140
+4-Pisaca HP:454/454 MP:80/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Nergal
+Nergal recibe 49 de daño
+Nergal termina con HP:595/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nergal HP:595/644 MP:288/288
+C-Taown HP:709/709 MP:140/140
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Yu (J2)
+A-Yu HP:570/597 MP:347/347
+B-Atropos HP:251/277 MP:269/269
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Yu
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Kyouji HP:999/999 MP:0/0
+2-Nergal HP:595/644 MP:288/288
+3-Taown HP:709/709 MP:140/140
+4-Pisaca HP:454/454 MP:80/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Atropos ataca a Nergal
+Nergal recibe 29 de daño
+Nergal termina con HP:566/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nergal HP:566/644 MP:288/288
+C-Taown HP:709/709 MP:140/140
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Yu (J2)
+A-Yu HP:570/597 MP:347/347
+B-Atropos HP:251/277 MP:269/269
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Taown
+3-Pisaca
+4-Kyouji
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:242/242
+2-Hachiman HP:851/851 MP:170/170
+3-Anubis HP:497/497 MP:223/223
+4-Dybbuk HP:66/66 MP:63/63
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Dybbuk ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Dybbuk HP:66/66 MP:63/63
+C-Taown HP:709/709 MP:140/140
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Yu (J2)
+A-Yu HP:570/597 MP:347/347
+B-Atropos HP:251/277 MP:269/269
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Pisaca
+3-Kyouji
+4-Dybbuk
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Yu HP:570/597 MP:347/347
+2-Atropos HP:251/277 MP:269/269
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Yu HP:570/597 MP:347/347
+2-Atropos HP:251/277 MP:269/269
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Taown lanza electricidad a Yu
+Yu es resistente el ataque de Taown
+Yu recibe 56 de daño
+Yu termina con HP:514/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Dybbuk HP:66/66 MP:63/63
+C-Taown HP:709/709 MP:126/140
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Yu (J2)
+A-Yu HP:514/597 MP:347/347
+B-Atropos HP:251/277 MP:269/269
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Kyouji
+3-Dybbuk
+4-Taown
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:242/242
+2-Hachiman HP:851/851 MP:170/170
+3-Anubis HP:497/497 MP:223/223
+4-Nergal HP:566/644 MP:288/288
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:242/242
+2-Hachiman HP:851/851 MP:170/170
+3-Anubis HP:497/497 MP:223/223
+4-Nergal HP:566/644 MP:288/288
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nergal ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Dybbuk HP:66/66 MP:63/63
+C-Taown HP:709/709 MP:126/140
+D-Nergal HP:566/644 MP:288/288
+Equipo de Yu (J2)
+A-Yu HP:514/597 MP:347/347
+B-Atropos HP:251/277 MP:269/269
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+2-Dybbuk
+3-Taown
+4-Nergal
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Yu HP:514/597 MP:347/347
+2-Atropos HP:251/277 MP:269/269
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kyouji dispara a Atropos
+Atropos recibe 911 de daño
+Atropos termina con HP:0/277
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Dybbuk HP:66/66 MP:63/63
+C-Taown HP:709/709 MP:126/140
+D-Nergal HP:566/644 MP:288/288
+Equipo de Yu (J2)
+A-Yu HP:514/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Taown
+3-Nergal
+4-Kyouji
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Dybbuk use
+1-Mudo MP:6
+2-Patra MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Yu HP:514/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:242/242
+2-Hachiman HP:851/851 MP:170/170
+3-Pisaca HP:454/454 MP:80/90
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hachiman ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Hachiman HP:851/851 MP:170/170
+C-Taown HP:709/709 MP:126/140
+D-Nergal HP:566/644 MP:288/288
+Equipo de Yu (J2)
+A-Yu HP:514/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Nergal
+3-Kyouji
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Yu HP:514/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:242/242
+2-Pisaca HP:454/454 MP:80/90
+3-Anubis HP:497/497 MP:223/223
+4-Dybbuk HP:66/66 MP:63/63
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Pisaca ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Hachiman HP:851/851 MP:170/170
+C-Pisaca HP:454/454 MP:80/90
+D-Nergal HP:566/644 MP:288/288
+Equipo de Yu (J2)
+A-Yu HP:514/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Kyouji
+3-Hachiman
+4-Pisaca
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Hachiman HP:851/851 MP:170/170
+C-Pisaca HP:454/454 MP:80/90
+D-Nergal HP:566/644 MP:288/288
+Equipo de Yu (J2)
+A-Yu HP:514/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+2-Hachiman
+3-Pisaca
+4-Nergal
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:242/242
+2-Anubis HP:497/497 MP:223/223
+3-Taown HP:709/709 MP:126/140
+4-Dybbuk HP:66/66 MP:63/63
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Hachiman HP:851/851 MP:170/170 (Puesto 2)
+2-Pisaca HP:454/454 MP:80/90 (Puesto 3)
+3-Nergal HP:566/644 MP:288/288 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Taown HP:709/709 MP:126/140
+C-Pisaca HP:454/454 MP:80/90
+D-Nergal HP:566/644 MP:288/288
+Equipo de Yu (J2)
+A-Yu HP:514/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Taown HP:709/709 MP:126/140
+C-Pisaca HP:454/454 MP:80/90
+D-Nergal HP:566/644 MP:288/288
+Equipo de Yu (J2)
+A-Yu HP:514/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kyouji HP:999/999 MP:0/0
+2-Taown HP:709/709 MP:126/140
+3-Pisaca HP:454/454 MP:80/90
+4-Nergal HP:566/644 MP:288/288
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yu ataca a Pisaca
+Pisaca recibe 49 de daño
+Pisaca termina con HP:405/454
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Taown HP:709/709 MP:126/140
+C-Pisaca HP:405/454 MP:80/90
+D-Nergal HP:566/644 MP:288/288
+Equipo de Yu (J2)
+A-Yu HP:514/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Taown
+3-Pisaca
+4-Kyouji
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Yu HP:514/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Yu
+Yu es resistente el ataque de Nergal
+Yu recibe 27 de daño
+Yu termina con HP:487/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Taown HP:709/709 MP:126/140
+C-Pisaca HP:405/454 MP:80/90
+D-Nergal HP:566/644 MP:288/288
+Equipo de Yu (J2)
+A-Yu HP:487/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Pisaca
+3-Kyouji
+4-Nergal
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Taown HP:709/709 MP:126/140
+C-Pisaca HP:405/454 MP:80/90
+D-Nergal HP:566/644 MP:288/288
+Equipo de Yu (J2)
+A-Yu HP:487/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pisaca
+2-Kyouji
+3-Nergal
+4-Taown
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Yu HP:487/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:242/242
+2-Hachiman HP:851/851 MP:170/170
+3-Anubis HP:497/497 MP:223/223
+4-Dybbuk HP:66/66 MP:63/63
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Yu HP:487/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ataca a Yu
+Yu es resistente el ataque de Pisaca
+Yu recibe 16 de daño
+Yu termina con HP:471/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Taown HP:709/709 MP:126/140
+C-Pisaca HP:405/454 MP:80/90
+D-Nergal HP:566/644 MP:288/288
+Equipo de Yu (J2)
+A-Yu HP:471/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Nergal
+3-Taown
+4-Pisaca
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Taown HP:709/709 MP:126/140
+C-Pisaca HP:405/454 MP:80/90
+D-Nergal HP:566/644 MP:288/288
+Equipo de Yu (J2)
+A-Yu HP:471/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nergal
+2-Taown
+3-Pisaca
+4-Kyouji
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Yu HP:471/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Yu
+Yu es resistente el ataque de Nergal
+Yu recibe 27 de daño
+Yu termina con HP:444/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Taown HP:709/709 MP:126/140
+C-Pisaca HP:405/454 MP:80/90
+D-Nergal HP:566/644 MP:288/288
+Equipo de Yu (J2)
+A-Yu HP:444/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Pisaca
+3-Kyouji
+4-Nergal
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:242/242
+2-Hachiman HP:851/851 MP:170/170
+3-Anubis HP:497/497 MP:223/223
+4-Dybbuk HP:66/66 MP:63/63
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Yu HP:444/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:242/242
+2-Hachiman HP:851/851 MP:170/170
+3-Anubis HP:497/497 MP:223/223
+4-Dybbuk HP:66/66 MP:63/63
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Dybbuk ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Dybbuk HP:66/66 MP:63/63
+C-Pisaca HP:405/454 MP:80/90
+D-Nergal HP:566/644 MP:288/288
+Equipo de Yu (J2)
+A-Yu HP:444/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pisaca
+2-Kyouji
+3-Nergal
+4-Dybbuk
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pisaca use
+1-Bind Voice MP:15
+2-Life Drain MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pisaca use
+1-Bind Voice MP:15
+2-Life Drain MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Yu HP:444/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Yu HP:444/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Yu HP:444/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ataca a Yu
+Yu es resistente el ataque de Pisaca
+Yu recibe 16 de daño
+Yu termina con HP:428/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Dybbuk HP:66/66 MP:63/63
+C-Pisaca HP:405/454 MP:80/90
+D-Nergal HP:566/644 MP:288/288
+Equipo de Yu (J2)
+A-Yu HP:428/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Grand Tack MP:11
+2-Deadly Wind MP:22
+3-Zionga MP:8
+4-Mudo MP:6
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kyouji HP:999/999 MP:0/0
+2-Dybbuk HP:66/66 MP:63/63
+3-Pisaca HP:405/454 MP:80/90
+4-Nergal HP:566/644 MP:288/288
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Dybbuk
+Dybbuk recibe 72 de daño
+Dybbuk termina con HP:0/66
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-Pisaca HP:405/454 MP:80/90
+D-Nergal HP:566/644 MP:288/288
+Equipo de Yu (J2)
+A-Yu HP:428/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Pisaca
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:242/242
+2-Hachiman HP:851/851 MP:170/170
+3-Anubis HP:497/497 MP:223/223
+4-Taown HP:709/709 MP:126/140
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Anubis ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-Pisaca HP:405/454 MP:80/90
+D-Anubis HP:497/497 MP:223/223
+Equipo de Yu (J2)
+A-Yu HP:428/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pisaca
+2-Kyouji
+3-Anubis
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Yu HP:428/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ataca a Yu
+Yu es resistente el ataque de Pisaca
+Yu recibe 16 de daño
+Yu termina con HP:412/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-Pisaca HP:405/454 MP:80/90
+D-Anubis HP:497/497 MP:223/223
+Equipo de Yu (J2)
+A-Yu HP:412/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Anubis
+3-Pisaca
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Yu HP:412/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Yu HP:412/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji dispara a Yu
+Yu recibe 911 de daño
+Yu termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Kyouji (J1)

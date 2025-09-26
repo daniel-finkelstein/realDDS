@@ -1,0 +1,279 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 2
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Raphael HP:623/623 MP:279/279
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Spriggan HP:147/147 MP:66/66
+C-Legion HP:399/399 MP:179/179
+D-Matador HP:889/889 MP:176/176
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Demonee-Ho
+3-Makoto
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Raphael use
+1-God's Tornado MP:50
+2-Diarahan MP:16
+3-Stigma Attack MP:20
+4-Serpent of Sheol MP:45
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Kotone HP:597/597 MP:347/347
+2-Spriggan HP:147/147 MP:66/66
+3-Legion HP:399/399 MP:179/179
+4-Matador HP:889/889 MP:176/176
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Kotone
+Kotone es resistente el ataque de Raphael
+Kotone recibe 81 de daño
+Kotone termina con HP:516/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Raphael HP:623/623 MP:259/279
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:516/597 MP:347/347
+B-Spriggan HP:147/147 MP:66/66
+C-Legion HP:399/399 MP:179/179
+D-Matador HP:889/889 MP:176/176
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Makoto
+3-Raphael
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kotone HP:516/597 MP:347/347
+2-Spriggan HP:147/147 MP:66/66
+3-Legion HP:399/399 MP:179/179
+4-Matador HP:889/889 MP:176/176
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Demonee-Ho ataca a Spriggan
+Spriggan es resistente el ataque de Demonee-Ho
+Spriggan recibe 55 de daño
+Spriggan termina con HP:92/147
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Demonee-Ho HP:804/804 MP:152/160
+C-Raphael HP:623/623 MP:259/279
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:516/597 MP:347/347
+B-Spriggan HP:92/147 MP:66/66
+C-Legion HP:399/399 MP:179/179
+D-Matador HP:889/889 MP:176/176
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Raphael
+3-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Berserker God MP:12
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kotone HP:516/597 MP:347/347
+2-Spriggan HP:92/147 MP:66/66
+3-Legion HP:399/399 MP:179/179
+4-Matador HP:889/889 MP:176/176
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Makoto ataca a Matador
+Matador es resistente el ataque de Makoto
+Matador recibe 62 de daño
+Matador termina con HP:827/889
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:335/347
+B-Demonee-Ho HP:804/804 MP:152/160
+C-Raphael HP:623/623 MP:259/279
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:516/597 MP:347/347
+B-Spriggan HP:92/147 MP:66/66
+C-Legion HP:399/399 MP:179/179
+D-Matador HP:827/889 MP:176/176
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Matador
+2-Kotone
+3-Legion
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Matador
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Matador
+1-Makoto HP:597/597 MP:335/347
+2-Demonee-Ho HP:804/804 MP:152/160
+3-Raphael HP:623/623 MP:259/279
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Matador ataca a Makoto
+Makoto es resistente el ataque de Matador
+Makoto recibe 34 de daño
+Makoto termina con HP:563/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:563/597 MP:335/347
+B-Demonee-Ho HP:804/804 MP:152/160
+C-Raphael HP:623/623 MP:259/279
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:516/597 MP:347/347
+B-Spriggan HP:92/147 MP:66/66
+C-Legion HP:399/399 MP:179/179
+D-Matador HP:827/889 MP:176/176
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Legion
+3-Spriggan
+4-Matador
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Kotone (J2) se rinde
+----------------------------------------
+Ganador: Makoto (J1)

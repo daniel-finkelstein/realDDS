@@ -1,0 +1,1998 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 28
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Patriot HP:511/511 MP:102/102
+C-Mou-Ryo HP:238/238 MP:107/107
+D-Sedna HP:350/350 MP:68/68
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-Nue HP:341/341 MP:67/67
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patriot
+2-Mou-Ryo
+3-Sedna
+4-Kei
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patriot
+1-Shujinko HP:1317/1317 MP:625/625
+2-Mithras HP:293/293 MP:58/58
+3-Nue HP:341/341 MP:67/67
+4-Magatsuhi HP:851/851 MP:170/170
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Black Maria HP:348/348 MP:337/337
+2-Tsuchigumo HP:280/280 MP:126/126
+3-Okiku-Mushi HP:273/273 MP:121/121
+4-Ometeotl HP:324/324 MP:315/315
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ometeotl ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Ometeotl HP:324/324 MP:315/315
+C-Mou-Ryo HP:238/238 MP:107/107
+D-Sedna HP:350/350 MP:68/68
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-Nue HP:341/341 MP:67/67
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Sedna
+3-Kei
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mou-Ryo use
+1-Mudo MP:6
+2-Spirit Drain MP:5
+3-Pulinpa MP:5
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Shujinko HP:1317/1317 MP:625/625
+2-Mithras HP:293/293 MP:58/58
+3-Nue HP:341/341 MP:67/67
+4-Magatsuhi HP:851/851 MP:170/170
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Mou-Ryo ataca con oscuridad a Nue
+Nue ha sido eliminado
+Nue termina con HP:0/341
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Ometeotl HP:324/324 MP:315/315
+C-Mou-Ryo HP:238/238 MP:101/107
+D-Sedna HP:350/350 MP:68/68
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Kei
+3-Ometeotl
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Patriot HP:511/511 MP:102/102
+2-Black Maria HP:348/348 MP:337/337
+3-Tsuchigumo HP:280/280 MP:126/126
+4-Okiku-Mushi HP:273/273 MP:121/121
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tsuchigumo ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Ometeotl HP:324/324 MP:315/315
+C-Mou-Ryo HP:238/238 MP:101/107
+D-Tsuchigumo HP:280/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Ometeotl
+3-Mou-Ryo
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Ometeotl HP:324/324 MP:315/315
+C-Mou-Ryo HP:238/238 MP:101/107
+D-Tsuchigumo HP:280/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Mou-Ryo
+3-Tsuchigumo
+4-Kei
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Patriot HP:511/511 MP:102/102
+2-Sedna HP:350/350 MP:68/68
+3-Black Maria HP:348/348 MP:337/337
+4-Okiku-Mushi HP:273/273 MP:121/121
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Okiku-Mushi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Mou-Ryo HP:238/238 MP:101/107
+D-Tsuchigumo HP:280/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Tsuchigumo
+3-Kei
+4-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Patriot HP:511/511 MP:102/102
+2-Sedna HP:350/350 MP:68/68
+3-Black Maria HP:348/348 MP:337/337
+4-Ometeotl HP:324/324 MP:315/315
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Black Maria ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-Tsuchigumo HP:280/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Kei
+3-Okiku-Mushi
+4-Black Maria
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-Tsuchigumo HP:280/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Okiku-Mushi
+3-Black Maria
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Shujinko HP:1317/1317 MP:625/625
+2-Mithras HP:293/293 MP:58/58
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Shujinko
+Shujinko es resistente el ataque de Kei
+Shujinko recibe 9 de daño
+Shujinko termina con HP:1308/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-Tsuchigumo HP:280/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1308/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Magatsuhi
+3-Mithras
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kei HP:760/760 MP:398/398
+2-Okiku-Mushi HP:273/273 MP:121/121
+3-Black Maria HP:348/348 MP:337/337
+4-Tsuchigumo HP:280/280 MP:126/126
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-Tsuchigumo HP:280/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1308/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Mithras
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-Tsuchigumo HP:280/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1308/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithras
+2-Shujinko
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-Tsuchigumo HP:280/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1308/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Magatsuhi
+3-Mithras
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Hama MP:6
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-Tsuchigumo HP:280/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1308/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Mithras
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:760/760 MP:398/398
+2-Okiku-Mushi HP:273/273 MP:121/121
+3-Black Maria HP:348/348 MP:337/337
+4-Tsuchigumo HP:280/280 MP:126/126
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Kei
+Kei es resistente el ataque de Magatsuhi
+Kei recibe 32 de daño
+Kei termina con HP:728/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-Tsuchigumo HP:280/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1308/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Tsuchigumo
+3-Okiku-Mushi
+4-Kei
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-Tsuchigumo HP:280/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1308/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Okiku-Mushi
+3-Kei
+4-Black Maria
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Shujinko HP:1308/1317 MP:625/625
+2-Mithras HP:293/293 MP:58/58
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-Tsuchigumo HP:280/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1308/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Kei
+3-Black Maria
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-Tsuchigumo HP:280/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1308/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Black Maria
+3-Tsuchigumo
+4-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-Tsuchigumo HP:280/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1308/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Tsuchigumo
+3-Okiku-Mushi
+4-Kei
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Shujinko HP:1308/1317 MP:625/625
+2-Mithras HP:293/293 MP:58/58
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Black Maria ataca a Shujinko
+Shujinko es resistente el ataque de Black Maria
+Shujinko recibe 18 de daño
+Shujinko termina con HP:1290/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-Tsuchigumo HP:280/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1290/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Okiku-Mushi
+3-Kei
+4-Black Maria
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-Tsuchigumo HP:280/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1290/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Kei
+3-Black Maria
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-Tsuchigumo HP:280/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1290/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Magatsuhi
+3-Mithras
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kei HP:728/760 MP:398/398
+2-Okiku-Mushi HP:273/273 MP:121/121
+3-Black Maria HP:348/348 MP:337/337
+4-Tsuchigumo HP:280/280 MP:126/126
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Shujinko ataca a Tsuchigumo
+Tsuchigumo recibe 187 de daño
+Tsuchigumo termina con HP:93/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-Tsuchigumo HP:93/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1290/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Mithras
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-Tsuchigumo HP:93/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1290/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mithras
+2-Shujinko
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-Tsuchigumo HP:93/280 MP:126/126
+Equipo de Shujinko (J2)
+A-Shujinko HP:1290/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Magatsuhi
+3-Mithras
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kei HP:728/760 MP:398/398
+2-Okiku-Mushi HP:273/273 MP:121/121
+3-Black Maria HP:348/348 MP:337/337
+4-Tsuchigumo HP:93/280 MP:126/126
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Shujinko dispara a Tsuchigumo
+Tsuchigumo recibe 228 de daño
+Tsuchigumo termina con HP:0/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:337/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1290/1317 MP:625/625
+B-Mithras HP:293/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Okiku-Mushi
+3-Kei
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Shujinko HP:1290/1317 MP:625/625
+2-Mithras HP:293/293 MP:58/58
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Black Maria use
+1-Mediarahan MP:40
+2-Lullaby MP:11
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Shujinko HP:1290/1317 MP:625/625
+2-Mithras HP:293/293 MP:58/58
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Black Maria lanza electricidad a Mithras
+Mithras recibe 135 de daño
+Mithras termina con HP:158/293
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:323/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1290/1317 MP:625/625
+B-Mithras HP:158/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Kei
+3-Black Maria
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Okiku-Mushi
+1-Shujinko HP:1290/1317 MP:625/625
+2-Mithras HP:158/293 MP:58/58
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Okiku-Mushi ataca a Mithras
+Mithras recibe 21 de daño
+Mithras termina con HP:137/293
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:323/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1290/1317 MP:625/625
+B-Mithras HP:137/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Black Maria
+3-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:323/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1290/1317 MP:625/625
+B-Mithras HP:137/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Maria
+2-Okiku-Mushi
+3-Kei
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Shujinko HP:1290/1317 MP:625/625
+2-Mithras HP:137/293 MP:58/58
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Shujinko HP:1290/1317 MP:625/625
+2-Mithras HP:137/293 MP:58/58
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Black Maria use
+1-Mediarahan MP:40
+2-Lullaby MP:11
+3-Ziodyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Shujinko HP:1290/1317 MP:625/625
+2-Mithras HP:137/293 MP:58/58
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Black Maria lanza electricidad a Shujinko
+Shujinko recibe 135 de daño
+Shujinko termina con HP:1155/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:625/625
+B-Mithras HP:137/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Magatsuhi
+3-Mithras
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Hama MP:6
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kei HP:728/760 MP:398/398
+2-Okiku-Mushi HP:273/273 MP:121/121
+3-Black Maria HP:348/348 MP:309/337
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca con luz a Kei
+Kei es resistente el ataque de Shujinko
+Kei ha sido eliminado
+Kei termina con HP:0/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:0/760 MP:398/398
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Black Maria HP:348/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:619/625
+B-Mithras HP:137/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Mithras
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Okiku-Mushi HP:273/273 MP:121/121
+2-Black Maria HP:348/348 MP:309/337
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Okiku-Mushi
+Okiku-Mushi recibe 65 de daño
+Okiku-Mushi termina con HP:208/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:0/760 MP:398/398
+B-Okiku-Mushi HP:208/273 MP:121/121
+C-Black Maria HP:348/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:619/625
+B-Mithras HP:137/293 MP:58/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithras
+2-Shujinko
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mithras use
+1-Mahama MP:18
+2-Heat Wave MP:11
+3-Rakunda MP:15
+4-Fatal Sword MP:8
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Mithras
+1-Okiku-Mushi HP:208/273 MP:121/121
+2-Black Maria HP:348/348 MP:309/337
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mithras use
+1-Mahama MP:18
+2-Heat Wave MP:11
+3-Rakunda MP:15
+4-Fatal Sword MP:8
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Mithras
+1-Okiku-Mushi HP:208/273 MP:121/121
+2-Black Maria HP:348/348 MP:309/337
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mithras ataca a Okiku-Mushi
+Okiku-Mushi recibe 72 de daño
+Okiku-Mushi termina con HP:136/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:0/760 MP:398/398
+B-Okiku-Mushi HP:136/273 MP:121/121
+C-Black Maria HP:348/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:619/625
+B-Mithras HP:137/293 MP:50/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:0/760 MP:398/398
+B-Okiku-Mushi HP:136/273 MP:121/121
+C-Black Maria HP:348/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:619/625
+B-Mithras HP:137/293 MP:50/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Black Maria
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Patriot HP:511/511 MP:102/102
+2-Mou-Ryo HP:238/238 MP:101/107
+3-Sedna HP:350/350 MP:68/68
+4-Ometeotl HP:324/324 MP:315/315
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Patriot ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:0/760 MP:398/398
+B-Patriot HP:511/511 MP:102/102
+C-Black Maria HP:348/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:619/625
+B-Mithras HP:137/293 MP:50/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Patriot
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mou-Ryo HP:238/238 MP:101/107
+2-Sedna HP:350/350 MP:68/68
+3-Okiku-Mushi HP:136/273 MP:121/121
+4-Ometeotl HP:324/324 MP:315/315
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:0/760 MP:398/398
+B-Patriot HP:511/511 MP:102/102
+C-Black Maria HP:348/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:619/625
+B-Mithras HP:137/293 MP:50/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Patriot
+2-Black Maria
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mou-Ryo HP:238/238 MP:101/107
+2-Sedna HP:350/350 MP:68/68
+3-Okiku-Mushi HP:136/273 MP:121/121
+4-Ometeotl HP:324/324 MP:315/315
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Mou-Ryo ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:0/760 MP:398/398
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Black Maria HP:348/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:619/625
+B-Mithras HP:137/293 MP:50/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Magatsuhi
+3-Mithras
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:0/760 MP:398/398
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Black Maria HP:348/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:619/625
+B-Mithras HP:137/293 MP:50/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Mithras
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Mou-Ryo HP:238/238 MP:101/107
+2-Black Maria HP:348/348 MP:309/337
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Black Maria
+Black Maria recibe 65 de daño
+Black Maria termina con HP:283/348
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:0/760 MP:398/398
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Black Maria HP:283/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:619/625
+B-Mithras HP:137/293 MP:50/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithras
+2-Shujinko
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:0/760 MP:398/398
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Black Maria HP:283/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:619/625
+B-Mithras HP:137/293 MP:50/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Magatsuhi
+3-Mithras
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Mou-Ryo HP:238/238 MP:101/107
+2-Black Maria HP:283/348 MP:309/337
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko dispara a Black Maria
+Black Maria recibe 228 de daño
+Black Maria termina con HP:55/348
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:0/760 MP:398/398
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Black Maria HP:55/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:619/625
+B-Mithras HP:137/293 MP:50/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Mithras
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:0/760 MP:398/398
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Black Maria HP:55/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:619/625
+B-Mithras HP:137/293 MP:50/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mithras
+2-Shujinko
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mithras use
+1-Mahama MP:18
+2-Heat Wave MP:11
+3-Rakunda MP:15
+4-Fatal Sword MP:8
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mithras
+1-Mou-Ryo HP:238/238 MP:101/107
+2-Black Maria HP:55/348 MP:309/337
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:0/760 MP:398/398
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Black Maria HP:55/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:619/625
+B-Mithras HP:137/293 MP:50/58
+C-
+D-Magatsuhi HP:851/851 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Black Maria
+2-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Black Maria
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Black Maria
+1-Shujinko HP:1155/1317 MP:619/625
+2-Mithras HP:137/293 MP:50/58
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Black Maria ataca a Magatsuhi
+Magatsuhi recibe 36 de daño
+Magatsuhi termina con HP:815/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:0/760 MP:398/398
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Black Maria HP:55/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:619/625
+B-Mithras HP:137/293 MP:50/58
+C-
+D-Magatsuhi HP:815/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Black Maria
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mou-Ryo use
+1-Mudo MP:6
+2-Spirit Drain MP:5
+3-Pulinpa MP:5
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Shujinko HP:1155/1317 MP:619/625
+2-Mithras HP:137/293 MP:50/58
+3-Magatsuhi HP:815/851 MP:170/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mou-Ryo ataca con oscuridad a Shujinko
+Shujinko bloquea el ataque de Mou-Ryo
+Shujinko termina con HP:1155/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:0/760 MP:398/398
+B-Mou-Ryo HP:238/238 MP:95/107
+C-Black Maria HP:55/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:619/625
+B-Mithras HP:137/293 MP:50/58
+C-
+D-Magatsuhi HP:815/851 MP:170/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Magatsuhi
+3-Mithras
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Mou-Ryo HP:238/238 MP:95/107
+2-Black Maria HP:55/348 MP:309/337
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko dispara a Mou-Ryo
+Mou-Ryo recibe 228 de daño
+Mou-Ryo termina con HP:10/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:0/760 MP:398/398
+B-Mou-Ryo HP:10/238 MP:95/107
+C-Black Maria HP:55/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:619/625
+B-Mithras HP:137/293 MP:50/58
+C-
+D-Magatsuhi HP:815/851 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Mithras
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Mou-Ryo HP:10/238 MP:95/107
+2-Black Maria HP:55/348 MP:309/337
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Mou-Ryo
+Mou-Ryo recibe 65 de daño
+Mou-Ryo termina con HP:0/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:0/760 MP:398/398
+B-
+C-Black Maria HP:55/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:619/625
+B-Mithras HP:137/293 MP:50/58
+C-
+D-Magatsuhi HP:815/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithras
+2-Shujinko
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:0/760 MP:398/398
+B-
+C-Black Maria HP:55/348 MP:309/337
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1155/1317 MP:619/625
+B-Mithras HP:137/293 MP:50/58
+C-
+D-Magatsuhi HP:815/851 MP:170/170
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Magatsuhi
+3-Mithras
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Black Maria HP:55/348 MP:309/337
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko dispara a Black Maria
+Black Maria recibe 228 de daño
+Black Maria termina con HP:0/348
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Shujinko (J2)

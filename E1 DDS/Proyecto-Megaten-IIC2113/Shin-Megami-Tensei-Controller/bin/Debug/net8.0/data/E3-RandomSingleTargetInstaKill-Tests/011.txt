@@ -1,0 +1,2454 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 10
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:165/165 MP:158/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Hamaon MP:10
+2-Agi MP:5
+3-Zan MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:165/165 MP:158/158
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Hamaon MP:10
+2-Agi MP:5
+3-Zan MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:388/388 MP:193/193
+2-Nebiros HP:249/249 MP:242/242
+3-Senri HP:165/165 MP:158/158
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yu lanza fuego a Senri
+Senri recibe 80 de daño
+Senri termina con HP:85/165
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:85/165 MP:158/158
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tadano
+3-Senri
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Yu HP:597/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Yu HP:597/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:85/165 MP:158/158
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Senri
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:597/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano dispara a Yu
+Yu recibe 20 de daño
+Yu termina con HP:577/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:577/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:85/165 MP:158/158
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Nebiros
+3-Tadano
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:577/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:85/165 MP:158/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tadano
+3-Senri
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:577/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:85/165 MP:158/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Senri
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:577/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano dispara a Yu
+Yu recibe 20 de daño
+Yu termina con HP:557/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:557/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:85/165 MP:158/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:557/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:85/165 MP:158/158
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:388/388 MP:193/193
+2-Nebiros HP:249/249 MP:242/242
+3-Senri HP:85/165 MP:158/158
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Tadano
+Tadano es resistente el ataque de Yu
+Tadano recibe 24 de daño
+Tadano termina con HP:364/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:557/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:364/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:85/165 MP:158/158
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tadano
+3-Senri
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Yu HP:557/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ataca a Yu
+Yu es resistente el ataque de Nebiros
+Yu recibe 13 de daño
+Yu termina con HP:544/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:544/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:364/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:85/165 MP:158/158
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Senri
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:544/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Yu
+Yu es resistente el ataque de Tadano
+Yu recibe 8 de daño
+Yu termina con HP:536/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:536/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:364/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:85/165 MP:158/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Nebiros
+3-Tadano
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yu HP:536/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Senri use
+1-Recarm MP:20
+2-Zanma MP:8
+3-Mazanma MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yu HP:536/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yu HP:536/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:536/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:364/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:85/165 MP:158/158
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tadano
+3-Senri
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Yu HP:536/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ataca a Yu
+Yu es resistente el ataque de Nebiros
+Yu recibe 13 de daño
+Yu termina con HP:523/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:523/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:364/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:85/165 MP:158/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:364/388 MP:193/193
+2-Nebiros HP:249/249 MP:242/242
+3-Senri HP:85/165 MP:158/158
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yu dispara a Senri
+Senri recibe 72 de daño
+Senri termina con HP:13/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:523/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:364/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:158/158
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tadano
+3-Senri
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:523/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:364/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:158/158
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Senri
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:523/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:523/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:364/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:158/158
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Nebiros
+3-Tadano
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Senri use
+1-Recarm MP:20
+2-Zanma MP:8
+3-Mazanma MP:20
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yu HP:523/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Senri lanza viento a Yu
+Yu es resistente el ataque de Senri
+Yu recibe 36 de daño
+Yu termina con HP:487/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:487/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:364/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tadano
+3-Senri
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Yu HP:487/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Yu HP:487/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:487/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:364/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Senri
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:487/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:487/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:364/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:364/388 MP:193/193
+2-Nebiros HP:249/249 MP:242/242
+3-Senri HP:13/165 MP:150/158
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Tadano
+Tadano recibe 72 de daño
+Tadano termina con HP:292/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:487/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tadano
+3-Senri
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Yu HP:487/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Yu HP:487/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Yu HP:487/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:487/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Senri
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:487/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Nebiros
+3-Tadano
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:487/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tadano
+3-Senri
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:487/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Senri
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:487/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Mudoon MP:10
+2-Oni-Kagura MP:9
+3-Diarahan MP:16
+4-Agilao MP:8
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Tadano HP:292/388 MP:193/193
+2-Nebiros HP:249/249 MP:242/242
+3-Senri HP:13/165 MP:150/158
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:487/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano dispara a Yu
+Yu recibe 20 de daño
+Yu termina con HP:467/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:467/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:467/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Hamaon MP:10
+2-Agi MP:5
+3-Zan MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:467/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tadano
+3-Senri
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Yu HP:467/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ataca a Yu
+Yu es resistente el ataque de Nebiros
+Yu recibe 13 de daño
+Yu termina con HP:454/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:454/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Senri
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:454/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Senri
+2-Nebiros
+3-Tadano
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Senri use
+1-Recarm MP:20
+2-Zanma MP:8
+3-Mazanma MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yu HP:454/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yu HP:454/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Senri ataca a Yu
+Yu es resistente el ataque de Senri
+Yu recibe 8 de daño
+Yu termina con HP:446/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:446/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tadano
+3-Senri
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:446/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Senri
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:446/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:446/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:292/388 MP:193/193
+2-Nebiros HP:249/249 MP:242/242
+3-Senri HP:13/165 MP:150/158
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Nebiros
+Nebiros bloquea el ataque de Yu
+Nebiros termina con HP:249/249
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:446/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tadano
+3-Senri
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Yu HP:446/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ataca a Yu
+Yu es resistente el ataque de Nebiros
+Yu recibe 13 de daño
+Yu termina con HP:433/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:433/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Senri
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:433/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:433/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:433/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Yu
+Yu es resistente el ataque de Tadano
+Yu recibe 8 de daño
+Yu termina con HP:425/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:425/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Nebiros
+3-Tadano
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Senri use
+1-Recarm MP:20
+2-Zanma MP:8
+3-Mazanma MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Senri use
+1-Recarm MP:20
+2-Zanma MP:8
+3-Mazanma MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:425/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tadano
+3-Senri
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:425/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Hamaon MP:10
+2-Agi MP:5
+3-Zan MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:425/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:292/388 MP:193/193
+2-Nebiros HP:249/249 MP:242/242
+3-Senri HP:13/165 MP:150/158
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:425/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tadano
+3-Senri
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Yu HP:425/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ataca a Yu
+Yu es resistente el ataque de Nebiros
+Yu recibe 13 de daño
+Yu termina con HP:412/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:412/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Senri
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:412/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Senri
+2-Nebiros
+3-Tadano
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yu HP:412/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Senri ataca a Yu
+Yu es resistente el ataque de Senri
+Yu recibe 8 de daño
+Yu termina con HP:404/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:404/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tadano
+3-Senri
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:404/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Senri
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:404/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Yu
+Yu es resistente el ataque de Tadano
+Yu recibe 8 de daño
+Yu termina con HP:396/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:396/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:249/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Hamaon MP:10
+2-Agi MP:5
+3-Zan MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:292/388 MP:193/193
+2-Nebiros HP:249/249 MP:242/242
+3-Senri HP:13/165 MP:150/158
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Nebiros
+Nebiros recibe 72 de daño
+Nebiros termina con HP:177/249
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:396/597 MP:342/347
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:292/388 MP:193/193
+B-Nebiros HP:177/249 MP:242/242
+C-Senri HP:13/165 MP:150/158
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tadano
+3-Senri
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Yu HP:396/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ataca con oscuridad a Yu
+Yu ha sido eliminado
+Yu termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Tadano (J2)

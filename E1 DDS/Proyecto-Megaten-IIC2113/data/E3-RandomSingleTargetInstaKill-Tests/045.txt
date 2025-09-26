@@ -1,0 +1,3697 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 44
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Spriggan HP:147/147 MP:66/66
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-Knocker HP:126/126 MP:55/55
+D-Vetala HP:794/794 MP:157/157
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Spriggan
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:597/597 MP:347/347
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Knocker HP:126/126 MP:55/55
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend dispara a Knocker
+Knocker recibe 114 de daño
+Knocker termina con HP:12/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Spriggan HP:147/147 MP:66/66
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-Knocker HP:12/126 MP:55/55
+D-Vetala HP:794/794 MP:157/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Spriggan
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Spriggan HP:147/147 MP:66/66
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-Knocker HP:12/126 MP:55/55
+D-Vetala HP:794/794 MP:157/157
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Spriggan
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hama MP:6
+2-Fatal Sword MP:8
+3-Recarm MP:20
+4-Grand Tack MP:11
+5-Agi MP:5
+6-Bufu MP:5
+7-Riot Gun MP:30
+8-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:597/597 MP:347/347
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Knocker HP:12/126 MP:55/55
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend dispara a Knocker
+Knocker recibe 209 de daño
+Knocker termina con HP:0/126
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:804/834
+B-Spriggan HP:147/147 MP:66/66
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-Vetala HP:794/794 MP:157/157
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Quetzalcoatl
+3-Joker
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vetala use
+1-Nihil Claw MP:11
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vetala use
+1-Nihil Claw MP:11
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Demi-Fiend HP:1227/1227 MP:804/834
+2-Spriggan HP:147/147 MP:66/66
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Vetala
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:804/834
+B-Spriggan HP:147/147 MP:66/66
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-Vetala HP:794/794 MP:146/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Joker
+3-Vetala
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Demi-Fiend HP:1227/1227 MP:804/834
+2-Spriggan HP:147/147 MP:66/66
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Quetzalcoatl ataca a Spriggan
+Spriggan es resistente el ataque de Quetzalcoatl
+Spriggan recibe 23 de daño
+Spriggan termina con HP:124/147
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:804/834
+B-Spriggan HP:124/147 MP:66/66
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-Vetala HP:794/794 MP:146/157
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Spriggan
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hama MP:6
+2-Fatal Sword MP:8
+3-Recarm MP:20
+4-Grand Tack MP:11
+5-Agi MP:5
+6-Bufu MP:5
+7-Riot Gun MP:30
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:597/597 MP:347/347
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Vetala HP:794/794 MP:146/157
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza hielo a Joker
+Joker recibe 154 de daño
+Joker termina con HP:443/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-Spriggan HP:124/147 MP:66/66
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:347/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-Vetala HP:794/794 MP:146/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Spriggan
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-Spriggan HP:124/147 MP:66/66
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:347/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-Vetala HP:794/794 MP:146/157
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Spriggan
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:443/597 MP:347/347
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Vetala HP:794/794 MP:146/157
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend dispara a Vetala
+Vetala recibe 114 de daño
+Vetala termina con HP:680/794
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-Spriggan HP:124/147 MP:66/66
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:347/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-Vetala HP:680/794 MP:146/157
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Quetzalcoatl
+3-Joker
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Hachiman HP:851/851 MP:170/170
+3-Strix HP:189/189 MP:85/85
+4-Sedna HP:350/350 MP:68/68
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vetala use
+1-Nihil Claw MP:11
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Demi-Fiend HP:1227/1227 MP:799/834
+2-Spriggan HP:124/147 MP:66/66
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Vetala ataca a Spriggan
+Spriggan es resistente el ataque de Vetala
+Spriggan recibe 75 de daño
+Vetala ataca a Spriggan
+Spriggan es resistente el ataque de Vetala
+Spriggan recibe 75 de daño
+Spriggan termina con HP:0/147
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:347/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-Vetala HP:680/794 MP:135/157
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Joker
+3-Vetala
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Quetzalcoatl use
+1-Trisagion MP:22
+2-Mazandyne MP:32
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Demi-Fiend HP:1227/1227 MP:799/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Demi-Fiend HP:1227/1227 MP:799/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Quetzalcoatl
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:347/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-Vetala HP:680/794 MP:135/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:443/597 MP:347/347
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Vetala HP:680/794 MP:135/157
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:443/597 MP:347/347
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Vetala HP:680/794 MP:135/157
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:347/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-Vetala HP:680/794 MP:135/157
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:347/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-Vetala HP:680/794 MP:135/157
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Quetzalcoatl
+3-Joker
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:347/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-Vetala HP:680/794 MP:135/157
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Joker
+3-Vetala
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:347/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-Vetala HP:680/794 MP:135/157
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Vetala
+3-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Mudo MP:6
+2-Nihil Claw MP:11
+3-Trisagion MP:22
+4-Invitation MP:45
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Knocker HP:0/126 MP:55/55
+2-Demonee-Ho HP:804/804 MP:160/160
+3-Hachiman HP:851/851 MP:170/170
+4-Strix HP:189/189 MP:85/85
+5-Sedna HP:350/350 MP:68/68
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Mudo MP:6
+2-Nihil Claw MP:11
+3-Trisagion MP:22
+4-Invitation MP:45
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Demi-Fiend HP:1227/1227 MP:799/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca con oscuridad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Joker
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:341/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-Vetala HP:680/794 MP:135/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:341/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-Vetala HP:680/794 MP:135/157
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:341/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-Vetala HP:680/794 MP:135/157
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Quetzalcoatl
+3-Joker
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Hachiman HP:851/851 MP:170/170
+3-Strix HP:189/189 MP:85/85
+4-Sedna HP:350/350 MP:68/68
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vetala use
+1-Nihil Claw MP:11
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vetala use
+1-Nihil Claw MP:11
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Demi-Fiend HP:1227/1227 MP:799/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Vetala
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:341/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-Vetala HP:680/794 MP:124/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Joker
+3-Vetala
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Demi-Fiend HP:1227/1227 MP:799/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Hachiman HP:851/851 MP:170/170
+3-Strix HP:189/189 MP:85/85
+4-Sedna HP:350/350 MP:68/68
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Strix ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:341/347
+B-Strix HP:189/189 MP:85/85
+C-
+D-Vetala HP:680/794 MP:124/157
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Vetala
+3-Strix
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Demi-Fiend HP:1227/1227 MP:799/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Joker
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:341/347
+B-Strix HP:189/189 MP:85/85
+C-
+D-Vetala HP:680/794 MP:124/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hama MP:6
+2-Fatal Sword MP:8
+3-Recarm MP:20
+4-Grand Tack MP:11
+5-Agi MP:5
+6-Bufu MP:5
+7-Riot Gun MP:30
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:443/597 MP:341/347
+2-Strix HP:189/189 MP:85/85
+3-Vetala HP:680/794 MP:124/157
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend lanza hielo a Strix
+Strix devuelve 154 daño a Demi-Fiend
+Demi-Fiend termina con HP:1073/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1073/1227 MP:794/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:341/347
+B-Strix HP:189/189 MP:85/85
+C-
+D-Vetala HP:680/794 MP:124/157
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Joker
+3-Strix
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vetala use
+1-Nihil Claw MP:11
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Demi-Fiend HP:1073/1227 MP:794/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Vetala
+Vetala ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Vetala
+Demi-Fiend termina con HP:1073/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1073/1227 MP:794/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:341/347
+B-Strix HP:189/189 MP:85/85
+C-
+D-Vetala HP:680/794 MP:113/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Strix
+3-Vetala
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Demi-Fiend HP:1073/1227 MP:794/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Demi-Fiend
+Demi-Fiend recibe 39 de daño
+Demi-Fiend termina con HP:1034/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:794/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:341/347
+B-Strix HP:189/189 MP:85/85
+C-
+D-Vetala HP:680/794 MP:113/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:443/597 MP:341/347
+2-Strix HP:189/189 MP:85/85
+3-Vetala HP:680/794 MP:113/157
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend ataca a Vetala
+Vetala recibe 168 de daño
+Vetala termina con HP:512/794
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:794/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:341/347
+B-Strix HP:189/189 MP:85/85
+C-
+D-Vetala HP:512/794 MP:113/157
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Joker
+3-Strix
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Demi-Fiend HP:1034/1227 MP:794/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Vetala
+Demi-Fiend termina con HP:1034/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:794/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:341/347
+B-Strix HP:189/189 MP:85/85
+C-
+D-Vetala HP:512/794 MP:113/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Strix
+3-Vetala
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Mudo MP:6
+2-Nihil Claw MP:11
+3-Trisagion MP:22
+4-Invitation MP:45
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Demi-Fiend HP:1034/1227 MP:794/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:794/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:341/347
+B-Strix HP:189/189 MP:85/85
+C-
+D-Vetala HP:512/794 MP:113/157
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Strix
+2-Vetala
+3-Joker
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Quetzalcoatl HP:553/553 MP:247/247
+2-Demonee-Ho HP:804/804 MP:160/160
+3-Hachiman HP:851/851 MP:170/170
+4-Sedna HP:350/350 MP:68/68
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:794/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:341/347
+B-Demonee-Ho HP:804/804 MP:160/160
+C-
+D-Vetala HP:512/794 MP:113/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:443/597 MP:341/347
+2-Demonee-Ho HP:804/804 MP:160/160
+3-Vetala HP:512/794 MP:113/157
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hama MP:6
+2-Fatal Sword MP:8
+3-Recarm MP:20
+4-Grand Tack MP:11
+5-Agi MP:5
+6-Bufu MP:5
+7-Riot Gun MP:30
+8-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:443/597 MP:341/347
+2-Demonee-Ho HP:804/804 MP:160/160
+3-Vetala HP:512/794 MP:113/157
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend ataca con luz a Vetala
+Vetala es débil contra el ataque de Demi-Fiend
+Vetala ha sido eliminado
+Vetala termina con HP:0/794
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:341/347
+B-Demonee-Ho HP:804/804 MP:160/160
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:443/597 MP:341/347
+2-Demonee-Ho HP:804/804 MP:160/160
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend dispara a Demonee-Ho
+Demonee-Ho es resistente el ataque de Demi-Fiend
+Demonee-Ho recibe 57 de daño
+Demonee-Ho termina con HP:747/804
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:341/347
+B-Demonee-Ho HP:747/804 MP:160/160
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Joker
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:341/347
+B-Demonee-Ho HP:747/804 MP:160/160
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Mudo MP:6
+2-Nihil Claw MP:11
+3-Trisagion MP:22
+4-Invitation MP:45
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Demi-Fiend HP:1034/1227 MP:788/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker lanza fuego a Demi-Fiend
+Demi-Fiend bloquea el ataque de Joker
+Demi-Fiend termina con HP:1034/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:443/597 MP:319/347
+B-Demonee-Ho HP:747/804 MP:160/160
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:443/597 MP:319/347
+2-Demonee-Ho HP:747/804 MP:160/160
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Joker
+Joker recibe 114 de daño
+Joker termina con HP:329/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:329/597 MP:319/347
+B-Demonee-Ho HP:747/804 MP:160/160
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Joker
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Demi-Fiend HP:1034/1227 MP:788/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Demi-Fiend HP:1034/1227 MP:788/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:329/597 MP:319/347
+B-Demonee-Ho HP:747/804 MP:160/160
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:329/597 MP:319/347
+B-Demonee-Ho HP:747/804 MP:160/160
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Joker
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:329/597 MP:319/347
+B-Demonee-Ho HP:747/804 MP:160/160
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Quetzalcoatl HP:553/553 MP:247/247
+2-Hachiman HP:851/851 MP:170/170
+3-Strix HP:189/189 MP:85/85
+4-Sedna HP:350/350 MP:68/68
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Demonee-Ho HP:747/804 MP:160/160 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:329/597 MP:319/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:329/597 MP:319/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:329/597 MP:319/347
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:329/597 MP:319/347
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:329/597 MP:319/347
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Joker
+Joker recibe 168 de daño
+Joker termina con HP:161/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:161/597 MP:319/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Joker
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:747/804 MP:160/160
+2-Hachiman HP:851/851 MP:170/170
+3-Strix HP:189/189 MP:85/85
+4-Sedna HP:350/350 MP:68/68
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:161/597 MP:319/347
+B-Demonee-Ho HP:747/804 MP:160/160
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Demi-Fiend HP:1034/1227 MP:788/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Demi-Fiend HP:1034/1227 MP:788/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Joker
+Demi-Fiend termina con HP:1034/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:161/597 MP:319/347
+B-Demonee-Ho HP:747/804 MP:160/160
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hama MP:6
+2-Fatal Sword MP:8
+3-Recarm MP:20
+4-Grand Tack MP:11
+5-Agi MP:5
+6-Bufu MP:5
+7-Riot Gun MP:30
+8-Cancelar
+INPUT: 8
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:161/597 MP:319/347
+2-Demonee-Ho HP:747/804 MP:160/160
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Joker
+Joker recibe 168 de daño
+Joker termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Demonee-Ho HP:747/804 MP:160/160
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Demi-Fiend HP:1034/1227 MP:788/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Demonee-Ho
+Demi-Fiend termina con HP:1034/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Demonee-Ho HP:747/804 MP:152/160
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demonee-Ho HP:747/804 MP:152/160
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Demonee-Ho
+Demonee-Ho es resistente el ataque de Demi-Fiend
+Demonee-Ho recibe 84 de daño
+Demonee-Ho termina con HP:663/804
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Demonee-Ho HP:663/804 MP:152/160
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Quetzalcoatl HP:553/553 MP:247/247
+2-Hachiman HP:851/851 MP:170/170
+3-Strix HP:189/189 MP:85/85
+4-Sedna HP:350/350 MP:68/68
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Demi-Fiend HP:1034/1227 MP:788/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Quetzalcoatl HP:553/553 MP:247/247
+2-Hachiman HP:851/851 MP:170/170
+3-Strix HP:189/189 MP:85/85
+4-Sedna HP:350/350 MP:68/68
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Demi-Fiend HP:1034/1227 MP:788/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Quetzalcoatl
+Demi-Fiend termina con HP:1034/1227
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Quetzalcoatl HP:553/553 MP:247/247
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hama MP:6
+2-Fatal Sword MP:8
+3-Recarm MP:20
+4-Grand Tack MP:11
+5-Agi MP:5
+6-Bufu MP:5
+7-Riot Gun MP:30
+8-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Quetzalcoatl HP:553/553 MP:247/247
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Quetzalcoatl HP:553/553 MP:247/247
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Quetzalcoatl
+Quetzalcoatl recibe 114 de daño
+Quetzalcoatl termina con HP:439/553
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Quetzalcoatl HP:439/553 MP:247/247
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Quetzalcoatl use
+1-Trisagion MP:22
+2-Mazandyne MP:32
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Demi-Fiend HP:1034/1227 MP:788/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Quetzalcoatl
+Demi-Fiend termina con HP:1034/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1034/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Quetzalcoatl HP:439/553 MP:247/247
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Quetzalcoatl HP:439/553 MP:247/247
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Quetzalcoatl HP:439/553 MP:247/247
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Quetzalcoatl HP:439/553 MP:247/247
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Quetzalcoatl
+Quetzalcoatl devuelve 168 daño a Demi-Fiend
+Demi-Fiend termina con HP:866/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Quetzalcoatl HP:439/553 MP:247/247
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Quetzalcoatl HP:439/553 MP:247/247
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:663/804 MP:152/160
+2-Hachiman HP:851/851 MP:170/170
+3-Strix HP:189/189 MP:85/85
+4-Sedna HP:350/350 MP:68/68
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hachiman ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:788/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Hachiman HP:851/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hama MP:6
+2-Fatal Sword MP:8
+3-Recarm MP:20
+4-Grand Tack MP:11
+5-Agi MP:5
+6-Bufu MP:5
+7-Riot Gun MP:30
+8-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Spriggan HP:0/147 MP:66/66
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend revive a Spriggan
+Spriggan recibe 73 de HP
+Spriggan termina con HP:73/147
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Hachiman HP:851/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Demi-Fiend HP:866/1227 MP:768/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Demi-Fiend HP:866/1227 MP:768/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Hachiman HP:851/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Hachiman HP:851/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Hachiman HP:851/851 MP:170/170
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Hachiman
+Hachiman recibe 168 de daño
+Hachiman termina con HP:683/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Hachiman HP:683/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Hachiman HP:683/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Demi-Fiend HP:866/1227 MP:768/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Demi-Fiend HP:866/1227 MP:768/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Demi-Fiend HP:866/1227 MP:768/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Hachiman
+Demi-Fiend termina con HP:866/1227
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Hachiman HP:683/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Spriggan HP:73/147 MP:66/66
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hama MP:6
+2-Fatal Sword MP:8
+3-Recarm MP:20
+4-Grand Tack MP:11
+5-Agi MP:5
+6-Bufu MP:5
+7-Riot Gun MP:30
+8-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Hachiman HP:683/851 MP:170/170
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Spriggan HP:73/147 MP:66/66
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Hachiman HP:683/851 MP:170/170
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Spriggan HP:73/147 MP:66/66
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Hachiman HP:683/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Spriggan HP:73/147 MP:66/66
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Hachiman HP:683/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Demi-Fiend HP:866/1227 MP:768/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Hachiman HP:683/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Demi-Fiend HP:866/1227 MP:768/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Hachiman
+Demi-Fiend termina con HP:866/1227
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Hachiman HP:683/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Hachiman HP:683/851 MP:170/170
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Hachiman
+Hachiman recibe 114 de daño
+Hachiman termina con HP:569/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Hachiman HP:569/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Hachiman HP:569/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Hachiman HP:569/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Hachiman HP:569/851 MP:170/170
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hama MP:6
+2-Fatal Sword MP:8
+3-Recarm MP:20
+4-Grand Tack MP:11
+5-Agi MP:5
+6-Bufu MP:5
+7-Riot Gun MP:30
+8-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Spriggan HP:73/147 MP:66/66
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Spriggan ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-Spriggan HP:73/147 MP:66/66
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Hachiman HP:569/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Spriggan
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Spriggan use
+1-Agi MP:5
+2-Dormina MP:4
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-Spriggan HP:73/147 MP:66/66
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Hachiman HP:569/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-Spriggan HP:73/147 MP:66/66
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Hachiman HP:569/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Quetzalcoatl HP:439/553 MP:247/247
+2-Demonee-Ho HP:663/804 MP:152/160
+3-Strix HP:189/189 MP:85/85
+4-Sedna HP:350/350 MP:68/68
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Sedna ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-Spriggan HP:73/147 MP:66/66
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Sedna HP:350/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Spriggan
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-Spriggan HP:73/147 MP:66/66
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Sedna HP:350/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Spriggan
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Spriggan use
+1-Agi MP:5
+2-Dormina MP:4
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Spriggan use
+1-Agi MP:5
+2-Dormina MP:4
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:768/834
+B-
+C-Spriggan HP:73/147 MP:66/66
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Sedna HP:350/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Spriggan
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hama MP:6
+2-Fatal Sword MP:8
+3-Recarm MP:20
+4-Grand Tack MP:11
+5-Agi MP:5
+6-Bufu MP:5
+7-Riot Gun MP:30
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Sedna HP:350/350 MP:68/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza hielo a Sedna
+Sedna absorbe 154 daño
+Sedna termina con HP:350/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:763/834
+B-
+C-Spriggan HP:73/147 MP:66/66
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Sedna HP:350/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Demi-Fiend HP:866/1227 MP:763/834
+2-Spriggan HP:73/147 MP:66/66
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Sedna ataca a Spriggan
+Spriggan es resistente el ataque de Sedna
+Spriggan recibe 12 de daño
+Spriggan termina con HP:61/147
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:763/834
+B-
+C-Spriggan HP:61/147 MP:66/66
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Sedna HP:350/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Spriggan
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Sedna HP:350/350 MP:68/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Sedna HP:350/350 MP:68/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hama MP:6
+2-Fatal Sword MP:8
+3-Recarm MP:20
+4-Grand Tack MP:11
+5-Agi MP:5
+6-Bufu MP:5
+7-Riot Gun MP:30
+8-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Sedna HP:350/350 MP:68/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza fuego a Sedna
+Sedna es débil contra el ataque de Demi-Fiend
+Sedna recibe 232 de daño
+Sedna termina con HP:118/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:758/834
+B-
+C-Spriggan HP:61/147 MP:66/66
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Sedna HP:118/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Spriggan
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:866/1227 MP:758/834
+B-
+C-Spriggan HP:61/147 MP:66/66
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:319/347
+B-Sedna HP:118/350 MP:68/68
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Spriggan
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Hama MP:6
+2-Fatal Sword MP:8
+3-Recarm MP:20
+4-Grand Tack MP:11
+5-Agi MP:5
+6-Bufu MP:5
+7-Riot Gun MP:30
+8-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Sedna HP:118/350 MP:68/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza fuego a Sedna
+Sedna es débil contra el ataque de Demi-Fiend
+Sedna recibe 232 de daño
+Sedna termina con HP:0/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Ganador: Demi-Fiend (J1)

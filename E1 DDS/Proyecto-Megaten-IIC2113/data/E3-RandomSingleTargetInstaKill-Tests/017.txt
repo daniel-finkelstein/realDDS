@@ -1,0 +1,3192 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 16
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Manticore HP:385/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Scathach HP:343/343 MP:153/153
+D-Koumokuten HP:378/378 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Yu HP:597/597 MP:347/347
+2-Dybbuk HP:66/66 MP:63/63
+3-Scathach HP:343/343 MP:153/153
+4-Koumokuten HP:378/378 MP:170/170
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Dybbuk
+Dybbuk recibe 110 de daño
+Dybbuk termina con HP:0/66
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Manticore HP:385/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Scathach HP:343/343 MP:153/153
+D-Koumokuten HP:378/378 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Manticore HP:385/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Scathach HP:343/343 MP:153/153
+D-Koumokuten HP:378/378 MP:170/170
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Mudoon MP:10
+2-Diarama MP:9
+3-Nihil Claw MP:11
+4-Stigma Attack MP:20
+5-Bouncing Claw MP:4
+6-Iron Judgement MP:8
+7-Zandyne MP:14
+8-Axel Claw MP:15
+9-Cancelar
+INPUT: 8
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Yu HP:597/597 MP:347/347
+2-Scathach HP:343/343 MP:153/153
+3-Koumokuten HP:378/378 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Scathach
+Scathach recibe 177 de daño
+Scathach termina con HP:166/343
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:512/527
+B-Manticore HP:385/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Scathach HP:166/343 MP:153/153
+D-Koumokuten HP:378/378 MP:170/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Koumokuten
+3-Scathach
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mudoon MP:10
+2-Samarecarm MP:40
+3-Needle Shot MP:4
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Flynn HP:971/971 MP:512/527
+2-Manticore HP:385/385 MP:172/172
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Manticore
+Manticore recibe 77 de daño
+Manticore termina con HP:308/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:512/527
+B-Manticore HP:308/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:343/347
+B-
+C-Scathach HP:166/343 MP:153/153
+D-Koumokuten HP:378/378 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Scathach
+3-Yu
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Koumokuten use
+1-Megaton Press MP:17
+2-Ziodyne MP:14
+3-Mortal Jihad MP:13
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Flynn HP:971/971 MP:512/527
+2-Manticore HP:308/385 MP:172/172
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Koumokuten lanza electricidad a Manticore
+Manticore bloquea el ataque de Koumokuten
+Manticore termina con HP:308/385
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:512/527
+B-Manticore HP:308/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:343/347
+B-
+C-Scathach HP:166/343 MP:153/153
+D-Koumokuten HP:378/378 MP:156/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Mudoon MP:10
+2-Diarama MP:9
+3-Nihil Claw MP:11
+4-Stigma Attack MP:20
+5-Bouncing Claw MP:4
+6-Iron Judgement MP:8
+7-Zandyne MP:14
+8-Axel Claw MP:15
+9-Cancelar
+INPUT: 8
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Yu HP:597/597 MP:343/347
+2-Scathach HP:166/343 MP:153/153
+3-Koumokuten HP:378/378 MP:156/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:512/527
+B-Manticore HP:308/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:343/347
+B-
+C-Scathach HP:166/343 MP:153/153
+D-Koumokuten HP:378/378 MP:156/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Yu HP:597/597 MP:343/347
+2-Scathach HP:166/343 MP:153/153
+3-Koumokuten HP:378/378 MP:156/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Manticore ataca a Koumokuten
+Koumokuten recibe 31 de daño
+Koumokuten termina con HP:347/378
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:512/527
+B-Manticore HP:308/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:343/347
+B-
+C-Scathach HP:166/343 MP:153/153
+D-Koumokuten HP:347/378 MP:156/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Yu HP:597/597 MP:343/347
+2-Scathach HP:166/343 MP:153/153
+3-Koumokuten HP:347/378 MP:156/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn dispara a Koumokuten
+Koumokuten recibe 110 de daño
+Koumokuten termina con HP:237/378
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:512/527
+B-Manticore HP:308/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:343/347
+B-
+C-Scathach HP:166/343 MP:153/153
+D-Koumokuten HP:237/378 MP:156/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Koumokuten
+3-Scathach
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mudoon MP:10
+2-Samarecarm MP:40
+3-Needle Shot MP:4
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Flynn HP:971/971 MP:512/527
+2-Manticore HP:308/385 MP:172/172
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca con oscuridad a Flynn
+Flynn bloquea el ataque de Yu
+Flynn termina con HP:971/971
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:512/527
+B-Manticore HP:308/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:333/347
+B-
+C-Scathach HP:166/343 MP:153/153
+D-Koumokuten HP:237/378 MP:156/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Scathach
+3-Yu
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:512/527
+B-Manticore HP:308/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:333/347
+B-
+C-Scathach HP:166/343 MP:153/153
+D-Koumokuten HP:237/378 MP:156/170
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Scathach
+2-Yu
+3-Koumokuten
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:512/527
+B-Manticore HP:308/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:333/347
+B-
+C-Scathach HP:166/343 MP:153/153
+D-Koumokuten HP:237/378 MP:156/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:512/527
+B-Manticore HP:308/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:333/347
+B-
+C-Scathach HP:166/343 MP:153/153
+D-Koumokuten HP:237/378 MP:156/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:512/527
+B-Manticore HP:308/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:333/347
+B-
+C-Scathach HP:166/343 MP:153/153
+D-Koumokuten HP:237/378 MP:156/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Yu HP:597/597 MP:333/347
+2-Scathach HP:166/343 MP:153/153
+3-Koumokuten HP:237/378 MP:156/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Koumokuten
+Koumokuten recibe 88 de daño
+Koumokuten termina con HP:149/378
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:512/527
+B-Manticore HP:308/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:333/347
+B-
+C-Scathach HP:166/343 MP:153/153
+D-Koumokuten HP:149/378 MP:156/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Koumokuten
+3-Scathach
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Flynn HP:971/971 MP:512/527
+2-Manticore HP:308/385 MP:172/172
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:512/527
+B-Manticore HP:308/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:333/347
+B-
+C-Scathach HP:166/343 MP:153/153
+D-Koumokuten HP:149/378 MP:156/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Scathach
+3-Yu
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Koumokuten use
+1-Megaton Press MP:17
+2-Ziodyne MP:14
+3-Mortal Jihad MP:13
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Flynn HP:971/971 MP:512/527
+2-Manticore HP:308/385 MP:172/172
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:512/527
+B-Manticore HP:308/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:333/347
+B-
+C-Scathach HP:166/343 MP:153/153
+D-Koumokuten HP:149/378 MP:156/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Yu
+3-Koumokuten
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:512/527
+B-Manticore HP:308/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:333/347
+B-
+C-Scathach HP:166/343 MP:153/153
+D-Koumokuten HP:149/378 MP:156/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Koumokuten
+3-Scathach
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mudoon MP:10
+2-Samarecarm MP:40
+3-Needle Shot MP:4
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Dybbuk HP:0/66 MP:63/63
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu revive a Dybbuk
+Dybbuk recibe 66 de HP
+Dybbuk termina con HP:66/66
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:512/527
+B-Manticore HP:308/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:293/347
+B-
+C-Scathach HP:166/343 MP:153/153
+D-Koumokuten HP:149/378 MP:156/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Scathach
+3-Yu
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Koumokuten use
+1-Megaton Press MP:17
+2-Ziodyne MP:14
+3-Mortal Jihad MP:13
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Flynn HP:971/971 MP:512/527
+2-Manticore HP:308/385 MP:172/172
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Koumokuten lanza electricidad a Flynn
+Flynn recibe 98 de daño
+Flynn termina con HP:873/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:873/971 MP:512/527
+B-Manticore HP:308/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:293/347
+B-
+C-Scathach HP:166/343 MP:153/153
+D-Koumokuten HP:149/378 MP:142/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Yu HP:597/597 MP:293/347
+2-Scathach HP:166/343 MP:153/153
+3-Koumokuten HP:149/378 MP:142/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Yu HP:597/597 MP:293/347
+2-Scathach HP:166/343 MP:153/153
+3-Koumokuten HP:149/378 MP:142/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Scathach
+Scathach recibe 88 de daño
+Scathach termina con HP:78/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:873/971 MP:512/527
+B-Manticore HP:308/385 MP:172/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:293/347
+B-
+C-Scathach HP:78/343 MP:153/153
+D-Koumokuten HP:149/378 MP:142/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Yu HP:597/597 MP:293/347
+2-Scathach HP:78/343 MP:153/153
+3-Koumokuten HP:149/378 MP:142/170
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Yu
+Yu es resistente el ataque de Manticore
+Yu recibe 42 de daño
+Manticore ataca a Yu
+Yu es resistente el ataque de Manticore
+Yu recibe 42 de daño
+Yu termina con HP:513/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:873/971 MP:512/527
+B-Manticore HP:308/385 MP:165/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:513/597 MP:293/347
+B-
+C-Scathach HP:78/343 MP:153/153
+D-Koumokuten HP:149/378 MP:142/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Koumokuten
+3-Scathach
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Dybbuk HP:66/66 MP:63/63
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Scathach HP:78/343 MP:153/153 (Puesto 3)
+3-Koumokuten HP:149/378 MP:142/170 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Dybbuk ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:873/971 MP:512/527
+B-Manticore HP:308/385 MP:165/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:513/597 MP:293/347
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-Koumokuten HP:149/378 MP:142/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Dybbuk
+3-Yu
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Koumokuten use
+1-Megaton Press MP:17
+2-Ziodyne MP:14
+3-Mortal Jihad MP:13
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Koumokuten use
+1-Megaton Press MP:17
+2-Ziodyne MP:14
+3-Mortal Jihad MP:13
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Flynn HP:873/971 MP:512/527
+2-Manticore HP:308/385 MP:165/172
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:873/971 MP:512/527
+B-Manticore HP:308/385 MP:165/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:513/597 MP:293/347
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-Koumokuten HP:149/378 MP:142/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Yu
+3-Koumokuten
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Scathach HP:78/343 MP:153/153
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Flynn HP:873/971 MP:512/527
+2-Manticore HP:308/385 MP:165/172
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Dybbuk ataca a Manticore
+Manticore recibe 5 de daño
+Manticore termina con HP:303/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:873/971 MP:512/527
+B-Manticore HP:303/385 MP:165/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:513/597 MP:293/347
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-Koumokuten HP:149/378 MP:142/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Koumokuten
+3-Dybbuk
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mudoon MP:10
+2-Samarecarm MP:40
+3-Needle Shot MP:4
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Flynn HP:873/971 MP:512/527
+2-Manticore HP:303/385 MP:165/172
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Flynn
+Flynn recibe 49 de daño
+Flynn termina con HP:824/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:824/971 MP:512/527
+B-Manticore HP:303/385 MP:165/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:513/597 MP:293/347
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-Koumokuten HP:149/378 MP:142/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:824/971 MP:512/527
+B-Manticore HP:303/385 MP:165/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:513/597 MP:293/347
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-Koumokuten HP:149/378 MP:142/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Yu HP:513/597 MP:293/347
+2-Dybbuk HP:66/66 MP:63/63
+3-Koumokuten HP:149/378 MP:142/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Manticore ataca a Dybbuk
+Dybbuk recibe 84 de daño
+Manticore ataca a Dybbuk
+Dybbuk recibe 84 de daño
+Manticore ataca a Dybbuk
+Dybbuk recibe 84 de daño
+Dybbuk termina con HP:0/66
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:824/971 MP:512/527
+B-Manticore HP:303/385 MP:158/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:513/597 MP:293/347
+B-
+C-
+D-Koumokuten HP:149/378 MP:142/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Yu HP:513/597 MP:293/347
+2-Koumokuten HP:149/378 MP:142/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Yu
+Yu recibe 110 de daño
+Yu termina con HP:403/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:824/971 MP:512/527
+B-Manticore HP:303/385 MP:158/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:403/597 MP:293/347
+B-
+C-
+D-Koumokuten HP:149/378 MP:142/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Koumokuten
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Scathach HP:78/343 MP:153/153
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Koumokuten HP:149/378 MP:142/170 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Scathach ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:824/971 MP:512/527
+B-Manticore HP:303/385 MP:158/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:403/597 MP:293/347
+B-
+C-
+D-Scathach HP:78/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Scathach
+2-Yu
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Flynn HP:824/971 MP:512/527
+2-Manticore HP:303/385 MP:158/172
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:824/971 MP:512/527
+B-Manticore HP:303/385 MP:158/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:403/597 MP:293/347
+B-
+C-
+D-Scathach HP:78/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Scathach
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Flynn HP:824/971 MP:512/527
+2-Manticore HP:303/385 MP:158/172
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Flynn
+Flynn recibe 49 de daño
+Flynn termina con HP:775/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:775/971 MP:512/527
+B-Manticore HP:303/385 MP:158/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:403/597 MP:293/347
+B-
+C-
+D-Scathach HP:78/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Mudoon MP:10
+2-Diarama MP:9
+3-Nihil Claw MP:11
+4-Stigma Attack MP:20
+5-Bouncing Claw MP:4
+6-Iron Judgement MP:8
+7-Zandyne MP:14
+8-Axel Claw MP:15
+9-Cancelar
+INPUT: 8
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Yu HP:403/597 MP:293/347
+2-Scathach HP:78/343 MP:153/153
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Scathach
+Scathach recibe 177 de daño
+Scathach termina con HP:0/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:775/971 MP:497/527
+B-Manticore HP:303/385 MP:158/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:403/597 MP:293/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:775/971 MP:497/527
+B-Manticore HP:303/385 MP:158/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:403/597 MP:293/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:775/971 MP:497/527
+B-Manticore HP:303/385 MP:158/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:403/597 MP:293/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Flynn HP:775/971 MP:497/527
+2-Manticore HP:303/385 MP:158/172
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Flynn HP:775/971 MP:497/527
+2-Manticore HP:303/385 MP:158/172
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Flynn
+Flynn recibe 72 de daño
+Flynn termina con HP:703/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:703/971 MP:497/527
+B-Manticore HP:303/385 MP:158/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:403/597 MP:293/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:703/971 MP:497/527
+B-Manticore HP:303/385 MP:158/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:403/597 MP:293/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Yu HP:403/597 MP:293/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Yu HP:403/597 MP:293/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Yu HP:403/597 MP:293/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Yu HP:403/597 MP:293/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Yu
+Yu es resistente el ataque de Manticore
+Yu recibe 42 de daño
+Manticore ataca a Yu
+Yu es resistente el ataque de Manticore
+Yu recibe 42 de daño
+Yu termina con HP:319/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:703/971 MP:497/527
+B-Manticore HP:303/385 MP:151/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:319/597 MP:293/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Mudoon MP:10
+2-Diarama MP:9
+3-Nihil Claw MP:11
+4-Stigma Attack MP:20
+5-Bouncing Claw MP:4
+6-Iron Judgement MP:8
+7-Zandyne MP:14
+8-Axel Claw MP:15
+9-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Yu HP:319/597 MP:293/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:703/971 MP:497/527
+B-Manticore HP:303/385 MP:151/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:319/597 MP:293/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:703/971 MP:497/527
+B-Manticore HP:303/385 MP:151/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:319/597 MP:293/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Koumokuten HP:149/378 MP:142/170
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:703/971 MP:497/527
+B-Manticore HP:303/385 MP:151/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:319/597 MP:293/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Flynn HP:703/971 MP:497/527
+2-Manticore HP:303/385 MP:151/172
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Flynn HP:703/971 MP:497/527
+2-Manticore HP:303/385 MP:151/172
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Flynn
+Flynn recibe 49 de daño
+Flynn termina con HP:654/971
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:497/527
+B-Manticore HP:303/385 MP:151/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:319/597 MP:293/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Mudoon MP:10
+2-Diarama MP:9
+3-Nihil Claw MP:11
+4-Stigma Attack MP:20
+5-Bouncing Claw MP:4
+6-Iron Judgement MP:8
+7-Zandyne MP:14
+8-Axel Claw MP:15
+9-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Yu HP:319/597 MP:293/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:497/527
+B-Manticore HP:303/385 MP:151/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:319/597 MP:293/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Yu HP:319/597 MP:293/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Yu
+Yu es resistente el ataque de Manticore
+Yu recibe 42 de daño
+Manticore ataca a Yu
+Yu es resistente el ataque de Manticore
+Yu recibe 42 de daño
+Manticore ataca a Yu
+Yu es resistente el ataque de Manticore
+Yu recibe 42 de daño
+Yu termina con HP:193/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:497/527
+B-Manticore HP:303/385 MP:144/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:193/597 MP:293/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Yu HP:193/597 MP:293/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:497/527
+B-Manticore HP:303/385 MP:144/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:193/597 MP:293/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Yu HP:193/597 MP:293/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Yu HP:193/597 MP:293/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Yu
+Yu es resistente el ataque de Manticore
+Yu recibe 42 de daño
+Yu termina con HP:151/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:497/527
+B-Manticore HP:303/385 MP:137/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:151/597 MP:293/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:497/527
+B-Manticore HP:303/385 MP:137/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:151/597 MP:293/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mudoon MP:10
+2-Samarecarm MP:40
+3-Needle Shot MP:4
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Dybbuk HP:0/66 MP:63/63
+2-Scathach HP:0/343 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu revive a Dybbuk
+Dybbuk recibe 66 de HP
+Dybbuk termina con HP:66/66
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:497/527
+B-Manticore HP:303/385 MP:137/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:151/597 MP:253/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:497/527
+B-Manticore HP:303/385 MP:137/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:151/597 MP:253/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Yu HP:151/597 MP:253/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:497/527
+B-Manticore HP:303/385 MP:137/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:151/597 MP:253/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:497/527
+B-Manticore HP:303/385 MP:137/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:151/597 MP:253/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:497/527
+B-Manticore HP:303/385 MP:137/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:151/597 MP:253/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:497/527
+B-Manticore HP:303/385 MP:137/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:151/597 MP:253/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Dybbuk HP:66/66 MP:63/63
+2-Koumokuten HP:149/378 MP:142/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Dybbuk ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:497/527
+B-Manticore HP:303/385 MP:137/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:151/597 MP:253/347
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Mudoon MP:10
+2-Diarama MP:9
+3-Nihil Claw MP:11
+4-Stigma Attack MP:20
+5-Bouncing Claw MP:4
+6-Iron Judgement MP:8
+7-Zandyne MP:14
+8-Axel Claw MP:15
+9-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Flynn HP:654/971 MP:497/527
+2-Manticore HP:303/385 MP:137/172
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn cura a Manticore
+Manticore recibe 192 de HP
+Manticore termina con HP:385/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:488/527
+B-Manticore HP:385/385 MP:137/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:151/597 MP:253/347
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Yu HP:151/597 MP:253/347
+2-Dybbuk HP:66/66 MP:63/63
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Yu
+Yu es resistente el ataque de Manticore
+Yu recibe 42 de daño
+Manticore ataca a Yu
+Yu es resistente el ataque de Manticore
+Yu recibe 42 de daño
+Manticore ataca a Yu
+Yu es resistente el ataque de Manticore
+Yu recibe 42 de daño
+Yu termina con HP:25/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:488/527
+B-Manticore HP:385/385 MP:130/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:25/597 MP:253/347
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Dybbuk
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:488/527
+B-Manticore HP:385/385 MP:130/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:25/597 MP:253/347
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Yu
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:488/527
+B-Manticore HP:385/385 MP:130/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:25/597 MP:253/347
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Dybbuk
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Flynn HP:654/971 MP:488/527
+2-Manticore HP:385/385 MP:130/172
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Koumokuten HP:149/378 MP:142/170
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Flynn HP:654/971 MP:488/527
+2-Manticore HP:385/385 MP:130/172
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Flynn HP:654/971 MP:488/527
+2-Manticore HP:385/385 MP:130/172
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Manticore
+Manticore recibe 49 de daño
+Manticore termina con HP:336/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:488/527
+B-Manticore HP:336/385 MP:130/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:25/597 MP:253/347
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:488/527
+B-Manticore HP:336/385 MP:130/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:25/597 MP:253/347
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:488/527
+B-Manticore HP:336/385 MP:130/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:25/597 MP:253/347
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Mudoon MP:10
+2-Diarama MP:9
+3-Nihil Claw MP:11
+4-Stigma Attack MP:20
+5-Bouncing Claw MP:4
+6-Iron Judgement MP:8
+7-Zandyne MP:14
+8-Axel Claw MP:15
+9-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Yu HP:25/597 MP:253/347
+2-Dybbuk HP:66/66 MP:63/63
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Yu
+Yu es resistente el ataque de Flynn
+Yu recibe 105 de daño
+Yu termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:468/527
+B-Manticore HP:336/385 MP:130/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:253/347
+B-
+C-Dybbuk HP:66/66 MP:63/63
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Flynn HP:654/971 MP:468/527
+2-Manticore HP:336/385 MP:130/172
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Dybbuk use
+1-Mudo MP:6
+2-Patra MP:5
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Koumokuten HP:149/378 MP:142/170
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Koumokuten ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:468/527
+B-Manticore HP:336/385 MP:130/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:253/347
+B-
+C-Koumokuten HP:149/378 MP:142/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Koumokuten
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Koumokuten use
+1-Megaton Press MP:17
+2-Ziodyne MP:14
+3-Mortal Jihad MP:13
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Koumokuten use
+1-Megaton Press MP:17
+2-Ziodyne MP:14
+3-Mortal Jihad MP:13
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Flynn HP:654/971 MP:468/527
+2-Manticore HP:336/385 MP:130/172
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:468/527
+B-Manticore HP:336/385 MP:130/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:253/347
+B-
+C-Koumokuten HP:149/378 MP:142/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Koumokuten HP:149/378 MP:142/170
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Koumokuten
+Koumokuten recibe 88 de daño
+Koumokuten termina con HP:61/378
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:468/527
+B-Manticore HP:336/385 MP:130/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:253/347
+B-
+C-Koumokuten HP:61/378 MP:142/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Flynn
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:654/971 MP:468/527
+B-Manticore HP:336/385 MP:130/172
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:253/347
+B-
+C-Koumokuten HP:61/378 MP:142/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Manticore
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Mudoon MP:10
+2-Diarama MP:9
+3-Nihil Claw MP:11
+4-Stigma Attack MP:20
+5-Bouncing Claw MP:4
+6-Iron Judgement MP:8
+7-Zandyne MP:14
+8-Axel Claw MP:15
+9-Cancelar
+INPUT: 9
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Koumokuten HP:61/378 MP:142/170
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Koumokuten
+Koumokuten recibe 88 de daño
+Koumokuten termina con HP:0/378
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Flynn (J1)

@@ -1,0 +1,3197 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 35
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Kamapua'a HP:238/238 MP:107/107
+C-Knocker HP:126/126 MP:55/55
+D-Ose HP:454/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Gabriel HP:455/455 MP:442/442
+D-Zhen HP:388/388 MP:76/76
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Ose
+3-Kamapua'a
+4-Knocker
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:597/597 MP:347/347
+2-Xi Wangmu HP:418/418 MP:405/405
+3-Gabriel HP:455/455 MP:442/442
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:597/597 MP:347/347
+2-Xi Wangmu HP:418/418 MP:405/405
+3-Gabriel HP:455/455 MP:442/442
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Xi Wangmu
+Xi Wangmu recibe 83 de daño
+Xi Wangmu termina con HP:335/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Kamapua'a HP:238/238 MP:107/107
+C-Knocker HP:126/126 MP:55/55
+D-Ose HP:454/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Xi Wangmu HP:335/418 MP:405/405
+C-Gabriel HP:455/455 MP:442/442
+D-Zhen HP:388/388 MP:76/76
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Kamapua'a
+3-Knocker
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:597/597 MP:347/347
+2-Xi Wangmu HP:335/418 MP:405/405
+3-Gabriel HP:455/455 MP:442/442
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ose ataca a Joker
+Joker recibe 33 de daño
+Joker termina con HP:564/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Kamapua'a HP:238/238 MP:107/107
+C-Knocker HP:126/126 MP:55/55
+D-Ose HP:454/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:564/597 MP:347/347
+B-Xi Wangmu HP:335/418 MP:405/405
+C-Gabriel HP:455/455 MP:442/442
+D-Zhen HP:388/388 MP:76/76
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kamapua'a
+2-Knocker
+3-Nahobino
+4-Ose
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Joker HP:564/597 MP:347/347
+2-Xi Wangmu HP:335/418 MP:405/405
+3-Gabriel HP:455/455 MP:442/442
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kamapua'a ataca a Gabriel
+Gabriel recibe 18 de daño
+Gabriel termina con HP:437/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Kamapua'a HP:238/238 MP:107/107
+C-Knocker HP:126/126 MP:55/55
+D-Ose HP:454/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:564/597 MP:347/347
+B-Xi Wangmu HP:335/418 MP:405/405
+C-Gabriel HP:437/455 MP:442/442
+D-Zhen HP:388/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Knocker
+2-Nahobino
+3-Ose
+4-Kamapua'a
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Joker HP:564/597 MP:347/347
+2-Xi Wangmu HP:335/418 MP:405/405
+3-Gabriel HP:437/455 MP:442/442
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Knocker ataca a Xi Wangmu
+Xi Wangmu recibe 8 de daño
+Xi Wangmu termina con HP:327/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Kamapua'a HP:238/238 MP:107/107
+C-Knocker HP:126/126 MP:55/55
+D-Ose HP:454/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:564/597 MP:347/347
+B-Xi Wangmu HP:327/418 MP:405/405
+C-Gabriel HP:437/455 MP:442/442
+D-Zhen HP:388/388 MP:76/76
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Xi Wangmu
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:453/453 MP:389/389
+2-Kamapua'a HP:238/238 MP:107/107
+3-Knocker HP:126/126 MP:55/55
+4-Ose HP:454/454 MP:90/90
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:453/453 MP:389/389
+2-Kamapua'a HP:238/238 MP:107/107
+3-Knocker HP:126/126 MP:55/55
+4-Ose HP:454/454 MP:90/90
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Gabriel ataca a Ose
+Ose recibe 49 de daño
+Ose termina con HP:405/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Kamapua'a HP:238/238 MP:107/107
+C-Knocker HP:126/126 MP:55/55
+D-Ose HP:405/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:564/597 MP:347/347
+B-Xi Wangmu HP:327/418 MP:405/405
+C-Gabriel HP:437/455 MP:442/442
+D-Zhen HP:388/388 MP:76/76
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Joker
+3-Zhen
+4-Gabriel
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Nahobino HP:453/453 MP:389/389
+2-Kamapua'a HP:238/238 MP:107/107
+3-Knocker HP:126/126 MP:55/55
+4-Ose HP:405/454 MP:90/90
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Nahobino HP:453/453 MP:389/389
+2-Kamapua'a HP:238/238 MP:107/107
+3-Knocker HP:126/126 MP:55/55
+4-Ose HP:405/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Xi Wangmu ataca a Knocker
+Knocker recibe 44 de daño
+Knocker termina con HP:82/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Kamapua'a HP:238/238 MP:107/107
+C-Knocker HP:82/126 MP:55/55
+D-Ose HP:405/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:564/597 MP:347/347
+B-Xi Wangmu HP:327/418 MP:405/405
+C-Gabriel HP:437/455 MP:442/442
+D-Zhen HP:388/388 MP:76/76
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Gabriel
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:453/453 MP:389/389
+2-Kamapua'a HP:238/238 MP:107/107
+3-Knocker HP:82/126 MP:55/55
+4-Ose HP:405/454 MP:90/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nahobino
+Nahobino recibe 28 de daño
+Nahobino termina con HP:425/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:425/453 MP:389/389
+B-Kamapua'a HP:238/238 MP:107/107
+C-Knocker HP:82/126 MP:55/55
+D-Ose HP:405/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:564/597 MP:347/347
+B-Xi Wangmu HP:327/418 MP:405/405
+C-Gabriel HP:437/455 MP:442/442
+D-Zhen HP:388/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Gabriel
+3-Xi Wangmu
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:425/453 MP:389/389
+2-Kamapua'a HP:238/238 MP:107/107
+3-Knocker HP:82/126 MP:55/55
+4-Ose HP:405/454 MP:90/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Zhen ataca a Kamapua'a
+Kamapua'a recibe 22 de daño
+Kamapua'a termina con HP:216/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:425/453 MP:389/389
+B-Kamapua'a HP:216/238 MP:107/107
+C-Knocker HP:82/126 MP:55/55
+D-Ose HP:405/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:564/597 MP:347/347
+B-Xi Wangmu HP:327/418 MP:405/405
+C-Gabriel HP:437/455 MP:442/442
+D-Zhen HP:388/388 MP:76/76
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Ose
+3-Kamapua'a
+4-Knocker
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:564/597 MP:347/347
+2-Xi Wangmu HP:327/418 MP:405/405
+3-Gabriel HP:437/455 MP:442/442
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Gabriel
+Gabriel recibe 29 de daño
+Gabriel termina con HP:408/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:425/453 MP:389/389
+B-Kamapua'a HP:216/238 MP:107/107
+C-Knocker HP:82/126 MP:55/55
+D-Ose HP:405/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:564/597 MP:347/347
+B-Xi Wangmu HP:327/418 MP:405/405
+C-Gabriel HP:408/455 MP:442/442
+D-Zhen HP:388/388 MP:76/76
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Kamapua'a
+3-Knocker
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:564/597 MP:347/347
+2-Xi Wangmu HP:327/418 MP:405/405
+3-Gabriel HP:408/455 MP:442/442
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ose ataca a Xi Wangmu
+Xi Wangmu recibe 33 de daño
+Xi Wangmu termina con HP:294/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:425/453 MP:389/389
+B-Kamapua'a HP:216/238 MP:107/107
+C-Knocker HP:82/126 MP:55/55
+D-Ose HP:405/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:564/597 MP:347/347
+B-Xi Wangmu HP:294/418 MP:405/405
+C-Gabriel HP:408/455 MP:442/442
+D-Zhen HP:388/388 MP:76/76
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kamapua'a
+2-Knocker
+3-Nahobino
+4-Ose
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Joker HP:564/597 MP:347/347
+2-Xi Wangmu HP:294/418 MP:405/405
+3-Gabriel HP:408/455 MP:442/442
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kamapua'a ataca a Xi Wangmu
+Xi Wangmu recibe 18 de daño
+Xi Wangmu termina con HP:276/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:425/453 MP:389/389
+B-Kamapua'a HP:216/238 MP:107/107
+C-Knocker HP:82/126 MP:55/55
+D-Ose HP:405/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:564/597 MP:347/347
+B-Xi Wangmu HP:276/418 MP:405/405
+C-Gabriel HP:408/455 MP:442/442
+D-Zhen HP:388/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Knocker
+2-Nahobino
+3-Ose
+4-Kamapua'a
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Joker HP:564/597 MP:347/347
+2-Xi Wangmu HP:276/418 MP:405/405
+3-Gabriel HP:408/455 MP:442/442
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Knocker ataca a Gabriel
+Gabriel recibe 8 de daño
+Gabriel termina con HP:400/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:425/453 MP:389/389
+B-Kamapua'a HP:216/238 MP:107/107
+C-Knocker HP:82/126 MP:55/55
+D-Ose HP:405/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:564/597 MP:347/347
+B-Xi Wangmu HP:276/418 MP:405/405
+C-Gabriel HP:400/455 MP:442/442
+D-Zhen HP:388/388 MP:76/76
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Xi Wangmu
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:425/453 MP:389/389
+2-Kamapua'a HP:216/238 MP:107/107
+3-Knocker HP:82/126 MP:55/55
+4-Ose HP:405/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Gabriel ataca a Knocker
+Knocker recibe 49 de daño
+Knocker termina con HP:33/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:425/453 MP:389/389
+B-Kamapua'a HP:216/238 MP:107/107
+C-Knocker HP:33/126 MP:55/55
+D-Ose HP:405/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:564/597 MP:347/347
+B-Xi Wangmu HP:276/418 MP:405/405
+C-Gabriel HP:400/455 MP:442/442
+D-Zhen HP:388/388 MP:76/76
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Joker
+3-Zhen
+4-Gabriel
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Nahobino HP:425/453 MP:389/389
+2-Kamapua'a HP:216/238 MP:107/107
+3-Knocker HP:33/126 MP:55/55
+4-Ose HP:405/454 MP:90/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ataca a Nahobino
+Nahobino recibe 44 de daño
+Nahobino termina con HP:381/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:381/453 MP:389/389
+B-Kamapua'a HP:216/238 MP:107/107
+C-Knocker HP:33/126 MP:55/55
+D-Ose HP:405/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:564/597 MP:347/347
+B-Xi Wangmu HP:276/418 MP:405/405
+C-Gabriel HP:400/455 MP:442/442
+D-Zhen HP:388/388 MP:76/76
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Gabriel
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:381/453 MP:389/389
+2-Kamapua'a HP:216/238 MP:107/107
+3-Knocker HP:33/126 MP:55/55
+4-Ose HP:405/454 MP:90/90
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker ataca a Ose
+Ose recibe 28 de daño
+Ose termina con HP:377/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:381/453 MP:389/389
+B-Kamapua'a HP:216/238 MP:107/107
+C-Knocker HP:33/126 MP:55/55
+D-Ose HP:377/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:564/597 MP:347/347
+B-Xi Wangmu HP:276/418 MP:405/405
+C-Gabriel HP:400/455 MP:442/442
+D-Zhen HP:388/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Gabriel
+3-Xi Wangmu
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:381/453 MP:389/389
+2-Kamapua'a HP:216/238 MP:107/107
+3-Knocker HP:33/126 MP:55/55
+4-Ose HP:377/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Zhen ataca a Knocker
+Knocker recibe 22 de daño
+Knocker termina con HP:11/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:381/453 MP:389/389
+B-Kamapua'a HP:216/238 MP:107/107
+C-Knocker HP:11/126 MP:55/55
+D-Ose HP:377/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:564/597 MP:347/347
+B-Xi Wangmu HP:276/418 MP:405/405
+C-Gabriel HP:400/455 MP:442/442
+D-Zhen HP:388/388 MP:76/76
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Ose
+3-Kamapua'a
+4-Knocker
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:564/597 MP:347/347
+2-Xi Wangmu HP:276/418 MP:405/405
+3-Gabriel HP:400/455 MP:442/442
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:564/597 MP:347/347
+2-Xi Wangmu HP:276/418 MP:405/405
+3-Gabriel HP:400/455 MP:442/442
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:564/597 MP:347/347
+2-Xi Wangmu HP:276/418 MP:405/405
+3-Gabriel HP:400/455 MP:442/442
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nahobino ataca a Zhen
+Zhen recibe 29 de daño
+Zhen termina con HP:359/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:381/453 MP:389/389
+B-Kamapua'a HP:216/238 MP:107/107
+C-Knocker HP:11/126 MP:55/55
+D-Ose HP:377/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:564/597 MP:347/347
+B-Xi Wangmu HP:276/418 MP:405/405
+C-Gabriel HP:400/455 MP:442/442
+D-Zhen HP:359/388 MP:76/76
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Kamapua'a
+3-Knocker
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:564/597 MP:347/347
+2-Xi Wangmu HP:276/418 MP:405/405
+3-Gabriel HP:400/455 MP:442/442
+4-Zhen HP:359/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ose ataca a Joker
+Joker recibe 33 de daño
+Joker termina con HP:531/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:381/453 MP:389/389
+B-Kamapua'a HP:216/238 MP:107/107
+C-Knocker HP:11/126 MP:55/55
+D-Ose HP:377/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:276/418 MP:405/405
+C-Gabriel HP:400/455 MP:442/442
+D-Zhen HP:359/388 MP:76/76
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kamapua'a
+2-Knocker
+3-Nahobino
+4-Ose
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:276/418 MP:405/405
+3-Gabriel HP:400/455 MP:442/442
+4-Zhen HP:359/388 MP:76/76
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kamapua'a ataca a Xi Wangmu
+Xi Wangmu recibe 18 de daño
+Xi Wangmu termina con HP:258/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:381/453 MP:389/389
+B-Kamapua'a HP:216/238 MP:107/107
+C-Knocker HP:11/126 MP:55/55
+D-Ose HP:377/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:258/418 MP:405/405
+C-Gabriel HP:400/455 MP:442/442
+D-Zhen HP:359/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Knocker
+2-Nahobino
+3-Ose
+4-Kamapua'a
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:258/418 MP:405/405
+3-Gabriel HP:400/455 MP:442/442
+4-Zhen HP:359/388 MP:76/76
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Knocker ataca a Gabriel
+Gabriel recibe 8 de daño
+Gabriel termina con HP:392/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:381/453 MP:389/389
+B-Kamapua'a HP:216/238 MP:107/107
+C-Knocker HP:11/126 MP:55/55
+D-Ose HP:377/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:258/418 MP:405/405
+C-Gabriel HP:392/455 MP:442/442
+D-Zhen HP:359/388 MP:76/76
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Xi Wangmu
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:381/453 MP:389/389
+2-Kamapua'a HP:216/238 MP:107/107
+3-Knocker HP:11/126 MP:55/55
+4-Ose HP:377/454 MP:90/90
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Gabriel ataca a Ose
+Ose recibe 49 de daño
+Ose termina con HP:328/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:381/453 MP:389/389
+B-Kamapua'a HP:216/238 MP:107/107
+C-Knocker HP:11/126 MP:55/55
+D-Ose HP:328/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:258/418 MP:405/405
+C-Gabriel HP:392/455 MP:442/442
+D-Zhen HP:359/388 MP:76/76
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Joker
+3-Zhen
+4-Gabriel
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Nahobino HP:381/453 MP:389/389
+2-Kamapua'a HP:216/238 MP:107/107
+3-Knocker HP:11/126 MP:55/55
+4-Ose HP:328/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Xi Wangmu ataca a Knocker
+Knocker recibe 44 de daño
+Knocker termina con HP:0/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:381/453 MP:389/389
+B-Kamapua'a HP:216/238 MP:107/107
+C-
+D-Ose HP:328/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:258/418 MP:405/405
+C-Gabriel HP:392/455 MP:442/442
+D-Zhen HP:359/388 MP:76/76
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Gabriel
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:381/453 MP:389/389
+2-Kamapua'a HP:216/238 MP:107/107
+3-Ose HP:328/454 MP:90/90
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Kamapua'a
+Kamapua'a recibe 39 de daño
+Kamapua'a termina con HP:177/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:381/453 MP:389/389
+B-Kamapua'a HP:177/238 MP:107/107
+C-
+D-Ose HP:328/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:258/418 MP:405/405
+C-Gabriel HP:392/455 MP:442/442
+D-Zhen HP:359/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Gabriel
+3-Xi Wangmu
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:381/453 MP:389/389
+2-Kamapua'a HP:177/238 MP:107/107
+3-Ose HP:328/454 MP:90/90
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Zhen ataca a Nahobino
+Nahobino recibe 22 de daño
+Nahobino termina con HP:359/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:359/453 MP:389/389
+B-Kamapua'a HP:177/238 MP:107/107
+C-
+D-Ose HP:328/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:258/418 MP:405/405
+C-Gabriel HP:392/455 MP:442/442
+D-Zhen HP:359/388 MP:76/76
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Ose
+3-Kamapua'a
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:258/418 MP:405/405
+3-Gabriel HP:392/455 MP:442/442
+4-Zhen HP:359/388 MP:76/76
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Xi Wangmu
+Xi Wangmu recibe 83 de daño
+Xi Wangmu termina con HP:175/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:359/453 MP:389/389
+B-Kamapua'a HP:177/238 MP:107/107
+C-
+D-Ose HP:328/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:392/455 MP:442/442
+D-Zhen HP:359/388 MP:76/76
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Kamapua'a
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:175/418 MP:405/405
+3-Gabriel HP:392/455 MP:442/442
+4-Zhen HP:359/388 MP:76/76
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ose ataca a Zhen
+Zhen recibe 33 de daño
+Zhen termina con HP:326/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:359/453 MP:389/389
+B-Kamapua'a HP:177/238 MP:107/107
+C-
+D-Ose HP:328/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:392/455 MP:442/442
+D-Zhen HP:326/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kamapua'a
+2-Nahobino
+3-Ose
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:175/418 MP:405/405
+3-Gabriel HP:392/455 MP:442/442
+4-Zhen HP:326/388 MP:76/76
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kamapua'a ataca a Zhen
+Zhen recibe 18 de daño
+Zhen termina con HP:308/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:359/453 MP:389/389
+B-Kamapua'a HP:177/238 MP:107/107
+C-
+D-Ose HP:328/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:392/455 MP:442/442
+D-Zhen HP:308/388 MP:76/76
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Xi Wangmu
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:359/453 MP:389/389
+2-Kamapua'a HP:177/238 MP:107/107
+3-Ose HP:328/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Gabriel ataca a Ose
+Ose recibe 49 de daño
+Ose termina con HP:279/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:359/453 MP:389/389
+B-Kamapua'a HP:177/238 MP:107/107
+C-
+D-Ose HP:279/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:392/455 MP:442/442
+D-Zhen HP:308/388 MP:76/76
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Joker
+3-Zhen
+4-Gabriel
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Nahobino HP:359/453 MP:389/389
+2-Kamapua'a HP:177/238 MP:107/107
+3-Ose HP:279/454 MP:90/90
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Nahobino HP:359/453 MP:389/389
+2-Kamapua'a HP:177/238 MP:107/107
+3-Ose HP:279/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Xi Wangmu ataca a Ose
+Ose recibe 44 de daño
+Ose termina con HP:235/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:359/453 MP:389/389
+B-Kamapua'a HP:177/238 MP:107/107
+C-
+D-Ose HP:235/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:392/455 MP:442/442
+D-Zhen HP:308/388 MP:76/76
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Gabriel
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:359/453 MP:389/389
+2-Kamapua'a HP:177/238 MP:107/107
+3-Ose HP:235/454 MP:90/90
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nahobino
+Nahobino recibe 28 de daño
+Nahobino termina con HP:331/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:331/453 MP:389/389
+B-Kamapua'a HP:177/238 MP:107/107
+C-
+D-Ose HP:235/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:392/455 MP:442/442
+D-Zhen HP:308/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Gabriel
+3-Xi Wangmu
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:331/453 MP:389/389
+2-Kamapua'a HP:177/238 MP:107/107
+3-Ose HP:235/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Zhen ataca a Ose
+Ose recibe 22 de daño
+Ose termina con HP:213/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:331/453 MP:389/389
+B-Kamapua'a HP:177/238 MP:107/107
+C-
+D-Ose HP:213/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:392/455 MP:442/442
+D-Zhen HP:308/388 MP:76/76
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Ose
+3-Kamapua'a
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:175/418 MP:405/405
+3-Gabriel HP:392/455 MP:442/442
+4-Zhen HP:308/388 MP:76/76
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino dispara a Gabriel
+Gabriel recibe 83 de daño
+Gabriel termina con HP:309/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:331/453 MP:389/389
+B-Kamapua'a HP:177/238 MP:107/107
+C-
+D-Ose HP:213/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:309/455 MP:442/442
+D-Zhen HP:308/388 MP:76/76
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Kamapua'a
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:175/418 MP:405/405
+3-Gabriel HP:309/455 MP:442/442
+4-Zhen HP:308/388 MP:76/76
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ose ataca a Gabriel
+Gabriel recibe 33 de daño
+Gabriel termina con HP:276/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:331/453 MP:389/389
+B-Kamapua'a HP:177/238 MP:107/107
+C-
+D-Ose HP:213/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:276/455 MP:442/442
+D-Zhen HP:308/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kamapua'a
+2-Nahobino
+3-Ose
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:175/418 MP:405/405
+3-Gabriel HP:276/455 MP:442/442
+4-Zhen HP:308/388 MP:76/76
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:175/418 MP:405/405
+3-Gabriel HP:276/455 MP:442/442
+4-Zhen HP:308/388 MP:76/76
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kamapua'a ataca a Zhen
+Zhen recibe 18 de daño
+Zhen termina con HP:290/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:331/453 MP:389/389
+B-Kamapua'a HP:177/238 MP:107/107
+C-
+D-Ose HP:213/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:276/455 MP:442/442
+D-Zhen HP:290/388 MP:76/76
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Xi Wangmu
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:331/453 MP:389/389
+2-Kamapua'a HP:177/238 MP:107/107
+3-Ose HP:213/454 MP:90/90
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Gabriel ataca a Kamapua'a
+Kamapua'a recibe 49 de daño
+Kamapua'a termina con HP:128/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:331/453 MP:389/389
+B-Kamapua'a HP:128/238 MP:107/107
+C-
+D-Ose HP:213/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:276/455 MP:442/442
+D-Zhen HP:290/388 MP:76/76
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Joker
+3-Zhen
+4-Gabriel
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Nahobino HP:331/453 MP:389/389
+2-Kamapua'a HP:128/238 MP:107/107
+3-Ose HP:213/454 MP:90/90
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Xi Wangmu ataca a Kamapua'a
+Kamapua'a recibe 44 de daño
+Kamapua'a termina con HP:84/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:331/453 MP:389/389
+B-Kamapua'a HP:84/238 MP:107/107
+C-
+D-Ose HP:213/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:276/455 MP:442/442
+D-Zhen HP:290/388 MP:76/76
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Gabriel
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:331/453 MP:389/389
+2-Kamapua'a HP:84/238 MP:107/107
+3-Ose HP:213/454 MP:90/90
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nahobino
+Nahobino recibe 28 de daño
+Nahobino termina con HP:303/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Kamapua'a HP:84/238 MP:107/107
+C-
+D-Ose HP:213/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:276/455 MP:442/442
+D-Zhen HP:290/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Gabriel
+3-Xi Wangmu
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:303/453 MP:389/389
+2-Kamapua'a HP:84/238 MP:107/107
+3-Ose HP:213/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Zhen ataca a Ose
+Ose recibe 22 de daño
+Ose termina con HP:191/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Kamapua'a HP:84/238 MP:107/107
+C-
+D-Ose HP:191/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:276/455 MP:442/442
+D-Zhen HP:290/388 MP:76/76
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Ose
+3-Kamapua'a
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:175/418 MP:405/405
+3-Gabriel HP:276/455 MP:442/442
+4-Zhen HP:290/388 MP:76/76
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino dispara a Gabriel
+Gabriel recibe 83 de daño
+Gabriel termina con HP:193/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Kamapua'a HP:84/238 MP:107/107
+C-
+D-Ose HP:191/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:193/455 MP:442/442
+D-Zhen HP:290/388 MP:76/76
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Kamapua'a
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:175/418 MP:405/405
+3-Gabriel HP:193/455 MP:442/442
+4-Zhen HP:290/388 MP:76/76
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:175/418 MP:405/405
+3-Gabriel HP:193/455 MP:442/442
+4-Zhen HP:290/388 MP:76/76
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:175/418 MP:405/405
+3-Gabriel HP:193/455 MP:442/442
+4-Zhen HP:290/388 MP:76/76
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ose ataca a Zhen
+Zhen recibe 33 de daño
+Zhen termina con HP:257/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Kamapua'a HP:84/238 MP:107/107
+C-
+D-Ose HP:191/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:193/455 MP:442/442
+D-Zhen HP:257/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kamapua'a
+2-Nahobino
+3-Ose
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:175/418 MP:405/405
+3-Gabriel HP:193/455 MP:442/442
+4-Zhen HP:257/388 MP:76/76
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kamapua'a ataca a Gabriel
+Gabriel recibe 18 de daño
+Gabriel termina con HP:175/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:303/453 MP:389/389
+B-Kamapua'a HP:84/238 MP:107/107
+C-
+D-Ose HP:191/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:175/455 MP:442/442
+D-Zhen HP:257/388 MP:76/76
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Xi Wangmu
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:303/453 MP:389/389
+2-Kamapua'a HP:84/238 MP:107/107
+3-Ose HP:191/454 MP:90/90
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Gabriel ataca a Nahobino
+Nahobino recibe 49 de daño
+Nahobino termina con HP:254/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:254/453 MP:389/389
+B-Kamapua'a HP:84/238 MP:107/107
+C-
+D-Ose HP:191/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:175/455 MP:442/442
+D-Zhen HP:257/388 MP:76/76
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Joker
+3-Zhen
+4-Gabriel
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Nahobino HP:254/453 MP:389/389
+2-Kamapua'a HP:84/238 MP:107/107
+3-Ose HP:191/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Xi Wangmu ataca a Ose
+Ose recibe 44 de daño
+Ose termina con HP:147/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:254/453 MP:389/389
+B-Kamapua'a HP:84/238 MP:107/107
+C-
+D-Ose HP:147/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:175/455 MP:442/442
+D-Zhen HP:257/388 MP:76/76
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Gabriel
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:254/453 MP:389/389
+2-Kamapua'a HP:84/238 MP:107/107
+3-Ose HP:147/454 MP:90/90
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Kamapua'a
+Kamapua'a recibe 39 de daño
+Kamapua'a termina con HP:45/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:254/453 MP:389/389
+B-Kamapua'a HP:45/238 MP:107/107
+C-
+D-Ose HP:147/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:175/455 MP:442/442
+D-Zhen HP:257/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Gabriel
+3-Xi Wangmu
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:254/453 MP:389/389
+2-Kamapua'a HP:45/238 MP:107/107
+3-Ose HP:147/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Zhen ataca a Ose
+Ose recibe 22 de daño
+Ose termina con HP:125/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:254/453 MP:389/389
+B-Kamapua'a HP:45/238 MP:107/107
+C-
+D-Ose HP:125/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:175/455 MP:442/442
+D-Zhen HP:257/388 MP:76/76
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Ose
+3-Kamapua'a
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:175/418 MP:405/405
+3-Gabriel HP:175/455 MP:442/442
+4-Zhen HP:257/388 MP:76/76
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:175/418 MP:405/405
+3-Gabriel HP:175/455 MP:442/442
+4-Zhen HP:257/388 MP:76/76
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino dispara a Gabriel
+Gabriel recibe 83 de daño
+Gabriel termina con HP:92/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:254/453 MP:389/389
+B-Kamapua'a HP:45/238 MP:107/107
+C-
+D-Ose HP:125/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:257/388 MP:76/76
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Kamapua'a
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:175/418 MP:405/405
+3-Gabriel HP:92/455 MP:442/442
+4-Zhen HP:257/388 MP:76/76
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:175/418 MP:405/405
+3-Gabriel HP:92/455 MP:442/442
+4-Zhen HP:257/388 MP:76/76
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ose ataca a Zhen
+Zhen recibe 33 de daño
+Zhen termina con HP:224/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:254/453 MP:389/389
+B-Kamapua'a HP:45/238 MP:107/107
+C-
+D-Ose HP:125/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:531/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:224/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kamapua'a
+2-Nahobino
+3-Ose
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Joker HP:531/597 MP:347/347
+2-Xi Wangmu HP:175/418 MP:405/405
+3-Gabriel HP:92/455 MP:442/442
+4-Zhen HP:224/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kamapua'a ataca a Joker
+Joker recibe 18 de daño
+Joker termina con HP:513/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:254/453 MP:389/389
+B-Kamapua'a HP:45/238 MP:107/107
+C-
+D-Ose HP:125/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:513/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:224/388 MP:76/76
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Xi Wangmu
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:254/453 MP:389/389
+2-Kamapua'a HP:45/238 MP:107/107
+3-Ose HP:125/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Gabriel ataca a Ose
+Ose recibe 49 de daño
+Ose termina con HP:76/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:254/453 MP:389/389
+B-Kamapua'a HP:45/238 MP:107/107
+C-
+D-Ose HP:76/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:513/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:224/388 MP:76/76
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Joker
+3-Zhen
+4-Gabriel
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Nahobino HP:254/453 MP:389/389
+2-Kamapua'a HP:45/238 MP:107/107
+3-Ose HP:76/454 MP:90/90
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Nahobino HP:254/453 MP:389/389
+2-Kamapua'a HP:45/238 MP:107/107
+3-Ose HP:76/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Xi Wangmu ataca a Ose
+Ose recibe 44 de daño
+Ose termina con HP:32/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:254/453 MP:389/389
+B-Kamapua'a HP:45/238 MP:107/107
+C-
+D-Ose HP:32/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:513/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:224/388 MP:76/76
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Gabriel
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:254/453 MP:389/389
+2-Kamapua'a HP:45/238 MP:107/107
+3-Ose HP:32/454 MP:90/90
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nahobino
+Nahobino recibe 28 de daño
+Nahobino termina con HP:226/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:226/453 MP:389/389
+B-Kamapua'a HP:45/238 MP:107/107
+C-
+D-Ose HP:32/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:513/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:224/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Gabriel
+3-Xi Wangmu
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:226/453 MP:389/389
+2-Kamapua'a HP:45/238 MP:107/107
+3-Ose HP:32/454 MP:90/90
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:226/453 MP:389/389
+2-Kamapua'a HP:45/238 MP:107/107
+3-Ose HP:32/454 MP:90/90
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Zhen ataca a Kamapua'a
+Kamapua'a recibe 22 de daño
+Kamapua'a termina con HP:23/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:226/453 MP:389/389
+B-Kamapua'a HP:23/238 MP:107/107
+C-
+D-Ose HP:32/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:513/597 MP:347/347
+B-Xi Wangmu HP:175/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:224/388 MP:76/76
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Ose
+3-Kamapua'a
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:513/597 MP:347/347
+2-Xi Wangmu HP:175/418 MP:405/405
+3-Gabriel HP:92/455 MP:442/442
+4-Zhen HP:224/388 MP:76/76
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Xi Wangmu
+Xi Wangmu recibe 83 de daño
+Xi Wangmu termina con HP:92/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:226/453 MP:389/389
+B-Kamapua'a HP:23/238 MP:107/107
+C-
+D-Ose HP:32/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:513/597 MP:347/347
+B-Xi Wangmu HP:92/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:224/388 MP:76/76
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Kamapua'a
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Joker HP:513/597 MP:347/347
+2-Xi Wangmu HP:92/418 MP:405/405
+3-Gabriel HP:92/455 MP:442/442
+4-Zhen HP:224/388 MP:76/76
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ose ataca a Xi Wangmu
+Xi Wangmu recibe 33 de daño
+Xi Wangmu termina con HP:59/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:226/453 MP:389/389
+B-Kamapua'a HP:23/238 MP:107/107
+C-
+D-Ose HP:32/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:513/597 MP:347/347
+B-Xi Wangmu HP:59/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:224/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kamapua'a
+2-Nahobino
+3-Ose
+----------------------------------------
+Seleccione una acción para Kamapua'a
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kamapua'a
+1-Joker HP:513/597 MP:347/347
+2-Xi Wangmu HP:59/418 MP:405/405
+3-Gabriel HP:92/455 MP:442/442
+4-Zhen HP:224/388 MP:76/76
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kamapua'a ataca a Zhen
+Zhen recibe 18 de daño
+Zhen termina con HP:206/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:226/453 MP:389/389
+B-Kamapua'a HP:23/238 MP:107/107
+C-
+D-Ose HP:32/454 MP:90/90
+Equipo de Joker (J2)
+A-Joker HP:513/597 MP:347/347
+B-Xi Wangmu HP:59/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:206/388 MP:76/76
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Xi Wangmu
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:226/453 MP:389/389
+2-Kamapua'a HP:23/238 MP:107/107
+3-Ose HP:32/454 MP:90/90
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:226/453 MP:389/389
+2-Kamapua'a HP:23/238 MP:107/107
+3-Ose HP:32/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Gabriel ataca a Ose
+Ose recibe 49 de daño
+Ose termina con HP:0/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:226/453 MP:389/389
+B-Kamapua'a HP:23/238 MP:107/107
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:513/597 MP:347/347
+B-Xi Wangmu HP:59/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:206/388 MP:76/76
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Joker
+3-Zhen
+4-Gabriel
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Nahobino HP:226/453 MP:389/389
+2-Kamapua'a HP:23/238 MP:107/107
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Xi Wangmu ataca a Kamapua'a
+Kamapua'a recibe 44 de daño
+Kamapua'a termina con HP:0/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:226/453 MP:389/389
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:513/597 MP:347/347
+B-Xi Wangmu HP:59/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:206/388 MP:76/76
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Gabriel
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:226/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nahobino
+Nahobino recibe 28 de daño
+Nahobino termina con HP:198/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:198/453 MP:389/389
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:513/597 MP:347/347
+B-Xi Wangmu HP:59/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:206/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Gabriel
+3-Xi Wangmu
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:198/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Zhen ataca a Nahobino
+Nahobino recibe 22 de daño
+Nahobino termina con HP:176/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:176/453 MP:389/389
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:513/597 MP:347/347
+B-Xi Wangmu HP:59/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:206/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:513/597 MP:347/347
+2-Xi Wangmu HP:59/418 MP:405/405
+3-Gabriel HP:92/455 MP:442/442
+4-Zhen HP:206/388 MP:76/76
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:513/597 MP:347/347
+2-Xi Wangmu HP:59/418 MP:405/405
+3-Gabriel HP:92/455 MP:442/442
+4-Zhen HP:206/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Joker
+Joker recibe 83 de daño
+Joker termina con HP:430/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:176/453 MP:389/389
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:430/597 MP:347/347
+B-Xi Wangmu HP:59/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:206/388 MP:76/76
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Xi Wangmu
+3-Joker
+4-Zhen
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:176/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:176/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Gabriel ataca a Nahobino
+Nahobino recibe 49 de daño
+Nahobino termina con HP:127/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:127/453 MP:389/389
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:430/597 MP:347/347
+B-Xi Wangmu HP:59/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:206/388 MP:76/76
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Joker
+3-Zhen
+4-Gabriel
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Nahobino HP:127/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Nahobino HP:127/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ataca a Nahobino
+Nahobino recibe 44 de daño
+Nahobino termina con HP:83/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:83/453 MP:389/389
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:430/597 MP:347/347
+B-Xi Wangmu HP:59/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:206/388 MP:76/76
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhen
+3-Gabriel
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:83/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:83/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:83/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Nahobino
+Nahobino recibe 39 de daño
+Nahobino termina con HP:44/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:44/453 MP:389/389
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:430/597 MP:347/347
+B-Xi Wangmu HP:59/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:206/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Gabriel
+3-Xi Wangmu
+4-Joker
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:44/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:44/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Nahobino HP:44/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Zhen ataca a Nahobino
+Nahobino recibe 22 de daño
+Nahobino termina con HP:22/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:22/453 MP:389/389
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:430/597 MP:347/347
+B-Xi Wangmu HP:59/418 MP:405/405
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:206/388 MP:76/76
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:430/597 MP:347/347
+2-Xi Wangmu HP:59/418 MP:405/405
+3-Gabriel HP:92/455 MP:442/442
+4-Zhen HP:206/388 MP:76/76
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Xi Wangmu
+Xi Wangmu recibe 83 de daño
+Xi Wangmu termina con HP:0/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:22/453 MP:389/389
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:430/597 MP:347/347
+B-
+C-Gabriel HP:92/455 MP:442/442
+D-Zhen HP:206/388 MP:76/76
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Joker
+3-Zhen
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Nahobino HP:22/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Gabriel ataca a Nahobino
+Nahobino recibe 49 de daño
+Nahobino termina con HP:0/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Joker (J2)

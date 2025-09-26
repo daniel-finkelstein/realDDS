@@ -1,0 +1,3608 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 23
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Nergal HP:644/644 MP:288/288
+C-Myrmecoleon HP:123/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Persephone HP:315/315 MP:306/306
+C-Samael HP:945/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Zhen
+4-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:597/597 MP:347/347
+2-Persephone HP:315/315 MP:306/306
+3-Samael HP:945/945 MP:189/189
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:543/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Nergal HP:644/644 MP:288/288
+C-Myrmecoleon HP:123/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:543/597 MP:347/347
+B-Persephone HP:315/315 MP:306/306
+C-Samael HP:945/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Zhen
+3-Myrmecoleon
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:543/597 MP:347/347
+2-Persephone HP:315/315 MP:306/306
+3-Samael HP:945/945 MP:189/189
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:543/597 MP:347/347
+2-Persephone HP:315/315 MP:306/306
+3-Samael HP:945/945 MP:189/189
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Samael
+Samael recibe 29 de daño
+Samael termina con HP:916/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Nergal HP:644/644 MP:288/288
+C-Myrmecoleon HP:123/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:543/597 MP:347/347
+B-Persephone HP:315/315 MP:306/306
+C-Samael HP:916/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Myrmecoleon
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Joker HP:543/597 MP:347/347
+2-Persephone HP:315/315 MP:306/306
+3-Samael HP:916/945 MP:189/189
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Joker HP:543/597 MP:347/347
+2-Persephone HP:315/315 MP:306/306
+3-Samael HP:916/945 MP:189/189
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Zhen ataca a Persephone
+Persephone recibe 22 de daño
+Persephone termina con HP:293/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Nergal HP:644/644 MP:288/288
+C-Myrmecoleon HP:123/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:543/597 MP:347/347
+B-Persephone HP:293/315 MP:306/306
+C-Samael HP:916/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Nergal
+3-Nahobino
+4-Zhen
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:543/597 MP:347/347
+2-Persephone HP:293/315 MP:306/306
+3-Samael HP:916/945 MP:189/189
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Myrmecoleon ataca a Joker
+Joker recibe 6 de daño
+Joker termina con HP:537/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Nergal HP:644/644 MP:288/288
+C-Myrmecoleon HP:123/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:537/597 MP:347/347
+B-Persephone HP:293/315 MP:306/306
+C-Samael HP:916/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Joker
+3-Persephone
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Nahobino HP:453/453 MP:389/389
+2-Nergal HP:644/644 MP:288/288
+3-Myrmecoleon HP:123/123 MP:23/23
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Samael ataca a Nahobino
+Nahobino recibe 73 de daño
+Nahobino termina con HP:380/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:380/453 MP:389/389
+B-Nergal HP:644/644 MP:288/288
+C-Myrmecoleon HP:123/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:537/597 MP:347/347
+B-Persephone HP:293/315 MP:306/306
+C-Samael HP:916/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Persephone
+3-Samael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:380/453 MP:389/389
+2-Nergal HP:644/644 MP:288/288
+3-Myrmecoleon HP:123/123 MP:23/23
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nahobino
+Nahobino recibe 28 de daño
+Nahobino termina con HP:352/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:352/453 MP:389/389
+B-Nergal HP:644/644 MP:288/288
+C-Myrmecoleon HP:123/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:537/597 MP:347/347
+B-Persephone HP:293/315 MP:306/306
+C-Samael HP:916/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Samael
+3-Joker
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:352/453 MP:389/389
+2-Nergal HP:644/644 MP:288/288
+3-Myrmecoleon HP:123/123 MP:23/23
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Persephone ataca a Nergal
+Nergal recibe 33 de daño
+Nergal termina con HP:611/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:352/453 MP:389/389
+B-Nergal HP:611/644 MP:288/288
+C-Myrmecoleon HP:123/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:537/597 MP:347/347
+B-Persephone HP:293/315 MP:306/306
+C-Samael HP:916/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Zhen
+4-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:537/597 MP:347/347
+2-Persephone HP:293/315 MP:306/306
+3-Samael HP:916/945 MP:189/189
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nergal ataca a Samael
+Samael recibe 54 de daño
+Samael termina con HP:862/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:352/453 MP:389/389
+B-Nergal HP:611/644 MP:288/288
+C-Myrmecoleon HP:123/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:537/597 MP:347/347
+B-Persephone HP:293/315 MP:306/306
+C-Samael HP:862/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Zhen
+3-Myrmecoleon
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:537/597 MP:347/347
+2-Persephone HP:293/315 MP:306/306
+3-Samael HP:862/945 MP:189/189
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Samael
+Samael recibe 29 de daño
+Samael termina con HP:833/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:352/453 MP:389/389
+B-Nergal HP:611/644 MP:288/288
+C-Myrmecoleon HP:123/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:537/597 MP:347/347
+B-Persephone HP:293/315 MP:306/306
+C-Samael HP:833/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Myrmecoleon
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Joker HP:537/597 MP:347/347
+2-Persephone HP:293/315 MP:306/306
+3-Samael HP:833/945 MP:189/189
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Zhen ataca a Samael
+Samael recibe 22 de daño
+Samael termina con HP:811/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:352/453 MP:389/389
+B-Nergal HP:611/644 MP:288/288
+C-Myrmecoleon HP:123/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:537/597 MP:347/347
+B-Persephone HP:293/315 MP:306/306
+C-Samael HP:811/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Nergal
+3-Nahobino
+4-Zhen
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:537/597 MP:347/347
+2-Persephone HP:293/315 MP:306/306
+3-Samael HP:811/945 MP:189/189
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Myrmecoleon ataca a Samael
+Samael recibe 6 de daño
+Samael termina con HP:805/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:352/453 MP:389/389
+B-Nergal HP:611/644 MP:288/288
+C-Myrmecoleon HP:123/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:537/597 MP:347/347
+B-Persephone HP:293/315 MP:306/306
+C-Samael HP:805/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Joker
+3-Persephone
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Nahobino HP:352/453 MP:389/389
+2-Nergal HP:611/644 MP:288/288
+3-Myrmecoleon HP:123/123 MP:23/23
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Samael ataca a Nahobino
+Nahobino recibe 73 de daño
+Nahobino termina con HP:279/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:279/453 MP:389/389
+B-Nergal HP:611/644 MP:288/288
+C-Myrmecoleon HP:123/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:537/597 MP:347/347
+B-Persephone HP:293/315 MP:306/306
+C-Samael HP:805/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Persephone
+3-Samael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:279/453 MP:389/389
+2-Nergal HP:611/644 MP:288/288
+3-Myrmecoleon HP:123/123 MP:23/23
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca a Myrmecoleon
+Myrmecoleon recibe 28 de daño
+Myrmecoleon termina con HP:95/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:279/453 MP:389/389
+B-Nergal HP:611/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:537/597 MP:347/347
+B-Persephone HP:293/315 MP:306/306
+C-Samael HP:805/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Samael
+3-Joker
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:279/453 MP:389/389
+2-Nergal HP:611/644 MP:288/288
+3-Myrmecoleon HP:95/123 MP:23/23
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Persephone ataca a Nergal
+Nergal recibe 33 de daño
+Nergal termina con HP:578/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:279/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:537/597 MP:347/347
+B-Persephone HP:293/315 MP:306/306
+C-Samael HP:805/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Zhen
+4-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:537/597 MP:347/347
+2-Persephone HP:293/315 MP:306/306
+3-Samael HP:805/945 MP:189/189
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nergal ataca a Persephone
+Persephone recibe 54 de daño
+Persephone termina con HP:239/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:279/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:537/597 MP:347/347
+B-Persephone HP:239/315 MP:306/306
+C-Samael HP:805/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Zhen
+3-Myrmecoleon
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:537/597 MP:347/347
+2-Persephone HP:239/315 MP:306/306
+3-Samael HP:805/945 MP:189/189
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Joker
+Joker recibe 29 de daño
+Joker termina con HP:508/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:279/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:508/597 MP:347/347
+B-Persephone HP:239/315 MP:306/306
+C-Samael HP:805/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Myrmecoleon
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Joker HP:508/597 MP:347/347
+2-Persephone HP:239/315 MP:306/306
+3-Samael HP:805/945 MP:189/189
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Zhen ataca a Joker
+Joker recibe 22 de daño
+Joker termina con HP:486/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:279/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:486/597 MP:347/347
+B-Persephone HP:239/315 MP:306/306
+C-Samael HP:805/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Nergal
+3-Nahobino
+4-Zhen
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:486/597 MP:347/347
+2-Persephone HP:239/315 MP:306/306
+3-Samael HP:805/945 MP:189/189
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Myrmecoleon ataca a Persephone
+Persephone recibe 6 de daño
+Persephone termina con HP:233/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:279/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:388/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:486/597 MP:347/347
+B-Persephone HP:233/315 MP:306/306
+C-Samael HP:805/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Joker
+3-Persephone
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Nahobino HP:279/453 MP:389/389
+2-Nergal HP:578/644 MP:288/288
+3-Myrmecoleon HP:95/123 MP:23/23
+4-Zhen HP:388/388 MP:76/76
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Samael ataca a Zhen
+Zhen recibe 73 de daño
+Zhen termina con HP:315/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:279/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:315/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:486/597 MP:347/347
+B-Persephone HP:233/315 MP:306/306
+C-Samael HP:805/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Persephone
+3-Samael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:279/453 MP:389/389
+2-Nergal HP:578/644 MP:288/288
+3-Myrmecoleon HP:95/123 MP:23/23
+4-Zhen HP:315/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Nahobino
+Nahobino recibe 39 de daño
+Nahobino termina con HP:240/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:240/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:315/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:486/597 MP:347/347
+B-Persephone HP:233/315 MP:306/306
+C-Samael HP:805/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Samael
+3-Joker
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:240/453 MP:389/389
+2-Nergal HP:578/644 MP:288/288
+3-Myrmecoleon HP:95/123 MP:23/23
+4-Zhen HP:315/388 MP:76/76
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Persephone ataca a Zhen
+Zhen recibe 33 de daño
+Zhen termina con HP:282/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:240/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:486/597 MP:347/347
+B-Persephone HP:233/315 MP:306/306
+C-Samael HP:805/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Zhen
+4-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:486/597 MP:347/347
+2-Persephone HP:233/315 MP:306/306
+3-Samael HP:805/945 MP:189/189
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nergal ataca a Persephone
+Persephone recibe 54 de daño
+Persephone termina con HP:179/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:240/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:486/597 MP:347/347
+B-Persephone HP:179/315 MP:306/306
+C-Samael HP:805/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Zhen
+3-Myrmecoleon
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:486/597 MP:347/347
+2-Persephone HP:179/315 MP:306/306
+3-Samael HP:805/945 MP:189/189
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca a Persephone
+Persephone recibe 29 de daño
+Persephone termina con HP:150/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:240/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:486/597 MP:347/347
+B-Persephone HP:150/315 MP:306/306
+C-Samael HP:805/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Myrmecoleon
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Joker HP:486/597 MP:347/347
+2-Persephone HP:150/315 MP:306/306
+3-Samael HP:805/945 MP:189/189
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Zhen ataca a Samael
+Samael recibe 22 de daño
+Samael termina con HP:783/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:240/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:486/597 MP:347/347
+B-Persephone HP:150/315 MP:306/306
+C-Samael HP:783/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Nergal
+3-Nahobino
+4-Zhen
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:486/597 MP:347/347
+2-Persephone HP:150/315 MP:306/306
+3-Samael HP:783/945 MP:189/189
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:486/597 MP:347/347
+2-Persephone HP:150/315 MP:306/306
+3-Samael HP:783/945 MP:189/189
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Myrmecoleon ataca a Joker
+Joker recibe 6 de daño
+Joker termina con HP:480/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:240/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:480/597 MP:347/347
+B-Persephone HP:150/315 MP:306/306
+C-Samael HP:783/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Joker
+3-Persephone
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Nahobino HP:240/453 MP:389/389
+2-Nergal HP:578/644 MP:288/288
+3-Myrmecoleon HP:95/123 MP:23/23
+4-Zhen HP:282/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Samael ataca a Nahobino
+Nahobino recibe 73 de daño
+Nahobino termina con HP:167/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:167/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:480/597 MP:347/347
+B-Persephone HP:150/315 MP:306/306
+C-Samael HP:783/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Persephone
+3-Samael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:167/453 MP:389/389
+2-Nergal HP:578/644 MP:288/288
+3-Myrmecoleon HP:95/123 MP:23/23
+4-Zhen HP:282/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nahobino
+Nahobino recibe 28 de daño
+Nahobino termina con HP:139/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:139/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:480/597 MP:347/347
+B-Persephone HP:150/315 MP:306/306
+C-Samael HP:783/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Samael
+3-Joker
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:139/453 MP:389/389
+2-Nergal HP:578/644 MP:288/288
+3-Myrmecoleon HP:95/123 MP:23/23
+4-Zhen HP:282/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Nahobino
+Nahobino recibe 33 de daño
+Nahobino termina con HP:106/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:106/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:480/597 MP:347/347
+B-Persephone HP:150/315 MP:306/306
+C-Samael HP:783/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Zhen
+4-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:480/597 MP:347/347
+2-Persephone HP:150/315 MP:306/306
+3-Samael HP:783/945 MP:189/189
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nergal ataca a Samael
+Samael recibe 54 de daño
+Samael termina con HP:729/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:106/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:480/597 MP:347/347
+B-Persephone HP:150/315 MP:306/306
+C-Samael HP:729/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Zhen
+3-Myrmecoleon
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:480/597 MP:347/347
+2-Persephone HP:150/315 MP:306/306
+3-Samael HP:729/945 MP:189/189
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:480/597 MP:347/347
+2-Persephone HP:150/315 MP:306/306
+3-Samael HP:729/945 MP:189/189
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca a Persephone
+Persephone recibe 29 de daño
+Persephone termina con HP:121/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:106/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:480/597 MP:347/347
+B-Persephone HP:121/315 MP:306/306
+C-Samael HP:729/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Myrmecoleon
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Joker HP:480/597 MP:347/347
+2-Persephone HP:121/315 MP:306/306
+3-Samael HP:729/945 MP:189/189
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Zhen ataca a Joker
+Joker recibe 22 de daño
+Joker termina con HP:458/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:106/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:458/597 MP:347/347
+B-Persephone HP:121/315 MP:306/306
+C-Samael HP:729/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Nergal
+3-Nahobino
+4-Zhen
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:458/597 MP:347/347
+2-Persephone HP:121/315 MP:306/306
+3-Samael HP:729/945 MP:189/189
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:458/597 MP:347/347
+2-Persephone HP:121/315 MP:306/306
+3-Samael HP:729/945 MP:189/189
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Myrmecoleon ataca a Persephone
+Persephone recibe 6 de daño
+Persephone termina con HP:115/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:106/453 MP:389/389
+B-Nergal HP:578/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:458/597 MP:347/347
+B-Persephone HP:115/315 MP:306/306
+C-Samael HP:729/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Joker
+3-Persephone
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Nahobino HP:106/453 MP:389/389
+2-Nergal HP:578/644 MP:288/288
+3-Myrmecoleon HP:95/123 MP:23/23
+4-Zhen HP:282/388 MP:76/76
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Samael ataca a Nergal
+Nergal recibe 73 de daño
+Nergal termina con HP:505/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:106/453 MP:389/389
+B-Nergal HP:505/644 MP:288/288
+C-Myrmecoleon HP:95/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:458/597 MP:347/347
+B-Persephone HP:115/315 MP:306/306
+C-Samael HP:729/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Persephone
+3-Samael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:106/453 MP:389/389
+2-Nergal HP:505/644 MP:288/288
+3-Myrmecoleon HP:95/123 MP:23/23
+4-Zhen HP:282/388 MP:76/76
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca a Myrmecoleon
+Myrmecoleon recibe 28 de daño
+Myrmecoleon termina con HP:67/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:106/453 MP:389/389
+B-Nergal HP:505/644 MP:288/288
+C-Myrmecoleon HP:67/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:458/597 MP:347/347
+B-Persephone HP:115/315 MP:306/306
+C-Samael HP:729/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Samael
+3-Joker
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:106/453 MP:389/389
+2-Nergal HP:505/644 MP:288/288
+3-Myrmecoleon HP:67/123 MP:23/23
+4-Zhen HP:282/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Nahobino
+Nahobino recibe 33 de daño
+Nahobino termina con HP:73/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:73/453 MP:389/389
+B-Nergal HP:505/644 MP:288/288
+C-Myrmecoleon HP:67/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:458/597 MP:347/347
+B-Persephone HP:115/315 MP:306/306
+C-Samael HP:729/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Nahobino
+3-Zhen
+4-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:458/597 MP:347/347
+2-Persephone HP:115/315 MP:306/306
+3-Samael HP:729/945 MP:189/189
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nergal ataca a Samael
+Samael recibe 54 de daño
+Samael termina con HP:675/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:73/453 MP:389/389
+B-Nergal HP:505/644 MP:288/288
+C-Myrmecoleon HP:67/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:458/597 MP:347/347
+B-Persephone HP:115/315 MP:306/306
+C-Samael HP:675/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Zhen
+3-Myrmecoleon
+4-Nergal
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:458/597 MP:347/347
+2-Persephone HP:115/315 MP:306/306
+3-Samael HP:675/945 MP:189/189
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Joker
+Joker recibe 83 de daño
+Joker termina con HP:375/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:73/453 MP:389/389
+B-Nergal HP:505/644 MP:288/288
+C-Myrmecoleon HP:67/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:375/597 MP:347/347
+B-Persephone HP:115/315 MP:306/306
+C-Samael HP:675/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Myrmecoleon
+3-Nergal
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Joker HP:375/597 MP:347/347
+2-Persephone HP:115/315 MP:306/306
+3-Samael HP:675/945 MP:189/189
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Zhen ataca a Joker
+Joker recibe 22 de daño
+Joker termina con HP:353/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:73/453 MP:389/389
+B-Nergal HP:505/644 MP:288/288
+C-Myrmecoleon HP:67/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:353/597 MP:347/347
+B-Persephone HP:115/315 MP:306/306
+C-Samael HP:675/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Nergal
+3-Nahobino
+4-Zhen
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:353/597 MP:347/347
+2-Persephone HP:115/315 MP:306/306
+3-Samael HP:675/945 MP:189/189
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Myrmecoleon ataca a Joker
+Joker recibe 6 de daño
+Joker termina con HP:347/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:73/453 MP:389/389
+B-Nergal HP:505/644 MP:288/288
+C-Myrmecoleon HP:67/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:347/597 MP:347/347
+B-Persephone HP:115/315 MP:306/306
+C-Samael HP:675/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Joker
+3-Persephone
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Nahobino HP:73/453 MP:389/389
+2-Nergal HP:505/644 MP:288/288
+3-Myrmecoleon HP:67/123 MP:23/23
+4-Zhen HP:282/388 MP:76/76
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Nahobino HP:73/453 MP:389/389
+2-Nergal HP:505/644 MP:288/288
+3-Myrmecoleon HP:67/123 MP:23/23
+4-Zhen HP:282/388 MP:76/76
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Nahobino HP:73/453 MP:389/389
+2-Nergal HP:505/644 MP:288/288
+3-Myrmecoleon HP:67/123 MP:23/23
+4-Zhen HP:282/388 MP:76/76
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Samael ataca a Nahobino
+Nahobino recibe 73 de daño
+Nahobino termina con HP:0/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:505/644 MP:288/288
+C-Myrmecoleon HP:67/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:347/597 MP:347/347
+B-Persephone HP:115/315 MP:306/306
+C-Samael HP:675/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Persephone
+3-Samael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nergal HP:505/644 MP:288/288
+2-Myrmecoleon HP:67/123 MP:23/23
+3-Zhen HP:282/388 MP:76/76
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nergal
+Nergal recibe 28 de daño
+Nergal termina con HP:477/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:477/644 MP:288/288
+C-Myrmecoleon HP:67/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:347/597 MP:347/347
+B-Persephone HP:115/315 MP:306/306
+C-Samael HP:675/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Samael
+3-Joker
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nergal HP:477/644 MP:288/288
+2-Myrmecoleon HP:67/123 MP:23/23
+3-Zhen HP:282/388 MP:76/76
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Nergal
+Nergal recibe 33 de daño
+Nergal termina con HP:444/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:444/644 MP:288/288
+C-Myrmecoleon HP:67/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:347/597 MP:347/347
+B-Persephone HP:115/315 MP:306/306
+C-Samael HP:675/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Zhen
+3-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:347/597 MP:347/347
+2-Persephone HP:115/315 MP:306/306
+3-Samael HP:675/945 MP:189/189
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nergal ataca a Persephone
+Persephone recibe 54 de daño
+Persephone termina con HP:61/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:444/644 MP:288/288
+C-Myrmecoleon HP:67/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:347/597 MP:347/347
+B-Persephone HP:61/315 MP:306/306
+C-Samael HP:675/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Myrmecoleon
+3-Nergal
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Joker HP:347/597 MP:347/347
+2-Persephone HP:61/315 MP:306/306
+3-Samael HP:675/945 MP:189/189
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Joker HP:347/597 MP:347/347
+2-Persephone HP:61/315 MP:306/306
+3-Samael HP:675/945 MP:189/189
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Zhen ataca a Samael
+Samael recibe 22 de daño
+Samael termina con HP:653/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:444/644 MP:288/288
+C-Myrmecoleon HP:67/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:347/597 MP:347/347
+B-Persephone HP:61/315 MP:306/306
+C-Samael HP:653/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Nergal
+3-Zhen
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:347/597 MP:347/347
+2-Persephone HP:61/315 MP:306/306
+3-Samael HP:653/945 MP:189/189
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:347/597 MP:347/347
+2-Persephone HP:61/315 MP:306/306
+3-Samael HP:653/945 MP:189/189
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Myrmecoleon ataca a Joker
+Joker recibe 6 de daño
+Joker termina con HP:341/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:444/644 MP:288/288
+C-Myrmecoleon HP:67/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:341/597 MP:347/347
+B-Persephone HP:61/315 MP:306/306
+C-Samael HP:653/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Joker
+3-Persephone
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Nergal HP:444/644 MP:288/288
+2-Myrmecoleon HP:67/123 MP:23/23
+3-Zhen HP:282/388 MP:76/76
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Nergal HP:444/644 MP:288/288
+2-Myrmecoleon HP:67/123 MP:23/23
+3-Zhen HP:282/388 MP:76/76
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Samael ataca a Nergal
+Nergal recibe 73 de daño
+Nergal termina con HP:371/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:371/644 MP:288/288
+C-Myrmecoleon HP:67/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:341/597 MP:347/347
+B-Persephone HP:61/315 MP:306/306
+C-Samael HP:653/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Persephone
+3-Samael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nergal HP:371/644 MP:288/288
+2-Myrmecoleon HP:67/123 MP:23/23
+3-Zhen HP:282/388 MP:76/76
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Nergal
+Nergal recibe 39 de daño
+Nergal termina con HP:332/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:332/644 MP:288/288
+C-Myrmecoleon HP:67/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:341/597 MP:347/347
+B-Persephone HP:61/315 MP:306/306
+C-Samael HP:653/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Samael
+3-Joker
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nergal HP:332/644 MP:288/288
+2-Myrmecoleon HP:67/123 MP:23/23
+3-Zhen HP:282/388 MP:76/76
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Persephone ataca a Myrmecoleon
+Myrmecoleon recibe 33 de daño
+Myrmecoleon termina con HP:34/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:332/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:341/597 MP:347/347
+B-Persephone HP:61/315 MP:306/306
+C-Samael HP:653/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Zhen
+3-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:341/597 MP:347/347
+2-Persephone HP:61/315 MP:306/306
+3-Samael HP:653/945 MP:189/189
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:341/597 MP:347/347
+2-Persephone HP:61/315 MP:306/306
+3-Samael HP:653/945 MP:189/189
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nergal ataca a Persephone
+Persephone recibe 54 de daño
+Persephone termina con HP:7/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:332/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:341/597 MP:347/347
+B-Persephone HP:7/315 MP:306/306
+C-Samael HP:653/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Myrmecoleon
+3-Nergal
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Joker HP:341/597 MP:347/347
+2-Persephone HP:7/315 MP:306/306
+3-Samael HP:653/945 MP:189/189
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Joker HP:341/597 MP:347/347
+2-Persephone HP:7/315 MP:306/306
+3-Samael HP:653/945 MP:189/189
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Zhen ataca a Joker
+Joker recibe 22 de daño
+Joker termina con HP:319/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:332/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:319/597 MP:347/347
+B-Persephone HP:7/315 MP:306/306
+C-Samael HP:653/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Nergal
+3-Zhen
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:319/597 MP:347/347
+2-Persephone HP:7/315 MP:306/306
+3-Samael HP:653/945 MP:189/189
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Myrmecoleon ataca a Joker
+Joker recibe 6 de daño
+Joker termina con HP:313/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:332/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:313/597 MP:347/347
+B-Persephone HP:7/315 MP:306/306
+C-Samael HP:653/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Joker
+3-Persephone
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Nergal HP:332/644 MP:288/288
+2-Myrmecoleon HP:34/123 MP:23/23
+3-Zhen HP:282/388 MP:76/76
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Nergal HP:332/644 MP:288/288
+2-Myrmecoleon HP:34/123 MP:23/23
+3-Zhen HP:282/388 MP:76/76
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Samael ataca a Nergal
+Nergal recibe 73 de daño
+Nergal termina con HP:259/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:259/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:282/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:313/597 MP:347/347
+B-Persephone HP:7/315 MP:306/306
+C-Samael HP:653/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Persephone
+3-Samael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nergal HP:259/644 MP:288/288
+2-Myrmecoleon HP:34/123 MP:23/23
+3-Zhen HP:282/388 MP:76/76
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca a Zhen
+Zhen recibe 28 de daño
+Zhen termina con HP:254/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:259/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:254/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:313/597 MP:347/347
+B-Persephone HP:7/315 MP:306/306
+C-Samael HP:653/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Samael
+3-Joker
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nergal HP:259/644 MP:288/288
+2-Myrmecoleon HP:34/123 MP:23/23
+3-Zhen HP:254/388 MP:76/76
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nergal HP:259/644 MP:288/288
+2-Myrmecoleon HP:34/123 MP:23/23
+3-Zhen HP:254/388 MP:76/76
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Nergal
+Nergal recibe 33 de daño
+Nergal termina con HP:226/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:226/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:254/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:313/597 MP:347/347
+B-Persephone HP:7/315 MP:306/306
+C-Samael HP:653/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Zhen
+3-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:313/597 MP:347/347
+2-Persephone HP:7/315 MP:306/306
+3-Samael HP:653/945 MP:189/189
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:259/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:226/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:254/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-Persephone HP:7/315 MP:306/306
+C-Samael HP:653/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Myrmecoleon
+3-Nergal
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Joker HP:259/597 MP:347/347
+2-Persephone HP:7/315 MP:306/306
+3-Samael HP:653/945 MP:189/189
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Zhen ataca a Samael
+Samael recibe 22 de daño
+Samael termina con HP:631/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:226/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:254/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-Persephone HP:7/315 MP:306/306
+C-Samael HP:631/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Nergal
+3-Zhen
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:259/597 MP:347/347
+2-Persephone HP:7/315 MP:306/306
+3-Samael HP:631/945 MP:189/189
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Myrmecoleon ataca a Samael
+Samael recibe 6 de daño
+Samael termina con HP:625/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:226/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:254/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-Persephone HP:7/315 MP:306/306
+C-Samael HP:625/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Joker
+3-Persephone
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Nergal HP:226/644 MP:288/288
+2-Myrmecoleon HP:34/123 MP:23/23
+3-Zhen HP:254/388 MP:76/76
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Samael ataca a Zhen
+Zhen recibe 73 de daño
+Zhen termina con HP:181/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:226/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:181/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-Persephone HP:7/315 MP:306/306
+C-Samael HP:625/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Persephone
+3-Samael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nergal HP:226/644 MP:288/288
+2-Myrmecoleon HP:34/123 MP:23/23
+3-Zhen HP:181/388 MP:76/76
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nergal HP:226/644 MP:288/288
+2-Myrmecoleon HP:34/123 MP:23/23
+3-Zhen HP:181/388 MP:76/76
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nergal HP:226/644 MP:288/288
+2-Myrmecoleon HP:34/123 MP:23/23
+3-Zhen HP:181/388 MP:76/76
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nergal
+Nergal recibe 28 de daño
+Nergal termina con HP:198/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:198/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:181/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-Persephone HP:7/315 MP:306/306
+C-Samael HP:625/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Samael
+3-Joker
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nergal HP:198/644 MP:288/288
+2-Myrmecoleon HP:34/123 MP:23/23
+3-Zhen HP:181/388 MP:76/76
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nergal HP:198/644 MP:288/288
+2-Myrmecoleon HP:34/123 MP:23/23
+3-Zhen HP:181/388 MP:76/76
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Persephone ataca a Zhen
+Zhen recibe 33 de daño
+Zhen termina con HP:148/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:198/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:148/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-Persephone HP:7/315 MP:306/306
+C-Samael HP:625/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Zhen
+3-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:259/597 MP:347/347
+2-Persephone HP:7/315 MP:306/306
+3-Samael HP:625/945 MP:189/189
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:259/597 MP:347/347
+2-Persephone HP:7/315 MP:306/306
+3-Samael HP:625/945 MP:189/189
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:259/597 MP:347/347
+2-Persephone HP:7/315 MP:306/306
+3-Samael HP:625/945 MP:189/189
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:259/597 MP:347/347
+2-Persephone HP:7/315 MP:306/306
+3-Samael HP:625/945 MP:189/189
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nergal ataca a Samael
+Samael recibe 54 de daño
+Samael termina con HP:571/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:198/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:148/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-Persephone HP:7/315 MP:306/306
+C-Samael HP:571/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Myrmecoleon
+3-Nergal
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Joker HP:259/597 MP:347/347
+2-Persephone HP:7/315 MP:306/306
+3-Samael HP:571/945 MP:189/189
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Zhen ataca a Samael
+Samael recibe 22 de daño
+Samael termina con HP:549/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:198/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:148/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-Persephone HP:7/315 MP:306/306
+C-Samael HP:549/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Nergal
+3-Zhen
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:259/597 MP:347/347
+2-Persephone HP:7/315 MP:306/306
+3-Samael HP:549/945 MP:189/189
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Myrmecoleon ataca a Persephone
+Persephone recibe 6 de daño
+Persephone termina con HP:1/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:198/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:148/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-Persephone HP:1/315 MP:306/306
+C-Samael HP:549/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Joker
+3-Persephone
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Nergal HP:198/644 MP:288/288
+2-Myrmecoleon HP:34/123 MP:23/23
+3-Zhen HP:148/388 MP:76/76
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Samael ataca a Zhen
+Zhen recibe 73 de daño
+Zhen termina con HP:75/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:198/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:75/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-Persephone HP:1/315 MP:306/306
+C-Samael HP:549/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Persephone
+3-Samael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nergal HP:198/644 MP:288/288
+2-Myrmecoleon HP:34/123 MP:23/23
+3-Zhen HP:75/388 MP:76/76
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Zhen
+Zhen recibe 39 de daño
+Zhen termina con HP:36/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:198/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:36/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-Persephone HP:1/315 MP:306/306
+C-Samael HP:549/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Samael
+3-Joker
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nergal HP:198/644 MP:288/288
+2-Myrmecoleon HP:34/123 MP:23/23
+3-Zhen HP:36/388 MP:76/76
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Persephone ataca a Zhen
+Zhen recibe 33 de daño
+Zhen termina con HP:3/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:198/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:3/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-Persephone HP:1/315 MP:306/306
+C-Samael HP:549/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Zhen
+3-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:259/597 MP:347/347
+2-Persephone HP:1/315 MP:306/306
+3-Samael HP:549/945 MP:189/189
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nergal ataca a Persephone
+Persephone recibe 54 de daño
+Persephone termina con HP:0/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:198/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:3/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-
+C-Samael HP:549/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhen
+2-Myrmecoleon
+3-Nergal
+----------------------------------------
+Seleccione una acción para Zhen
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhen
+1-Joker HP:259/597 MP:347/347
+2-Samael HP:549/945 MP:189/189
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Zhen ataca a Samael
+Samael recibe 22 de daño
+Samael termina con HP:527/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:198/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:3/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-
+C-Samael HP:527/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Nergal
+3-Zhen
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:259/597 MP:347/347
+2-Samael HP:527/945 MP:189/189
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Myrmecoleon ataca a Samael
+Samael recibe 6 de daño
+Samael termina con HP:521/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:198/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-Zhen HP:3/388 MP:76/76
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-
+C-Samael HP:521/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Joker
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Nergal HP:198/644 MP:288/288
+2-Myrmecoleon HP:34/123 MP:23/23
+3-Zhen HP:3/388 MP:76/76
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Samael ataca a Zhen
+Zhen recibe 73 de daño
+Zhen termina con HP:0/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:198/644 MP:288/288
+C-Myrmecoleon HP:34/123 MP:23/23
+D-
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-
+C-Samael HP:521/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Samael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nergal HP:198/644 MP:288/288
+2-Myrmecoleon HP:34/123 MP:23/23
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nergal HP:198/644 MP:288/288
+2-Myrmecoleon HP:34/123 MP:23/23
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Myrmecoleon
+Myrmecoleon recibe 39 de daño
+Myrmecoleon termina con HP:0/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:198/644 MP:288/288
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-
+C-Samael HP:521/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:259/597 MP:347/347
+2-Samael HP:521/945 MP:189/189
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nergal ataca a Samael
+Samael recibe 54 de daño
+Samael termina con HP:467/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:198/644 MP:288/288
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-
+C-Samael HP:467/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Joker
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Nergal HP:198/644 MP:288/288
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Nergal HP:198/644 MP:288/288
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Samael ataca a Nergal
+Nergal recibe 73 de daño
+Nergal termina con HP:125/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:125/644 MP:288/288
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-
+C-Samael HP:467/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Samael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nergal HP:125/644 MP:288/288
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nergal
+Nergal recibe 28 de daño
+Nergal termina con HP:97/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:97/644 MP:288/288
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-
+C-Samael HP:467/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:259/597 MP:347/347
+2-Samael HP:467/945 MP:189/189
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:205/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:97/644 MP:288/288
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:205/597 MP:347/347
+B-
+C-Samael HP:467/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Joker
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Nergal HP:97/644 MP:288/288
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Samael ataca a Nergal
+Nergal recibe 73 de daño
+Nergal termina con HP:24/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:389/389
+B-Nergal HP:24/644 MP:288/288
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:205/597 MP:347/347
+B-
+C-Samael HP:467/945 MP:189/189
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Samael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nergal HP:24/644 MP:288/288
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Nergal
+Nergal recibe 28 de daño
+Nergal termina con HP:0/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Joker (J2)

@@ -1,0 +1,5678 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 20
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:258/258 MP:251/251
+D-Naga HP:199/199 MP:39/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:999/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:999/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Tamaki
+Tamaki es resistente el ataque de Aniel
+Tamaki recibe 23 de daño
+Tamaki termina con HP:976/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:258/258 MP:251/251
+D-Naga HP:199/199 MP:39/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:976/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:976/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Mudo MP:6
+2-Recarm MP:20
+3-Sabbatma MP:20
+4-Gram Slice MP:5
+5-Agidyne MP:14
+6-Oni-Kagura MP:9
+7-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:976/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Tamaki
+Tamaki es resistente el ataque de Nanashi
+Tamaki recibe 61 de daño
+Tamaki termina con HP:915/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:406/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:258/258 MP:251/251
+D-Naga HP:199/199 MP:39/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:915/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Israfel use
+1-Mabufula MP:20
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Tamaki HP:915/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Israfel ataca con luz a Tamaki
+Tamaki bloquea el ataque de Israfel
+Tamaki termina con HP:915/999
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:406/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:258/258 MP:241/251
+D-Naga HP:199/199 MP:39/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:915/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Nanashi HP:140/140 MP:406/411
+2-Aniel HP:567/567 MP:255/255
+3-Israfel HP:258/258 MP:241/251
+4-Naga HP:199/199 MP:39/39
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki dispara a Israfel
+Israfel recibe 15 de daño
+Israfel termina con HP:243/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:406/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:199/199 MP:39/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:915/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:406/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:199/199 MP:39/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:915/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:915/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Mudo MP:6
+2-Recarm MP:20
+3-Sabbatma MP:20
+4-Gram Slice MP:5
+5-Agidyne MP:14
+6-Oni-Kagura MP:9
+7-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:915/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:915/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:915/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Tamaki
+Tamaki es resistente el ataque de Nanashi
+Tamaki recibe 15 de daño
+Tamaki termina con HP:900/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:406/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:199/199 MP:39/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:900/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Tamaki HP:900/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Israfel ataca a Tamaki
+Tamaki es resistente el ataque de Israfel
+Tamaki recibe 13 de daño
+Tamaki termina con HP:887/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:406/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:199/199 MP:39/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:887/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Aniel
+3-Nanashi
+4-Israfel
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Naga use
+1-Lunge MP:6
+2-Bufu MP:5
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Tamaki HP:887/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ataca a Tamaki
+Tamaki es resistente el ataque de Naga
+Tamaki recibe 21 de daño
+Tamaki termina con HP:866/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:406/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:199/199 MP:33/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:866/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:866/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:866/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Tamaki
+Tamaki es resistente el ataque de Aniel
+Tamaki recibe 23 de daño
+Tamaki termina con HP:843/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:406/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:199/199 MP:33/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:843/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:406/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:199/199 MP:33/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:843/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Nanashi HP:140/140 MP:406/411
+2-Aniel HP:567/567 MP:255/255
+3-Israfel HP:243/258 MP:241/251
+4-Naga HP:199/199 MP:33/39
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki ataca a Israfel
+Israfel recibe 18 de daño
+Israfel termina con HP:225/258
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:406/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:33/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:843/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:843/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:406/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:33/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:843/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Mudo MP:6
+2-Recarm MP:20
+3-Sabbatma MP:20
+4-Gram Slice MP:5
+5-Agidyne MP:14
+6-Oni-Kagura MP:9
+7-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:843/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Mudo MP:6
+2-Recarm MP:20
+3-Sabbatma MP:20
+4-Gram Slice MP:5
+5-Agidyne MP:14
+6-Oni-Kagura MP:9
+7-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:843/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Tamaki
+Tamaki es resistente el ataque de Nanashi
+Tamaki recibe 75 de daño
+Tamaki termina con HP:768/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:397/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:33/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:768/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:397/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:33/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:768/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Naga
+2-Aniel
+3-Nanashi
+4-Israfel
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:397/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:33/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:768/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:397/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:33/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:768/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:397/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:33/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:768/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Israfel use
+1-Mabufula MP:20
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Tamaki HP:768/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:397/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:33/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:768/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Naga
+2-Aniel
+3-Nanashi
+4-Israfel
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Naga use
+1-Lunge MP:6
+2-Bufu MP:5
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Tamaki HP:768/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Naga lanza hielo a Tamaki
+Tamaki es resistente el ataque de Naga
+Tamaki recibe 17 de daño
+Tamaki termina con HP:751/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:397/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:751/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:397/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:751/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Nanashi HP:140/140 MP:397/411
+2-Aniel HP:567/567 MP:255/255
+3-Israfel HP:225/258 MP:241/251
+4-Naga HP:199/199 MP:28/39
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki ataca a Nanashi
+Nanashi recibe 18 de daño
+Nanashi termina con HP:122/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:397/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:751/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:397/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:751/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Mudo MP:6
+2-Recarm MP:20
+3-Sabbatma MP:20
+4-Gram Slice MP:5
+5-Agidyne MP:14
+6-Oni-Kagura MP:9
+7-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:751/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Tamaki
+Tamaki es resistente el ataque de Nanashi
+Tamaki recibe 61 de daño
+Tamaki termina con HP:690/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:690/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Tamaki HP:690/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Israfel ataca a Tamaki
+Tamaki es resistente el ataque de Israfel
+Tamaki recibe 13 de daño
+Tamaki termina con HP:677/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:677/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Aniel
+3-Nanashi
+4-Israfel
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Tamaki HP:677/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Tamaki HP:677/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Tamaki HP:677/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:677/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:677/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:677/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:677/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Tamaki HP:677/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Israfel ataca a Tamaki
+Tamaki es resistente el ataque de Israfel
+Tamaki recibe 13 de daño
+Tamaki termina con HP:664/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:664/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:664/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:664/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:664/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:664/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:664/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:664/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:664/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Naga
+2-Aniel
+3-Nanashi
+4-Israfel
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Naga use
+1-Lunge MP:6
+2-Bufu MP:5
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Tamaki HP:664/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ataca a Tamaki
+Tamaki es resistente el ataque de Naga
+Tamaki recibe 6 de daño
+Tamaki termina con HP:658/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:658/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:658/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Tamaki
+Tamaki es resistente el ataque de Aniel
+Tamaki recibe 23 de daño
+Tamaki termina con HP:635/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:635/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:635/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:635/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Nanashi HP:122/140 MP:392/411
+2-Aniel HP:567/567 MP:255/255
+3-Israfel HP:225/258 MP:241/251
+4-Naga HP:199/199 MP:28/39
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Nanashi HP:122/140 MP:392/411
+2-Aniel HP:567/567 MP:255/255
+3-Israfel HP:225/258 MP:241/251
+4-Naga HP:199/199 MP:28/39
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki ataca a Aniel
+Aniel recibe 18 de daño
+Aniel termina con HP:549/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:635/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:635/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Tamaki
+Tamaki es resistente el ataque de Aniel
+Tamaki recibe 23 de daño
+Tamaki termina con HP:612/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:612/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:612/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:612/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:612/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Aniel
+3-Nanashi
+4-Israfel
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Tamaki HP:612/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ataca a Tamaki
+Tamaki es resistente el ataque de Naga
+Tamaki recibe 6 de daño
+Tamaki termina con HP:606/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:255/255
+C-Israfel HP:225/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:606/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Nanashi HP:122/140 MP:392/411
+2-Aniel HP:549/567 MP:255/255
+3-Israfel HP:225/258 MP:241/251
+4-Naga HP:199/199 MP:28/39
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Aniel cura a Israfel
+Israfel recibe 129 de HP
+Israfel termina con HP:258/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:258/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:606/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:258/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:606/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Nanashi HP:122/140 MP:392/411
+2-Aniel HP:549/567 MP:246/255
+3-Israfel HP:258/258 MP:241/251
+4-Naga HP:199/199 MP:28/39
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki dispara a Israfel
+Israfel recibe 15 de daño
+Israfel termina con HP:243/258
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:606/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:606/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:606/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Tamaki
+Tamaki es resistente el ataque de Nanashi
+Tamaki recibe 15 de daño
+Tamaki termina con HP:591/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:591/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Tamaki HP:591/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Israfel ataca a Tamaki
+Tamaki es resistente el ataque de Israfel
+Tamaki recibe 13 de daño
+Tamaki termina con HP:578/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:578/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Aniel
+3-Nanashi
+4-Israfel
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:578/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:578/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:578/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:578/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Tamaki
+Tamaki es resistente el ataque de Nanashi
+Tamaki recibe 15 de daño
+Tamaki termina con HP:563/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:563/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Nanashi HP:122/140 MP:392/411
+2-Aniel HP:549/567 MP:246/255
+3-Israfel HP:243/258 MP:241/251
+4-Naga HP:199/199 MP:28/39
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tamaki ataca a Naga
+Naga recibe 18 de daño
+Naga termina con HP:181/199
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:563/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:563/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:563/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:563/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Tamaki
+Tamaki es resistente el ataque de Nanashi
+Tamaki recibe 46 de daño
+Tamaki termina con HP:517/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:517/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:517/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Naga
+2-Aniel
+3-Nanashi
+4-Israfel
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Tamaki HP:517/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ataca a Tamaki
+Tamaki es resistente el ataque de Naga
+Tamaki recibe 6 de daño
+Tamaki termina con HP:511/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:511/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:511/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:511/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:511/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Tamaki
+Tamaki es resistente el ataque de Nanashi
+Tamaki recibe 46 de daño
+Tamaki termina con HP:465/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:465/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:465/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Naga
+2-Aniel
+3-Nanashi
+4-Israfel
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Tamaki HP:465/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ataca a Tamaki
+Tamaki es resistente el ataque de Naga
+Tamaki recibe 6 de daño
+Tamaki termina con HP:459/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:122/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:459/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Nanashi HP:122/140 MP:392/411
+2-Aniel HP:549/567 MP:246/255
+3-Israfel HP:243/258 MP:241/251
+4-Naga HP:181/199 MP:28/39
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki ataca a Nanashi
+Nanashi recibe 18 de daño
+Nanashi termina con HP:104/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:104/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:459/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:104/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:459/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:104/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:459/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Tamaki HP:459/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Israfel ataca a Tamaki
+Tamaki es resistente el ataque de Israfel
+Tamaki recibe 13 de daño
+Tamaki termina con HP:446/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:104/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:446/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Aniel
+3-Nanashi
+4-Israfel
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Tamaki HP:446/999 MP:542/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:104/140 MP:392/411
+B-Aniel HP:549/567 MP:246/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:446/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:446/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Aniel
+Tamaki recibe 63 de daño
+Tamaki termina con HP:383/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:104/140 MP:392/411
+B-Aniel HP:549/567 MP:232/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:383/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Mudo MP:6
+2-Recarm MP:20
+3-Sabbatma MP:20
+4-Gram Slice MP:5
+5-Agidyne MP:14
+6-Oni-Kagura MP:9
+7-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:383/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Tamaki
+Tamaki es resistente el ataque de Nanashi
+Tamaki recibe 75 de daño
+Tamaki termina con HP:308/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:104/140 MP:383/411
+B-Aniel HP:549/567 MP:232/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:308/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Ziodyne MP:14
+2-Lunge MP:6
+3-Zandyne MP:14
+4-Needle Shot MP:4
+5-Recarm MP:20
+6-Zanma MP:8
+7-Mudo MP:6
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Nanashi HP:104/140 MP:383/411
+2-Aniel HP:549/567 MP:232/255
+3-Israfel HP:243/258 MP:241/251
+4-Naga HP:181/199 MP:28/39
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki lanza viento a Nanashi
+Nanashi recibe 52 de daño
+Nanashi termina con HP:52/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:549/567 MP:232/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:308/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:308/999 MP:534/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca con luz a Tamaki
+Tamaki bloquea el ataque de Aniel
+Tamaki termina con HP:308/999
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:549/567 MP:222/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:308/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:308/999 MP:534/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Tamaki
+Tamaki es resistente el ataque de Nanashi
+Tamaki recibe 46 de daño
+Tamaki termina con HP:262/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:549/567 MP:222/255
+C-Israfel HP:243/258 MP:241/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:262/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Tamaki HP:262/999 MP:534/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Tamaki HP:262/999 MP:534/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Israfel use
+1-Mabufula MP:20
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Tamaki HP:262/999 MP:534/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Israfel ataca con luz a Tamaki
+Tamaki bloquea el ataque de Israfel
+Tamaki termina con HP:262/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:549/567 MP:222/255
+C-Israfel HP:243/258 MP:231/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:262/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Nanashi HP:52/140 MP:383/411
+2-Aniel HP:549/567 MP:222/255
+3-Israfel HP:243/258 MP:231/251
+4-Naga HP:181/199 MP:28/39
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki dispara a Aniel
+Aniel recibe 15 de daño
+Aniel termina con HP:534/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:534/567 MP:222/255
+C-Israfel HP:243/258 MP:231/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:262/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:262/999 MP:534/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Aniel
+Tamaki recibe 63 de daño
+Tamaki termina con HP:199/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:231/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:199/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:231/251
+D-Naga HP:181/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:199/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Israfel use
+1-Mabufula MP:20
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Nanashi HP:52/140 MP:383/411
+2-Aniel HP:534/567 MP:208/255
+3-Israfel HP:243/258 MP:231/251
+4-Naga HP:181/199 MP:28/39
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Israfel cura a Naga
+Naga recibe 199 de HP
+Naga termina con HP:199/199
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:199/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Aniel
+3-Nanashi
+4-Israfel
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:199/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:199/999 MP:534/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:199/999 MP:534/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:199/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:199/999 MP:534/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:199/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:199/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Nanashi HP:52/140 MP:383/411
+2-Aniel HP:534/567 MP:208/255
+3-Israfel HP:243/258 MP:215/251
+4-Naga HP:199/199 MP:28/39
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Nanashi HP:52/140 MP:383/411
+2-Aniel HP:534/567 MP:208/255
+3-Israfel HP:243/258 MP:215/251
+4-Naga HP:199/199 MP:28/39
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:199/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:199/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:199/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:199/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Tamaki HP:199/999 MP:534/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Israfel ataca a Tamaki
+Tamaki es resistente el ataque de Israfel
+Tamaki recibe 13 de daño
+Tamaki termina con HP:186/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:186/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Aniel
+3-Nanashi
+4-Israfel
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Tamaki HP:186/999 MP:534/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Tamaki HP:186/999 MP:534/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ataca a Tamaki
+Tamaki es resistente el ataque de Naga
+Tamaki recibe 6 de daño
+Tamaki termina con HP:180/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:180/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:180/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:180/999 MP:534/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Tamaki
+Tamaki es resistente el ataque de Nanashi
+Tamaki recibe 15 de daño
+Tamaki termina con HP:165/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:165/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:52/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:165/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Ziodyne MP:14
+2-Lunge MP:6
+3-Zandyne MP:14
+4-Needle Shot MP:4
+5-Recarm MP:20
+6-Zanma MP:8
+7-Mudo MP:6
+8-Cancelar
+INPUT: 8
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Nanashi HP:52/140 MP:383/411
+2-Aniel HP:534/567 MP:208/255
+3-Israfel HP:243/258 MP:215/251
+4-Naga HP:199/199 MP:28/39
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki dispara a Nanashi
+Nanashi recibe 15 de daño
+Nanashi termina con HP:37/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:37/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:165/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:37/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:165/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:165/999 MP:534/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Tamaki
+Tamaki es resistente el ataque de Nanashi
+Tamaki recibe 46 de daño
+Tamaki termina con HP:119/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:37/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:119/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:37/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:119/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Naga
+2-Aniel
+3-Nanashi
+4-Israfel
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:37/140 MP:383/411
+B-Aniel HP:534/567 MP:208/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:119/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Nanashi HP:37/140 MP:383/411
+2-Aniel HP:534/567 MP:208/255
+3-Israfel HP:243/258 MP:215/251
+4-Naga HP:199/199 MP:28/39
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel cura a Nanashi
+Nanashi recibe 70 de HP
+Nanashi termina con HP:107/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:107/140 MP:383/411
+B-Aniel HP:534/567 MP:199/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:119/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:119/999 MP:534/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:119/999 MP:534/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Mudo MP:6
+2-Recarm MP:20
+3-Sabbatma MP:20
+4-Gram Slice MP:5
+5-Agidyne MP:14
+6-Oni-Kagura MP:9
+7-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:107/140 MP:383/411
+B-Aniel HP:534/567 MP:199/255
+C-Israfel HP:243/258 MP:215/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:119/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Tamaki HP:119/999 MP:534/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Tamaki HP:119/999 MP:534/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Israfel use
+1-Mabufula MP:20
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Tamaki HP:119/999 MP:534/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Israfel ataca con luz a Tamaki
+Tamaki bloquea el ataque de Israfel
+Tamaki termina con HP:119/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:107/140 MP:383/411
+B-Aniel HP:534/567 MP:199/255
+C-Israfel HP:243/258 MP:205/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:119/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:107/140 MP:383/411
+B-Aniel HP:534/567 MP:199/255
+C-Israfel HP:243/258 MP:205/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:119/999 MP:534/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Ziodyne MP:14
+2-Lunge MP:6
+3-Zandyne MP:14
+4-Needle Shot MP:4
+5-Recarm MP:20
+6-Zanma MP:8
+7-Mudo MP:6
+8-Cancelar
+INPUT: 8
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Nanashi HP:107/140 MP:383/411
+2-Aniel HP:534/567 MP:199/255
+3-Israfel HP:243/258 MP:205/251
+4-Naga HP:199/199 MP:28/39
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Ziodyne MP:14
+2-Lunge MP:6
+3-Zandyne MP:14
+4-Needle Shot MP:4
+5-Recarm MP:20
+6-Zanma MP:8
+7-Mudo MP:6
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Nanashi HP:107/140 MP:383/411
+2-Aniel HP:534/567 MP:199/255
+3-Israfel HP:243/258 MP:205/251
+4-Naga HP:199/199 MP:28/39
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki lanza viento a Nanashi
+Nanashi recibe 52 de daño
+Nanashi termina con HP:55/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:55/140 MP:383/411
+B-Aniel HP:534/567 MP:199/255
+C-Israfel HP:243/258 MP:205/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:119/999 MP:526/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:119/999 MP:526/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca con luz a Tamaki
+Tamaki bloquea el ataque de Aniel
+Tamaki termina con HP:119/999
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:55/140 MP:383/411
+B-Aniel HP:534/567 MP:189/255
+C-Israfel HP:243/258 MP:205/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:119/999 MP:526/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:119/999 MP:526/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:55/140 MP:383/411
+B-Aniel HP:534/567 MP:189/255
+C-Israfel HP:243/258 MP:205/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:119/999 MP:526/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Israfel use
+1-Mabufula MP:20
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Nanashi HP:55/140 MP:383/411
+2-Aniel HP:534/567 MP:189/255
+3-Israfel HP:243/258 MP:205/251
+4-Naga HP:199/199 MP:28/39
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Israfel cura a Nanashi
+Nanashi recibe 140 de HP
+Nanashi termina con HP:140/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:383/411
+B-Aniel HP:534/567 MP:189/255
+C-Israfel HP:243/258 MP:189/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:119/999 MP:526/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Aniel
+3-Nanashi
+4-Israfel
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Tamaki HP:119/999 MP:526/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ataca a Tamaki
+Tamaki es resistente el ataque de Naga
+Tamaki recibe 6 de daño
+Tamaki termina con HP:113/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:383/411
+B-Aniel HP:534/567 MP:189/255
+C-Israfel HP:243/258 MP:189/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:113/999 MP:526/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Nanashi HP:140/140 MP:383/411
+2-Aniel HP:534/567 MP:189/255
+3-Israfel HP:243/258 MP:189/251
+4-Naga HP:199/199 MP:28/39
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:383/411
+B-Aniel HP:534/567 MP:189/255
+C-Israfel HP:243/258 MP:189/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:113/999 MP:526/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Ziodyne MP:14
+2-Lunge MP:6
+3-Zandyne MP:14
+4-Needle Shot MP:4
+5-Recarm MP:20
+6-Zanma MP:8
+7-Mudo MP:6
+8-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Ziodyne MP:14
+2-Lunge MP:6
+3-Zandyne MP:14
+4-Needle Shot MP:4
+5-Recarm MP:20
+6-Zanma MP:8
+7-Mudo MP:6
+8-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Nanashi HP:140/140 MP:383/411
+2-Aniel HP:534/567 MP:189/255
+3-Israfel HP:243/258 MP:189/251
+4-Naga HP:199/199 MP:28/39
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki lanza viento a Nanashi
+Nanashi recibe 64 de daño
+Nanashi termina con HP:76/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:76/140 MP:383/411
+B-Aniel HP:534/567 MP:189/255
+C-Israfel HP:243/258 MP:189/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:113/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:113/999 MP:512/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:76/140 MP:383/411
+B-Aniel HP:534/567 MP:189/255
+C-Israfel HP:243/258 MP:189/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:113/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:113/999 MP:512/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Tamaki
+Tamaki es resistente el ataque de Nanashi
+Tamaki recibe 15 de daño
+Tamaki termina con HP:98/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:76/140 MP:383/411
+B-Aniel HP:534/567 MP:189/255
+C-Israfel HP:243/258 MP:189/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:98/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Naga
+3-Aniel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Tamaki HP:98/999 MP:512/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Israfel ataca a Tamaki
+Tamaki es resistente el ataque de Israfel
+Tamaki recibe 13 de daño
+Tamaki termina con HP:85/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:76/140 MP:383/411
+B-Aniel HP:534/567 MP:189/255
+C-Israfel HP:243/258 MP:189/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:85/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+2-Aniel
+3-Nanashi
+4-Israfel
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Tamaki HP:85/999 MP:512/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ataca a Tamaki
+Tamaki es resistente el ataque de Naga
+Tamaki recibe 6 de daño
+Tamaki termina con HP:79/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:76/140 MP:383/411
+B-Aniel HP:534/567 MP:189/255
+C-Israfel HP:243/258 MP:189/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:79/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:76/140 MP:383/411
+B-Aniel HP:534/567 MP:189/255
+C-Israfel HP:243/258 MP:189/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:79/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:79/999 MP:512/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Mudo MP:6
+2-Recarm MP:20
+3-Sabbatma MP:20
+4-Gram Slice MP:5
+5-Agidyne MP:14
+6-Oni-Kagura MP:9
+7-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:79/999 MP:512/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Tamaki
+Tamaki es resistente el ataque de Nanashi
+Tamaki recibe 46 de daño
+Tamaki termina con HP:33/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:76/140 MP:383/411
+B-Aniel HP:534/567 MP:189/255
+C-Israfel HP:243/258 MP:189/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:33/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:76/140 MP:383/411
+B-Aniel HP:534/567 MP:189/255
+C-Israfel HP:243/258 MP:189/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:33/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:76/140 MP:383/411
+B-Aniel HP:534/567 MP:189/255
+C-Israfel HP:243/258 MP:189/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:33/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Nanashi
+3-Israfel
+4-Naga
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:76/140 MP:383/411
+B-Aniel HP:534/567 MP:189/255
+C-Israfel HP:243/258 MP:189/251
+D-Naga HP:199/199 MP:28/39
+Equipo de Tamaki (J2)
+A-Tamaki HP:33/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Israfel
+3-Naga
+4-Aniel
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:33/999 MP:512/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Tamaki HP:33/999 MP:512/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Tamaki
+Tamaki es resistente el ataque de Nanashi
+Tamaki recibe 46 de daño
+Tamaki termina con HP:0/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Nanashi (J1)

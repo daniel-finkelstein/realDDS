@@ -1,0 +1,2863 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 88
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:123/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Dantalion HP:197/197 MP:190/190
+C-Gabriel HP:455/455 MP:442/442
+D-Taown HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Python
+3-Joker
+4-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Nanashi HP:140/140 MP:411/411
+2-Dantalion HP:197/197 MP:190/190
+3-Gabriel HP:455/455 MP:442/442
+4-Taown HP:709/709 MP:140/140
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Pale Rider ataca a Taown
+Taown recibe 58 de daño
+Taown termina con HP:651/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:123/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Dantalion HP:197/197 MP:190/190
+C-Gabriel HP:455/455 MP:442/442
+D-Taown HP:651/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Joker
+3-Myrmecoleon
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Nanashi HP:140/140 MP:411/411
+2-Dantalion HP:197/197 MP:190/190
+3-Gabriel HP:455/455 MP:442/442
+4-Taown HP:651/709 MP:140/140
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Python ataca a Dantalion
+Dantalion recibe 53 de daño
+Dantalion termina con HP:144/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:123/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Dantalion HP:144/197 MP:190/190
+C-Gabriel HP:455/455 MP:442/442
+D-Taown HP:651/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Myrmecoleon
+3-Pale Rider
+4-Python
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:140/140 MP:411/411
+2-Dantalion HP:144/197 MP:190/190
+3-Gabriel HP:455/455 MP:442/442
+4-Taown HP:651/709 MP:140/140
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Dantalion
+Dantalion recibe 39 de daño
+Dantalion termina con HP:105/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:123/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Dantalion HP:105/197 MP:190/190
+C-Gabriel HP:455/455 MP:442/442
+D-Taown HP:651/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Pale Rider
+3-Python
+4-Joker
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Nanashi HP:140/140 MP:411/411
+2-Dantalion HP:105/197 MP:190/190
+3-Gabriel HP:455/455 MP:442/442
+4-Taown HP:651/709 MP:140/140
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Myrmecoleon ataca a Nanashi
+Nanashi recibe 6 de daño
+Nanashi termina con HP:134/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:123/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:134/140 MP:411/411
+B-Dantalion HP:105/197 MP:190/190
+C-Gabriel HP:455/455 MP:442/442
+D-Taown HP:651/709 MP:140/140
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Taown
+3-Nanashi
+4-Dantalion
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Joker HP:597/597 MP:347/347
+2-Python HP:637/637 MP:286/286
+3-Pale Rider HP:693/693 MP:310/310
+4-Myrmecoleon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Joker HP:597/597 MP:347/347
+2-Python HP:637/637 MP:286/286
+3-Pale Rider HP:693/693 MP:310/310
+4-Myrmecoleon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Gabriel ataca a Joker
+Joker recibe 49 de daño
+Joker termina con HP:548/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:123/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:134/140 MP:411/411
+B-Dantalion HP:105/197 MP:190/190
+C-Gabriel HP:455/455 MP:442/442
+D-Taown HP:651/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Nanashi
+3-Dantalion
+4-Gabriel
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:548/597 MP:347/347
+2-Python HP:637/637 MP:286/286
+3-Pale Rider HP:693/693 MP:310/310
+4-Myrmecoleon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Taown ataca a Myrmecoleon
+Myrmecoleon recibe 54 de daño
+Myrmecoleon termina con HP:69/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:69/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:134/140 MP:411/411
+B-Dantalion HP:105/197 MP:190/190
+C-Gabriel HP:455/455 MP:442/442
+D-Taown HP:651/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Dantalion
+3-Gabriel
+4-Taown
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:548/597 MP:347/347
+2-Python HP:637/637 MP:286/286
+3-Pale Rider HP:693/693 MP:310/310
+4-Myrmecoleon HP:69/123 MP:23/23
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nanashi dispara a Myrmecoleon
+Myrmecoleon recibe 31 de daño
+Myrmecoleon termina con HP:38/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:38/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:134/140 MP:411/411
+B-Dantalion HP:105/197 MP:190/190
+C-Gabriel HP:455/455 MP:442/442
+D-Taown HP:651/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dantalion
+2-Gabriel
+3-Taown
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Dantalion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dantalion
+1-Joker HP:548/597 MP:347/347
+2-Python HP:637/637 MP:286/286
+3-Pale Rider HP:693/693 MP:310/310
+4-Myrmecoleon HP:38/123 MP:23/23
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Dantalion ataca a Myrmecoleon
+Myrmecoleon recibe 20 de daño
+Myrmecoleon termina con HP:18/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:134/140 MP:411/411
+B-Dantalion HP:105/197 MP:190/190
+C-Gabriel HP:455/455 MP:442/442
+D-Taown HP:651/709 MP:140/140
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Python
+3-Joker
+4-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Nanashi HP:134/140 MP:411/411
+2-Dantalion HP:105/197 MP:190/190
+3-Gabriel HP:455/455 MP:442/442
+4-Taown HP:651/709 MP:140/140
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Nanashi HP:134/140 MP:411/411
+2-Dantalion HP:105/197 MP:190/190
+3-Gabriel HP:455/455 MP:442/442
+4-Taown HP:651/709 MP:140/140
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Pale Rider ataca a Dantalion
+Dantalion recibe 58 de daño
+Dantalion termina con HP:47/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:134/140 MP:411/411
+B-Dantalion HP:47/197 MP:190/190
+C-Gabriel HP:455/455 MP:442/442
+D-Taown HP:651/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Joker
+3-Myrmecoleon
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Nanashi HP:134/140 MP:411/411
+2-Dantalion HP:47/197 MP:190/190
+3-Gabriel HP:455/455 MP:442/442
+4-Taown HP:651/709 MP:140/140
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Python ataca a Gabriel
+Gabriel recibe 53 de daño
+Gabriel termina con HP:402/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:134/140 MP:411/411
+B-Dantalion HP:47/197 MP:190/190
+C-Gabriel HP:402/455 MP:442/442
+D-Taown HP:651/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Myrmecoleon
+3-Pale Rider
+4-Python
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:134/140 MP:411/411
+2-Dantalion HP:47/197 MP:190/190
+3-Gabriel HP:402/455 MP:442/442
+4-Taown HP:651/709 MP:140/140
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker ataca a Taown
+Taown recibe 28 de daño
+Taown termina con HP:623/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:134/140 MP:411/411
+B-Dantalion HP:47/197 MP:190/190
+C-Gabriel HP:402/455 MP:442/442
+D-Taown HP:623/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Pale Rider
+3-Python
+4-Joker
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Nanashi HP:134/140 MP:411/411
+2-Dantalion HP:47/197 MP:190/190
+3-Gabriel HP:402/455 MP:442/442
+4-Taown HP:623/709 MP:140/140
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Myrmecoleon ataca a Taown
+Taown recibe 6 de daño
+Taown termina con HP:617/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:637/637 MP:286/286
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:134/140 MP:411/411
+B-Dantalion HP:47/197 MP:190/190
+C-Gabriel HP:402/455 MP:442/442
+D-Taown HP:617/709 MP:140/140
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Taown
+3-Nanashi
+4-Dantalion
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Joker HP:548/597 MP:347/347
+2-Python HP:637/637 MP:286/286
+3-Pale Rider HP:693/693 MP:310/310
+4-Myrmecoleon HP:18/123 MP:23/23
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Gabriel ataca a Python
+Python recibe 49 de daño
+Python termina con HP:588/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:588/637 MP:286/286
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:134/140 MP:411/411
+B-Dantalion HP:47/197 MP:190/190
+C-Gabriel HP:402/455 MP:442/442
+D-Taown HP:617/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Nanashi
+3-Dantalion
+4-Gabriel
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:548/597 MP:347/347
+2-Python HP:588/637 MP:286/286
+3-Pale Rider HP:693/693 MP:310/310
+4-Myrmecoleon HP:18/123 MP:23/23
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Taown ataca a Python
+Python recibe 54 de daño
+Python termina con HP:534/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:534/637 MP:286/286
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:134/140 MP:411/411
+B-Dantalion HP:47/197 MP:190/190
+C-Gabriel HP:402/455 MP:442/442
+D-Taown HP:617/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Dantalion
+3-Gabriel
+4-Taown
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:548/597 MP:347/347
+2-Python HP:534/637 MP:286/286
+3-Pale Rider HP:693/693 MP:310/310
+4-Myrmecoleon HP:18/123 MP:23/23
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi dispara a Python
+Python recibe 31 de daño
+Python termina con HP:503/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:503/637 MP:286/286
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:134/140 MP:411/411
+B-Dantalion HP:47/197 MP:190/190
+C-Gabriel HP:402/455 MP:442/442
+D-Taown HP:617/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dantalion
+2-Gabriel
+3-Taown
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Dantalion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dantalion
+1-Joker HP:548/597 MP:347/347
+2-Python HP:503/637 MP:286/286
+3-Pale Rider HP:693/693 MP:310/310
+4-Myrmecoleon HP:18/123 MP:23/23
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Dantalion ataca a Pale Rider
+Pale Rider recibe 20 de daño
+Pale Rider termina con HP:673/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:503/637 MP:286/286
+C-Pale Rider HP:673/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:134/140 MP:411/411
+B-Dantalion HP:47/197 MP:190/190
+C-Gabriel HP:402/455 MP:442/442
+D-Taown HP:617/709 MP:140/140
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Python
+3-Joker
+4-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Nanashi HP:134/140 MP:411/411
+2-Dantalion HP:47/197 MP:190/190
+3-Gabriel HP:402/455 MP:442/442
+4-Taown HP:617/709 MP:140/140
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Pale Rider ataca a Dantalion
+Dantalion recibe 58 de daño
+Dantalion termina con HP:0/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:503/637 MP:286/286
+C-Pale Rider HP:673/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:134/140 MP:411/411
+B-
+C-Gabriel HP:402/455 MP:442/442
+D-Taown HP:617/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Joker
+3-Myrmecoleon
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Nanashi HP:134/140 MP:411/411
+2-Gabriel HP:402/455 MP:442/442
+3-Taown HP:617/709 MP:140/140
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Python ataca a Nanashi
+Nanashi recibe 53 de daño
+Nanashi termina con HP:81/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:503/637 MP:286/286
+C-Pale Rider HP:673/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:81/140 MP:411/411
+B-
+C-Gabriel HP:402/455 MP:442/442
+D-Taown HP:617/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Myrmecoleon
+3-Pale Rider
+4-Python
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:81/140 MP:411/411
+2-Gabriel HP:402/455 MP:442/442
+3-Taown HP:617/709 MP:140/140
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Nanashi
+Nanashi recibe 39 de daño
+Nanashi termina con HP:42/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:503/637 MP:286/286
+C-Pale Rider HP:673/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:42/140 MP:411/411
+B-
+C-Gabriel HP:402/455 MP:442/442
+D-Taown HP:617/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Pale Rider
+3-Python
+4-Joker
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Nanashi HP:42/140 MP:411/411
+2-Gabriel HP:402/455 MP:442/442
+3-Taown HP:617/709 MP:140/140
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Myrmecoleon ataca a Gabriel
+Gabriel recibe 6 de daño
+Gabriel termina con HP:396/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:503/637 MP:286/286
+C-Pale Rider HP:673/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:42/140 MP:411/411
+B-
+C-Gabriel HP:396/455 MP:442/442
+D-Taown HP:617/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Taown
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Joker HP:548/597 MP:347/347
+2-Python HP:503/637 MP:286/286
+3-Pale Rider HP:673/693 MP:310/310
+4-Myrmecoleon HP:18/123 MP:23/23
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Joker HP:548/597 MP:347/347
+2-Python HP:503/637 MP:286/286
+3-Pale Rider HP:673/693 MP:310/310
+4-Myrmecoleon HP:18/123 MP:23/23
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Gabriel ataca a Pale Rider
+Pale Rider recibe 49 de daño
+Pale Rider termina con HP:624/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:503/637 MP:286/286
+C-Pale Rider HP:624/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:42/140 MP:411/411
+B-
+C-Gabriel HP:396/455 MP:442/442
+D-Taown HP:617/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Nanashi
+3-Gabriel
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:548/597 MP:347/347
+2-Python HP:503/637 MP:286/286
+3-Pale Rider HP:624/693 MP:310/310
+4-Myrmecoleon HP:18/123 MP:23/23
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Taown ataca a Pale Rider
+Pale Rider recibe 54 de daño
+Pale Rider termina con HP:570/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:503/637 MP:286/286
+C-Pale Rider HP:570/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:42/140 MP:411/411
+B-
+C-Gabriel HP:396/455 MP:442/442
+D-Taown HP:617/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Gabriel
+3-Taown
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:548/597 MP:347/347
+2-Python HP:503/637 MP:286/286
+3-Pale Rider HP:570/693 MP:310/310
+4-Myrmecoleon HP:18/123 MP:23/23
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:548/597 MP:347/347
+2-Python HP:503/637 MP:286/286
+3-Pale Rider HP:570/693 MP:310/310
+4-Myrmecoleon HP:18/123 MP:23/23
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi dispara a Pale Rider
+Pale Rider recibe 31 de daño
+Pale Rider termina con HP:539/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:503/637 MP:286/286
+C-Pale Rider HP:539/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:42/140 MP:411/411
+B-
+C-Gabriel HP:396/455 MP:442/442
+D-Taown HP:617/709 MP:140/140
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Python
+3-Joker
+4-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Nanashi HP:42/140 MP:411/411
+2-Gabriel HP:396/455 MP:442/442
+3-Taown HP:617/709 MP:140/140
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Pale Rider ataca a Gabriel
+Gabriel recibe 58 de daño
+Gabriel termina con HP:338/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:503/637 MP:286/286
+C-Pale Rider HP:539/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:42/140 MP:411/411
+B-
+C-Gabriel HP:338/455 MP:442/442
+D-Taown HP:617/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Joker
+3-Myrmecoleon
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Nanashi HP:42/140 MP:411/411
+2-Gabriel HP:338/455 MP:442/442
+3-Taown HP:617/709 MP:140/140
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Nanashi HP:42/140 MP:411/411
+2-Gabriel HP:338/455 MP:442/442
+3-Taown HP:617/709 MP:140/140
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Nanashi HP:42/140 MP:411/411
+2-Gabriel HP:338/455 MP:442/442
+3-Taown HP:617/709 MP:140/140
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Nanashi HP:42/140 MP:411/411
+2-Gabriel HP:338/455 MP:442/442
+3-Taown HP:617/709 MP:140/140
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Python ataca a Nanashi
+Nanashi recibe 53 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:503/637 MP:286/286
+C-Pale Rider HP:539/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:338/455 MP:442/442
+D-Taown HP:617/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Myrmecoleon
+3-Pale Rider
+4-Python
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Gabriel HP:338/455 MP:442/442
+2-Taown HP:617/709 MP:140/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Taown
+Taown recibe 39 de daño
+Taown termina con HP:578/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:503/637 MP:286/286
+C-Pale Rider HP:539/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:338/455 MP:442/442
+D-Taown HP:578/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Pale Rider
+3-Python
+4-Joker
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Gabriel HP:338/455 MP:442/442
+2-Taown HP:578/709 MP:140/140
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Gabriel HP:338/455 MP:442/442
+2-Taown HP:578/709 MP:140/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Myrmecoleon ataca a Taown
+Taown recibe 6 de daño
+Taown termina con HP:572/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:503/637 MP:286/286
+C-Pale Rider HP:539/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:338/455 MP:442/442
+D-Taown HP:572/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Taown
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Joker HP:548/597 MP:347/347
+2-Python HP:503/637 MP:286/286
+3-Pale Rider HP:539/693 MP:310/310
+4-Myrmecoleon HP:18/123 MP:23/23
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Gabriel ataca a Python
+Python recibe 49 de daño
+Python termina con HP:454/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:454/637 MP:286/286
+C-Pale Rider HP:539/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:338/455 MP:442/442
+D-Taown HP:572/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Gabriel
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:548/597 MP:347/347
+2-Python HP:454/637 MP:286/286
+3-Pale Rider HP:539/693 MP:310/310
+4-Myrmecoleon HP:18/123 MP:23/23
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Taown ataca a Pale Rider
+Pale Rider recibe 54 de daño
+Pale Rider termina con HP:485/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:454/637 MP:286/286
+C-Pale Rider HP:485/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:338/455 MP:442/442
+D-Taown HP:572/709 MP:140/140
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Python
+3-Joker
+4-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Gabriel HP:338/455 MP:442/442
+2-Taown HP:572/709 MP:140/140
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Gabriel HP:338/455 MP:442/442
+2-Taown HP:572/709 MP:140/140
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Gabriel HP:338/455 MP:442/442
+2-Taown HP:572/709 MP:140/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pale Rider ataca a Taown
+Taown recibe 58 de daño
+Taown termina con HP:514/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:454/637 MP:286/286
+C-Pale Rider HP:485/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:338/455 MP:442/442
+D-Taown HP:514/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Joker
+3-Myrmecoleon
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Gabriel HP:338/455 MP:442/442
+2-Taown HP:514/709 MP:140/140
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Gabriel HP:338/455 MP:442/442
+2-Taown HP:514/709 MP:140/140
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Python ataca a Gabriel
+Gabriel recibe 53 de daño
+Gabriel termina con HP:285/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:454/637 MP:286/286
+C-Pale Rider HP:485/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:285/455 MP:442/442
+D-Taown HP:514/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Myrmecoleon
+3-Pale Rider
+4-Python
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Gabriel HP:285/455 MP:442/442
+2-Taown HP:514/709 MP:140/140
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Gabriel
+Gabriel recibe 39 de daño
+Gabriel termina con HP:246/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:454/637 MP:286/286
+C-Pale Rider HP:485/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:246/455 MP:442/442
+D-Taown HP:514/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Pale Rider
+3-Python
+4-Joker
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Gabriel HP:246/455 MP:442/442
+2-Taown HP:514/709 MP:140/140
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Gabriel HP:246/455 MP:442/442
+2-Taown HP:514/709 MP:140/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Myrmecoleon ataca a Taown
+Taown recibe 6 de daño
+Taown termina con HP:508/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:454/637 MP:286/286
+C-Pale Rider HP:485/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:246/455 MP:442/442
+D-Taown HP:508/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Taown
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Joker HP:548/597 MP:347/347
+2-Python HP:454/637 MP:286/286
+3-Pale Rider HP:485/693 MP:310/310
+4-Myrmecoleon HP:18/123 MP:23/23
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Joker HP:548/597 MP:347/347
+2-Python HP:454/637 MP:286/286
+3-Pale Rider HP:485/693 MP:310/310
+4-Myrmecoleon HP:18/123 MP:23/23
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Gabriel ataca a Pale Rider
+Pale Rider recibe 49 de daño
+Pale Rider termina con HP:436/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:454/637 MP:286/286
+C-Pale Rider HP:436/693 MP:310/310
+D-Myrmecoleon HP:18/123 MP:23/23
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:246/455 MP:442/442
+D-Taown HP:508/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Gabriel
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:548/597 MP:347/347
+2-Python HP:454/637 MP:286/286
+3-Pale Rider HP:436/693 MP:310/310
+4-Myrmecoleon HP:18/123 MP:23/23
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Taown ataca a Myrmecoleon
+Myrmecoleon recibe 54 de daño
+Myrmecoleon termina con HP:0/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:454/637 MP:286/286
+C-Pale Rider HP:436/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:246/455 MP:442/442
+D-Taown HP:508/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Python
+3-Joker
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Gabriel HP:246/455 MP:442/442
+2-Taown HP:508/709 MP:140/140
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider ataca a Gabriel
+Gabriel recibe 58 de daño
+Gabriel termina con HP:188/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:454/637 MP:286/286
+C-Pale Rider HP:436/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:188/455 MP:442/442
+D-Taown HP:508/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Joker
+3-Pale Rider
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Gabriel HP:188/455 MP:442/442
+2-Taown HP:508/709 MP:140/140
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Gabriel HP:188/455 MP:442/442
+2-Taown HP:508/709 MP:140/140
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Gabriel HP:188/455 MP:442/442
+2-Taown HP:508/709 MP:140/140
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Python ataca a Gabriel
+Gabriel recibe 53 de daño
+Gabriel termina con HP:135/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:454/637 MP:286/286
+C-Pale Rider HP:436/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:135/455 MP:442/442
+D-Taown HP:508/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Pale Rider
+3-Python
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Gabriel HP:135/455 MP:442/442
+2-Taown HP:508/709 MP:140/140
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Gabriel HP:135/455 MP:442/442
+2-Taown HP:508/709 MP:140/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Taown
+Taown recibe 28 de daño
+Taown termina con HP:480/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:454/637 MP:286/286
+C-Pale Rider HP:436/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:135/455 MP:442/442
+D-Taown HP:480/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Taown
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Joker HP:548/597 MP:347/347
+2-Python HP:454/637 MP:286/286
+3-Pale Rider HP:436/693 MP:310/310
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Gabriel ataca a Pale Rider
+Pale Rider recibe 49 de daño
+Pale Rider termina con HP:387/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:548/597 MP:347/347
+B-Python HP:454/637 MP:286/286
+C-Pale Rider HP:387/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:135/455 MP:442/442
+D-Taown HP:480/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Gabriel
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:548/597 MP:347/347
+2-Python HP:454/637 MP:286/286
+3-Pale Rider HP:387/693 MP:310/310
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:494/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:494/597 MP:347/347
+B-Python HP:454/637 MP:286/286
+C-Pale Rider HP:387/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:135/455 MP:442/442
+D-Taown HP:480/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Python
+3-Joker
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Gabriel HP:135/455 MP:442/442
+2-Taown HP:480/709 MP:140/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pale Rider ataca a Taown
+Taown recibe 58 de daño
+Taown termina con HP:422/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:494/597 MP:347/347
+B-Python HP:454/637 MP:286/286
+C-Pale Rider HP:387/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:135/455 MP:442/442
+D-Taown HP:422/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Joker
+3-Pale Rider
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Gabriel HP:135/455 MP:442/442
+2-Taown HP:422/709 MP:140/140
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Gabriel HP:135/455 MP:442/442
+2-Taown HP:422/709 MP:140/140
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Python ataca a Gabriel
+Gabriel recibe 53 de daño
+Gabriel termina con HP:82/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:494/597 MP:347/347
+B-Python HP:454/637 MP:286/286
+C-Pale Rider HP:387/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:82/455 MP:442/442
+D-Taown HP:422/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Pale Rider
+3-Python
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Gabriel HP:82/455 MP:442/442
+2-Taown HP:422/709 MP:140/140
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Gabriel HP:82/455 MP:442/442
+2-Taown HP:422/709 MP:140/140
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Gabriel
+Gabriel recibe 39 de daño
+Gabriel termina con HP:43/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:494/597 MP:347/347
+B-Python HP:454/637 MP:286/286
+C-Pale Rider HP:387/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:43/455 MP:442/442
+D-Taown HP:422/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Taown
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Joker HP:494/597 MP:347/347
+2-Python HP:454/637 MP:286/286
+3-Pale Rider HP:387/693 MP:310/310
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Joker HP:494/597 MP:347/347
+2-Python HP:454/637 MP:286/286
+3-Pale Rider HP:387/693 MP:310/310
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Gabriel ataca a Pale Rider
+Pale Rider recibe 49 de daño
+Pale Rider termina con HP:338/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:494/597 MP:347/347
+B-Python HP:454/637 MP:286/286
+C-Pale Rider HP:338/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:43/455 MP:442/442
+D-Taown HP:422/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Gabriel
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:494/597 MP:347/347
+2-Python HP:454/637 MP:286/286
+3-Pale Rider HP:338/693 MP:310/310
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Taown ataca a Python
+Python recibe 54 de daño
+Python termina con HP:400/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:494/597 MP:347/347
+B-Python HP:400/637 MP:286/286
+C-Pale Rider HP:338/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:43/455 MP:442/442
+D-Taown HP:422/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Python
+3-Joker
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Gabriel HP:43/455 MP:442/442
+2-Taown HP:422/709 MP:140/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pale Rider ataca a Taown
+Taown recibe 58 de daño
+Taown termina con HP:364/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:494/597 MP:347/347
+B-Python HP:400/637 MP:286/286
+C-Pale Rider HP:338/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:43/455 MP:442/442
+D-Taown HP:364/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Joker
+3-Pale Rider
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Gabriel HP:43/455 MP:442/442
+2-Taown HP:364/709 MP:140/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Python ataca a Taown
+Taown recibe 53 de daño
+Taown termina con HP:311/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:494/597 MP:347/347
+B-Python HP:400/637 MP:286/286
+C-Pale Rider HP:338/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:43/455 MP:442/442
+D-Taown HP:311/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Pale Rider
+3-Python
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Gabriel HP:43/455 MP:442/442
+2-Taown HP:311/709 MP:140/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Taown
+Taown recibe 39 de daño
+Taown termina con HP:272/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:494/597 MP:347/347
+B-Python HP:400/637 MP:286/286
+C-Pale Rider HP:338/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:43/455 MP:442/442
+D-Taown HP:272/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gabriel
+2-Taown
+----------------------------------------
+Seleccione una acción para Gabriel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gabriel
+1-Joker HP:494/597 MP:347/347
+2-Python HP:400/637 MP:286/286
+3-Pale Rider HP:338/693 MP:310/310
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Gabriel ataca a Python
+Python recibe 49 de daño
+Python termina con HP:351/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:494/597 MP:347/347
+B-Python HP:351/637 MP:286/286
+C-Pale Rider HP:338/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:43/455 MP:442/442
+D-Taown HP:272/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Gabriel
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:494/597 MP:347/347
+2-Python HP:351/637 MP:286/286
+3-Pale Rider HP:338/693 MP:310/310
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:440/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:440/597 MP:347/347
+B-Python HP:351/637 MP:286/286
+C-Pale Rider HP:338/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Gabriel HP:43/455 MP:442/442
+D-Taown HP:272/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Python
+3-Joker
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Gabriel HP:43/455 MP:442/442
+2-Taown HP:272/709 MP:140/140
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider ataca a Gabriel
+Gabriel recibe 58 de daño
+Gabriel termina con HP:0/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:440/597 MP:347/347
+B-Python HP:351/637 MP:286/286
+C-Pale Rider HP:338/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Taown HP:272/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Joker
+3-Pale Rider
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Taown HP:272/709 MP:140/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Python ataca a Taown
+Taown recibe 53 de daño
+Taown termina con HP:219/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:440/597 MP:347/347
+B-Python HP:351/637 MP:286/286
+C-Pale Rider HP:338/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Taown HP:219/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Pale Rider
+3-Python
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Taown HP:219/709 MP:140/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Taown HP:219/709 MP:140/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Taown
+Taown recibe 39 de daño
+Taown termina con HP:180/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:440/597 MP:347/347
+B-Python HP:351/637 MP:286/286
+C-Pale Rider HP:338/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Taown HP:180/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:440/597 MP:347/347
+2-Python HP:351/637 MP:286/286
+3-Pale Rider HP:338/693 MP:310/310
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Taown ataca a Python
+Python recibe 54 de daño
+Python termina con HP:297/637
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:440/597 MP:347/347
+B-Python HP:297/637 MP:286/286
+C-Pale Rider HP:338/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Taown HP:180/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Python
+3-Joker
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Taown HP:180/709 MP:140/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Taown HP:180/709 MP:140/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider ataca a Taown
+Taown recibe 58 de daño
+Taown termina con HP:122/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:440/597 MP:347/347
+B-Python HP:297/637 MP:286/286
+C-Pale Rider HP:338/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Taown HP:122/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Python
+2-Joker
+3-Pale Rider
+----------------------------------------
+Seleccione una acción para Python
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Python
+1-Taown HP:122/709 MP:140/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Python ataca a Taown
+Taown recibe 53 de daño
+Taown termina con HP:69/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:440/597 MP:347/347
+B-Python HP:297/637 MP:286/286
+C-Pale Rider HP:338/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Taown HP:69/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Pale Rider
+3-Python
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Taown HP:69/709 MP:140/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Taown HP:69/709 MP:140/140
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Taown HP:69/709 MP:140/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Taown
+Taown recibe 39 de daño
+Taown termina con HP:30/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:440/597 MP:347/347
+B-Python HP:297/637 MP:286/286
+C-Pale Rider HP:338/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Taown HP:30/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:440/597 MP:347/347
+2-Python HP:297/637 MP:286/286
+3-Pale Rider HP:338/693 MP:310/310
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:386/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:386/597 MP:347/347
+B-Python HP:297/637 MP:286/286
+C-Pale Rider HP:338/693 MP:310/310
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Taown HP:30/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Python
+3-Joker
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Taown HP:30/709 MP:140/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider ataca a Taown
+Taown recibe 58 de daño
+Taown termina con HP:0/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Joker (J1)

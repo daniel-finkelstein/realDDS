@@ -1,0 +1,2307 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 99
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Myrmecoleon HP:123/123 MP:23/23
+C-Ometeotl HP:324/324 MP:315/315
+D-Wendigo HP:331/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Seth HP:898/898 MP:179/179
+C-Koumokuten HP:378/378 MP:170/170
+D-Sedna HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Nanashi
+3-Wendigo
+4-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:597/597 MP:347/347
+2-Seth HP:898/898 MP:179/179
+3-Koumokuten HP:378/378 MP:170/170
+4-Sedna HP:350/350 MP:68/68
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ometeotl ataca a Seth
+Seth recibe 34 de daño
+Seth termina con HP:864/898
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Myrmecoleon HP:123/123 MP:23/23
+C-Ometeotl HP:324/324 MP:315/315
+D-Wendigo HP:331/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Seth HP:864/898 MP:179/179
+C-Koumokuten HP:378/378 MP:170/170
+D-Sedna HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Wendigo
+3-Myrmecoleon
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:597/597 MP:347/347
+2-Seth HP:864/898 MP:179/179
+3-Koumokuten HP:378/378 MP:170/170
+4-Sedna HP:350/350 MP:68/68
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nanashi dispara a Sedna
+Sedna recibe 31 de daño
+Sedna termina con HP:319/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Myrmecoleon HP:123/123 MP:23/23
+C-Ometeotl HP:324/324 MP:315/315
+D-Wendigo HP:331/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Seth HP:864/898 MP:179/179
+C-Koumokuten HP:378/378 MP:170/170
+D-Sedna HP:319/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Myrmecoleon
+3-Ometeotl
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Joker HP:597/597 MP:347/347
+2-Seth HP:864/898 MP:179/179
+3-Koumokuten HP:378/378 MP:170/170
+4-Sedna HP:319/350 MP:68/68
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Wendigo ataca a Sedna
+Sedna recibe 23 de daño
+Sedna termina con HP:296/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Myrmecoleon HP:123/123 MP:23/23
+C-Ometeotl HP:324/324 MP:315/315
+D-Wendigo HP:331/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Seth HP:864/898 MP:179/179
+C-Koumokuten HP:378/378 MP:170/170
+D-Sedna HP:296/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Ometeotl
+3-Nanashi
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:597/597 MP:347/347
+2-Seth HP:864/898 MP:179/179
+3-Koumokuten HP:378/378 MP:170/170
+4-Sedna HP:296/350 MP:68/68
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:597/597 MP:347/347
+2-Seth HP:864/898 MP:179/179
+3-Koumokuten HP:378/378 MP:170/170
+4-Sedna HP:296/350 MP:68/68
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Myrmecoleon ataca a Koumokuten
+Koumokuten recibe 6 de daño
+Koumokuten termina con HP:372/378
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Myrmecoleon HP:123/123 MP:23/23
+C-Ometeotl HP:324/324 MP:315/315
+D-Wendigo HP:331/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Seth HP:864/898 MP:179/179
+C-Koumokuten HP:372/378 MP:170/170
+D-Sedna HP:296/350 MP:68/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Koumokuten
+3-Joker
+4-Sedna
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Nanashi HP:140/140 MP:411/411
+2-Myrmecoleon HP:123/123 MP:23/23
+3-Ometeotl HP:324/324 MP:315/315
+4-Wendigo HP:331/331 MP:66/66
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seth ataca a Myrmecoleon
+Myrmecoleon recibe 69 de daño
+Myrmecoleon termina con HP:54/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Myrmecoleon HP:54/123 MP:23/23
+C-Ometeotl HP:324/324 MP:315/315
+D-Wendigo HP:331/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Seth HP:864/898 MP:179/179
+C-Koumokuten HP:372/378 MP:170/170
+D-Sedna HP:296/350 MP:68/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Joker
+3-Sedna
+4-Seth
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Nanashi HP:140/140 MP:411/411
+2-Myrmecoleon HP:54/123 MP:23/23
+3-Ometeotl HP:324/324 MP:315/315
+4-Wendigo HP:331/331 MP:66/66
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Koumokuten ataca a Nanashi
+Nanashi recibe 30 de daño
+Nanashi termina con HP:110/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:110/140 MP:411/411
+B-Myrmecoleon HP:54/123 MP:23/23
+C-Ometeotl HP:324/324 MP:315/315
+D-Wendigo HP:331/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Seth HP:864/898 MP:179/179
+C-Koumokuten HP:372/378 MP:170/170
+D-Sedna HP:296/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Sedna
+3-Seth
+4-Koumokuten
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:110/140 MP:411/411
+2-Myrmecoleon HP:54/123 MP:23/23
+3-Ometeotl HP:324/324 MP:315/315
+4-Wendigo HP:331/331 MP:66/66
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Myrmecoleon
+Myrmecoleon recibe 28 de daño
+Myrmecoleon termina con HP:26/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:110/140 MP:411/411
+B-Myrmecoleon HP:26/123 MP:23/23
+C-Ometeotl HP:324/324 MP:315/315
+D-Wendigo HP:331/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Seth HP:864/898 MP:179/179
+C-Koumokuten HP:372/378 MP:170/170
+D-Sedna HP:296/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Seth
+3-Koumokuten
+4-Joker
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Nanashi HP:110/140 MP:411/411
+2-Myrmecoleon HP:26/123 MP:23/23
+3-Ometeotl HP:324/324 MP:315/315
+4-Wendigo HP:331/331 MP:66/66
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Sedna ataca a Myrmecoleon
+Myrmecoleon recibe 25 de daño
+Myrmecoleon termina con HP:1/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:110/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:324/324 MP:315/315
+D-Wendigo HP:331/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Seth HP:864/898 MP:179/179
+C-Koumokuten HP:372/378 MP:170/170
+D-Sedna HP:296/350 MP:68/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Nanashi
+3-Wendigo
+4-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:597/597 MP:347/347
+2-Seth HP:864/898 MP:179/179
+3-Koumokuten HP:372/378 MP:170/170
+4-Sedna HP:296/350 MP:68/68
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:597/597 MP:347/347
+2-Seth HP:864/898 MP:179/179
+3-Koumokuten HP:372/378 MP:170/170
+4-Sedna HP:296/350 MP:68/68
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ometeotl ataca a Seth
+Seth recibe 34 de daño
+Seth termina con HP:830/898
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:110/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:324/324 MP:315/315
+D-Wendigo HP:331/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Seth HP:830/898 MP:179/179
+C-Koumokuten HP:372/378 MP:170/170
+D-Sedna HP:296/350 MP:68/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Wendigo
+3-Myrmecoleon
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:597/597 MP:347/347
+2-Seth HP:830/898 MP:179/179
+3-Koumokuten HP:372/378 MP:170/170
+4-Sedna HP:296/350 MP:68/68
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:597/597 MP:347/347
+2-Seth HP:830/898 MP:179/179
+3-Koumokuten HP:372/378 MP:170/170
+4-Sedna HP:296/350 MP:68/68
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:597/597 MP:347/347
+2-Seth HP:830/898 MP:179/179
+3-Koumokuten HP:372/378 MP:170/170
+4-Sedna HP:296/350 MP:68/68
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi ataca a Seth
+Seth recibe 92 de daño
+Seth termina con HP:738/898
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:110/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:324/324 MP:315/315
+D-Wendigo HP:331/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:372/378 MP:170/170
+D-Sedna HP:296/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Myrmecoleon
+3-Ometeotl
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Joker HP:597/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:372/378 MP:170/170
+4-Sedna HP:296/350 MP:68/68
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Joker HP:597/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:372/378 MP:170/170
+4-Sedna HP:296/350 MP:68/68
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Joker
+Joker recibe 23 de daño
+Joker termina con HP:574/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:110/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:324/324 MP:315/315
+D-Wendigo HP:331/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:574/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:372/378 MP:170/170
+D-Sedna HP:296/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Ometeotl
+3-Nanashi
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:574/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:372/378 MP:170/170
+4-Sedna HP:296/350 MP:68/68
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Myrmecoleon ataca a Joker
+Joker recibe 6 de daño
+Joker termina con HP:568/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:110/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:324/324 MP:315/315
+D-Wendigo HP:331/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:568/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:372/378 MP:170/170
+D-Sedna HP:296/350 MP:68/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Koumokuten
+3-Joker
+4-Sedna
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Nanashi HP:110/140 MP:411/411
+2-Myrmecoleon HP:1/123 MP:23/23
+3-Ometeotl HP:324/324 MP:315/315
+4-Wendigo HP:331/331 MP:66/66
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seth ataca a Nanashi
+Nanashi recibe 69 de daño
+Nanashi termina con HP:41/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:41/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:324/324 MP:315/315
+D-Wendigo HP:331/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:568/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:372/378 MP:170/170
+D-Sedna HP:296/350 MP:68/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Joker
+3-Sedna
+4-Seth
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Nanashi HP:41/140 MP:411/411
+2-Myrmecoleon HP:1/123 MP:23/23
+3-Ometeotl HP:324/324 MP:315/315
+4-Wendigo HP:331/331 MP:66/66
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Koumokuten ataca a Nanashi
+Nanashi recibe 30 de daño
+Nanashi termina con HP:11/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:324/324 MP:315/315
+D-Wendigo HP:331/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:568/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:372/378 MP:170/170
+D-Sedna HP:296/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Sedna
+3-Seth
+4-Koumokuten
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nanashi HP:11/140 MP:411/411
+2-Myrmecoleon HP:1/123 MP:23/23
+3-Ometeotl HP:324/324 MP:315/315
+4-Wendigo HP:331/331 MP:66/66
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker ataca a Wendigo
+Wendigo recibe 28 de daño
+Wendigo termina con HP:303/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:324/324 MP:315/315
+D-Wendigo HP:303/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:568/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:372/378 MP:170/170
+D-Sedna HP:296/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Seth
+3-Koumokuten
+4-Joker
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Nanashi HP:11/140 MP:411/411
+2-Myrmecoleon HP:1/123 MP:23/23
+3-Ometeotl HP:324/324 MP:315/315
+4-Wendigo HP:303/331 MP:66/66
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Sedna ataca a Ometeotl
+Ometeotl recibe 25 de daño
+Ometeotl termina con HP:299/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:299/324 MP:315/315
+D-Wendigo HP:303/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:568/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:372/378 MP:170/170
+D-Sedna HP:296/350 MP:68/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Nanashi
+3-Wendigo
+4-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:568/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:372/378 MP:170/170
+4-Sedna HP:296/350 MP:68/68
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:568/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:372/378 MP:170/170
+4-Sedna HP:296/350 MP:68/68
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ometeotl ataca a Sedna
+Sedna recibe 34 de daño
+Sedna termina con HP:262/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:299/324 MP:315/315
+D-Wendigo HP:303/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:568/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:372/378 MP:170/170
+D-Sedna HP:262/350 MP:68/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Wendigo
+3-Myrmecoleon
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:568/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:372/378 MP:170/170
+4-Sedna HP:262/350 MP:68/68
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Joker HP:568/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:372/378 MP:170/170
+4-Sedna HP:262/350 MP:68/68
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nanashi dispara a Sedna
+Sedna recibe 31 de daño
+Sedna termina con HP:231/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:299/324 MP:315/315
+D-Wendigo HP:303/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:568/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:372/378 MP:170/170
+D-Sedna HP:231/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Myrmecoleon
+3-Ometeotl
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Joker HP:568/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:372/378 MP:170/170
+4-Sedna HP:231/350 MP:68/68
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Wendigo ataca a Sedna
+Sedna recibe 23 de daño
+Sedna termina con HP:208/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:299/324 MP:315/315
+D-Wendigo HP:303/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:568/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:372/378 MP:170/170
+D-Sedna HP:208/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Ometeotl
+3-Nanashi
+4-Wendigo
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:568/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:372/378 MP:170/170
+4-Sedna HP:208/350 MP:68/68
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Myrmecoleon ataca a Koumokuten
+Koumokuten recibe 6 de daño
+Koumokuten termina con HP:366/378
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:299/324 MP:315/315
+D-Wendigo HP:303/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:568/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:366/378 MP:170/170
+D-Sedna HP:208/350 MP:68/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Koumokuten
+3-Joker
+4-Sedna
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Nanashi HP:11/140 MP:411/411
+2-Myrmecoleon HP:1/123 MP:23/23
+3-Ometeotl HP:299/324 MP:315/315
+4-Wendigo HP:303/331 MP:66/66
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seth ataca a Nanashi
+Nanashi recibe 69 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:299/324 MP:315/315
+D-Wendigo HP:303/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:568/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:366/378 MP:170/170
+D-Sedna HP:208/350 MP:68/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Joker
+3-Sedna
+4-Seth
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Myrmecoleon HP:1/123 MP:23/23
+2-Ometeotl HP:299/324 MP:315/315
+3-Wendigo HP:303/331 MP:66/66
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Myrmecoleon HP:1/123 MP:23/23
+2-Ometeotl HP:299/324 MP:315/315
+3-Wendigo HP:303/331 MP:66/66
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Koumokuten ataca a Wendigo
+Wendigo recibe 30 de daño
+Wendigo termina con HP:273/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:299/324 MP:315/315
+D-Wendigo HP:273/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:568/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:366/378 MP:170/170
+D-Sedna HP:208/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Sedna
+3-Seth
+4-Koumokuten
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Myrmecoleon HP:1/123 MP:23/23
+2-Ometeotl HP:299/324 MP:315/315
+3-Wendigo HP:273/331 MP:66/66
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Ometeotl
+Ometeotl recibe 39 de daño
+Ometeotl termina con HP:260/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:260/324 MP:315/315
+D-Wendigo HP:273/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:568/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:366/378 MP:170/170
+D-Sedna HP:208/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Seth
+3-Koumokuten
+4-Joker
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Myrmecoleon HP:1/123 MP:23/23
+2-Ometeotl HP:260/324 MP:315/315
+3-Wendigo HP:273/331 MP:66/66
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Myrmecoleon HP:1/123 MP:23/23
+2-Ometeotl HP:260/324 MP:315/315
+3-Wendigo HP:273/331 MP:66/66
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Sedna ataca a Ometeotl
+Ometeotl recibe 25 de daño
+Ometeotl termina con HP:235/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:235/324 MP:315/315
+D-Wendigo HP:273/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:568/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:366/378 MP:170/170
+D-Sedna HP:208/350 MP:68/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Wendigo
+3-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:568/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:366/378 MP:170/170
+4-Sedna HP:208/350 MP:68/68
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ometeotl ataca a Sedna
+Sedna recibe 34 de daño
+Sedna termina con HP:174/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:235/324 MP:315/315
+D-Wendigo HP:273/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:568/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:366/378 MP:170/170
+D-Sedna HP:174/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Myrmecoleon
+3-Ometeotl
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Joker HP:568/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:366/378 MP:170/170
+4-Sedna HP:174/350 MP:68/68
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Wendigo ataca a Koumokuten
+Koumokuten recibe 23 de daño
+Koumokuten termina con HP:343/378
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:235/324 MP:315/315
+D-Wendigo HP:273/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:568/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:343/378 MP:170/170
+D-Sedna HP:174/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Ometeotl
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:568/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:343/378 MP:170/170
+4-Sedna HP:174/350 MP:68/68
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Joker HP:568/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:343/378 MP:170/170
+4-Sedna HP:174/350 MP:68/68
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Myrmecoleon ataca a Joker
+Joker recibe 6 de daño
+Joker termina con HP:562/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:235/324 MP:315/315
+D-Wendigo HP:273/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:562/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:343/378 MP:170/170
+D-Sedna HP:174/350 MP:68/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Koumokuten
+3-Joker
+4-Sedna
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Myrmecoleon HP:1/123 MP:23/23
+2-Ometeotl HP:235/324 MP:315/315
+3-Wendigo HP:273/331 MP:66/66
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seth ataca a Ometeotl
+Ometeotl recibe 69 de daño
+Ometeotl termina con HP:166/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Myrmecoleon HP:1/123 MP:23/23
+C-Ometeotl HP:166/324 MP:315/315
+D-Wendigo HP:273/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:562/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:343/378 MP:170/170
+D-Sedna HP:174/350 MP:68/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Joker
+3-Sedna
+4-Seth
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Myrmecoleon HP:1/123 MP:23/23
+2-Ometeotl HP:166/324 MP:315/315
+3-Wendigo HP:273/331 MP:66/66
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Myrmecoleon HP:1/123 MP:23/23
+2-Ometeotl HP:166/324 MP:315/315
+3-Wendigo HP:273/331 MP:66/66
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Koumokuten ataca a Myrmecoleon
+Myrmecoleon recibe 30 de daño
+Myrmecoleon termina con HP:0/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:166/324 MP:315/315
+D-Wendigo HP:273/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:562/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:343/378 MP:170/170
+D-Sedna HP:174/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Sedna
+3-Seth
+4-Koumokuten
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Ometeotl HP:166/324 MP:315/315
+2-Wendigo HP:273/331 MP:66/66
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Ometeotl HP:166/324 MP:315/315
+2-Wendigo HP:273/331 MP:66/66
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Wendigo
+Wendigo recibe 39 de daño
+Wendigo termina con HP:234/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:166/324 MP:315/315
+D-Wendigo HP:234/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:562/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:343/378 MP:170/170
+D-Sedna HP:174/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Seth
+3-Koumokuten
+4-Joker
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Ometeotl HP:166/324 MP:315/315
+2-Wendigo HP:234/331 MP:66/66
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Sedna ataca a Ometeotl
+Ometeotl recibe 25 de daño
+Ometeotl termina con HP:141/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:141/324 MP:315/315
+D-Wendigo HP:234/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:562/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:343/378 MP:170/170
+D-Sedna HP:174/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Wendigo
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:562/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:343/378 MP:170/170
+4-Sedna HP:174/350 MP:68/68
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ometeotl ataca a Sedna
+Sedna recibe 34 de daño
+Sedna termina con HP:140/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:141/324 MP:315/315
+D-Wendigo HP:234/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:562/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:343/378 MP:170/170
+D-Sedna HP:140/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Ometeotl
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Joker HP:562/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:343/378 MP:170/170
+4-Sedna HP:140/350 MP:68/68
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Joker
+Joker recibe 23 de daño
+Joker termina con HP:539/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:141/324 MP:315/315
+D-Wendigo HP:234/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:539/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:343/378 MP:170/170
+D-Sedna HP:140/350 MP:68/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Koumokuten
+3-Joker
+4-Sedna
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Ometeotl HP:141/324 MP:315/315
+2-Wendigo HP:234/331 MP:66/66
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seth ataca a Ometeotl
+Ometeotl recibe 69 de daño
+Ometeotl termina con HP:72/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:72/324 MP:315/315
+D-Wendigo HP:234/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:539/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:343/378 MP:170/170
+D-Sedna HP:140/350 MP:68/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Joker
+3-Sedna
+4-Seth
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Ometeotl HP:72/324 MP:315/315
+2-Wendigo HP:234/331 MP:66/66
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Koumokuten ataca a Wendigo
+Wendigo recibe 30 de daño
+Wendigo termina con HP:204/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:72/324 MP:315/315
+D-Wendigo HP:204/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:539/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:343/378 MP:170/170
+D-Sedna HP:140/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Sedna
+3-Seth
+4-Koumokuten
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Ometeotl HP:72/324 MP:315/315
+2-Wendigo HP:204/331 MP:66/66
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Ometeotl HP:72/324 MP:315/315
+2-Wendigo HP:204/331 MP:66/66
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Ometeotl
+Ometeotl recibe 28 de daño
+Ometeotl termina con HP:44/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:44/324 MP:315/315
+D-Wendigo HP:204/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:539/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:343/378 MP:170/170
+D-Sedna HP:140/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Seth
+3-Koumokuten
+4-Joker
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Ometeotl HP:44/324 MP:315/315
+2-Wendigo HP:204/331 MP:66/66
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Sedna ataca a Wendigo
+Wendigo recibe 25 de daño
+Wendigo termina con HP:179/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:44/324 MP:315/315
+D-Wendigo HP:179/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:539/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:343/378 MP:170/170
+D-Sedna HP:140/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Wendigo
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:539/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:343/378 MP:170/170
+4-Sedna HP:140/350 MP:68/68
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ometeotl ataca a Sedna
+Sedna recibe 34 de daño
+Sedna termina con HP:106/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:44/324 MP:315/315
+D-Wendigo HP:179/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:539/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:343/378 MP:170/170
+D-Sedna HP:106/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Ometeotl
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Joker HP:539/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:343/378 MP:170/170
+4-Sedna HP:106/350 MP:68/68
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Wendigo ataca a Koumokuten
+Koumokuten recibe 23 de daño
+Koumokuten termina con HP:320/378
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Ometeotl HP:44/324 MP:315/315
+D-Wendigo HP:179/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:539/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:320/378 MP:170/170
+D-Sedna HP:106/350 MP:68/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Koumokuten
+3-Joker
+4-Sedna
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Ometeotl HP:44/324 MP:315/315
+2-Wendigo HP:179/331 MP:66/66
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seth ataca a Ometeotl
+Ometeotl recibe 69 de daño
+Ometeotl termina con HP:0/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Wendigo HP:179/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:539/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:320/378 MP:170/170
+D-Sedna HP:106/350 MP:68/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Joker
+3-Sedna
+4-Seth
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Wendigo HP:179/331 MP:66/66
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Koumokuten ataca a Wendigo
+Wendigo recibe 30 de daño
+Wendigo termina con HP:149/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Wendigo HP:149/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:539/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:320/378 MP:170/170
+D-Sedna HP:106/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Sedna
+3-Seth
+4-Koumokuten
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Wendigo HP:149/331 MP:66/66
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Wendigo
+Wendigo recibe 39 de daño
+Wendigo termina con HP:110/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Wendigo HP:110/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:539/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:320/378 MP:170/170
+D-Sedna HP:106/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Seth
+3-Koumokuten
+4-Joker
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Wendigo HP:110/331 MP:66/66
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sedna ataca a Wendigo
+Wendigo recibe 25 de daño
+Wendigo termina con HP:85/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Wendigo HP:85/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:539/597 MP:347/347
+B-Seth HP:738/898 MP:179/179
+C-Koumokuten HP:320/378 MP:170/170
+D-Sedna HP:106/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Joker HP:539/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:320/378 MP:170/170
+4-Sedna HP:106/350 MP:68/68
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Joker HP:539/597 MP:347/347
+2-Seth HP:738/898 MP:179/179
+3-Koumokuten HP:320/378 MP:170/170
+4-Sedna HP:106/350 MP:68/68
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Wendigo ataca a Seth
+Seth recibe 23 de daño
+Seth termina con HP:715/898
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Wendigo HP:85/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:539/597 MP:347/347
+B-Seth HP:715/898 MP:179/179
+C-Koumokuten HP:320/378 MP:170/170
+D-Sedna HP:106/350 MP:68/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Koumokuten
+3-Joker
+4-Sedna
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Wendigo HP:85/331 MP:66/66
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Wendigo HP:85/331 MP:66/66
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seth ataca a Wendigo
+Wendigo recibe 69 de daño
+Wendigo termina con HP:16/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Wendigo HP:16/331 MP:66/66
+Equipo de Joker (J2)
+A-Joker HP:539/597 MP:347/347
+B-Seth HP:715/898 MP:179/179
+C-Koumokuten HP:320/378 MP:170/170
+D-Sedna HP:106/350 MP:68/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Joker
+3-Sedna
+4-Seth
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Wendigo HP:16/331 MP:66/66
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Wendigo HP:16/331 MP:66/66
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Wendigo HP:16/331 MP:66/66
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Wendigo HP:16/331 MP:66/66
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Wendigo HP:16/331 MP:66/66
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Koumokuten ataca a Wendigo
+Wendigo recibe 30 de daño
+Wendigo termina con HP:0/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Joker (J2)

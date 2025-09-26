@@ -1,0 +1,160 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 7
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Tam Lin HP:218/218 MP:43/43
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Tam Lin
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Lunge MP:6
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Joker HP:597/597 MP:347/347
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Quetzalcoatl
+Quetzalcoatl devuelve 53 daño a Kei
+Kei termina con HP:707/760
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:707/760 MP:392/398
+B-Tam Lin HP:218/218 MP:43/43
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Joker
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:707/760 MP:392/398
+B-Tam Lin HP:218/218 MP:43/43
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Joker (J2) se rinde
+----------------------------------------
+Ganador: Kei (J1)

@@ -1,0 +1,333 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+INPUT: 3
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Lailah HP:212/212 MP:205/205
+C-Kanbari HP:350/350 MP:68/68
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Dakini HP:681/681 MP:135/135
+C-David HP:224/224 MP:99/99
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lailah
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kotone HP:597/597 MP:347/347
+2-Dakini HP:681/681 MP:135/135
+3-David HP:224/224 MP:99/99
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca con luz a Dakini
+Dakini es resistente el ataque de Nahobino
+Dakini ha sido eliminado
+Dakini termina con HP:0/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:379/389
+B-Lailah HP:212/212 MP:205/205
+C-Kanbari HP:350/350 MP:68/68
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-David HP:224/224 MP:99/99
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Kanbari
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Kotone HP:597/597 MP:347/347
+2-David HP:224/224 MP:99/99
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Lailah ataca con luz a Kotone
+Lailah ha fallado el ataque
+Kotone termina con HP:597/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:379/389
+B-Lailah HP:212/212 MP:195/205
+C-Kanbari HP:350/350 MP:68/68
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-David HP:224/224 MP:99/99
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Nahobino
+3-Lailah
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kanbari use
+1-Hama MP:6
+2-Rapid Needle MP:9
+3-Tetrakarn MP:50
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kanbari
+1-Kotone HP:597/597 MP:347/347
+2-David HP:224/224 MP:99/99
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kanbari ataca con luz a David
+David es resistente el ataque de Kanbari
+David ha sido eliminado
+David termina con HP:0/224
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:379/389
+B-Lailah HP:212/212 MP:195/205
+C-Kanbari HP:350/350 MP:62/68
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Nahobino HP:453/453 MP:379/389
+2-Lailah HP:212/212 MP:195/205
+3-Kanbari HP:350/350 MP:62/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone ataca a Nahobino
+Nahobino recibe 38 de daño
+Nahobino termina con HP:415/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:415/453 MP:379/389
+B-Lailah HP:212/212 MP:195/205
+C-Kanbari HP:350/350 MP:62/68
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lailah
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Hamaon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kotone HP:597/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca con luz a Kotone
+Nahobino ha fallado el ataque
+Kotone termina con HP:597/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:415/453 MP:369/389
+B-Lailah HP:212/212 MP:195/205
+C-Kanbari HP:350/350 MP:62/68
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Kanbari
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:415/453 MP:369/389
+B-Lailah HP:212/212 MP:195/205
+C-Kanbari HP:350/350 MP:62/68
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kanbari
+2-Nahobino
+3-Lailah
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:415/453 MP:369/389
+B-Lailah HP:212/212 MP:195/205
+C-Kanbari HP:350/350 MP:62/68
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lailah
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Nahobino (J1) se rinde
+----------------------------------------
+Ganador: Kotone (J2)

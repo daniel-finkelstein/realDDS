@@ -1,0 +1,1778 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 24
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:794/794 MP:157/157
+D-Tlazolteotl HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:453/453 MP:389/389
+2-Tiamat HP:305/305 MP:296/296
+3-Vetala HP:794/794 MP:157/157
+4-Tlazolteotl HP:315/315 MP:306/306
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki ataca a Tlazolteotl
+Tlazolteotl recibe 45 de daño
+Tlazolteotl termina con HP:270/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:794/794 MP:157/157
+D-Tlazolteotl HP:270/315 MP:306/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Nahobino
+3-Tlazolteotl
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:1136/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:1075/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1075/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:794/794 MP:157/157
+D-Tlazolteotl HP:270/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Tlazolteotl
+3-Tiamat
+4-Vetala
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1075/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:1075/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:992/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:992/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:794/794 MP:157/157
+D-Tlazolteotl HP:270/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Tiamat
+3-Vetala
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Itsuki HP:992/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl ataca a Itsuki
+Itsuki recibe 33 de daño
+Itsuki termina con HP:959/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:959/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:794/794 MP:157/157
+D-Tlazolteotl HP:270/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Vetala
+3-Nahobino
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Itsuki HP:959/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tiamat ataca a Itsuki
+Itsuki recibe 32 de daño
+Itsuki termina con HP:927/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:927/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:794/794 MP:157/157
+D-Tlazolteotl HP:270/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:453/453 MP:389/389
+2-Tiamat HP:305/305 MP:296/296
+3-Vetala HP:794/794 MP:157/157
+4-Tlazolteotl HP:270/315 MP:306/306
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Vetala
+Vetala recibe 61 de daño
+Vetala termina con HP:733/794
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:927/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:270/315 MP:306/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Nahobino
+3-Tlazolteotl
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:927/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:866/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:866/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:270/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Tlazolteotl
+3-Tiamat
+4-Vetala
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:866/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:866/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:783/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:783/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:270/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Tiamat
+3-Vetala
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Itsuki HP:783/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl ataca a Itsuki
+Itsuki recibe 33 de daño
+Itsuki termina con HP:750/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:750/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:270/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Vetala
+3-Nahobino
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Itsuki HP:750/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Itsuki HP:750/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tiamat ataca a Itsuki
+Itsuki recibe 32 de daño
+Itsuki termina con HP:718/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:718/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:270/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:453/453 MP:389/389
+2-Tiamat HP:305/305 MP:296/296
+3-Vetala HP:733/794 MP:157/157
+4-Tlazolteotl HP:270/315 MP:306/306
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Nahobino
+Nahobino recibe 45 de daño
+Nahobino termina con HP:408/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:718/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:270/315 MP:306/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Nahobino
+3-Tlazolteotl
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:718/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:718/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:718/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:718/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:718/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:718/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:657/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:657/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:270/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Tlazolteotl
+3-Tiamat
+4-Vetala
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:657/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:657/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:657/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:657/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:657/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:574/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:574/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:270/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Tiamat
+3-Vetala
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Itsuki HP:574/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Itsuki HP:574/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Itsuki HP:574/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl ataca a Itsuki
+Itsuki recibe 33 de daño
+Itsuki termina con HP:541/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:541/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:270/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Vetala
+3-Nahobino
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Itsuki HP:541/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Itsuki HP:541/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Itsuki HP:541/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tiamat ataca a Itsuki
+Itsuki recibe 32 de daño
+Itsuki termina con HP:509/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:509/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:270/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:408/453 MP:389/389
+2-Tiamat HP:305/305 MP:296/296
+3-Vetala HP:733/794 MP:157/157
+4-Tlazolteotl HP:270/315 MP:306/306
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Tlazolteotl
+Tlazolteotl recibe 61 de daño
+Tlazolteotl termina con HP:209/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:509/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:209/315 MP:306/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Nahobino
+3-Tlazolteotl
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:509/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:509/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:509/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:509/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:509/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:448/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:448/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:209/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Tlazolteotl
+3-Tiamat
+4-Vetala
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:448/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:448/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:448/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:448/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:448/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Itsuki
+Itsuki recibe 83 de daño
+Itsuki termina con HP:365/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:365/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:209/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Tiamat
+3-Vetala
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Itsuki HP:365/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl ataca a Itsuki
+Itsuki recibe 33 de daño
+Itsuki termina con HP:332/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:332/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:209/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Vetala
+3-Nahobino
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Itsuki HP:332/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Itsuki HP:332/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Itsuki HP:332/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Itsuki HP:332/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Itsuki HP:332/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Itsuki HP:332/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tiamat ataca a Itsuki
+Itsuki recibe 32 de daño
+Itsuki termina con HP:300/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:300/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:209/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:408/453 MP:389/389
+2-Tiamat HP:305/305 MP:296/296
+3-Vetala HP:733/794 MP:157/157
+4-Tlazolteotl HP:209/315 MP:306/306
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Tlazolteotl
+Tlazolteotl recibe 61 de daño
+Tlazolteotl termina con HP:148/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:300/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:148/315 MP:306/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Nahobino
+3-Tlazolteotl
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:300/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:300/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:239/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:239/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:148/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Tlazolteotl
+3-Tiamat
+4-Vetala
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:239/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:239/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:210/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:210/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:148/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Tiamat
+3-Vetala
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Itsuki HP:210/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl ataca a Itsuki
+Itsuki recibe 33 de daño
+Itsuki termina con HP:177/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:177/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:148/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Vetala
+3-Nahobino
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Itsuki HP:177/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Itsuki HP:177/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Itsuki HP:177/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tiamat ataca a Itsuki
+Itsuki recibe 32 de daño
+Itsuki termina con HP:145/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:145/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:148/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nahobino HP:408/453 MP:389/389
+2-Tiamat HP:305/305 MP:296/296
+3-Vetala HP:733/794 MP:157/157
+4-Tlazolteotl HP:148/315 MP:306/306
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Tlazolteotl
+Tlazolteotl recibe 61 de daño
+Tlazolteotl termina con HP:87/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:145/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:87/315 MP:306/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Nahobino
+3-Tlazolteotl
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:145/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:84/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:84/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:87/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Tlazolteotl
+3-Tiamat
+4-Vetala
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:84/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Itsuki HP:84/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:55/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:55/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:87/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Tiamat
+3-Vetala
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Itsuki HP:55/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Itsuki HP:55/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl ataca a Itsuki
+Itsuki recibe 33 de daño
+Itsuki termina con HP:22/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:22/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:408/453 MP:389/389
+B-Tiamat HP:305/305 MP:296/296
+C-Vetala HP:733/794 MP:157/157
+D-Tlazolteotl HP:87/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Vetala
+3-Nahobino
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Itsuki HP:22/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Itsuki HP:22/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tiamat ataca a Itsuki
+Itsuki recibe 32 de daño
+Itsuki termina con HP:0/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Nahobino (J2)

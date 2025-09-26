@@ -1,0 +1,176 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+INPUT: 1
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Power HP:407/407 MP:81/81
+C-Aniel HP:567/567 MP:255/255
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Aniel
+3-Power
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Dia MP:5
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Flynn HP:971/971 MP:527/527
+2-Power HP:407/407 MP:81/81
+3-Aniel HP:567/567 MP:255/255
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn cura a Aniel
+Aniel recibe 141 de HP
+Aniel termina con HP:567/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:522/527
+B-Power HP:407/407 MP:81/81
+C-Aniel HP:567/567 MP:255/255
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Power
+3-Flynn
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Kei HP:760/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Kei
+Kei es resistente el ataque de Aniel
+Kei recibe 23 de daño
+Kei termina con HP:737/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:522/527
+B-Power HP:407/407 MP:81/81
+C-Aniel HP:567/567 MP:255/255
+D-
+Equipo de Kei (J2)
+A-Kei HP:737/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Flynn
+3-Aniel
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Power use
+1-Tathlum Shot MP:7
+2-Diarama MP:9
+3-Megido MP:25
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Power
+1-Flynn HP:971/971 MP:522/527
+2-Power HP:407/407 MP:81/81
+3-Aniel HP:567/567 MP:255/255
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Power cura a Flynn
+Flynn recibe 485 de HP
+Flynn termina con HP:971/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:522/527
+B-Power HP:407/407 MP:72/81
+C-Aniel HP:567/567 MP:255/255
+D-
+Equipo de Kei (J2)
+A-Kei HP:737/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Kei (J2) se rinde
+----------------------------------------
+Ganador: Flynn (J1)

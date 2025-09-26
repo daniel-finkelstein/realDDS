@@ -1,0 +1,3245 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 51
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Senri HP:165/165 MP:158/158
+C-Raphael HP:623/623 MP:279/279
+D-Atropos HP:277/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Yamata-no-Orochi HP:662/662 MP:131/131
+C-Oni HP:218/218 MP:43/43
+D-Ose HP:454/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Atropos
+4-Senri
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Nanashi HP:140/140 MP:411/411
+2-Yamata-no-Orochi HP:662/662 MP:131/131
+3-Oni HP:218/218 MP:43/43
+4-Ose HP:454/454 MP:90/90
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Nanashi HP:140/140 MP:411/411
+2-Yamata-no-Orochi HP:662/662 MP:131/131
+3-Oni HP:218/218 MP:43/43
+4-Ose HP:454/454 MP:90/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Nanashi
+Nanashi recibe 52 de daño
+Nanashi termina con HP:88/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Senri HP:165/165 MP:158/158
+C-Raphael HP:623/623 MP:279/279
+D-Atropos HP:277/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:88/140 MP:411/411
+B-Yamata-no-Orochi HP:662/662 MP:131/131
+C-Oni HP:218/218 MP:43/43
+D-Ose HP:454/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Atropos
+3-Senri
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:88/140 MP:411/411
+2-Yamata-no-Orochi HP:662/662 MP:131/131
+3-Oni HP:218/218 MP:43/43
+4-Ose HP:454/454 MP:90/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Nanashi
+Nanashi recibe 45 de daño
+Nanashi termina con HP:43/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Senri HP:165/165 MP:158/158
+C-Raphael HP:623/623 MP:279/279
+D-Atropos HP:277/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:43/140 MP:411/411
+B-Yamata-no-Orochi HP:662/662 MP:131/131
+C-Oni HP:218/218 MP:43/43
+D-Ose HP:454/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Senri
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Nanashi HP:43/140 MP:411/411
+2-Yamata-no-Orochi HP:662/662 MP:131/131
+3-Oni HP:218/218 MP:43/43
+4-Ose HP:454/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Atropos ataca a Oni
+Oni recibe 29 de daño
+Oni termina con HP:189/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Senri HP:165/165 MP:158/158
+C-Raphael HP:623/623 MP:279/279
+D-Atropos HP:277/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:43/140 MP:411/411
+B-Yamata-no-Orochi HP:662/662 MP:131/131
+C-Oni HP:189/218 MP:43/43
+D-Ose HP:454/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Raphael
+3-Itsuki
+4-Atropos
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nanashi HP:43/140 MP:411/411
+2-Yamata-no-Orochi HP:662/662 MP:131/131
+3-Oni HP:189/218 MP:43/43
+4-Ose HP:454/454 MP:90/90
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Senri ataca a Ose
+Ose recibe 16 de daño
+Ose termina con HP:438/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Senri HP:165/165 MP:158/158
+C-Raphael HP:623/623 MP:279/279
+D-Atropos HP:277/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:43/140 MP:411/411
+B-Yamata-no-Orochi HP:662/662 MP:131/131
+C-Oni HP:189/218 MP:43/43
+D-Ose HP:438/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Nanashi
+3-Ose
+4-Oni
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Itsuki HP:1136/1136 MP:413/413
+2-Senri HP:165/165 MP:158/158
+3-Raphael HP:623/623 MP:279/279
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Itsuki HP:1136/1136 MP:413/413
+2-Senri HP:165/165 MP:158/158
+3-Raphael HP:623/623 MP:279/279
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yamata-no-Orochi ataca a Senri
+Senri recibe 50 de daño
+Senri termina con HP:115/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Senri HP:115/165 MP:158/158
+C-Raphael HP:623/623 MP:279/279
+D-Atropos HP:277/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:43/140 MP:411/411
+B-Yamata-no-Orochi HP:662/662 MP:131/131
+C-Oni HP:189/218 MP:43/43
+D-Ose HP:438/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Ose
+3-Oni
+4-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Itsuki HP:1136/1136 MP:413/413
+2-Senri HP:115/165 MP:158/158
+3-Raphael HP:623/623 MP:279/279
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi ataca a Raphael
+Raphael recibe 92 de daño
+Raphael termina con HP:531/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Senri HP:115/165 MP:158/158
+C-Raphael HP:531/623 MP:279/279
+D-Atropos HP:277/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:43/140 MP:411/411
+B-Yamata-no-Orochi HP:662/662 MP:131/131
+C-Oni HP:189/218 MP:43/43
+D-Ose HP:438/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Oni
+3-Yamata-no-Orochi
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Itsuki HP:1136/1136 MP:413/413
+2-Senri HP:115/165 MP:158/158
+3-Raphael HP:531/623 MP:279/279
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ose ataca a Itsuki
+Itsuki recibe 33 de daño
+Itsuki termina con HP:1103/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1103/1136 MP:413/413
+B-Senri HP:115/165 MP:158/158
+C-Raphael HP:531/623 MP:279/279
+D-Atropos HP:277/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:43/140 MP:411/411
+B-Yamata-no-Orochi HP:662/662 MP:131/131
+C-Oni HP:189/218 MP:43/43
+D-Ose HP:438/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Yamata-no-Orochi
+3-Nanashi
+4-Ose
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Itsuki HP:1103/1136 MP:413/413
+2-Senri HP:115/165 MP:158/158
+3-Raphael HP:531/623 MP:279/279
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Oni ataca a Raphael
+Raphael recibe 14 de daño
+Raphael termina con HP:517/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1103/1136 MP:413/413
+B-Senri HP:115/165 MP:158/158
+C-Raphael HP:517/623 MP:279/279
+D-Atropos HP:277/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:43/140 MP:411/411
+B-Yamata-no-Orochi HP:662/662 MP:131/131
+C-Oni HP:189/218 MP:43/43
+D-Ose HP:438/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Atropos
+4-Senri
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Nanashi HP:43/140 MP:411/411
+2-Yamata-no-Orochi HP:662/662 MP:131/131
+3-Oni HP:189/218 MP:43/43
+4-Ose HP:438/454 MP:90/90
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Nanashi HP:43/140 MP:411/411
+2-Yamata-no-Orochi HP:662/662 MP:131/131
+3-Oni HP:189/218 MP:43/43
+4-Ose HP:438/454 MP:90/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 52 de daño
+Yamata-no-Orochi termina con HP:610/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1103/1136 MP:413/413
+B-Senri HP:115/165 MP:158/158
+C-Raphael HP:517/623 MP:279/279
+D-Atropos HP:277/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:43/140 MP:411/411
+B-Yamata-no-Orochi HP:610/662 MP:131/131
+C-Oni HP:189/218 MP:43/43
+D-Ose HP:438/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Atropos
+3-Senri
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:43/140 MP:411/411
+2-Yamata-no-Orochi HP:610/662 MP:131/131
+3-Oni HP:189/218 MP:43/43
+4-Ose HP:438/454 MP:90/90
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki ataca a Ose
+Ose recibe 45 de daño
+Ose termina con HP:393/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1103/1136 MP:413/413
+B-Senri HP:115/165 MP:158/158
+C-Raphael HP:517/623 MP:279/279
+D-Atropos HP:277/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:43/140 MP:411/411
+B-Yamata-no-Orochi HP:610/662 MP:131/131
+C-Oni HP:189/218 MP:43/43
+D-Ose HP:393/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Senri
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Nanashi HP:43/140 MP:411/411
+2-Yamata-no-Orochi HP:610/662 MP:131/131
+3-Oni HP:189/218 MP:43/43
+4-Ose HP:393/454 MP:90/90
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Nanashi HP:43/140 MP:411/411
+2-Yamata-no-Orochi HP:610/662 MP:131/131
+3-Oni HP:189/218 MP:43/43
+4-Ose HP:393/454 MP:90/90
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Atropos ataca a Ose
+Ose recibe 29 de daño
+Ose termina con HP:364/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1103/1136 MP:413/413
+B-Senri HP:115/165 MP:158/158
+C-Raphael HP:517/623 MP:279/279
+D-Atropos HP:277/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:43/140 MP:411/411
+B-Yamata-no-Orochi HP:610/662 MP:131/131
+C-Oni HP:189/218 MP:43/43
+D-Ose HP:364/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Raphael
+3-Itsuki
+4-Atropos
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Nanashi HP:43/140 MP:411/411
+2-Yamata-no-Orochi HP:610/662 MP:131/131
+3-Oni HP:189/218 MP:43/43
+4-Ose HP:364/454 MP:90/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Senri ataca a Nanashi
+Nanashi recibe 16 de daño
+Nanashi termina con HP:27/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1103/1136 MP:413/413
+B-Senri HP:115/165 MP:158/158
+C-Raphael HP:517/623 MP:279/279
+D-Atropos HP:277/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:27/140 MP:411/411
+B-Yamata-no-Orochi HP:610/662 MP:131/131
+C-Oni HP:189/218 MP:43/43
+D-Ose HP:364/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Nanashi
+3-Ose
+4-Oni
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Itsuki HP:1103/1136 MP:413/413
+2-Senri HP:115/165 MP:158/158
+3-Raphael HP:517/623 MP:279/279
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi ataca a Itsuki
+Itsuki recibe 50 de daño
+Itsuki termina con HP:1053/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1053/1136 MP:413/413
+B-Senri HP:115/165 MP:158/158
+C-Raphael HP:517/623 MP:279/279
+D-Atropos HP:277/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:27/140 MP:411/411
+B-Yamata-no-Orochi HP:610/662 MP:131/131
+C-Oni HP:189/218 MP:43/43
+D-Ose HP:364/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Ose
+3-Oni
+4-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Itsuki HP:1053/1136 MP:413/413
+2-Senri HP:115/165 MP:158/158
+3-Raphael HP:517/623 MP:279/279
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi dispara a Raphael
+Raphael recibe 31 de daño
+Raphael termina con HP:486/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1053/1136 MP:413/413
+B-Senri HP:115/165 MP:158/158
+C-Raphael HP:486/623 MP:279/279
+D-Atropos HP:277/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:27/140 MP:411/411
+B-Yamata-no-Orochi HP:610/662 MP:131/131
+C-Oni HP:189/218 MP:43/43
+D-Ose HP:364/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Oni
+3-Yamata-no-Orochi
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Itsuki HP:1053/1136 MP:413/413
+2-Senri HP:115/165 MP:158/158
+3-Raphael HP:486/623 MP:279/279
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ose ataca a Atropos
+Atropos recibe 33 de daño
+Atropos termina con HP:244/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1053/1136 MP:413/413
+B-Senri HP:115/165 MP:158/158
+C-Raphael HP:486/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:27/140 MP:411/411
+B-Yamata-no-Orochi HP:610/662 MP:131/131
+C-Oni HP:189/218 MP:43/43
+D-Ose HP:364/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Yamata-no-Orochi
+3-Nanashi
+4-Ose
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Itsuki HP:1053/1136 MP:413/413
+2-Senri HP:115/165 MP:158/158
+3-Raphael HP:486/623 MP:279/279
+4-Atropos HP:244/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Oni ataca a Senri
+Senri recibe 14 de daño
+Senri termina con HP:101/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1053/1136 MP:413/413
+B-Senri HP:101/165 MP:158/158
+C-Raphael HP:486/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:27/140 MP:411/411
+B-Yamata-no-Orochi HP:610/662 MP:131/131
+C-Oni HP:189/218 MP:43/43
+D-Ose HP:364/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Atropos
+4-Senri
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Nanashi HP:27/140 MP:411/411
+2-Yamata-no-Orochi HP:610/662 MP:131/131
+3-Oni HP:189/218 MP:43/43
+4-Ose HP:364/454 MP:90/90
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Raphael ataca a Ose
+Ose recibe 52 de daño
+Ose termina con HP:312/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1053/1136 MP:413/413
+B-Senri HP:101/165 MP:158/158
+C-Raphael HP:486/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:27/140 MP:411/411
+B-Yamata-no-Orochi HP:610/662 MP:131/131
+C-Oni HP:189/218 MP:43/43
+D-Ose HP:312/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Atropos
+3-Senri
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:27/140 MP:411/411
+2-Yamata-no-Orochi HP:610/662 MP:131/131
+3-Oni HP:189/218 MP:43/43
+4-Ose HP:312/454 MP:90/90
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:27/140 MP:411/411
+2-Yamata-no-Orochi HP:610/662 MP:131/131
+3-Oni HP:189/218 MP:43/43
+4-Ose HP:312/454 MP:90/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Nanashi
+Nanashi recibe 61 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1053/1136 MP:413/413
+B-Senri HP:101/165 MP:158/158
+C-Raphael HP:486/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:610/662 MP:131/131
+C-Oni HP:189/218 MP:43/43
+D-Ose HP:312/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Senri
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Yamata-no-Orochi HP:610/662 MP:131/131
+2-Oni HP:189/218 MP:43/43
+3-Ose HP:312/454 MP:90/90
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Yamata-no-Orochi HP:610/662 MP:131/131
+2-Oni HP:189/218 MP:43/43
+3-Ose HP:312/454 MP:90/90
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Atropos ataca a Oni
+Oni recibe 29 de daño
+Oni termina con HP:160/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1053/1136 MP:413/413
+B-Senri HP:101/165 MP:158/158
+C-Raphael HP:486/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:610/662 MP:131/131
+C-Oni HP:160/218 MP:43/43
+D-Ose HP:312/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Raphael
+3-Itsuki
+4-Atropos
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yamata-no-Orochi HP:610/662 MP:131/131
+2-Oni HP:160/218 MP:43/43
+3-Ose HP:312/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Senri ataca a Ose
+Ose recibe 16 de daño
+Ose termina con HP:296/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1053/1136 MP:413/413
+B-Senri HP:101/165 MP:158/158
+C-Raphael HP:486/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:610/662 MP:131/131
+C-Oni HP:160/218 MP:43/43
+D-Ose HP:296/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Ose
+3-Oni
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Itsuki HP:1053/1136 MP:413/413
+2-Senri HP:101/165 MP:158/158
+3-Raphael HP:486/623 MP:279/279
+4-Atropos HP:244/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi ataca a Itsuki
+Itsuki recibe 50 de daño
+Itsuki termina con HP:1003/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1003/1136 MP:413/413
+B-Senri HP:101/165 MP:158/158
+C-Raphael HP:486/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:610/662 MP:131/131
+C-Oni HP:160/218 MP:43/43
+D-Ose HP:296/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Oni
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Itsuki HP:1003/1136 MP:413/413
+2-Senri HP:101/165 MP:158/158
+3-Raphael HP:486/623 MP:279/279
+4-Atropos HP:244/277 MP:269/269
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Itsuki HP:1003/1136 MP:413/413
+2-Senri HP:101/165 MP:158/158
+3-Raphael HP:486/623 MP:279/279
+4-Atropos HP:244/277 MP:269/269
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Itsuki HP:1003/1136 MP:413/413
+2-Senri HP:101/165 MP:158/158
+3-Raphael HP:486/623 MP:279/279
+4-Atropos HP:244/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ose ataca a Senri
+Senri recibe 33 de daño
+Senri termina con HP:68/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1003/1136 MP:413/413
+B-Senri HP:68/165 MP:158/158
+C-Raphael HP:486/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:610/662 MP:131/131
+C-Oni HP:160/218 MP:43/43
+D-Ose HP:296/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Yamata-no-Orochi
+3-Ose
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Itsuki HP:1003/1136 MP:413/413
+2-Senri HP:68/165 MP:158/158
+3-Raphael HP:486/623 MP:279/279
+4-Atropos HP:244/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Oni ataca a Senri
+Senri recibe 14 de daño
+Senri termina con HP:54/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1003/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:486/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:610/662 MP:131/131
+C-Oni HP:160/218 MP:43/43
+D-Ose HP:296/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Atropos
+4-Senri
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yamata-no-Orochi HP:610/662 MP:131/131
+2-Oni HP:160/218 MP:43/43
+3-Ose HP:296/454 MP:90/90
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 52 de daño
+Yamata-no-Orochi termina con HP:558/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1003/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:486/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:558/662 MP:131/131
+C-Oni HP:160/218 MP:43/43
+D-Ose HP:296/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Atropos
+3-Senri
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yamata-no-Orochi HP:558/662 MP:131/131
+2-Oni HP:160/218 MP:43/43
+3-Ose HP:296/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Ose
+Ose recibe 61 de daño
+Ose termina con HP:235/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1003/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:486/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:558/662 MP:131/131
+C-Oni HP:160/218 MP:43/43
+D-Ose HP:235/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Senri
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Yamata-no-Orochi HP:558/662 MP:131/131
+2-Oni HP:160/218 MP:43/43
+3-Ose HP:235/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Atropos ataca a Ose
+Ose recibe 29 de daño
+Ose termina con HP:206/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1003/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:486/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:558/662 MP:131/131
+C-Oni HP:160/218 MP:43/43
+D-Ose HP:206/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Raphael
+3-Itsuki
+4-Atropos
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yamata-no-Orochi HP:558/662 MP:131/131
+2-Oni HP:160/218 MP:43/43
+3-Ose HP:206/454 MP:90/90
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Senri ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 16 de daño
+Yamata-no-Orochi termina con HP:542/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1003/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:486/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:542/662 MP:131/131
+C-Oni HP:160/218 MP:43/43
+D-Ose HP:206/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Ose
+3-Oni
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Itsuki HP:1003/1136 MP:413/413
+2-Senri HP:54/165 MP:158/158
+3-Raphael HP:486/623 MP:279/279
+4-Atropos HP:244/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi ataca a Itsuki
+Itsuki recibe 50 de daño
+Itsuki termina con HP:953/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:953/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:486/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:542/662 MP:131/131
+C-Oni HP:160/218 MP:43/43
+D-Ose HP:206/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Oni
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Itsuki HP:953/1136 MP:413/413
+2-Senri HP:54/165 MP:158/158
+3-Raphael HP:486/623 MP:279/279
+4-Atropos HP:244/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ose ataca a Itsuki
+Itsuki recibe 33 de daño
+Itsuki termina con HP:920/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:920/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:486/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:542/662 MP:131/131
+C-Oni HP:160/218 MP:43/43
+D-Ose HP:206/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Yamata-no-Orochi
+3-Ose
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Itsuki HP:920/1136 MP:413/413
+2-Senri HP:54/165 MP:158/158
+3-Raphael HP:486/623 MP:279/279
+4-Atropos HP:244/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Oni ataca a Raphael
+Raphael recibe 14 de daño
+Raphael termina con HP:472/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:920/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:472/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:542/662 MP:131/131
+C-Oni HP:160/218 MP:43/43
+D-Ose HP:206/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Atropos
+4-Senri
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yamata-no-Orochi HP:542/662 MP:131/131
+2-Oni HP:160/218 MP:43/43
+3-Ose HP:206/454 MP:90/90
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yamata-no-Orochi HP:542/662 MP:131/131
+2-Oni HP:160/218 MP:43/43
+3-Ose HP:206/454 MP:90/90
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael ataca a Oni
+Oni recibe 52 de daño
+Oni termina con HP:108/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:920/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:472/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:542/662 MP:131/131
+C-Oni HP:108/218 MP:43/43
+D-Ose HP:206/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Atropos
+3-Senri
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yamata-no-Orochi HP:542/662 MP:131/131
+2-Oni HP:108/218 MP:43/43
+3-Ose HP:206/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Ose
+Ose recibe 61 de daño
+Ose termina con HP:145/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:920/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:472/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:542/662 MP:131/131
+C-Oni HP:108/218 MP:43/43
+D-Ose HP:145/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Senri
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Yamata-no-Orochi HP:542/662 MP:131/131
+2-Oni HP:108/218 MP:43/43
+3-Ose HP:145/454 MP:90/90
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 29 de daño
+Yamata-no-Orochi termina con HP:513/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:920/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:472/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:513/662 MP:131/131
+C-Oni HP:108/218 MP:43/43
+D-Ose HP:145/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Raphael
+3-Itsuki
+4-Atropos
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yamata-no-Orochi HP:513/662 MP:131/131
+2-Oni HP:108/218 MP:43/43
+3-Ose HP:145/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Senri ataca a Ose
+Ose recibe 16 de daño
+Ose termina con HP:129/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:920/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:472/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:513/662 MP:131/131
+C-Oni HP:108/218 MP:43/43
+D-Ose HP:129/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Ose
+3-Oni
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Itsuki HP:920/1136 MP:413/413
+2-Senri HP:54/165 MP:158/158
+3-Raphael HP:472/623 MP:279/279
+4-Atropos HP:244/277 MP:269/269
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Itsuki HP:920/1136 MP:413/413
+2-Senri HP:54/165 MP:158/158
+3-Raphael HP:472/623 MP:279/279
+4-Atropos HP:244/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yamata-no-Orochi ataca a Raphael
+Raphael recibe 50 de daño
+Raphael termina con HP:422/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:920/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:422/623 MP:279/279
+D-Atropos HP:244/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:513/662 MP:131/131
+C-Oni HP:108/218 MP:43/43
+D-Ose HP:129/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Oni
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Itsuki HP:920/1136 MP:413/413
+2-Senri HP:54/165 MP:158/158
+3-Raphael HP:422/623 MP:279/279
+4-Atropos HP:244/277 MP:269/269
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Itsuki HP:920/1136 MP:413/413
+2-Senri HP:54/165 MP:158/158
+3-Raphael HP:422/623 MP:279/279
+4-Atropos HP:244/277 MP:269/269
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ose ataca a Atropos
+Atropos recibe 33 de daño
+Atropos termina con HP:211/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:920/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:422/623 MP:279/279
+D-Atropos HP:211/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:513/662 MP:131/131
+C-Oni HP:108/218 MP:43/43
+D-Ose HP:129/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Yamata-no-Orochi
+3-Ose
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Itsuki HP:920/1136 MP:413/413
+2-Senri HP:54/165 MP:158/158
+3-Raphael HP:422/623 MP:279/279
+4-Atropos HP:211/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Oni ataca a Raphael
+Raphael recibe 14 de daño
+Raphael termina con HP:408/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:920/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:408/623 MP:279/279
+D-Atropos HP:211/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:513/662 MP:131/131
+C-Oni HP:108/218 MP:43/43
+D-Ose HP:129/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Atropos
+4-Senri
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yamata-no-Orochi HP:513/662 MP:131/131
+2-Oni HP:108/218 MP:43/43
+3-Ose HP:129/454 MP:90/90
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 52 de daño
+Yamata-no-Orochi termina con HP:461/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:920/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:408/623 MP:279/279
+D-Atropos HP:211/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:461/662 MP:131/131
+C-Oni HP:108/218 MP:43/43
+D-Ose HP:129/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Atropos
+3-Senri
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yamata-no-Orochi HP:461/662 MP:131/131
+2-Oni HP:108/218 MP:43/43
+3-Ose HP:129/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Ose
+Ose recibe 61 de daño
+Ose termina con HP:68/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:920/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:408/623 MP:279/279
+D-Atropos HP:211/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:461/662 MP:131/131
+C-Oni HP:108/218 MP:43/43
+D-Ose HP:68/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Senri
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Yamata-no-Orochi HP:461/662 MP:131/131
+2-Oni HP:108/218 MP:43/43
+3-Ose HP:68/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Atropos ataca a Ose
+Ose recibe 29 de daño
+Ose termina con HP:39/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:920/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:408/623 MP:279/279
+D-Atropos HP:211/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:461/662 MP:131/131
+C-Oni HP:108/218 MP:43/43
+D-Ose HP:39/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Raphael
+3-Itsuki
+4-Atropos
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yamata-no-Orochi HP:461/662 MP:131/131
+2-Oni HP:108/218 MP:43/43
+3-Ose HP:39/454 MP:90/90
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yamata-no-Orochi HP:461/662 MP:131/131
+2-Oni HP:108/218 MP:43/43
+3-Ose HP:39/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Senri ataca a Ose
+Ose recibe 16 de daño
+Ose termina con HP:23/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:920/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:408/623 MP:279/279
+D-Atropos HP:211/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:461/662 MP:131/131
+C-Oni HP:108/218 MP:43/43
+D-Ose HP:23/454 MP:90/90
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Ose
+3-Oni
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Itsuki HP:920/1136 MP:413/413
+2-Senri HP:54/165 MP:158/158
+3-Raphael HP:408/623 MP:279/279
+4-Atropos HP:211/277 MP:269/269
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Itsuki HP:920/1136 MP:413/413
+2-Senri HP:54/165 MP:158/158
+3-Raphael HP:408/623 MP:279/279
+4-Atropos HP:211/277 MP:269/269
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Itsuki HP:920/1136 MP:413/413
+2-Senri HP:54/165 MP:158/158
+3-Raphael HP:408/623 MP:279/279
+4-Atropos HP:211/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi ataca a Itsuki
+Itsuki recibe 50 de daño
+Itsuki termina con HP:870/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:870/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:408/623 MP:279/279
+D-Atropos HP:211/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:461/662 MP:131/131
+C-Oni HP:108/218 MP:43/43
+D-Ose HP:23/454 MP:90/90
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Oni
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Itsuki HP:870/1136 MP:413/413
+2-Senri HP:54/165 MP:158/158
+3-Raphael HP:408/623 MP:279/279
+4-Atropos HP:211/277 MP:269/269
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Itsuki HP:870/1136 MP:413/413
+2-Senri HP:54/165 MP:158/158
+3-Raphael HP:408/623 MP:279/279
+4-Atropos HP:211/277 MP:269/269
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ose ataca a Atropos
+Atropos recibe 33 de daño
+Atropos termina con HP:178/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:870/1136 MP:413/413
+B-Senri HP:54/165 MP:158/158
+C-Raphael HP:408/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:461/662 MP:131/131
+C-Oni HP:108/218 MP:43/43
+D-Ose HP:23/454 MP:90/90
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Yamata-no-Orochi
+3-Ose
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Itsuki HP:870/1136 MP:413/413
+2-Senri HP:54/165 MP:158/158
+3-Raphael HP:408/623 MP:279/279
+4-Atropos HP:178/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Oni ataca a Senri
+Senri recibe 14 de daño
+Senri termina con HP:40/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:870/1136 MP:413/413
+B-Senri HP:40/165 MP:158/158
+C-Raphael HP:408/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:461/662 MP:131/131
+C-Oni HP:108/218 MP:43/43
+D-Ose HP:23/454 MP:90/90
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Atropos
+4-Senri
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yamata-no-Orochi HP:461/662 MP:131/131
+2-Oni HP:108/218 MP:43/43
+3-Ose HP:23/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Raphael ataca a Ose
+Ose recibe 52 de daño
+Ose termina con HP:0/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:870/1136 MP:413/413
+B-Senri HP:40/165 MP:158/158
+C-Raphael HP:408/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:461/662 MP:131/131
+C-Oni HP:108/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Atropos
+3-Senri
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yamata-no-Orochi HP:461/662 MP:131/131
+2-Oni HP:108/218 MP:43/43
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Yamata-no-Orochi
+Yamata-no-Orochi recibe 61 de daño
+Yamata-no-Orochi termina con HP:400/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:870/1136 MP:413/413
+B-Senri HP:40/165 MP:158/158
+C-Raphael HP:408/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:400/662 MP:131/131
+C-Oni HP:108/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Senri
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Yamata-no-Orochi HP:400/662 MP:131/131
+2-Oni HP:108/218 MP:43/43
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 29 de daño
+Yamata-no-Orochi termina con HP:371/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:870/1136 MP:413/413
+B-Senri HP:40/165 MP:158/158
+C-Raphael HP:408/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:371/662 MP:131/131
+C-Oni HP:108/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Raphael
+3-Itsuki
+4-Atropos
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yamata-no-Orochi HP:371/662 MP:131/131
+2-Oni HP:108/218 MP:43/43
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Senri ataca a Oni
+Oni recibe 16 de daño
+Oni termina con HP:92/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:870/1136 MP:413/413
+B-Senri HP:40/165 MP:158/158
+C-Raphael HP:408/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:371/662 MP:131/131
+C-Oni HP:92/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Oni
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Itsuki HP:870/1136 MP:413/413
+2-Senri HP:40/165 MP:158/158
+3-Raphael HP:408/623 MP:279/279
+4-Atropos HP:178/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yamata-no-Orochi ataca a Raphael
+Raphael recibe 50 de daño
+Raphael termina con HP:358/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:870/1136 MP:413/413
+B-Senri HP:40/165 MP:158/158
+C-Raphael HP:358/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:371/662 MP:131/131
+C-Oni HP:92/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Itsuki HP:870/1136 MP:413/413
+2-Senri HP:40/165 MP:158/158
+3-Raphael HP:358/623 MP:279/279
+4-Atropos HP:178/277 MP:269/269
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Itsuki HP:870/1136 MP:413/413
+2-Senri HP:40/165 MP:158/158
+3-Raphael HP:358/623 MP:279/279
+4-Atropos HP:178/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Oni ataca a Senri
+Senri recibe 14 de daño
+Senri termina con HP:26/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:870/1136 MP:413/413
+B-Senri HP:26/165 MP:158/158
+C-Raphael HP:358/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:371/662 MP:131/131
+C-Oni HP:92/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Atropos
+4-Senri
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yamata-no-Orochi HP:371/662 MP:131/131
+2-Oni HP:92/218 MP:43/43
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yamata-no-Orochi HP:371/662 MP:131/131
+2-Oni HP:92/218 MP:43/43
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 52 de daño
+Yamata-no-Orochi termina con HP:319/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:870/1136 MP:413/413
+B-Senri HP:26/165 MP:158/158
+C-Raphael HP:358/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:319/662 MP:131/131
+C-Oni HP:92/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Atropos
+3-Senri
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yamata-no-Orochi HP:319/662 MP:131/131
+2-Oni HP:92/218 MP:43/43
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yamata-no-Orochi HP:319/662 MP:131/131
+2-Oni HP:92/218 MP:43/43
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Oni
+Oni recibe 45 de daño
+Oni termina con HP:47/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:870/1136 MP:413/413
+B-Senri HP:26/165 MP:158/158
+C-Raphael HP:358/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:319/662 MP:131/131
+C-Oni HP:47/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Senri
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Yamata-no-Orochi HP:319/662 MP:131/131
+2-Oni HP:47/218 MP:43/43
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Yamata-no-Orochi HP:319/662 MP:131/131
+2-Oni HP:47/218 MP:43/43
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 29 de daño
+Yamata-no-Orochi termina con HP:290/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:870/1136 MP:413/413
+B-Senri HP:26/165 MP:158/158
+C-Raphael HP:358/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:290/662 MP:131/131
+C-Oni HP:47/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Raphael
+3-Itsuki
+4-Atropos
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yamata-no-Orochi HP:290/662 MP:131/131
+2-Oni HP:47/218 MP:43/43
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yamata-no-Orochi HP:290/662 MP:131/131
+2-Oni HP:47/218 MP:43/43
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yamata-no-Orochi HP:290/662 MP:131/131
+2-Oni HP:47/218 MP:43/43
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Senri ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 16 de daño
+Yamata-no-Orochi termina con HP:274/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:870/1136 MP:413/413
+B-Senri HP:26/165 MP:158/158
+C-Raphael HP:358/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:274/662 MP:131/131
+C-Oni HP:47/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Oni
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Itsuki HP:870/1136 MP:413/413
+2-Senri HP:26/165 MP:158/158
+3-Raphael HP:358/623 MP:279/279
+4-Atropos HP:178/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi ataca a Itsuki
+Itsuki recibe 50 de daño
+Itsuki termina con HP:820/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:820/1136 MP:413/413
+B-Senri HP:26/165 MP:158/158
+C-Raphael HP:358/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:274/662 MP:131/131
+C-Oni HP:47/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Itsuki HP:820/1136 MP:413/413
+2-Senri HP:26/165 MP:158/158
+3-Raphael HP:358/623 MP:279/279
+4-Atropos HP:178/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Oni ataca a Senri
+Senri recibe 14 de daño
+Senri termina con HP:12/165
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:820/1136 MP:413/413
+B-Senri HP:12/165 MP:158/158
+C-Raphael HP:358/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:274/662 MP:131/131
+C-Oni HP:47/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Atropos
+4-Senri
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yamata-no-Orochi HP:274/662 MP:131/131
+2-Oni HP:47/218 MP:43/43
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael ataca a Oni
+Oni recibe 52 de daño
+Oni termina con HP:0/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:820/1136 MP:413/413
+B-Senri HP:12/165 MP:158/158
+C-Raphael HP:358/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:274/662 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Atropos
+3-Senri
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yamata-no-Orochi HP:274/662 MP:131/131
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 45 de daño
+Yamata-no-Orochi termina con HP:229/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:820/1136 MP:413/413
+B-Senri HP:12/165 MP:158/158
+C-Raphael HP:358/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:229/662 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Senri
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Yamata-no-Orochi HP:229/662 MP:131/131
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Yamata-no-Orochi HP:229/662 MP:131/131
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Yamata-no-Orochi HP:229/662 MP:131/131
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 29 de daño
+Yamata-no-Orochi termina con HP:200/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:820/1136 MP:413/413
+B-Senri HP:12/165 MP:158/158
+C-Raphael HP:358/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:200/662 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Raphael
+3-Itsuki
+4-Atropos
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yamata-no-Orochi HP:200/662 MP:131/131
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Senri ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 16 de daño
+Yamata-no-Orochi termina con HP:184/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:820/1136 MP:413/413
+B-Senri HP:12/165 MP:158/158
+C-Raphael HP:358/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:184/662 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Itsuki HP:820/1136 MP:413/413
+2-Senri HP:12/165 MP:158/158
+3-Raphael HP:358/623 MP:279/279
+4-Atropos HP:178/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi ataca a Itsuki
+Itsuki recibe 50 de daño
+Itsuki termina con HP:770/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:770/1136 MP:413/413
+B-Senri HP:12/165 MP:158/158
+C-Raphael HP:358/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:184/662 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Atropos
+4-Senri
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yamata-no-Orochi HP:184/662 MP:131/131
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 52 de daño
+Yamata-no-Orochi termina con HP:132/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:770/1136 MP:413/413
+B-Senri HP:12/165 MP:158/158
+C-Raphael HP:358/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:132/662 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Atropos
+3-Senri
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yamata-no-Orochi HP:132/662 MP:131/131
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 45 de daño
+Yamata-no-Orochi termina con HP:87/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:770/1136 MP:413/413
+B-Senri HP:12/165 MP:158/158
+C-Raphael HP:358/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:87/662 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Senri
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Yamata-no-Orochi HP:87/662 MP:131/131
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Yamata-no-Orochi HP:87/662 MP:131/131
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 29 de daño
+Yamata-no-Orochi termina con HP:58/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:770/1136 MP:413/413
+B-Senri HP:12/165 MP:158/158
+C-Raphael HP:358/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:58/662 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Senri
+2-Raphael
+3-Itsuki
+4-Atropos
+----------------------------------------
+Seleccione una acción para Senri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Senri
+1-Yamata-no-Orochi HP:58/662 MP:131/131
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Senri ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 16 de daño
+Yamata-no-Orochi termina con HP:42/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:770/1136 MP:413/413
+B-Senri HP:12/165 MP:158/158
+C-Raphael HP:358/623 MP:279/279
+D-Atropos HP:178/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:42/662 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Itsuki HP:770/1136 MP:413/413
+2-Senri HP:12/165 MP:158/158
+3-Raphael HP:358/623 MP:279/279
+4-Atropos HP:178/277 MP:269/269
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Yamata-no-Orochi ataca a Atropos
+Atropos recibe 50 de daño
+Atropos termina con HP:128/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:770/1136 MP:413/413
+B-Senri HP:12/165 MP:158/158
+C-Raphael HP:358/623 MP:279/279
+D-Atropos HP:128/277 MP:269/269
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Yamata-no-Orochi HP:42/662 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Atropos
+4-Senri
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yamata-no-Orochi HP:42/662 MP:131/131
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 52 de daño
+Yamata-no-Orochi termina con HP:0/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Itsuki (J1)

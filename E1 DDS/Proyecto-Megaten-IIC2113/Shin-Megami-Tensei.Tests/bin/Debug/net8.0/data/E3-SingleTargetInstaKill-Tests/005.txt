@@ -1,0 +1,401 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+INPUT: 4
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Aniel HP:567/567 MP:255/255
+C-Israfel HP:258/258 MP:251/251
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Mastema HP:399/399 MP:387/387
+C-Raphael HP:623/623 MP:279/279
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Makoto
+3-Israfel
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Mastema HP:399/399 MP:387/387
+3-Raphael HP:623/623 MP:279/279
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca con luz a Demi-Fiend
+Demi-Fiend bloquea el ataque de Aniel
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Aniel HP:567/567 MP:245/255
+C-Israfel HP:258/258 MP:251/251
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Mastema HP:399/399 MP:387/387
+C-Raphael HP:623/623 MP:279/279
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Israfel
+3-Aniel
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hama MP:6
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Mastema HP:399/399 MP:387/387
+3-Raphael HP:623/623 MP:279/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto ataca con luz a Mastema
+Mastema bloquea el ataque de Makoto
+Mastema termina con HP:399/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:341/347
+B-Aniel HP:567/567 MP:245/255
+C-Israfel HP:258/258 MP:251/251
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Mastema HP:399/399 MP:387/387
+C-Raphael HP:623/623 MP:279/279
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Raphael
+3-Mastema
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Makoto HP:597/597 MP:341/347
+2-Aniel HP:567/567 MP:245/255
+3-Israfel HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Makoto
+Makoto es resistente el ataque de Demi-Fiend
+Makoto recibe 84 de daño
+Makoto termina con HP:513/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:513/597 MP:341/347
+B-Aniel HP:567/567 MP:245/255
+C-Israfel HP:258/258 MP:251/251
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Mastema HP:399/399 MP:387/387
+C-Raphael HP:623/623 MP:279/279
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Mastema
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:513/597 MP:341/347
+2-Aniel HP:567/567 MP:245/255
+3-Israfel HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Makoto
+Makoto es resistente el ataque de Raphael
+Makoto recibe 26 de daño
+Makoto termina con HP:487/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:487/597 MP:341/347
+B-Aniel HP:567/567 MP:245/255
+C-Israfel HP:258/258 MP:251/251
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Mastema HP:399/399 MP:387/387
+C-Raphael HP:623/623 MP:279/279
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mastema
+2-Demi-Fiend
+3-Raphael
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mastema
+1-Makoto HP:487/597 MP:341/347
+2-Aniel HP:567/567 MP:245/255
+3-Israfel HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mastema ataca a Makoto
+Makoto es resistente el ataque de Mastema
+Makoto recibe 21 de daño
+Makoto termina con HP:466/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:466/597 MP:341/347
+B-Aniel HP:567/567 MP:245/255
+C-Israfel HP:258/258 MP:251/251
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Mastema HP:399/399 MP:387/387
+C-Raphael HP:623/623 MP:279/279
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Makoto
+3-Israfel
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Mastema HP:399/399 MP:387/387
+3-Raphael HP:623/623 MP:279/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Aniel ataca a Mastema
+Mastema recibe 47 de daño
+Mastema termina con HP:352/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:466/597 MP:341/347
+B-Aniel HP:567/567 MP:245/255
+C-Israfel HP:258/258 MP:251/251
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Mastema HP:352/399 MP:387/387
+C-Raphael HP:623/623 MP:279/279
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Israfel
+3-Aniel
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Mastema HP:352/399 MP:387/387
+3-Raphael HP:623/623 MP:279/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto ataca a Mastema
+Mastema recibe 38 de daño
+Mastema termina con HP:314/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:466/597 MP:341/347
+B-Aniel HP:567/567 MP:245/255
+C-Israfel HP:258/258 MP:251/251
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Mastema HP:314/399 MP:387/387
+C-Raphael HP:623/623 MP:279/279
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Aniel
+3-Makoto
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Israfel use
+1-Mabufula MP:20
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Mastema HP:314/399 MP:387/387
+3-Raphael HP:623/623 MP:279/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Israfel ataca con luz a Raphael
+Raphael bloquea el ataque de Israfel
+Raphael termina con HP:623/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:466/597 MP:341/347
+B-Aniel HP:567/567 MP:245/255
+C-Israfel HP:258/258 MP:241/251
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Mastema HP:314/399 MP:387/387
+C-Raphael HP:623/623 MP:279/279
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Raphael
+3-Mastema
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Demi-Fiend (J2) se rinde
+----------------------------------------
+Ganador: Makoto (J1)

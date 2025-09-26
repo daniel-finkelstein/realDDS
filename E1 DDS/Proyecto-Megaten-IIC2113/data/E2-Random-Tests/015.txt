@@ -1,0 +1,6401 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+INPUT: 14
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Manticore HP:385/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1136/1136 MP:413/413
+2-Manticore HP:385/385 MP:172/172
+3-Sandman HP:113/113 MP:108/108
+4-Karasu Tengu HP:238/238 MP:107/107
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Itsuki
+Itsuki recibe 57 de daño
+Itsuki termina con HP:1079/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:385/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Manticore
+3-Karasu Tengu
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:597/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 30 de daño
+Makoto termina con HP:567/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:567/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:385/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Karasu Tengu
+3-Sandman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Makoto HP:567/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Makoto HP:567/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:399/399 MP:179/179
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:567/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Mushussu HP:399/399 MP:179/179
+C-Sandman HP:113/113 MP:108/108
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Sandman
+3-Itsuki
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:567/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Mushussu HP:399/399 MP:179/179
+C-Sandman HP:113/113 MP:108/108
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sandman
+2-Itsuki
+3-Mushussu
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sandman
+1-Makoto HP:567/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sandman
+1-Makoto HP:567/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sandman ataca a Makoto
+Makoto es resistente el ataque de Sandman
+Makoto recibe 5 de daño
+Makoto termina con HP:562/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:562/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Mushussu HP:399/399 MP:179/179
+C-Sandman HP:113/113 MP:108/108
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Karasu Tengu
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:562/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Mushussu HP:399/399 MP:179/179
+C-Sandman HP:113/113 MP:108/108
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Karasu Tengu
+3-Sandman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:562/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:562/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Makoto
+Makoto es resistente el ataque de Mushussu
+Makoto recibe 53 de daño
+Makoto termina con HP:509/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:509/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Mushussu HP:399/399 MP:164/179
+C-Sandman HP:113/113 MP:108/108
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1079/1136 MP:413/413
+2-Mushussu HP:399/399 MP:164/179
+3-Sandman HP:113/113 MP:108/108
+4-Karasu Tengu HP:238/238 MP:107/107
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto ataca a Mushussu
+Mushussu recibe 38 de daño
+Mushussu termina con HP:361/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:509/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Mushussu HP:361/399 MP:164/179
+C-Sandman HP:113/113 MP:108/108
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Karasu Tengu
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Iron Judgement MP:8
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:509/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 22 de daño
+Makoto termina con HP:487/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:487/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Mushussu HP:361/399 MP:164/179
+C-Sandman HP:113/113 MP:108/108
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Karasu Tengu
+3-Sandman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Manticore HP:385/385 MP:172/172
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:487/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:385/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Sandman
+3-Itsuki
+4-Manticore
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Makoto HP:487/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Makoto HP:487/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ataca a Makoto
+Makoto es resistente el ataque de Karasu Tengu
+Makoto recibe 9 de daño
+Makoto termina con HP:478/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:478/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:385/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sandman
+2-Itsuki
+3-Manticore
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sandman use
+1-Dream Needle MP:9
+2-Zan MP:5
+3-Patra MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sandman
+1-Makoto HP:478/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sandman use
+1-Dream Needle MP:9
+2-Zan MP:5
+3-Patra MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Sandman
+1-Makoto HP:478/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sandman
+1-Makoto HP:478/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:478/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:385/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Manticore
+3-Karasu Tengu
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:361/399 MP:164/179
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Manticore HP:385/385 MP:172/172 (Puesto 2)
+2-Sandman HP:113/113 MP:108/108 (Puesto 3)
+3-Karasu Tengu HP:238/238 MP:107/107 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:478/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:385/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Mushussu HP:361/399 MP:164/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Mushussu
+3-Sandman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:478/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:385/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Mushussu HP:361/399 MP:164/179
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Sandman
+3-Itsuki
+4-Manticore
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:478/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu lanza electricidad a Makoto
+Makoto es resistente el ataque de Mushussu
+Makoto recibe 50 de daño
+Makoto termina con HP:428/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:428/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:385/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Mushussu HP:361/399 MP:150/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:428/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:385/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Mushussu HP:361/399 MP:150/179
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Recarm MP:20
+2-Diarama MP:9
+3-Lunge MP:6
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:428/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto cura a Makoto
+Makoto recibe 298 de HP
+Makoto termina con HP:597/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:385/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Mushussu HP:361/399 MP:150/179
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:385/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Mushussu HP:361/399 MP:150/179
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Sandman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:385/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Mushussu HP:361/399 MP:150/179
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Sandman
+3-Itsuki
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Makoto HP:597/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Makoto HP:597/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:385/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Mushussu HP:361/399 MP:150/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sandman
+2-Itsuki
+3-Mushussu
+4-Manticore
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sandman
+1-Makoto HP:597/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sandman ataca a Makoto
+Makoto es resistente el ataque de Sandman
+Makoto recibe 5 de daño
+Makoto termina con HP:592/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:592/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:385/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Mushussu HP:361/399 MP:150/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:592/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:592/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Iron Judgement MP:8
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:592/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 30 de daño
+Makoto termina con HP:562/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:562/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:385/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Mushussu HP:361/399 MP:150/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Sandman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:562/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:562/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu lanza electricidad a Makoto
+Makoto es resistente el ataque de Mushussu
+Makoto recibe 50 de daño
+Makoto termina con HP:512/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:512/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:385/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Mushussu HP:361/399 MP:136/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Recarm MP:20
+2-Diarama MP:9
+3-Lunge MP:6
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1079/1136 MP:413/413
+2-Manticore HP:385/385 MP:172/172
+3-Sandman HP:113/113 MP:108/108
+4-Mushussu HP:361/399 MP:136/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto dispara a Manticore
+Manticore recibe 57 de daño
+Manticore termina con HP:328/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:512/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Mushussu HP:361/399 MP:136/179
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:512/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 30 de daño
+Makoto termina con HP:482/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:482/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Mushussu HP:361/399 MP:136/179
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Sandman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:482/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Makoto
+Makoto es resistente el ataque de Mushussu
+Makoto recibe 16 de daño
+Makoto termina con HP:466/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:466/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Mushussu HP:361/399 MP:136/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Sandman
+3-Itsuki
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:466/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Mushussu HP:361/399 MP:136/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sandman
+2-Itsuki
+3-Mushussu
+4-Manticore
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sandman
+1-Makoto HP:466/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:466/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Mushussu HP:361/399 MP:136/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Iron Judgement MP:8
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:466/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Iron Judgement MP:8
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:466/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Iron Judgement MP:8
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:466/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:238/238 MP:107/107
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:466/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:466/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 22 de daño
+Makoto termina con HP:444/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:444/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:113/113 MP:108/108
+D-Mushussu HP:361/399 MP:136/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1079/1136 MP:413/413
+2-Manticore HP:328/385 MP:172/172
+3-Sandman HP:113/113 MP:108/108
+4-Mushussu HP:361/399 MP:136/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto ataca a Sandman
+Sandman recibe 38 de daño
+Sandman termina con HP:75/113
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:444/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:75/113 MP:108/108
+D-Mushussu HP:361/399 MP:136/179
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:444/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 22 de daño
+Makoto termina con HP:422/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:422/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:75/113 MP:108/108
+D-Mushussu HP:361/399 MP:136/179
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Sandman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:422/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Makoto
+Makoto es resistente el ataque de Mushussu
+Makoto recibe 16 de daño
+Makoto termina con HP:406/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:406/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:75/113 MP:108/108
+D-Mushussu HP:361/399 MP:136/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Sandman
+3-Itsuki
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:238/238 MP:107/107
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Makoto HP:406/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Makoto HP:406/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Makoto
+Makoto es resistente el ataque de Manticore
+Makoto recibe 15 de daño
+Makoto termina con HP:391/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:391/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:75/113 MP:108/108
+D-Mushussu HP:361/399 MP:136/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sandman
+2-Itsuki
+3-Mushussu
+4-Manticore
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:391/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:75/113 MP:108/108
+D-Mushussu HP:361/399 MP:136/179
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:238/238 MP:107/107
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:391/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:75/113 MP:108/108
+D-Mushussu HP:361/399 MP:136/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1079/1136 MP:413/413
+2-Manticore HP:328/385 MP:172/172
+3-Sandman HP:75/113 MP:108/108
+4-Mushussu HP:361/399 MP:136/179
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Recarm MP:20
+2-Diarama MP:9
+3-Lunge MP:6
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:391/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1079/1136 MP:413/413
+2-Manticore HP:328/385 MP:172/172
+3-Sandman HP:75/113 MP:108/108
+4-Mushussu HP:361/399 MP:136/179
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Makoto dispara a Mushussu
+Mushussu recibe 57 de daño
+Mushussu termina con HP:304/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:391/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:75/113 MP:108/108
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:391/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:391/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 30 de daño
+Makoto termina con HP:361/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:361/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:75/113 MP:108/108
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Sandman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:361/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:75/113 MP:108/108
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Sandman
+3-Itsuki
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:361/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:75/113 MP:108/108
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sandman
+2-Itsuki
+3-Mushussu
+4-Manticore
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sandman
+1-Makoto HP:361/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sandman ataca a Makoto
+Makoto es resistente el ataque de Sandman
+Makoto recibe 5 de daño
+Makoto termina con HP:356/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:356/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:75/113 MP:108/108
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:356/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 30 de daño
+Makoto termina con HP:326/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:326/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1079/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:75/113 MP:108/108
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1079/1136 MP:413/413
+2-Manticore HP:328/385 MP:172/172
+3-Sandman HP:75/113 MP:108/108
+4-Mushussu HP:304/399 MP:136/179
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Itsuki
+Itsuki recibe 38 de daño
+Itsuki termina con HP:1041/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:326/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:75/113 MP:108/108
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:326/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 30 de daño
+Makoto termina con HP:296/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:296/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:75/113 MP:108/108
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Sandman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:296/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:238/238 MP:107/107
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:296/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:75/113 MP:108/108
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Sandman
+3-Itsuki
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:296/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:75/113 MP:108/108
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sandman
+2-Itsuki
+3-Mushussu
+4-Manticore
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sandman use
+1-Dream Needle MP:9
+2-Zan MP:5
+3-Patra MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Sandman
+1-Makoto HP:296/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sandman lanza viento a Makoto
+Makoto es resistente el ataque de Sandman
+Makoto recibe 22 de daño
+Makoto termina con HP:274/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:274/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:75/113 MP:103/108
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:274/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:274/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 22 de daño
+Makoto termina con HP:252/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:252/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:75/113 MP:103/108
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1041/1136 MP:413/413
+2-Manticore HP:328/385 MP:172/172
+3-Sandman HP:75/113 MP:103/108
+4-Mushussu HP:304/399 MP:136/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto ataca a Sandman
+Sandman recibe 38 de daño
+Sandman termina con HP:37/113
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:252/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:37/113 MP:103/108
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:252/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:37/113 MP:103/108
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Sandman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:252/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:37/113 MP:103/108
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Sandman
+3-Itsuki
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Makoto HP:252/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Makoto HP:252/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Makoto
+Makoto es resistente el ataque de Manticore
+Makoto recibe 15 de daño
+Makoto termina con HP:237/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:237/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:37/113 MP:103/108
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sandman
+2-Itsuki
+3-Mushussu
+4-Manticore
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:238/238 MP:107/107
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:237/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:37/113 MP:103/108
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:238/238 MP:107/107
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Manticore HP:328/385 MP:172/172 (Puesto 2)
+2-Sandman HP:37/113 MP:103/108 (Puesto 3)
+3-Mushussu HP:304/399 MP:136/179 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Karasu Tengu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:237/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:37/113 MP:103/108
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Manticore
+3-Sandman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:237/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:37/113 MP:103/108
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Sandman
+3-Itsuki
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:304/399 MP:136/179
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Makoto HP:237/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:237/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:37/113 MP:103/108
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Recarm MP:20
+2-Diarama MP:9
+3-Lunge MP:6
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:237/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:37/113 MP:103/108
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1041/1136 MP:413/413
+2-Manticore HP:328/385 MP:172/172
+3-Sandman HP:37/113 MP:103/108
+4-Karasu Tengu HP:238/238 MP:107/107
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Makoto dispara a Karasu Tengu
+Karasu Tengu recibe 57 de daño
+Karasu Tengu termina con HP:181/238
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:237/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:37/113 MP:103/108
+D-Karasu Tengu HP:181/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Manticore
+3-Karasu Tengu
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Iron Judgement MP:8
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:237/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 47 de daño
+Makoto termina con HP:190/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:190/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Manticore HP:328/385 MP:172/172
+C-Sandman HP:37/113 MP:103/108
+D-Karasu Tengu HP:181/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Karasu Tengu
+3-Sandman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Makoto HP:190/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:304/399 MP:136/179
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:190/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Mushussu HP:304/399 MP:136/179
+C-Sandman HP:37/113 MP:103/108
+D-Karasu Tengu HP:181/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Sandman
+3-Itsuki
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Manticore HP:328/385 MP:172/172
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:190/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Mushussu HP:304/399 MP:136/179
+C-Sandman HP:37/113 MP:103/108
+D-Manticore HP:328/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sandman
+2-Itsuki
+3-Mushussu
+4-Manticore
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sandman use
+1-Dream Needle MP:9
+2-Zan MP:5
+3-Patra MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sandman
+1-Makoto HP:190/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sandman ataca a Makoto
+Makoto es resistente el ataque de Sandman
+Makoto recibe 5 de daño
+Makoto termina con HP:185/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:185/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Mushussu HP:304/399 MP:136/179
+C-Sandman HP:37/113 MP:103/108
+D-Manticore HP:328/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:185/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Mushussu HP:304/399 MP:136/179
+C-Sandman HP:37/113 MP:103/108
+D-Manticore HP:328/385 MP:172/172
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Sandman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:185/597 MP:338/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Mushussu HP:304/399 MP:136/179
+C-Sandman HP:37/113 MP:103/108
+D-Manticore HP:328/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Recarm MP:20
+2-Diarama MP:9
+3-Lunge MP:6
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:185/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto cura a Makoto
+Makoto recibe 298 de HP
+Makoto termina con HP:483/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:483/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Mushussu HP:304/399 MP:136/179
+C-Sandman HP:37/113 MP:103/108
+D-Manticore HP:328/385 MP:172/172
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:483/597 MP:329/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 22 de daño
+Makoto termina con HP:461/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:461/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Mushussu HP:304/399 MP:136/179
+C-Sandman HP:37/113 MP:103/108
+D-Manticore HP:328/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Sandman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:461/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Mushussu HP:304/399 MP:136/179
+C-Sandman HP:37/113 MP:103/108
+D-Manticore HP:328/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Sandman
+3-Itsuki
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Makoto HP:461/597 MP:329/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ataca a Makoto
+Makoto es resistente el ataque de Manticore
+Makoto recibe 15 de daño
+Makoto termina con HP:446/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:446/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Mushussu HP:304/399 MP:136/179
+C-Sandman HP:37/113 MP:103/108
+D-Manticore HP:328/385 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sandman
+2-Itsuki
+3-Mushussu
+4-Manticore
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sandman use
+1-Dream Needle MP:9
+2-Zan MP:5
+3-Patra MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:181/238 MP:107/107
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:446/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Mushussu HP:304/399 MP:136/179
+C-Karasu Tengu HP:181/238 MP:107/107
+D-Manticore HP:328/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Iron Judgement MP:8
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:446/597 MP:329/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 30 de daño
+Makoto termina con HP:416/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:416/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Mushussu HP:304/399 MP:136/179
+C-Karasu Tengu HP:181/238 MP:107/107
+D-Manticore HP:328/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Karasu Tengu
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:416/597 MP:329/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:416/597 MP:329/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sandman HP:37/113 MP:103/108
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sandman ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:416/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Sandman HP:37/113 MP:103/108
+C-Karasu Tengu HP:181/238 MP:107/107
+D-Manticore HP:328/385 MP:172/172
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Karasu Tengu
+3-Itsuki
+4-Sandman
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Makoto HP:416/597 MP:329/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:416/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Sandman HP:37/113 MP:103/108
+C-Karasu Tengu HP:181/238 MP:107/107
+D-Manticore HP:328/385 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1041/1136 MP:405/413
+2-Sandman HP:37/113 MP:103/108
+3-Karasu Tengu HP:181/238 MP:107/107
+4-Manticore HP:328/385 MP:172/172
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Makoto ataca a Manticore
+Manticore recibe 38 de daño
+Manticore termina con HP:290/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:416/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Sandman HP:37/113 MP:103/108
+C-Karasu Tengu HP:181/238 MP:107/107
+D-Manticore HP:290/385 MP:172/172
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Manticore
+3-Karasu Tengu
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:416/597 MP:329/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:416/597 MP:329/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 30 de daño
+Makoto termina con HP:386/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:386/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Sandman HP:37/113 MP:103/108
+C-Karasu Tengu HP:181/238 MP:107/107
+D-Manticore HP:290/385 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Karasu Tengu
+3-Sandman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:304/399 MP:136/179
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:386/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Sandman HP:37/113 MP:103/108
+C-Karasu Tengu HP:181/238 MP:107/107
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Sandman
+3-Itsuki
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Manticore HP:290/385 MP:172/172
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:386/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Sandman HP:37/113 MP:103/108
+C-Manticore HP:290/385 MP:172/172
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sandman
+2-Itsuki
+3-Mushussu
+4-Manticore
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sandman
+1-Makoto HP:386/597 MP:329/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:386/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Sandman HP:37/113 MP:103/108
+C-Manticore HP:290/385 MP:172/172
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Sandman
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Iron Judgement MP:8
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:181/238 MP:107/107
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:386/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Sandman HP:37/113 MP:103/108
+C-Manticore HP:290/385 MP:172/172
+D-Mushussu HP:304/399 MP:136/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Sandman
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:181/238 MP:107/107
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:386/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Sandman HP:37/113 MP:103/108
+C-Manticore HP:290/385 MP:172/172
+D-Karasu Tengu HP:181/238 MP:107/107
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Sandman
+3-Itsuki
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:386/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-Sandman HP:37/113 MP:103/108
+C-Manticore HP:290/385 MP:172/172
+D-Karasu Tengu HP:181/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1041/1136 MP:405/413
+2-Sandman HP:37/113 MP:103/108
+3-Manticore HP:290/385 MP:172/172
+4-Karasu Tengu HP:181/238 MP:107/107
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto dispara a Sandman
+Sandman recibe 57 de daño
+Sandman termina con HP:0/113
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:386/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-
+C-Manticore HP:290/385 MP:172/172
+D-Karasu Tengu HP:181/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Manticore
+3-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:386/597 MP:329/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 30 de daño
+Makoto termina con HP:356/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:356/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-
+C-Manticore HP:290/385 MP:172/172
+D-Karasu Tengu HP:181/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Karasu Tengu
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:356/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-
+C-Manticore HP:290/385 MP:172/172
+D-Karasu Tengu HP:181/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Itsuki
+3-Manticore
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Karasu Tengu use
+1-Gram Slice MP:5
+2-Rapid Needle MP:9
+3-Mahama MP:18
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Makoto HP:356/597 MP:329/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Makoto HP:356/597 MP:329/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ataca a Makoto
+Makoto es resistente el ataque de Karasu Tengu
+Makoto recibe 9 de daño
+Makoto termina con HP:347/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:347/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-
+C-Manticore HP:290/385 MP:172/172
+D-Karasu Tengu HP:181/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Manticore
+3-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:304/399 MP:136/179
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Manticore HP:290/385 MP:172/172 (Puesto 3)
+3-Karasu Tengu HP:181/238 MP:107/107 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:347/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-
+C-Mushussu HP:304/399 MP:136/179
+D-Karasu Tengu HP:181/238 MP:107/107
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Karasu Tengu
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:347/597 MP:329/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:347/597 MP:329/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu lanza electricidad a Makoto
+Makoto es resistente el ataque de Mushussu
+Makoto recibe 50 de daño
+Makoto termina con HP:297/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:297/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-
+C-Mushussu HP:304/399 MP:122/179
+D-Karasu Tengu HP:181/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1041/1136 MP:405/413
+2-Mushussu HP:304/399 MP:122/179
+3-Karasu Tengu HP:181/238 MP:107/107
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto dispara a Karasu Tengu
+Karasu Tengu recibe 57 de daño
+Karasu Tengu termina con HP:124/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:297/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-
+C-Mushussu HP:304/399 MP:122/179
+D-Karasu Tengu HP:124/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:297/597 MP:329/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 22 de daño
+Makoto termina con HP:275/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:275/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-
+C-Mushussu HP:304/399 MP:122/179
+D-Karasu Tengu HP:124/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Karasu Tengu
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Manticore HP:290/385 MP:172/172
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Manticore HP:290/385 MP:172/172
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:275/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-
+C-Manticore HP:290/385 MP:172/172
+D-Karasu Tengu HP:124/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Itsuki
+3-Manticore
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:304/399 MP:122/179
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:275/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-
+C-Manticore HP:290/385 MP:172/172
+D-Mushussu HP:304/399 MP:122/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Manticore
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:275/597 MP:329/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:275/597 MP:329/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:275/597 MP:329/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 30 de daño
+Makoto termina con HP:245/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:245/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:405/413
+B-
+C-Manticore HP:290/385 MP:172/172
+D-Mushussu HP:304/399 MP:122/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Recarm MP:20
+2-Diarama MP:9
+3-Lunge MP:6
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1041/1136 MP:405/413
+2-Manticore HP:290/385 MP:172/172
+3-Mushussu HP:304/399 MP:122/179
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Itsuki
+Itsuki recibe 38 de daño
+Itsuki termina con HP:1003/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:245/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1003/1136 MP:405/413
+B-
+C-Manticore HP:290/385 MP:172/172
+D-Mushussu HP:304/399 MP:122/179
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:245/597 MP:329/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:245/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1003/1136 MP:405/413
+B-
+C-Manticore HP:290/385 MP:172/172
+D-Mushussu HP:304/399 MP:122/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:245/597 MP:329/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:245/597 MP:329/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:245/597 MP:329/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:124/238 MP:107/107
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:245/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1003/1136 MP:405/413
+B-
+C-Manticore HP:290/385 MP:172/172
+D-Karasu Tengu HP:124/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Itsuki
+3-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:245/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1003/1136 MP:405/413
+B-
+C-Manticore HP:290/385 MP:172/172
+D-Karasu Tengu HP:124/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Karasu Tengu
+3-Manticore
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:245/597 MP:329/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 22 de daño
+Makoto termina con HP:223/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:223/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1003/1136 MP:405/413
+B-
+C-Manticore HP:290/385 MP:172/172
+D-Karasu Tengu HP:124/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Manticore
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:223/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1003/1136 MP:405/413
+B-
+C-Manticore HP:290/385 MP:172/172
+D-Karasu Tengu HP:124/238 MP:107/107
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Itsuki
+3-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:223/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1003/1136 MP:405/413
+B-
+C-Manticore HP:290/385 MP:172/172
+D-Karasu Tengu HP:124/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1003/1136 MP:405/413
+2-Manticore HP:290/385 MP:172/172
+3-Karasu Tengu HP:124/238 MP:107/107
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto ataca a Karasu Tengu
+Karasu Tengu recibe 38 de daño
+Karasu Tengu termina con HP:86/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:223/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1003/1136 MP:405/413
+B-
+C-Manticore HP:290/385 MP:172/172
+D-Karasu Tengu HP:86/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Manticore
+3-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:223/597 MP:329/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 30 de daño
+Makoto termina con HP:193/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:193/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1003/1136 MP:405/413
+B-
+C-Manticore HP:290/385 MP:172/172
+D-Karasu Tengu HP:86/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Karasu Tengu
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:304/399 MP:122/179
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:304/399 MP:122/179
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:193/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1003/1136 MP:405/413
+B-
+C-Mushussu HP:304/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Itsuki
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Karasu Tengu use
+1-Gram Slice MP:5
+2-Rapid Needle MP:9
+3-Mahama MP:18
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Makoto HP:193/597 MP:329/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ataca a Makoto
+Makoto es resistente el ataque de Karasu Tengu
+Makoto recibe 27 de daño
+Makoto termina con HP:166/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:166/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1003/1136 MP:405/413
+B-
+C-Mushussu HP:304/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:166/597 MP:329/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Iron Judgement MP:8
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Manticore HP:290/385 MP:172/172
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Mushussu HP:304/399 MP:122/179 (Puesto 3)
+3-Karasu Tengu HP:86/238 MP:102/107 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:166/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1003/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:304/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Karasu Tengu
+3-Manticore
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:166/597 MP:329/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Makoto
+Makoto es resistente el ataque de Mushussu
+Makoto recibe 16 de daño
+Makoto termina con HP:150/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:150/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1003/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:304/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1003/1136 MP:405/413
+2-Manticore HP:290/385 MP:172/172
+3-Mushussu HP:304/399 MP:122/179
+4-Karasu Tengu HP:86/238 MP:102/107
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Itsuki
+Itsuki recibe 57 de daño
+Itsuki termina con HP:946/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:150/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:304/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:150/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:304/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Karasu Tengu
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:150/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:304/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Karasu Tengu
+3-Itsuki
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:150/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:304/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Itsuki
+3-Mushussu
+4-Manticore
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:150/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:304/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:150/597 MP:329/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 22 de daño
+Makoto termina con HP:128/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:128/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:304/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Karasu Tengu
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:128/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:304/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Karasu Tengu
+3-Itsuki
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:128/597 MP:329/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:304/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Recarm MP:20
+2-Diarama MP:9
+3-Lunge MP:6
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:946/1136 MP:405/413
+2-Manticore HP:290/385 MP:172/172
+3-Mushussu HP:304/399 MP:122/179
+4-Karasu Tengu HP:86/238 MP:102/107
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto ataca a Mushussu
+Mushussu recibe 75 de daño
+Mushussu termina con HP:229/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:128/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:229/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:128/597 MP:323/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:128/597 MP:323/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 22 de daño
+Makoto termina con HP:106/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:106/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:229/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Karasu Tengu
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:106/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:229/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Karasu Tengu
+3-Itsuki
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:106/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:229/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Itsuki
+3-Mushussu
+4-Manticore
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:106/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:229/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:106/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:229/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Karasu Tengu
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:106/597 MP:323/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Makoto
+Makoto es resistente el ataque de Mushussu
+Makoto recibe 16 de daño
+Makoto termina con HP:90/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:90/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:229/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:90/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:229/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:946/1136 MP:405/413
+2-Manticore HP:290/385 MP:172/172
+3-Mushussu HP:229/399 MP:122/179
+4-Karasu Tengu HP:86/238 MP:102/107
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:946/1136 MP:405/413
+2-Manticore HP:290/385 MP:172/172
+3-Mushussu HP:229/399 MP:122/179
+4-Karasu Tengu HP:86/238 MP:102/107
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Itsuki
+Itsuki recibe 38 de daño
+Itsuki termina con HP:908/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:90/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:908/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:229/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:90/597 MP:323/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 30 de daño
+Makoto termina con HP:60/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:60/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:908/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:229/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Karasu Tengu
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:60/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:908/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:229/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Karasu Tengu
+3-Itsuki
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:60/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:908/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:229/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:102/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Itsuki
+3-Mushussu
+4-Manticore
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Karasu Tengu use
+1-Gram Slice MP:5
+2-Rapid Needle MP:9
+3-Mahama MP:18
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Makoto HP:60/597 MP:323/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ataca a Makoto
+Makoto es resistente el ataque de Karasu Tengu
+Makoto recibe 27 de daño
+Makoto termina con HP:33/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:33/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:908/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:229/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:97/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:33/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:908/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:229/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:97/107
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Karasu Tengu
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:33/597 MP:323/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:33/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:908/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:229/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:97/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:908/1136 MP:405/413
+2-Manticore HP:290/385 MP:172/172
+3-Mushussu HP:229/399 MP:122/179
+4-Karasu Tengu HP:86/238 MP:97/107
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto dispara a Mushussu
+Mushussu recibe 57 de daño
+Mushussu termina con HP:172/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:33/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:908/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:172/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:97/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:33/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:908/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:172/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:97/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Karasu Tengu
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:33/597 MP:323/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:33/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:908/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:172/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:97/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Karasu Tengu
+3-Itsuki
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Makoto HP:33/597 MP:323/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Makoto HP:33/597 MP:323/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:33/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:908/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:172/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:97/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Itsuki
+3-Mushussu
+4-Manticore
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:33/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:908/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:172/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:97/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Mushussu
+3-Manticore
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Iron Judgement MP:8
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:33/597 MP:323/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 30 de daño
+Makoto termina con HP:3/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:3/597 MP:323/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:908/1136 MP:405/413
+B-Manticore HP:290/385 MP:172/172
+C-Mushussu HP:172/399 MP:122/179
+D-Karasu Tengu HP:86/238 MP:97/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Manticore
+3-Karasu Tengu
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Makoto HP:3/597 MP:323/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Makoto
+Makoto es resistente el ataque de Mushussu
+Makoto recibe 16 de daño
+Makoto termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Itsuki (J2)

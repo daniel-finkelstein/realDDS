@@ -1,0 +1,355 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 48
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Manticore HP:385/385 MP:172/172
+C-Vetala HP:794/794 MP:157/157
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-Girimekhala HP:653/653 MP:130/130
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Vetala
+3-Manticore
+4-Gurulu
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bouncing Claw MP:4
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Itsuki HP:1136/1136 MP:413/413
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Girimekhala HP:653/653 MP:130/130
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Itsuki
+Itsuki recibe 147 de daño
+Itsuki termina con HP:989/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:830/834
+B-Manticore HP:385/385 MP:172/172
+C-Vetala HP:794/794 MP:157/157
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Itsuki (J2)
+A-Itsuki HP:989/1136 MP:413/413
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-Girimekhala HP:653/653 MP:130/130
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Manticore
+3-Gurulu
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vetala use
+1-Nihil Claw MP:11
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:989/1136 MP:413/413
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Girimekhala HP:653/653 MP:130/130
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Vetala ataca a Quetzalcoatl
+Quetzalcoatl devuelve 151 daño a Vetala
+Vetala ataca a Quetzalcoatl
+Quetzalcoatl devuelve 151 daño a Vetala
+Vetala termina con HP:492/794
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:830/834
+B-Manticore HP:385/385 MP:172/172
+C-Vetala HP:492/794 MP:146/157
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Itsuki (J2)
+A-Itsuki HP:989/1136 MP:413/413
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-Girimekhala HP:653/653 MP:130/130
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Itsuki
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Demi-Fiend HP:1227/1227 MP:830/834
+2-Manticore HP:385/385 MP:172/172
+3-Vetala HP:492/794 MP:146/157
+4-Gurulu HP:371/371 MP:166/166
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Quetzalcoatl
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:830/834
+B-Manticore HP:385/385 MP:172/172
+C-Vetala HP:492/794 MP:146/157
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Itsuki (J2)
+A-Itsuki HP:989/1136 MP:413/413
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-Girimekhala HP:653/653 MP:130/130
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Girimekhala
+3-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Demi-Fiend HP:1227/1227 MP:830/834
+2-Manticore HP:385/385 MP:172/172
+3-Vetala HP:492/794 MP:146/157
+4-Gurulu HP:371/371 MP:166/166
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Itsuki
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:830/834
+B-Manticore HP:385/385 MP:172/172
+C-Vetala HP:492/794 MP:146/157
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Itsuki (J2)
+A-Itsuki HP:989/1136 MP:413/413
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-Girimekhala HP:653/653 MP:130/130
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Vetala
+3-Manticore
+4-Gurulu
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bouncing Claw MP:4
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Itsuki HP:989/1136 MP:413/413
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Girimekhala HP:653/653 MP:130/130
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend ataca a Girimekhala
+Girimekhala devuelve 147 daño a Demi-Fiend
+Demi-Fiend ataca a Girimekhala
+Girimekhala devuelve 147 daño a Demi-Fiend
+Demi-Fiend ataca a Girimekhala
+Girimekhala devuelve 147 daño a Demi-Fiend
+Demi-Fiend termina con HP:786/1227
+----------------------------------------
+Se han consumido 4 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:786/1227 MP:826/834
+B-Manticore HP:385/385 MP:172/172
+C-Vetala HP:492/794 MP:146/157
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Itsuki (J2)
+A-Itsuki HP:989/1136 MP:413/413
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-Girimekhala HP:653/653 MP:130/130
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Itsuki
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:786/1227 MP:826/834
+B-Manticore HP:385/385 MP:172/172
+C-Vetala HP:492/794 MP:146/157
+D-Gurulu HP:371/371 MP:166/166
+Equipo de Itsuki (J2)
+A-Itsuki HP:989/1136 MP:413/413
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-Girimekhala HP:653/653 MP:130/130
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Girimekhala
+3-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Itsuki (J2) se rinde
+----------------------------------------
+Ganador: Demi-Fiend (J1)

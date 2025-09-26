@@ -1,0 +1,1622 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 13
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Pachacamac HP:287/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Taown HP:709/709 MP:140/140
+C-Knocker HP:126/126 MP:55/55
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Pachacamac
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:453/453 MP:389/389
+2-Taown HP:709/709 MP:140/140
+3-Knocker HP:126/126 MP:55/55
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca a Knocker
+Knocker recibe 28 de daño
+Knocker termina con HP:98/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Pachacamac HP:287/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Taown HP:709/709 MP:140/140
+C-Knocker HP:98/126 MP:55/55
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Joker
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Nahobino HP:453/453 MP:389/389
+2-Taown HP:709/709 MP:140/140
+3-Knocker HP:98/126 MP:55/55
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Nahobino HP:453/453 MP:389/389
+2-Taown HP:709/709 MP:140/140
+3-Knocker HP:98/126 MP:55/55
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pachacamac ataca a Nahobino
+Nahobino recibe 30 de daño
+Nahobino termina con HP:423/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Pachacamac HP:287/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:423/453 MP:389/389
+B-Taown HP:709/709 MP:140/140
+C-Knocker HP:98/126 MP:55/55
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Nahobino
+3-Knocker
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:597/597 MP:347/347
+2-Pachacamac HP:287/287 MP:278/278
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:597/597 MP:347/347
+2-Pachacamac HP:287/287 MP:278/278
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:543/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:543/597 MP:347/347
+B-Pachacamac HP:287/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:423/453 MP:389/389
+B-Taown HP:709/709 MP:140/140
+C-Knocker HP:98/126 MP:55/55
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Knocker
+3-Taown
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:543/597 MP:347/347
+2-Pachacamac HP:287/287 MP:278/278
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:543/597 MP:347/347
+2-Pachacamac HP:287/287 MP:278/278
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Joker
+Joker recibe 83 de daño
+Joker termina con HP:460/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:460/597 MP:347/347
+B-Pachacamac HP:287/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:423/453 MP:389/389
+B-Taown HP:709/709 MP:140/140
+C-Knocker HP:98/126 MP:55/55
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Knocker
+2-Taown
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Joker HP:460/597 MP:347/347
+2-Pachacamac HP:287/287 MP:278/278
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Knocker ataca a Pachacamac
+Pachacamac recibe 8 de daño
+Pachacamac termina con HP:279/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:460/597 MP:347/347
+B-Pachacamac HP:279/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:423/453 MP:389/389
+B-Taown HP:709/709 MP:140/140
+C-Knocker HP:98/126 MP:55/55
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Pachacamac
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:423/453 MP:389/389
+2-Taown HP:709/709 MP:140/140
+3-Knocker HP:98/126 MP:55/55
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Knocker
+Knocker recibe 39 de daño
+Knocker termina con HP:59/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:460/597 MP:347/347
+B-Pachacamac HP:279/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:423/453 MP:389/389
+B-Taown HP:709/709 MP:140/140
+C-Knocker HP:59/126 MP:55/55
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Joker
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Nahobino HP:423/453 MP:389/389
+2-Taown HP:709/709 MP:140/140
+3-Knocker HP:59/126 MP:55/55
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Pachacamac ataca a Knocker
+Knocker recibe 30 de daño
+Knocker termina con HP:29/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:460/597 MP:347/347
+B-Pachacamac HP:279/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:423/453 MP:389/389
+B-Taown HP:709/709 MP:140/140
+C-Knocker HP:29/126 MP:55/55
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Nahobino
+3-Knocker
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:460/597 MP:347/347
+2-Pachacamac HP:279/287 MP:278/278
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:460/597 MP:347/347
+2-Pachacamac HP:279/287 MP:278/278
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:460/597 MP:347/347
+2-Pachacamac HP:279/287 MP:278/278
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:460/597 MP:347/347
+2-Pachacamac HP:279/287 MP:278/278
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:460/597 MP:347/347
+2-Pachacamac HP:279/287 MP:278/278
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:460/597 MP:347/347
+2-Pachacamac HP:279/287 MP:278/278
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Taown ataca a Pachacamac
+Pachacamac recibe 54 de daño
+Pachacamac termina con HP:225/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:460/597 MP:347/347
+B-Pachacamac HP:225/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:423/453 MP:389/389
+B-Taown HP:709/709 MP:140/140
+C-Knocker HP:29/126 MP:55/55
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Knocker
+3-Taown
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:460/597 MP:347/347
+2-Pachacamac HP:225/287 MP:278/278
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Joker
+Joker recibe 29 de daño
+Joker termina con HP:431/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:431/597 MP:347/347
+B-Pachacamac HP:225/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:423/453 MP:389/389
+B-Taown HP:709/709 MP:140/140
+C-Knocker HP:29/126 MP:55/55
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Knocker
+2-Taown
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Joker HP:431/597 MP:347/347
+2-Pachacamac HP:225/287 MP:278/278
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Knocker ataca a Pachacamac
+Pachacamac recibe 8 de daño
+Pachacamac termina con HP:217/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:431/597 MP:347/347
+B-Pachacamac HP:217/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:423/453 MP:389/389
+B-Taown HP:709/709 MP:140/140
+C-Knocker HP:29/126 MP:55/55
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Pachacamac
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:423/453 MP:389/389
+2-Taown HP:709/709 MP:140/140
+3-Knocker HP:29/126 MP:55/55
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Taown
+Taown recibe 39 de daño
+Taown termina con HP:670/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:431/597 MP:347/347
+B-Pachacamac HP:217/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:423/453 MP:389/389
+B-Taown HP:670/709 MP:140/140
+C-Knocker HP:29/126 MP:55/55
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Joker
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Nahobino HP:423/453 MP:389/389
+2-Taown HP:670/709 MP:140/140
+3-Knocker HP:29/126 MP:55/55
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Pachacamac ataca a Knocker
+Knocker recibe 30 de daño
+Knocker termina con HP:0/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:431/597 MP:347/347
+B-Pachacamac HP:217/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:423/453 MP:389/389
+B-Taown HP:670/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:431/597 MP:347/347
+2-Pachacamac HP:217/287 MP:278/278
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:377/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:377/597 MP:347/347
+B-Pachacamac HP:217/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:423/453 MP:389/389
+B-Taown HP:670/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Taown
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:377/597 MP:347/347
+2-Pachacamac HP:217/287 MP:278/278
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Pachacamac
+Pachacamac recibe 83 de daño
+Pachacamac termina con HP:134/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:377/597 MP:347/347
+B-Pachacamac HP:134/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:423/453 MP:389/389
+B-Taown HP:670/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Pachacamac
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:423/453 MP:389/389
+2-Taown HP:670/709 MP:140/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Taown
+Taown recibe 28 de daño
+Taown termina con HP:642/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:377/597 MP:347/347
+B-Pachacamac HP:134/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:423/453 MP:389/389
+B-Taown HP:642/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Joker
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Nahobino HP:423/453 MP:389/389
+2-Taown HP:642/709 MP:140/140
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pachacamac ataca a Nahobino
+Nahobino recibe 30 de daño
+Nahobino termina con HP:393/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:377/597 MP:347/347
+B-Pachacamac HP:134/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:393/453 MP:389/389
+B-Taown HP:642/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:377/597 MP:347/347
+2-Pachacamac HP:134/287 MP:278/278
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:323/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:323/597 MP:347/347
+B-Pachacamac HP:134/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:393/453 MP:389/389
+B-Taown HP:642/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Taown
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:323/597 MP:347/347
+2-Pachacamac HP:134/287 MP:278/278
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Joker
+Joker recibe 83 de daño
+Joker termina con HP:240/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:240/597 MP:347/347
+B-Pachacamac HP:134/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:393/453 MP:389/389
+B-Taown HP:642/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Pachacamac
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:393/453 MP:389/389
+2-Taown HP:642/709 MP:140/140
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:393/453 MP:389/389
+2-Taown HP:642/709 MP:140/140
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:393/453 MP:389/389
+2-Taown HP:642/709 MP:140/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Taown
+Taown recibe 39 de daño
+Taown termina con HP:603/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:240/597 MP:347/347
+B-Pachacamac HP:134/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:393/453 MP:389/389
+B-Taown HP:603/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Joker
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Nahobino HP:393/453 MP:389/389
+2-Taown HP:603/709 MP:140/140
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pachacamac ataca a Nahobino
+Nahobino recibe 30 de daño
+Nahobino termina con HP:363/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:240/597 MP:347/347
+B-Pachacamac HP:134/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:363/453 MP:389/389
+B-Taown HP:603/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:240/597 MP:347/347
+2-Pachacamac HP:134/287 MP:278/278
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:240/597 MP:347/347
+2-Pachacamac HP:134/287 MP:278/278
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:186/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:186/597 MP:347/347
+B-Pachacamac HP:134/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:363/453 MP:389/389
+B-Taown HP:603/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Taown
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:186/597 MP:347/347
+2-Pachacamac HP:134/287 MP:278/278
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Joker
+Joker recibe 29 de daño
+Joker termina con HP:157/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:157/597 MP:347/347
+B-Pachacamac HP:134/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:363/453 MP:389/389
+B-Taown HP:603/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Pachacamac
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:363/453 MP:389/389
+2-Taown HP:603/709 MP:140/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Taown
+Taown recibe 28 de daño
+Taown termina con HP:575/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:157/597 MP:347/347
+B-Pachacamac HP:134/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:363/453 MP:389/389
+B-Taown HP:575/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Joker
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Nahobino HP:363/453 MP:389/389
+2-Taown HP:575/709 MP:140/140
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pachacamac ataca a Nahobino
+Nahobino recibe 30 de daño
+Nahobino termina con HP:333/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:157/597 MP:347/347
+B-Pachacamac HP:134/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:333/453 MP:389/389
+B-Taown HP:575/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:157/597 MP:347/347
+2-Pachacamac HP:134/287 MP:278/278
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:157/597 MP:347/347
+2-Pachacamac HP:134/287 MP:278/278
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Taown ataca a Pachacamac
+Pachacamac recibe 54 de daño
+Pachacamac termina con HP:80/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:157/597 MP:347/347
+B-Pachacamac HP:80/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:333/453 MP:389/389
+B-Taown HP:575/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Taown
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:157/597 MP:347/347
+2-Pachacamac HP:80/287 MP:278/278
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca a Pachacamac
+Pachacamac recibe 29 de daño
+Pachacamac termina con HP:51/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:157/597 MP:347/347
+B-Pachacamac HP:51/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:333/453 MP:389/389
+B-Taown HP:575/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Pachacamac
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:333/453 MP:389/389
+2-Taown HP:575/709 MP:140/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Taown
+Taown recibe 39 de daño
+Taown termina con HP:536/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:157/597 MP:347/347
+B-Pachacamac HP:51/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:333/453 MP:389/389
+B-Taown HP:536/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Joker
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Nahobino HP:333/453 MP:389/389
+2-Taown HP:536/709 MP:140/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pachacamac ataca a Taown
+Taown recibe 30 de daño
+Taown termina con HP:506/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:157/597 MP:347/347
+B-Pachacamac HP:51/287 MP:278/278
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:333/453 MP:389/389
+B-Taown HP:506/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:157/597 MP:347/347
+2-Pachacamac HP:51/287 MP:278/278
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Taown ataca a Pachacamac
+Pachacamac recibe 54 de daño
+Pachacamac termina con HP:0/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:157/597 MP:347/347
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:333/453 MP:389/389
+B-Taown HP:506/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Taown
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:157/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Joker
+Joker recibe 29 de daño
+Joker termina con HP:128/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:128/597 MP:347/347
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:333/453 MP:389/389
+B-Taown HP:506/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:333/453 MP:389/389
+2-Taown HP:506/709 MP:140/140
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Nahobino HP:333/453 MP:389/389
+2-Taown HP:506/709 MP:140/140
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Taown
+Taown recibe 39 de daño
+Taown termina con HP:467/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:128/597 MP:347/347
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:333/453 MP:389/389
+B-Taown HP:467/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:128/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:74/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:74/597 MP:347/347
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:333/453 MP:389/389
+B-Taown HP:467/709 MP:140/140
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Taown
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:74/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Joker HP:74/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Joker
+Joker recibe 83 de daño
+Joker termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Nahobino (J2)

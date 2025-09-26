@@ -1,0 +1,458 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+INPUT: 8
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Mou-Ryo HP:238/238 MP:107/107
+C-Dybbuk HP:66/66 MP:63/63
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Matador HP:889/889 MP:176/176
+C-Mother Harlot HP:484/484 MP:469/469
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Tadano
+3-Dybbuk
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mou-Ryo use
+1-Mudo MP:6
+2-Spirit Drain MP:5
+3-Pulinpa MP:5
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Joker HP:597/597 MP:347/347
+2-Matador HP:889/889 MP:176/176
+3-Mother Harlot HP:484/484 MP:469/469
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mou-Ryo ataca con oscuridad a Joker
+Joker bloquea el ataque de Mou-Ryo
+Joker termina con HP:597/597
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Dybbuk HP:66/66 MP:63/63
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Matador HP:889/889 MP:176/176
+C-Mother Harlot HP:484/484 MP:469/469
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Dybbuk
+3-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Mudo MP:6
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Joker HP:597/597 MP:347/347
+2-Matador HP:889/889 MP:176/176
+3-Mother Harlot HP:484/484 MP:469/469
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tadano ataca con oscuridad a Matador
+Matador bloquea el ataque de Tadano
+Matador termina con HP:889/889
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:187/193
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Dybbuk HP:66/66 MP:63/63
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Matador HP:889/889 MP:176/176
+C-Mother Harlot HP:484/484 MP:469/469
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Matador
+2-Mother Harlot
+3-Joker
+----------------------------------------
+Seleccione una acción para Matador
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Matador
+1-Tadano HP:388/388 MP:187/193
+2-Mou-Ryo HP:238/238 MP:101/107
+3-Dybbuk HP:66/66 MP:63/63
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Matador ataca a Tadano
+Tadano es resistente el ataque de Matador
+Tadano recibe 34 de daño
+Tadano termina con HP:354/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:354/388 MP:187/193
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Dybbuk HP:66/66 MP:63/63
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Matador HP:889/889 MP:176/176
+C-Mother Harlot HP:484/484 MP:469/469
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mother Harlot
+2-Joker
+3-Matador
+----------------------------------------
+Seleccione una acción para Mother Harlot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mother Harlot
+1-Tadano HP:354/388 MP:187/193
+2-Mou-Ryo HP:238/238 MP:101/107
+3-Dybbuk HP:66/66 MP:63/63
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mother Harlot ataca a Tadano
+Tadano es resistente el ataque de Mother Harlot
+Tadano recibe 26 de daño
+Tadano termina con HP:328/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:328/388 MP:187/193
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Dybbuk HP:66/66 MP:63/63
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Matador HP:889/889 MP:176/176
+C-Mother Harlot HP:484/484 MP:469/469
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Matador
+3-Mother Harlot
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tadano HP:328/388 MP:187/193
+2-Mou-Ryo HP:238/238 MP:101/107
+3-Dybbuk HP:66/66 MP:63/63
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Tadano
+Tadano es resistente el ataque de Joker
+Tadano recibe 14 de daño
+Tadano termina con HP:314/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:314/388 MP:187/193
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Dybbuk HP:66/66 MP:63/63
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Matador HP:889/889 MP:176/176
+C-Mother Harlot HP:484/484 MP:469/469
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Tadano
+3-Dybbuk
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:314/388 MP:187/193
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Dybbuk HP:66/66 MP:63/63
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Matador HP:889/889 MP:176/176
+C-Mother Harlot HP:484/484 MP:469/469
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Dybbuk
+3-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:314/388 MP:187/193
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Dybbuk HP:66/66 MP:63/63
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Matador HP:889/889 MP:176/176
+C-Mother Harlot HP:484/484 MP:469/469
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Mou-Ryo
+3-Tadano
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Dybbuk use
+1-Mudo MP:6
+2-Patra MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Joker HP:597/597 MP:347/347
+2-Matador HP:889/889 MP:176/176
+3-Mother Harlot HP:484/484 MP:469/469
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Dybbuk ataca con oscuridad a Mother Harlot
+Mother Harlot bloquea el ataque de Dybbuk
+Mother Harlot termina con HP:484/484
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:314/388 MP:187/193
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Dybbuk HP:66/66 MP:57/63
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Matador HP:889/889 MP:176/176
+C-Mother Harlot HP:484/484 MP:469/469
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Matador
+2-Mother Harlot
+3-Joker
+----------------------------------------
+Seleccione una acción para Matador
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Matador
+1-Tadano HP:314/388 MP:187/193
+2-Mou-Ryo HP:238/238 MP:101/107
+3-Dybbuk HP:66/66 MP:57/63
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Matador ataca a Tadano
+Tadano es resistente el ataque de Matador
+Tadano recibe 34 de daño
+Tadano termina con HP:280/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:280/388 MP:187/193
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Dybbuk HP:66/66 MP:57/63
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Matador HP:889/889 MP:176/176
+C-Mother Harlot HP:484/484 MP:469/469
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mother Harlot
+2-Joker
+3-Matador
+----------------------------------------
+Seleccione una acción para Mother Harlot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mother Harlot
+1-Tadano HP:280/388 MP:187/193
+2-Mou-Ryo HP:238/238 MP:101/107
+3-Dybbuk HP:66/66 MP:57/63
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mother Harlot ataca a Tadano
+Tadano es resistente el ataque de Mother Harlot
+Tadano recibe 26 de daño
+Tadano termina con HP:254/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:254/388 MP:187/193
+B-Mou-Ryo HP:238/238 MP:101/107
+C-Dybbuk HP:66/66 MP:57/63
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Matador HP:889/889 MP:176/176
+C-Mother Harlot HP:484/484 MP:469/469
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Matador
+3-Mother Harlot
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Joker (J2) se rinde
+----------------------------------------
+Ganador: Tadano (J1)

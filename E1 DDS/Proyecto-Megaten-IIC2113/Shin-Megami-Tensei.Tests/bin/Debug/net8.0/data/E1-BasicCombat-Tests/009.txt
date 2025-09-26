@@ -1,0 +1,1329 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+INPUT: 8
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Taown HP:709/709 MP:140/140
+C-Hachiman HP:851/851 MP:170/170
+D-Churel HP:197/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:971/971 MP:527/527
+2-Taown HP:709/709 MP:140/140
+3-Hachiman HP:851/851 MP:170/170
+4-Churel HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Churel
+Churel recibe 61 de daño
+Churel termina con HP:136/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Taown HP:709/709 MP:140/140
+C-Hachiman HP:851/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Taown
+4-Churel
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:1136/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:1136/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:1136/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Itsuki
+Itsuki recibe 88 de daño
+Itsuki termina con HP:1048/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1048/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Taown HP:709/709 MP:140/140
+C-Hachiman HP:851/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Taown
+3-Churel
+4-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:1048/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Itsuki
+Itsuki recibe 65 de daño
+Itsuki termina con HP:983/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:983/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Taown HP:709/709 MP:140/140
+C-Hachiman HP:851/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Churel
+3-Flynn
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Itsuki HP:983/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:929/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:929/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Taown HP:709/709 MP:140/140
+C-Hachiman HP:851/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Churel
+2-Flynn
+3-Hachiman
+4-Taown
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Itsuki HP:929/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Churel ataca a Itsuki
+Itsuki recibe 20 de daño
+Itsuki termina con HP:909/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:909/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Taown HP:709/709 MP:140/140
+C-Hachiman HP:851/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:971/971 MP:527/527
+2-Taown HP:709/709 MP:140/140
+3-Hachiman HP:851/851 MP:170/170
+4-Churel HP:136/197 MP:190/190
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Flynn
+Flynn recibe 45 de daño
+Flynn termina con HP:926/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:909/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:926/971 MP:527/527
+B-Taown HP:709/709 MP:140/140
+C-Hachiman HP:851/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Taown
+4-Churel
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:909/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:799/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:799/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:926/971 MP:527/527
+B-Taown HP:709/709 MP:140/140
+C-Hachiman HP:851/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Taown
+3-Churel
+4-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:799/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:799/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Itsuki
+Itsuki recibe 65 de daño
+Itsuki termina con HP:734/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:734/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:926/971 MP:527/527
+B-Taown HP:709/709 MP:140/140
+C-Hachiman HP:851/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Churel
+3-Flynn
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Itsuki HP:734/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:680/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:680/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:926/971 MP:527/527
+B-Taown HP:709/709 MP:140/140
+C-Hachiman HP:851/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Churel
+2-Flynn
+3-Hachiman
+4-Taown
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Itsuki HP:680/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Itsuki HP:680/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Itsuki HP:680/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Itsuki HP:680/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Itsuki HP:680/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Churel ataca a Itsuki
+Itsuki recibe 20 de daño
+Itsuki termina con HP:660/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:660/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:926/971 MP:527/527
+B-Taown HP:709/709 MP:140/140
+C-Hachiman HP:851/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:926/971 MP:527/527
+2-Taown HP:709/709 MP:140/140
+3-Hachiman HP:851/851 MP:170/170
+4-Churel HP:136/197 MP:190/190
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Hachiman
+Hachiman recibe 61 de daño
+Hachiman termina con HP:790/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:660/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:926/971 MP:527/527
+B-Taown HP:709/709 MP:140/140
+C-Hachiman HP:790/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Taown
+4-Churel
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:660/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:660/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:660/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:550/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:550/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:926/971 MP:527/527
+B-Taown HP:709/709 MP:140/140
+C-Hachiman HP:790/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Taown
+3-Churel
+4-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:550/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:550/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:550/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:550/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:550/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Itsuki
+Itsuki recibe 65 de daño
+Itsuki termina con HP:485/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:485/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:926/971 MP:527/527
+B-Taown HP:709/709 MP:140/140
+C-Hachiman HP:790/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Churel
+3-Flynn
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Itsuki HP:485/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Itsuki HP:485/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:431/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:431/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:926/971 MP:527/527
+B-Taown HP:709/709 MP:140/140
+C-Hachiman HP:790/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Churel
+2-Flynn
+3-Hachiman
+4-Taown
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Itsuki HP:431/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Churel ataca a Itsuki
+Itsuki recibe 20 de daño
+Itsuki termina con HP:411/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:411/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:926/971 MP:527/527
+B-Taown HP:709/709 MP:140/140
+C-Hachiman HP:790/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:926/971 MP:527/527
+2-Taown HP:709/709 MP:140/140
+3-Hachiman HP:790/851 MP:170/170
+4-Churel HP:136/197 MP:190/190
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Taown
+Taown recibe 45 de daño
+Taown termina con HP:664/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:411/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:926/971 MP:527/527
+B-Taown HP:664/709 MP:140/140
+C-Hachiman HP:790/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Taown
+4-Churel
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:411/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Itsuki
+Itsuki recibe 88 de daño
+Itsuki termina con HP:323/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:323/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:926/971 MP:527/527
+B-Taown HP:664/709 MP:140/140
+C-Hachiman HP:790/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Taown
+3-Churel
+4-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:323/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:323/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:323/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:323/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:323/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Itsuki
+Itsuki recibe 65 de daño
+Itsuki termina con HP:258/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:258/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:926/971 MP:527/527
+B-Taown HP:664/709 MP:140/140
+C-Hachiman HP:790/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Churel
+3-Flynn
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Itsuki HP:258/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:204/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:204/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:926/971 MP:527/527
+B-Taown HP:664/709 MP:140/140
+C-Hachiman HP:790/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Churel
+2-Flynn
+3-Hachiman
+4-Taown
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Itsuki HP:204/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Itsuki HP:204/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Churel ataca a Itsuki
+Itsuki recibe 20 de daño
+Itsuki termina con HP:184/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:184/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:926/971 MP:527/527
+B-Taown HP:664/709 MP:140/140
+C-Hachiman HP:790/851 MP:170/170
+D-Churel HP:136/197 MP:190/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:926/971 MP:527/527
+2-Taown HP:664/709 MP:140/140
+3-Hachiman HP:790/851 MP:170/170
+4-Churel HP:136/197 MP:190/190
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki ataca a Churel
+Churel recibe 45 de daño
+Churel termina con HP:91/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:184/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:926/971 MP:527/527
+B-Taown HP:664/709 MP:140/140
+C-Hachiman HP:790/851 MP:170/170
+D-Churel HP:91/197 MP:190/190
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Taown
+4-Churel
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:184/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:184/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:184/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:184/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Itsuki
+Itsuki recibe 110 de daño
+Itsuki termina con HP:74/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:74/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:926/971 MP:527/527
+B-Taown HP:664/709 MP:140/140
+C-Hachiman HP:790/851 MP:170/170
+D-Churel HP:91/197 MP:190/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Taown
+3-Churel
+4-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:74/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:74/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:74/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:74/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:74/1136 MP:413/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Itsuki HP:74/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Itsuki
+Itsuki recibe 65 de daño
+Itsuki termina con HP:9/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:9/1136 MP:413/413
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:926/971 MP:527/527
+B-Taown HP:664/709 MP:140/140
+C-Hachiman HP:790/851 MP:170/170
+D-Churel HP:91/197 MP:190/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Churel
+3-Flynn
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Itsuki HP:9/1136 MP:413/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:0/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Flynn (J2)
