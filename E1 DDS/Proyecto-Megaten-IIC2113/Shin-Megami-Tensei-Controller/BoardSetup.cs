@@ -26,8 +26,8 @@ public class BoardSetup
         return c;
     }
 
-    public List<Unit> Player1RoundOrder() => BuildRoundOrder(team1UnitList);
-    public List<Unit> Player2RoundOrder() => BuildRoundOrder(team2UnitList);
+    public List<Unit> BuildPlayer1RoundOrder() => BuildRoundOrder(team1UnitList);
+    public List<Unit> BuildPlayer2RoundOrder() => BuildRoundOrder(team2UnitList);
 
     private List<Unit> BuildRoundOrder(List<Unit> team)
     {

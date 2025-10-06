@@ -13,7 +13,7 @@ namespace Shin_Megami_Tensei
         private static Dictionary<string, Skill> _skillsByName = new(StringComparer.OrdinalIgnoreCase);
         private static bool _loaded;
         
-        public static void EnsureLoadedFor(string anyPathInsideDataFolder)
+        public static void LoadSkillDataFromFile(string anyPathInsideDataFolder)
         {
             if (IsLoaded()) return;
 
@@ -21,20 +21,19 @@ namespace Shin_Megami_Tensei
                        ?? throw new FileNotFoundException("No se encontró skills.json cercano a " + anyPathInsideDataFolder);
 
             LoadFromFile(file);
-            MarkLoaded();
+            _loaded = true;
         }
 
-        public static bool TryGetSkill(string skillName, out Skill skill) =>
+        public static bool GetSkill(string skillName, out Skill skill) =>
             _skillsByName.TryGetValue(NormalizeName(skillName), out skill);
         
         private static bool IsLoaded() => _loaded;
-        private static void MarkLoaded() => _loaded = true;
         
         private static string? ResolveSkillsJsonPath(string anyPathInsideDataFolder)
         {
             var dir = ResolveStartDirectory(anyPathInsideDataFolder);
             var candidates = BuildCandidatePaths(dir);
-            return FirstExisting(candidates);
+            return candidates.FirstOrDefault(File.Exists);
         }
 
         private static string ResolveStartDirectory(string path) =>
@@ -47,40 +46,35 @@ namespace Shin_Megami_Tensei
             yield return Path.Combine(dir, "..", "..", "skills.json");
         }
 
-        private static string? FirstExisting(IEnumerable<string> paths) =>
-            paths.FirstOrDefault(File.Exists);
+
         
         private static void LoadFromFile(string pathToSkillsJson)
         {
-            var json = ReadAllText(pathToSkillsJson);
+            var json = File.ReadAllText(pathToSkillsJson);
             var root = ParseRootArray(json);
             _skillsByName = BuildSkillsMap(root);
         }
 
-        private static string ReadAllText(string path) =>
-            File.ReadAllText(path);
 
         private static JsonArray ParseRootArray(string json) =>
             (JsonNode.Parse(json) as JsonArray) ?? new JsonArray();
 
         private static Dictionary<string, Skill> BuildSkillsMap(JsonArray root)
         {
-            var skillsDictionary = NewSkillsMap();
+            var skillsDictionary = new Dictionary<string, Skill>(CaseCompared);
             foreach (var item in root)
-                TryAddSkill(skillsDictionary, item as JsonObject);
+                AddSkill(skillsDictionary, item as JsonObject);
             return skillsDictionary;
         }
+        
 
-        private static Dictionary<string, Skill> NewSkillsMap() =>
-            new(CaseCompared);
-
-        private static void TryAddSkill(Dictionary<string, Skill> skillsDictionary, JsonObject? objeto)
+        private static void AddSkill(Dictionary<string, Skill> skillsDictionary, JsonObject? objeto)
         {
-            if (!TryCreateSkill(objeto, out var skill)) return;
+            if (!CreateSkill(objeto, out var skill)) return;
             skillsDictionary[skill.Name] = skill;
         }
 
-        private static bool TryCreateSkill(JsonObject? objeto, out Skill skill)
+        private static bool CreateSkill(JsonObject? objeto, out Skill skill)
         {
             skill = default!;
             if (objeto is null) return false;
@@ -102,7 +96,7 @@ namespace Shin_Megami_Tensei
         private static string GetString(JsonObject objeto, string key)
         {
             var n = GetNode(objeto, key);
-            return n is null ? string.Empty : ToStringOrEmpty(n);
+            return n is null ? string.Empty : ReadToStringOrEmpty(n);
         }
 
         private static int GetInt(JsonObject objeto, string key)
@@ -110,15 +104,15 @@ namespace Shin_Megami_Tensei
             var node = GetNode(objeto, key);
             if (node is null) return 0;
 
-            if (TryGetValue<int>(node, out var intValue)) return intValue;
-            if (TryGetValue<string>(node, out var stringValue) && int.TryParse(stringValue, out var parsedInt)) return parsedInt;
+            if (GetValue<int>(node, out var intValue)) return intValue;
+            if (GetValue<string>(node, out var stringValue) && int.TryParse(stringValue, out var parsedInt)) return parsedInt;
             return 0;
         }
 
         private static JsonNode? GetNode(JsonObject objeto, string key) =>
             objeto.TryGetPropertyValue(key, out var n) ? n : null;
 
-        private static bool TryGetValue<T>(JsonNode node, out T value)
+        private static bool GetValue<T>(JsonNode node, out T value)
         //ayuda IA
         {
             if (node is JsonValue jasonValue && jasonValue.TryGetValue<T>(out value))
@@ -129,7 +123,7 @@ namespace Shin_Megami_Tensei
         }
 
 
-        private static string ToStringOrEmpty(JsonNode node)
+        private static string ReadToStringOrEmpty(JsonNode node)
         {
             try { return node.GetValue<string>() ?? string.Empty; }
             catch { return (node.ToJsonString() ?? string.Empty).Trim('\"'); }

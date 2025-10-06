@@ -24,7 +24,7 @@ public class Game
         ShowMenu(files);
         var index  = ReadSelection(files);
         var parsed = ReadTeams(files, index);
-        if (!BothTeamsValid(parsed)) { PrintInvalidFile(); return; }
+        if (!AreBothTeamsValid(parsed)) { PrintInvalidFile(); return; }
         StartCombat(parsed);
     }
     
@@ -40,7 +40,7 @@ public class Game
     private TeamsFromFile ReadTeams(string[] files, int index) =>
         TeamFileReader.ReadTeams(files[index]);
 
-    private bool BothTeamsValid(TeamsFromFile parsed) =>
+    private bool AreBothTeamsValid(TeamsFromFile parsed) =>
         IsValidTeam(parsed.Player1) && IsValidTeam(parsed.Player2);
 
     private bool IsValidTeam(Team team) =>

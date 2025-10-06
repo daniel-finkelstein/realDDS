@@ -77,11 +77,11 @@ namespace Shin_Megami_Tensei;
 
         private static void ValidateSamuraiMaxSkills(Samurai samurai, List<string> errors)
         {
-            if (SamuraiSkillCount(samurai) > MaxSamuraiSkillsAllowed())
+            if (CountSamuraiSkill(samurai) > MaxSamuraiSkillsAllowed())
                 AddTooManySkillsError(errors);
         }
 
-        private static int SamuraiSkillCount(Samurai samurai) =>
+        private static int CountSamuraiSkill(Samurai samurai) =>
             samurai.Skills?.Count ?? 0;
 
         private static int MaxSamuraiSkillsAllowed() => 8;
@@ -109,18 +109,18 @@ namespace Shin_Megami_Tensei;
         private static HashSet<string> FindDuplicateSkills(Samurai samurai)
         //ayuda de IA
         {
-            var (seenSkill, duplicatedSkillSet) = InitSkillSets();
-            foreach (var key in SkillKeys(samurai)) TrackSkillKey(key, seenSkill, duplicatedSkillSet);
+            var (seenSkill, duplicatedSkillSet) = InitializeSkillSets();
+            foreach (var key in GetValidSkillKeys(samurai)) TrackSkillKey(key, seenSkill, duplicatedSkillSet);
             return duplicatedSkillSet;
         }
 
-        private static (HashSet<string> seen, HashSet<string> dup) InitSkillSets() =>
-            (NewCaseInsensitiveSet(), NewCaseInsensitiveSet());
+        private static (HashSet<string> seen, HashSet<string> dup) InitializeSkillSets() =>
+            (CreateNewCaseInsensitiveSet(), CreateNewCaseInsensitiveSet());
 
-        private static HashSet<string> NewCaseInsensitiveSet() =>
+        private static HashSet<string> CreateNewCaseInsensitiveSet() =>
             new(StringComparer.OrdinalIgnoreCase);
 
-        private static IEnumerable<string> SkillKeys(Samurai samurai)
+        private static IEnumerable<string> GetValidSkillKeys(Samurai samurai)
         {
             foreach (var skill in EnumerateSkills(samurai))
             {

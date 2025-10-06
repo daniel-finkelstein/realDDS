@@ -6,36 +6,30 @@ public static class UnitFactory
 {
     public static Unit Clone(Unit u)
     {
-        var s = CloneStats(u.Stats);
-
-        // Skills: cualquier unidad puede tener skills; las reutilizamos (son inmutables)
+        var stats  = CloneStats(u.Stats);
         IEnumerable<Skill>? skills = u.Skills;
-
+        var affinities = u.Affinities;
         return u switch
         {
-            Samurai => new Samurai(u.Name, s, skills),
-            Monster => new Monster(u.Name, s, skills),
+            Samurai => new Samurai(u.Name, stats, skills, affinities),
+            Monster => new Monster(u.Name, stats, skills, affinities),
             _ => throw new NotSupportedException($"No sé clonar {u.GetType().Name}")
         };
     }
 
     private static Stats CloneStats(Stats s)
     {
-        // Copia los valores actuales
         var copy = new Stats(
-            s.HealthPoints,          // hp actual
-            s.ManaPoints,            // mp actual
-            s.PhysicalAttackPower,   // str
-            s.ShootingPower,         // skl
-            s.MagicalAttackPower,    // mag
-            s.AttackOrder,           // spd
-            s.AbilityEffectiveness   // lck
+            s.HealthPoints,
+            s.ManaPoints,
+            s.PhysicalAttackPower,
+            s.ShootingPower,
+            s.MagicalAttackPower,
+            s.AttackOrder,
+            s.AbilityEffectiveness
         );
-
-        // Preserva los máximos originales
         copy.MaximumHealthPoints = s.MaximumHealthPoints;
         copy.MaximumManaPoints   = s.MaximumManaPoints;
-
         return copy;
     }
 }

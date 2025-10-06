@@ -8,39 +8,33 @@ namespace Shin_Megami_Tensei;
 
 public static class TeamFileReader
 {
-    public static string[] ListTeamFiles(string folder)
-    {
-        return Directory.GetFiles(folder, "*.txt", SearchOption.TopDirectoryOnly)
-            .OrderBy(Path.GetFileName).ToArray();
-    }
+    public static string[] ListTeamFiles(string folder) =>
+        Directory.GetFiles(folder, "*.txt", SearchOption.TopDirectoryOnly)
+                 .OrderBy(Path.GetFileName)
+                 .ToArray();
 
     public static TeamsFromFile ReadTeams(string path)
     {
-        EnsureReadersLoaded(path);
-        var lines = LoadLinesFor(path);
+        LoadAllDataFromFileIfNotLoadedForEachTypeOfUnit(path);
+
+        var lines = LoadTrimmedNonEmptyLines(path);
         var (player1Line, player2Line) = FindSections(lines);
         var (team1, team2) = ReadTeamsFromSections(lines, player1Line, player2Line);
-        return CreateResult(team1, team2, path);
+        return new TeamsFromFile(team1, team2, path);
     }
 
-    private static void EnsureReadersLoaded(string path)
+    private static void LoadAllDataFromFileIfNotLoadedForEachTypeOfUnit(string path)
     {
-        SamuraiFileReader.EnsureLoadedFor(path);
-        MonsterFileReader.EnsureLoadedFor(path);
-        SkillsFileReader.EnsureLoadedFor(path);
+        SkillsFileReader.LoadSkillDataFromFile(path);
+        SamuraiFileReader.LoadSamuraiDataFromFile(path);
+        MonsterFileReader.LoadMonsterDataFromFile(path);
     }
-
-    private static string[] LoadLinesFor(string path) => LoadLines(path);
 
     private static (Team team1, Team team2) ReadTeamsFromSections(string[] lines, int player1Line, int player2Line)
-        => (ReadTeam(lines, player1Line + 1, player2Line), ReadTeam(lines, player2Line + 1, lines.Length));
+        => (ReadTeam(lines, player1Line + 1, player2Line),
+            ReadTeam(lines, player2Line + 1, lines.Length));
 
-    private static TeamsFromFile CreateResult(Team player1Team, Team player2Team, string path)
-        => new TeamsFromFile(player1Team, player2Team, path);
-
-
-
-    private static string[] LoadLines(string path)
+    private static string[] LoadTrimmedNonEmptyLines(string path)
     {
         var raw = File.ReadAllLines(path);
         return TextParsing.TrimAndFilter(raw).ToArray();
@@ -51,14 +45,12 @@ public static class TeamFileReader
         int player1Header = FindHeader(lines, "Player 1 Team");
         int player2Header = FindHeader(lines, "Player 2 Team");
         if (player1Header < 0 || player2Header < 0 || player2Header <= player1Header)
-            throw new InvalidOperationException("Formato inválido.");
+            throw new InvalidOperationException("Formato inválido en archivo de equipos.");
         return (player1Header, player2Header);
     }
 
-    private static int FindHeader(string[] lines, string title)
-    {
-        return Array.FindIndex(lines, s => s.Equals(title, StringComparison.OrdinalIgnoreCase));
-    }
+    private static int FindHeader(string[] lines, string title) =>
+        Array.FindIndex(lines, s => s.Equals(title, StringComparison.OrdinalIgnoreCase));
 
     private static Team ReadTeam(string[] lines, int firstTeamLine, int lastTeamLine)
     {
@@ -77,41 +69,45 @@ public static class TeamFileReader
         return subArray;
     }
 
-    private static Unit SingleLine(string line)
-    {
-        if (IsSamurai(line))
-            return MakeSamurai(line);
-        else
-            return MakeMonster(line);
-    }
+    private static Unit SingleLine(string line) =>
+        IsSamurai(line) ? MakeSamurai(line) : MakeMonster(line);
 
-    private static bool IsSamurai(string line)
-    {
-        return line.StartsWith("[Samurai]", StringComparison.OrdinalIgnoreCase);
-    }
+    private static bool IsSamurai(string line) =>
+        line.StartsWith("[Samurai]", StringComparison.OrdinalIgnoreCase);
 
     private static Unit MakeSamurai(string line)
     {
         var name = NormalizeName(ExtractNameAfter(line, "[Samurai]"));
-        var skills = TakeSkillsFromLine(line);
-        
-        if (SamuraiFileReader.TryGetStats(name, out var realStats))
-            return new Samurai(name, realStats, skills);
+        var skillsFromLine = TakeSkillsFromLine(line);
 
-        return null;
+        if (!SamuraiFileReader.GetSamuraiStats(name, out var stats))
+            throw new InvalidOperationException($"Samurái no encontrado: {name}");
+        
+        SamuraiFileReader.GetSamuraiAffinities(name, out var affinities);
+
+        return new Samurai(name, stats, skillsFromLine, affinities);
     }
+
 
     private static Unit MakeMonster(string line)
     {
-        var name   = NormalizeName(ExtractNameBeforeParen(line));
-        var skills = TakeSkillsFromLine(line);
+        var name = NormalizeName(ExtractNameBeforeParen(line));
 
-        if (MonsterFileReader.TryGetStats(name, out var realStats))
-            return new Monster(name, realStats, skills);
-        return null;
+        if (!MonsterFileReader.GetStats(name, out var stats))
+            throw new InvalidOperationException($"Monstruo no encontrado: {name}");
+        
+        MonsterFileReader.GetAffinities(name, out var affinities);
+
+
+        var skills = new List<Skill>();
+        if (MonsterFileReader.GetSkillNames(name, out var skillNames))
+        {
+            foreach (var sn in skillNames)
+                if (SkillsFileReader.GetSkill(sn, out var sk)) skills.Add(sk);
+        }
+
+        return new Monster(name, stats, skills, affinities);
     }
-
-
 
     private static string ExtractNameAfter(string wholeLine, string token)
     {
@@ -119,13 +115,12 @@ public static class TeamFileReader
         int i = after.IndexOf('(');
         return i >= 0 ? after[..i].Trim() : after;
     }
-    
+
     private static string ExtractNameBeforeParen(string line)
     {
         int i = line.IndexOf('(');
         return i >= 0 ? line[..i].Trim() : line.Trim();
     }
-
 
     private static string NormalizeName(string name)
     {
@@ -133,7 +128,7 @@ public static class TeamFileReader
         if (trimmed.EndsWith(".", StringComparison.Ordinal)) trimmed = trimmed[..^1].Trim();
         return trimmed;
     }
-
+    
     private static List<Skill> TakeSkillsFromLine(string line)
     {
         var inside = ExtractParenthesisContent(line);
@@ -143,13 +138,11 @@ public static class TeamFileReader
         var list  = new List<Skill>();
         foreach (var raw in names)
         {
-            if (SkillsFileReader.TryGetSkill(raw, out var s)) list.Add(s);
+            if (SkillsFileReader.GetSkill(raw, out var s)) list.Add(s);
             else list.Add(new Skill(raw, "Unknown", 0, 0, "Single", 1, ""));
         }
         return list;
     }
-    
-
 
     private static string ExtractParenthesisContent(string line)
     {
@@ -164,21 +157,17 @@ public static class TeamFileReader
         int close = line.IndexOf(')', open + 1);
         return (open, close);
     }
-    
 }
 
 internal static class TextParsing
 {
-    public static IEnumerable<string> TrimAndFilter(IEnumerable<string> items)
-    {
-        return items.Select(line => line.Trim()).Where(line => !string.IsNullOrWhiteSpace(line));
-    }
+    public static IEnumerable<string> TrimAndFilter(IEnumerable<string> items) =>
+        items.Select(line => line.Trim())
+             .Where(line => !string.IsNullOrWhiteSpace(line));
 
-    public static IEnumerable<string> SplitTrimmed(string text, char separator)
-    {
-        return text.Split(separator, StringSplitOptions.RemoveEmptyEntries)
-                   .Select(t => t.Trim());
-    }
+    public static IEnumerable<string> SplitTrimmed(string text, char separator) =>
+        text.Split(separator, StringSplitOptions.RemoveEmptyEntries)
+            .Select(t => t.Trim());
 }
 
 public class TeamsFromFile
