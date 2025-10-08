@@ -15,7 +15,7 @@ public static bool HandleSummonAsSamurai(in ActionHandler.ActionContext ctx, out
     var view = ctx.View;
     var team = ctx.AttackingTeam;
 
-    var bench = GetAliveBenchOrdered(team);
+    var bench = GetAliveBenchOrdered(in ctx);
 
     view.WriteLine("Seleccione un monstruo para invocar");
     if (bench.Count == 0)
@@ -38,12 +38,11 @@ public static bool HandleSummonAsSamurai(in ActionHandler.ActionContext ctx, out
 
     view.WriteLine(TextSeparator);
     view.WriteLine("Seleccione una posición para invocar");
-
-    // Mostrar SIEMPRE los 3 puestos (2..4), ocupados o vacíos
+    
     var slots = TeamUtils.GetTeamSlots(team);
     for (int i = 0; i < 3; i++)
     {
-        int boardPos = i + 2; // 2..4
+        int boardPos = i + 2;
         var occ = slots[boardPos - 1];
         if (occ != null)
             view.WriteLine($"{i + 1}-{occ.Name} HP:{occ.Stats.HealthPoints}/{occ.Stats.MaximumHealthPoints} MP:{occ.Stats.ManaPoints}/{occ.Stats.MaximumManaPoints} (Puesto {boardPos})");
@@ -59,35 +58,29 @@ public static bool HandleSummonAsSamurai(in ActionHandler.ActionContext ctx, out
         return false;
     }
 
-    int boardSlot = posChoice + 1; // 2..4
+    int boardSlot = posChoice + 1;
 
     var previous = team.TeamUnits[boardSlot - 1];
     int idxSummoned = team.TeamUnits.IndexOf(summoned);
-
-    // Colocar el invocado
+    
     team.TeamUnits[boardSlot - 1] = summoned;
 
     if (previous != null)
     {
-        // swap si había alguien
         if (idxSummoned >= 0) team.TeamUnits[idxSummoned] = previous;
     }
     else
     {
-        // si el slot estaba vacío, NO reindexar: liberar origen con null
         if (idxSummoned >= 0) team.TeamUnits[idxSummoned] = null;
     }
-
-    // --- ORDEN DE TURNOS ---
+    
     if (previous != null)
     {
-        // Reemplazo: mantiene el lugar del reemplazado
         TeamUtils.ReplaceUnitInOrder(ctx.Order, previous, summoned);
     }
     else
     {
-        // Slot vacío: insertarlo alrededor del actor (mismo criterio que Sabbatma)
-        ctx.Order.Remove(summoned); // por si acaso
+        ctx.Order.Remove(summoned);
         var order = ctx.Order;
         var summoner = ctx.Actor;
 
@@ -99,7 +92,6 @@ public static bool HandleSummonAsSamurai(in ActionHandler.ActionContext ctx, out
     view.WriteLine(TextSeparator);
     view.WriteLine($"{summoned.Name} ha sido invocado");
 
-    // Importante: que esto no compacte nulls ni cambie el tamaño del roster
     ReorderBenchToOriginal(team);
 
     effect = new ActionHandler.ActionEffect(0,1,1,ActionHandler.ActionKind.Summon);
@@ -112,7 +104,7 @@ public static bool HandleSummonAsSamurai(in ActionHandler.ActionContext ctx, out
         var view = ctx.View;
         var team = ctx.AttackingTeam;
 
-        var bench = GetAliveBenchOrdered(team);
+        var bench = GetAliveBenchOrdered(in ctx);
 
         view.WriteLine("Seleccione un monstruo para invocar");
         if (bench.Count == 0)
@@ -142,33 +134,54 @@ public static bool HandleSummonAsSamurai(in ActionHandler.ActionContext ctx, out
         effect = new ActionHandler.ActionEffect(0, 1, 1, ActionHandler.ActionKind.Summon);
         return true;
     }
+    
 
-    // ===== Helpers banca/orden original =====
-    private static List<Unit> GetAliveBenchOrdered(Team team)
+// TeamBoard.cs
+    public static List<Unit> GetAliveBenchOrdered(in ActionHandler.ActionContext ctx)
     {
-        ReorderBenchToOriginal(team);
-        var list = new List<Unit>();
+        var team = ctx.AttackingTeam;
+
+        // 1) Tomar banca viva SIN mutar team.TeamUnits
+        var bench = new List<Unit>();
         for (int i = 4; i < team.TeamUnits.Count; i++)
         {
             var u = team.TeamUnits[i];
-            if (u != null && u.Stats.HealthPoints > 0) list.Add(u);
+            if (u != null && u.Stats.HealthPoints > 0)
+                bench.Add(u);
         }
-        return list;
+
+        var index = new Dictionary<Unit, int>(ReferenceEqualityComparer.Instance);
+        for (int i = 0; i < ctx.OriginalRoster.Count; i++)
+            index[ctx.OriginalRoster[i]] = i;
+
+        bench.Sort((a, b) => index[a].CompareTo(index[b]));
+        return bench;
     }
+
+
+
 
     private static readonly Dictionary<Team, Dictionary<Unit, int>> OriginalIndexByTeam = new();
 
     private static void EnsureOriginalIndexMap(Team team)
     {
         if (OriginalIndexByTeam.ContainsKey(team)) return;
-        var map = new Dictionary<Unit, int>();
-        for (int i = 0; i < team.TeamUnits.Count; i++)
+
+        // Usa el orden original del roster (el snapshot que nunca cambia).
+        // Si no tienes TeamUtils.GetOriginalOrderSnapshot(team), reemplázalo por la fuente
+        // equivalente que tengan ustedes (ctx.OriginalRoster, etc.).
+        var original = TeamUtils.GetOriginalOrderSnapshot(team);
+
+        var map = new Dictionary<Unit, int>(original.Count);
+        for (int i = 0; i < original.Count; i++)
         {
-            var u = team.TeamUnits[i];
+            var u = original[i];
             if (u != null) map[u] = i;
         }
+
         OriginalIndexByTeam[team] = map;
     }
+
 
     private static void ReorderBenchToOriginal(Team team)
     {
@@ -199,9 +212,8 @@ public static bool HandleSabbatma(
 {
     var view = ctx.View;
     var team = ctx.AttackingTeam;
-
-    // Solo vivos; Sabbatma no revive
-    var bench = GetAliveBenchOrdered(team);
+    
+    var bench = GetAliveBenchOrdered(in ctx);
     view.WriteLine("Seleccione un monstruo para invocar");
     if (bench.Count == 0)
     {
@@ -244,8 +256,7 @@ public static bool HandleSabbatma(
     }
 
     int boardSlot = posChoice + 1; // 2..4
-
-    // Descuento de MP (después de elegir posición)
+    
     var stats = ctx.Actor.Stats;
     if (stats.ManaPoints < manaCost)
     {
@@ -253,8 +264,7 @@ public static bool HandleSabbatma(
         return false;
     }
     stats.ManaPoints = Math.Max(0, stats.ManaPoints - manaCost);
-
-    // Mover piezas en el equipo
+    
     var previous     = team.TeamUnits[boardSlot - 1];
     int idxSummoned  = team.TeamUnits.IndexOf(summoned);
 
@@ -307,7 +317,7 @@ public static bool PlaceSummonedChoosingAnySlot(
     var view = ctx.View;
     var team = ctx.AttackingTeam;
 
-    view.WriteLine(CombatLogic.TextSeparator);
+    view.WriteLine(TextSeparator);
     view.WriteLine("Seleccione una posición para invocar");
 
     var slots = TeamUtils.GetTeamSlots(team);
@@ -341,19 +351,43 @@ public static bool PlaceSummonedChoosingAnySlot(
     }
     stats.ManaPoints = Math.Max(0, stats.ManaPoints - manaCost);
 
-    // Mover piezas en el equipo
+
     var previous    = team.TeamUnits[boardSlot - 1];
     int idxSummoned = team.TeamUnits.IndexOf(summoned);
 
+// 1) Garantizar 4 slots de campo (A..D) siempre presentes
+    while (team.TeamUnits.Count < 4)
+        team.TeamUnits.Add(null);
+
+// Colocar el invocado en el slot elegido
     team.TeamUnits[boardSlot - 1] = summoned;
+
     if (previous != null)
     {
-        if (idxSummoned >= 0) team.TeamUnits[idxSummoned] = previous; // swap
+        if (idxSummoned >= 0)
+        {
+            // El invocado ya estaba en TeamUnits -> swap normal
+            team.TeamUnits[idxSummoned] = previous;
+        }
+        else
+        {
+            // El invocado NO estaba en TeamUnits (viene de roster) -> previous va a banca
+            // Buscar primer hueco null en banca (índices >= 4)
+            int benchHole = team.TeamUnits.FindIndex(4, u => u == null);
+            if (benchHole >= 0)
+                team.TeamUnits[benchHole] = previous;
+            else
+                team.TeamUnits.Add(previous); // si no hay hueco, agregar al final
+        }
     }
     else
     {
-        if (idxSummoned >= 0) team.TeamUnits.RemoveAt(idxSummoned);   // quitar de banca
+        // Slot elegido estaba vacío: si el invocado estaba en TeamUnits (venía de la banca),
+        // hay que quitarlo de donde estaba para no duplicarlo
+        if (idxSummoned >= 0)
+            team.TeamUnits.RemoveAt(idxSummoned);
     }
+
 
     // --- ORDEN ---
     var order = ctx.Order;
@@ -361,12 +395,12 @@ public static bool PlaceSummonedChoosingAnySlot(
 
     if (previous != null)
     {
-        // Reemplazo: hereda lugar del reemplazado
+        // Como el desplazado se va a banca en este camino, reemplaza en el orden
         TeamUtils.ReplaceUnitInOrder(order, previous, summoned);
     }
     else
     {
-        // Slot vacío: insertarlo cerca del actor (mismo criterio que Sabbatma)
+        // Slot vacío: insertar cerca del actor
         order.Remove(summoned);
         int actorIdx = order.FindIndex(u => ReferenceEquals(u, actor));
         if (actorIdx < 0) actorIdx = order.Count;
@@ -375,14 +409,20 @@ public static bool PlaceSummonedChoosingAnySlot(
 
     bool wasDead = summoned.Stats.HealthPoints <= 0;
 
-    view.WriteLine(CombatLogic.TextSeparator);
+    view.WriteLine(TextSeparator);
     view.WriteLine($"{summoned.Name} ha sido invocado");
     if (wasDead)
     {
         view.WriteLine($"{actor.Name} revive a {summoned.Name}");
         view.WriteLine($"{summoned.Name} recibe {summoned.Stats.MaximumHealthPoints} de HP");
-        summoned.Stats.HealthPoints = summoned.Stats.MaximumHealthPoints; // set antes de imprimir “termina con”
+        summoned.Stats.HealthPoints = summoned.Stats.MaximumHealthPoints;
         view.WriteLine($"{summoned.Name} termina con HP:{summoned.Stats.HealthPoints}/{summoned.Stats.MaximumHealthPoints}");
+
+        // tu línea de debug, intacta
+        if (string.Equals(actor.Name, "Mother Harlot", StringComparison.OrdinalIgnoreCase))
+        {
+            //view.WriteLine($"(1):{team.TeamUnits[0]} (2):{team.TeamUnits[1]} (3):{team.TeamUnits[2]} (4):{team.TeamUnits[3]}");
+        }
     }
 
     bool isMenuSummon = manaCost == 0;
@@ -391,14 +431,13 @@ public static bool PlaceSummonedChoosingAnySlot(
                                      : ActionHandler.ActionKind.Skill;
 
     effect = new ActionHandler.ActionEffect(
-        0,          // fullCost
-        blinkGain,  // blinkGain (RoundCounters lo aplica solo si se pagó con Full)
-        1,          // blinkCost (neutral)
+        0,
+        blinkGain,
+        1,
         kind
     );
     return true;
 }
-
 
 
 

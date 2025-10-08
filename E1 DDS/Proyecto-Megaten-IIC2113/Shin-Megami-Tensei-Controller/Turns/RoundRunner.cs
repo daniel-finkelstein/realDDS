@@ -70,16 +70,14 @@ namespace Shin_Megami_Tensei.Turns
 
         private static bool ExecuteStep(RoundContext rc, ref int cursor, ref int full, ref int blink)
         {
-            int aliveBefore = TeamUtils.CountAliveUnitsOnBoard(rc.AttackingTeam);
 
-            if (!PlayTurn(in rc, cursor, out var effect)) return false;
+            int orderCountBefore = rc.Order.Count;
+
+            if (!PlayTurn(rc, cursor, out var effect)) return false;
 
             var counters = new RoundCounters(full, blink);
             var (fullUsed, blinkUsed, blinkGained) =
                 counters.ApplyCost(effect.FullTurnsLost, effect.BlinkTurnsGained, effect.BlinkTurnsLost);
-            
-            
-
 
             ViewRenderer.ReportTurnConsumption(rc.View, fullUsed, blinkUsed, blinkGained, effect.Kind);
 
@@ -88,17 +86,20 @@ namespace Shin_Megami_Tensei.Turns
 
             if (!CanProceed(rc.Board, full, blink)) return false;
 
-            int aliveAfter = TeamUtils.CountAliveUnitsOnBoard(rc.AttackingTeam);
-            bool summonedIntoEmptySlot = aliveAfter > aliveBefore;
+            // DESPUÉS de la acción
+            int orderCountAfter = rc.Order.Count;
 
-            if (summonedIntoEmptySlot && rc.Order.Count > 0)
+            // Solo adelantamos el cursor si se insertó una nueva unidad al Orden (p. ej., Invitation a slot vacío)
+            bool insertedIntoOrder = orderCountAfter > orderCountBefore;
+            if (insertedIntoOrder && rc.Order.Count > 0)
                 cursor = (cursor + 1) % rc.Order.Count;
-            
+
             cursor = TeamUtils.AdvanceCursor(rc.Order, cursor);
 
             ViewRenderer.ShowInterTurn(rc.View, rc.Player1Team, rc.Player2Team, rc.Order, cursor, full, blink);
             return true;
         }
+
         
         private static bool PlayTurn(in RoundContext rc, int cursor, out ActionHandler.ActionEffect effect)
         {

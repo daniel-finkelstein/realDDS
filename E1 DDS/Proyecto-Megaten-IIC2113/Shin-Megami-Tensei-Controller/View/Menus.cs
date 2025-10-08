@@ -90,18 +90,17 @@ internal static class Menus
         return usable[pick - 1];
     }
     
-    
     public static Unit? SelectAllyTarget(View view, string actorName, Team team)
     {
         view.WriteLine("Seleccione un objetivo para " + actorName);
         var slots = TeamUtils.GetTeamSlots(team);
 
-        var opciones = new List<Unit?>();
+        var opciones = new List<Unit>();
         int k = 1;
-        for (int i = 0; i < 4; i++)
+        for (int i = 0; i < slots.Length; i++)   // <- Length, y son 4
         {
             var u = slots[i];
-            if (u != null)
+            if (u != null && u.Stats.HealthPoints > 0) // solo vivos en tablero
             {
                 view.WriteLine($"{k}-{u.Name} HP:{u.Stats.HealthPoints}/{u.Stats.MaximumHealthPoints} MP:{u.Stats.ManaPoints}/{u.Stats.MaximumManaPoints}");
                 opciones.Add(u);
@@ -110,10 +109,11 @@ internal static class Menus
         }
         view.WriteLine($"{k}-Cancelar");
 
-        int idx = ReadIndexAllowCancel(view, k);
+        int idx = Menus.ReadIndexAllowCancel(view, k);
         if (idx == k) return null;
         return opciones[idx - 1];
     }
+
     
     public static Unit? SelectDeadAllyTarget(View view, string actorName, Team team)
     {

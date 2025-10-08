@@ -95,24 +95,33 @@ internal static class ActionHandler
         var usable = TeamUtils.GetUsableSkills(ctx.Actor);
         var chosen = Menus.SelectSkill(ctx.View, ctx.Actor, usable);
         if (chosen is null) { effect = default; return false; }
-
-        // ---- skills especiales de invocación (sin descontar MP aquí) ----
+        
         if (string.Equals(chosen.Name, "Sabbatma", StringComparison.OrdinalIgnoreCase))
         {
             ctx.View.WriteLine(CombatLogic.TextSeparator);
-            return TeamBoard.HandleSabbatma(in ctx, chosen.Cost, out effect);
+            bool ok = TeamBoard.HandleSabbatma(in ctx, chosen.Cost, out effect);
+            if (ok) BumpTeamSkillK(ctx.AttackingTeam);
+            return ok;
         }
+        
         if (string.Equals(chosen.Name, "Invitation", StringComparison.OrdinalIgnoreCase))
         {
             ctx.View.WriteLine(CombatLogic.TextSeparator);
-            return HandleInvitation(in ctx, chosen.Cost, out effect);
+            bool ok = HandleInvitation(in ctx, chosen.Cost, out effect);
+            if (ok) BumpTeamSkillK(ctx.AttackingTeam);
+            return ok;
         }
         
         if (IsHeal(chosen))
-            return ExecuteSkillHealSingle(in ctx, chosen, out effect);
-
+        {
+            bool ok = ExecuteSkillHealSingle(in ctx, chosen, out effect);
+            if (ok) BumpTeamSkillK(ctx.AttackingTeam);
+            return ok;
+        }
+        
         return ExecuteSkillAttackSingle(in ctx, chosen, out effect);
     }
+
 
 
 
@@ -148,10 +157,10 @@ private static int GetSkillHitCount(in ActionContext ctx, Skill skill)
 
     var (A, B) = range.Value;
     int len = B - A + 1;
-    if (len <= 0) return Math.Max(1, A); // seguridad
+    if (len <= 0) return Math.Max(1, A);
 
     int k = GetTeamSkillK(ctx.AttackingTeam);
-    int offset = ((k % len) + len) % len; // 0..len-1
+    int offset = ((k % len) + len) % len;
     return A + offset;
 }
 
@@ -218,6 +227,7 @@ private static bool ExecuteSkillAttackSingle(in ActionContext ctx, Skill skill, 
     {
         DamageSystem.Heal(target, outcome.HealOnDefender);
         ctx.View.WriteLine($"{target.Name} termina con HP:{target.Stats.HealthPoints}/{target.Stats.MaximumHealthPoints}");
+        
     }
     else
     {
@@ -225,8 +235,7 @@ private static bool ExecuteSkillAttackSingle(in ActionContext ctx, Skill skill, 
     }
 
     effect = BuildEffectForAffinity(affinity, ActionKind.Skill);
-
-    // ¡K se incrementa DESPUÉS de aplicar la habilidad!
+    
     BumpTeamSkillK(ctx.AttackingTeam);
     return true;
 }
@@ -287,16 +296,14 @@ private static bool ExecuteSkillAttackMulti(in ActionContext ctx, Skill skill, U
             DamageSystem.Heal(target, last.HealOnDefender);
         }
     }
-
-    // Una sola línea de HP final:
+    
     if (last.DamageToAttacker > 0)
         ctx.View.WriteLine($"{ctx.Actor.Name} termina con HP:{ctx.Actor.Stats.HealthPoints}/{ctx.Actor.Stats.MaximumHealthPoints}");
     else
         ctx.View.WriteLine($"{target.Name} termina con HP:{target.Stats.HealthPoints}/{target.Stats.MaximumHealthPoints}");
 
     effect = BuildEffectForAffinity(affinity, ActionKind.Skill);
-
-    // Incrementa K del equipo atacante después de aplicar la habilidad
+    
     BumpTeamSkillK(ctx.AttackingTeam);
     return true;
 }
@@ -334,8 +341,7 @@ private static bool ExecuteSkillHealSingle(in ActionContext ctx, Skill skill, ou
 
     static bool IsReviveSkill(string name) =>
         name.Equals("Recarm", StringComparison.OrdinalIgnoreCase) ||
-        name.Equals("Samarecarm", StringComparison.OrdinalIgnoreCase) ||
-        name.Equals("Invitation", StringComparison.OrdinalIgnoreCase);
+        name.Equals("Samarecarm", StringComparison.OrdinalIgnoreCase);
 
     bool revive = IsReviveSkill(skill.Name);
 
@@ -349,7 +355,6 @@ private static bool ExecuteSkillHealSingle(in ActionContext ctx, Skill skill, ou
         return false;
     }
 
-    // Segundo separador, como en los ataques
     ctx.View.WriteLine(CombatLogic.TextSeparator);
 
     // Cobro de MP
@@ -361,70 +366,152 @@ private static bool ExecuteSkillHealSingle(in ActionContext ctx, Skill skill, ou
     }
     stats.ManaPoints = Math.Max(0, stats.ManaPoints - skill.Cost);
 
-    // Mensaje
     if (revive && target.Stats.HealthPoints <= 0)
         ctx.View.WriteLine($"{ctx.Actor.Name} revive a {target.Name}");
     else
         ctx.View.WriteLine($"{ctx.Actor.Name} cura a {target.Name}");
 
-    // Curación: % del HP Máximo según skill.Power (25 → 25%, 50 → 50%, 100 → 100%)
-    int maxHp = target.Stats.MaximumHealthPoints;
+    int maxHp  = target.Stats.MaximumHealthPoints;
     int amount = (int)((decimal)maxHp * skill.Power / 100m);
 
     // Aplica la curación / revive
     DamageSystem.Heal(target, amount);
 
-    // --- FIX: si fue revive, asegurarse de que la unidad revivida vuelve al roster/bench ---
     if (revive && target.Stats.HealthPoints > 0)
     {
-        EnsureRevivedGoesToBench(ctx.AttackingTeam, target);
+        // Acomoda tablero/banca según reglas E2 (samurai queda en A; monstruo a banca)
+        EnsureRevivedIsPlacedSafely(ctx.AttackingTeam, target);
+
+        // Si es Samurai: reinsertarlo en el ORDER antes del actor que lanzó la skill
+        if (TeamUtils.IsSamurai(target))
+        {
+            var order = ctx.Order;
+            var actor = ctx.Actor;
+
+            // eliminar por si estuviera en otro lado
+            order.Remove(target);
+
+            // buscar índice del actor SIN usar lambda (para no capturar 'in ctx')
+            int actorIdx = -1;
+            for (int i = 0; i < order.Count; i++)
+            {
+                if (ReferenceEquals(order[i], actor))
+                {
+                    actorIdx = i;
+                    break;
+                }
+            }
+            if (actorIdx < 0) actorIdx = order.Count;
+
+            order.Insert(actorIdx, target);
+        }
+        // Si es monstruo: no se inserta en ORDER (se queda en banca).
     }
 
     ctx.View.WriteLine($"{target.Name} recibe {amount} de HP");
     ctx.View.WriteLine($"{target.Name} termina con HP:{target.Stats.HealthPoints}/{target.Stats.MaximumHealthPoints}");
 
-    // Coste de turnos para skills de soporte: 0 Full, 1 Blinking (como esperan los tests)
+    // Soporte: 0 Full, 1 Blink
     effect = new ActionEffect(0, 0, 1, ActionKind.Skill);
     return true;
+}
+
+private static void EnsureRevivedIsPlacedSafely(Team team, Unit revived)
+{
+    bool isSamurai = TeamUtils.IsSamurai(revived);
+    
+    while (team.TeamUnits.Count < 4)
+        team.TeamUnits.Add(null);
+
+    if (isSamurai)
+    {
+
+        if (!ReferenceEquals(team.TeamUnits[0], revived))
+        {
+            // Limpia cualquier duplicado fuera de A
+            for (int i = team.TeamUnits.Count - 1; i >= 1; i--)
+                if (ReferenceEquals(team.TeamUnits[i], revived))
+                    team.TeamUnits.RemoveAt(i);
+
+            team.TeamUnits[0] = revived;
+        }
+        else
+        {
+            // Ya estaba en A: borra duplicados fuera de A
+            for (int i = team.TeamUnits.Count - 1; i >= 1; i--)
+                if (ReferenceEquals(team.TeamUnits[i], revived))
+                    team.TeamUnits.RemoveAt(i);
+        }
+    }
+    else
+    {
+        for (int pos = 1; pos <= 3; pos++)
+        {
+            if (pos < team.TeamUnits.Count && ReferenceEquals(team.TeamUnits[pos], revived))
+                team.TeamUnits[pos] = null;
+        }
+        
+        bool alreadyOnBench = false;
+        for (int i = 4; i < team.TeamUnits.Count; i++)
+        {
+            if (ReferenceEquals(team.TeamUnits[i], revived))
+            {
+                alreadyOnBench = true;
+                break;
+            }
+        }
+        if (!alreadyOnBench)
+            team.TeamUnits.Add(revived);
+        
+    }
 }
 
 
 private static void EnsureRevivedGoesToBench(Team team, Unit revived)
 {
-    // 1. Liberar el slot si estaba en el tablero (puestos 2..4 = índices 1..3)
-    for (int i = 1; i <= 3 && i < team.TeamUnits.Count; i++)
+    // Asegura placeholders para tablero A..D (idx 0..3)
+    while (team.TeamUnits.Count < 4)
+        team.TeamUnits.Add(null);
+
+    if (TeamUtils.IsSamurai(revived))
     {
-        if (ReferenceEquals(team.TeamUnits[i], revived))
-        {
-            team.TeamUnits[i] = null;
-            break;
-        }
+        // Para Samurái NO se hace nada: revive en su slot (A) y listo.
+        return;
     }
 
-    // 2. Asegurar que esté en el roster si no está
-    if (!team.TeamUnits.Contains(revived))
-        team.TeamUnits.Add(revived);
+    // Quitar del tablero si estuviera en B..D
+    for (int pos = 1; pos <= 3; pos++)
+        if (ReferenceEquals(team.TeamUnits[pos], revived))
+            team.TeamUnits[pos] = null;
 
-    // 3. Reordenar la banca al orden original (manteniendo los nulls del tablero)
+    // Eliminar duplicados existentes en banca (≥ idx 4)
+    for (int i = team.TeamUnits.Count - 1; i >= 4; i--)
+        if (ReferenceEquals(team.TeamUnits[i], revived))
+            team.TeamUnits.RemoveAt(i);
+
+    // Agregar a banca
+    team.TeamUnits.Add(revived);
+
     ReorderBenchToOriginal(team);
 }
 
 private static void ReorderBenchToOriginal(Team team)
 {
     const int FirstBenchIndex = 4;
-
     if (team.TeamUnits.Count <= FirstBenchIndex)
         return;
 
     var original = TeamUtils.GetOriginalOrderSnapshot(team);
 
+    // Unidades en tablero (A..D)
     var onBoard = new HashSet<Unit>();
-    for (int i = 1; i <= 3 && i < team.TeamUnits.Count; i++)
+    for (int i = 0; i <= 3 && i < team.TeamUnits.Count; i++)
     {
         var u = team.TeamUnits[i];
         if (u != null) onBoard.Add(u);
     }
 
+    // Construye banca sin nulos, sin duplicados, sin las del tablero
     var bench = new List<Unit>();
     for (int i = FirstBenchIndex; i < team.TeamUnits.Count; i++)
     {
@@ -434,6 +521,7 @@ private static void ReorderBenchToOriginal(Team team)
         if (!bench.Contains(u)) bench.Add(u);
     }
 
+    // Ordenar banca según orden original
     bench.Sort((a, b) =>
     {
         int ia = original.IndexOf(a);
@@ -444,6 +532,7 @@ private static void ReorderBenchToOriginal(Team team)
         return ia.CompareTo(ib);
     });
 
+    // Reemplazar tramo de banca
     if (team.TeamUnits.Count > FirstBenchIndex)
         team.TeamUnits.RemoveRange(FirstBenchIndex, team.TeamUnits.Count - FirstBenchIndex);
 
@@ -528,7 +617,7 @@ private static bool ExecuteAttack(
 }
 
 
-private static ActionEffect BuildEffectForAffinity(Affinity affinity, ActionKind kind)
+public static ActionEffect BuildEffectForAffinity(Affinity affinity, ActionKind kind)
 {
 
     return affinity switch
@@ -555,12 +644,11 @@ private static ActionEffect BuildEffectForAffinity(Affinity affinity, ActionKind
     private static bool HandleInvitation(in ActionContext ctx, int mpCost, out ActionEffect effect)
     {
         effect = default;
-
-
+        
         
         var onFieldAlive = new HashSet<Unit>(ctx.Order);
 
-        // Candidatos = (OriginalRoster del equipo atacante) - (vivos en tablero) - (samurái)
+
         var candidates = ctx.OriginalRoster
             .Where(u => !TeamUtils.IsSamurai(u) && !onFieldAlive.Contains(u))
             .ToList();
