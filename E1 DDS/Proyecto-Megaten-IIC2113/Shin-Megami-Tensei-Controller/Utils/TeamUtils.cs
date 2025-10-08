@@ -38,8 +38,7 @@ internal static class TeamUtils
         }
         return new Team { TeamUnits = list };
     }
-
-    // ==== Rondas y lados:contentReference[oaicite:71]{index=71}
+    
     public static (Team attacking, Team defending, string attackerTag, string defenderTag, string attackingSamurai, string defendingSamurai)
         ResolveSidesAndTags(int player, Team t1, Team t2)
     {
@@ -51,7 +50,7 @@ internal static class TeamUtils
     }
 
     public static List<Unit> GetOrderForPlayer(BoardSetup board, int playerNumber) =>
-        (playerNumber == 1) ? board.BuildPlayer1RoundOrder() : board.BuildPlayer2RoundOrder(); // igual:contentReference[oaicite:72]{index=72}
+        (playerNumber == 1) ? board.BuildPlayer1RoundOrder() : board.BuildPlayer2RoundOrder();
 
     public static int AdvanceCursor(List<Unit> order, int cursor) =>
         (order.Count == 0) ? 0 : (cursor + 1) % order.Count;
@@ -169,21 +168,26 @@ internal static class TeamUtils
             if (s != null && s.Cost <= mp) list.Add(s);
         return list;
     }
-
     
-    private static void AdvanceCursorToNextAlive(List<Unit> order, ref int cursor)
+    public static List<Unit> GetOriginalOrderSnapshot(Team team)
     {
-        int n = order.Count;
-        for (int step = 1; step <= n; step++)
+        if (OriginalOrderByTeam.TryGetValue(team, out var cached) && cached is not null)
+            return cached;
+
+
+        var seen = new HashSet<Unit>(ReferenceEqualityComparer.Instance);
+        var snapshot = new List<Unit>();
+
+        foreach (var u in team.TeamUnits)
         {
-            var u = order[(cursor + step) % n];
-            if (u.Stats.HealthPoints > 0)
-            {
-                cursor = (cursor + step) % n;
-                return;
-            }
+            if (u is null) continue;
+            if (seen.Add(u)) snapshot.Add(u);
         }
+
+        OriginalOrderByTeam[team] = snapshot;
+        return snapshot;
     }
+
 
     
 }

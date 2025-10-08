@@ -10,78 +10,102 @@ namespace Shin_Megami_Tensei.Actions;
 
 internal static class TeamBoard
 {
-    public static bool HandleSummonAsSamurai(in ActionHandler.ActionContext ctx, out ActionHandler.ActionEffect effect)
+public static bool HandleSummonAsSamurai(in ActionHandler.ActionContext ctx, out ActionHandler.ActionEffect effect)
+{
+    var view = ctx.View;
+    var team = ctx.AttackingTeam;
+
+    var bench = GetAliveBenchOrdered(team);
+
+    view.WriteLine("Seleccione un monstruo para invocar");
+    if (bench.Count == 0)
     {
-        var view = ctx.View;
-        var team = ctx.AttackingTeam;
-
-        var bench = GetAliveBenchOrdered(team);
-
-        view.WriteLine("Seleccione un monstruo para invocar");
-        if (bench.Count == 0)
-        {
-            view.WriteLine("1-Cancelar");
-            Menus.ReadIndexAllowCancel(view, 1); effect = default; return false;
-        }
-        Menus.PrintBenchOptions(view, bench);
-        int pick = Menus.ReadIndexAllowCancel(view, bench.Count + 1);
-        if (pick == bench.Count + 1) { effect = default; return false; }
-
-        var summoned = bench[pick - 1];
-
-        view.WriteLine(TextSeparator);
-        view.WriteLine("Seleccione una posición para invocar");
-
-        var slots = TeamUtils.GetTeamSlots(team);
-        for (int i = 0; i < 3; i++)
-        {
-            int boardPos = i + 2; // 2..4
-            var occ = slots[boardPos - 1];
-            if (occ != null)
-                view.WriteLine($"{i + 1}-{occ.Name} HP:{occ.Stats.HealthPoints}/{occ.Stats.MaximumHealthPoints} MP:{occ.Stats.ManaPoints}/{occ.Stats.MaximumManaPoints} (Puesto {boardPos})");
-            else
-                view.WriteLine($"{i + 1}-Vacío (Puesto {boardPos})");
-        }
-        view.WriteLine("4-Cancelar");
-
-        int posChoice = Menus.ReadIndexAllowCancel(view, 4);
-        if (posChoice == 4) { effect = default; return false; }
-        int boardSlot = posChoice + 1; // 2..4
-
-        var previous = team.TeamUnits[boardSlot - 1];
-
-
-        int idxSummoned = team.TeamUnits.IndexOf(summoned);
-        team.TeamUnits[boardSlot - 1] = summoned;
-        if (previous != null) team.TeamUnits[idxSummoned] = previous;
-        else team.TeamUnits.RemoveAt(idxSummoned);
-
-
-        if (previous != null)
-        {
-
-            TeamUtils.ReplaceUnitInOrder(ctx.Order, previous, summoned);
-        }
-        else
-        {
-            ctx.Order.Remove(summoned);
-            var order    = ctx.Order;
-            var summoner = ctx.Actor;
-
-            order.Remove(summoned);
-            int summonerIdx = order.FindIndex(u => ReferenceEquals(u, summoner));
-            if (summonerIdx < 0) order.Add(summoned);
-            else order.Insert(summonerIdx, summoned);
-        }
-
-        view.WriteLine(TextSeparator);
-        view.WriteLine($"{summoned.Name} ha sido invocado");
-
-        ReorderBenchToOriginal(team);
-
-        effect = new ActionHandler.ActionEffect(0, 1, 1, ActionHandler.ActionKind.Summon);
-        return true;
+        view.WriteLine("1-Cancelar");
+        Menus.ReadIndexAllowCancel(view, 1);
+        effect = default;
+        return false;
     }
+
+    Menus.PrintBenchOptions(view, bench);
+    int pick = Menus.ReadIndexAllowCancel(view, bench.Count + 1);
+    if (pick == bench.Count + 1)
+    {
+        effect = default;
+        return false;
+    }
+
+    var summoned = bench[pick - 1];
+
+    view.WriteLine(TextSeparator);
+    view.WriteLine("Seleccione una posición para invocar");
+
+    // Mostrar SIEMPRE los 3 puestos (2..4), ocupados o vacíos
+    var slots = TeamUtils.GetTeamSlots(team);
+    for (int i = 0; i < 3; i++)
+    {
+        int boardPos = i + 2; // 2..4
+        var occ = slots[boardPos - 1];
+        if (occ != null)
+            view.WriteLine($"{i + 1}-{occ.Name} HP:{occ.Stats.HealthPoints}/{occ.Stats.MaximumHealthPoints} MP:{occ.Stats.ManaPoints}/{occ.Stats.MaximumManaPoints} (Puesto {boardPos})");
+        else
+            view.WriteLine($"{i + 1}-Vacío (Puesto {boardPos})");
+    }
+    view.WriteLine("4-Cancelar");
+
+    int posChoice = Menus.ReadIndexAllowCancel(view, 4);
+    if (posChoice == 4)
+    {
+        effect = default;
+        return false;
+    }
+
+    int boardSlot = posChoice + 1; // 2..4
+
+    var previous = team.TeamUnits[boardSlot - 1];
+    int idxSummoned = team.TeamUnits.IndexOf(summoned);
+
+    // Colocar el invocado
+    team.TeamUnits[boardSlot - 1] = summoned;
+
+    if (previous != null)
+    {
+        // swap si había alguien
+        if (idxSummoned >= 0) team.TeamUnits[idxSummoned] = previous;
+    }
+    else
+    {
+        // si el slot estaba vacío, NO reindexar: liberar origen con null
+        if (idxSummoned >= 0) team.TeamUnits[idxSummoned] = null;
+    }
+
+    // --- ORDEN DE TURNOS ---
+    if (previous != null)
+    {
+        // Reemplazo: mantiene el lugar del reemplazado
+        TeamUtils.ReplaceUnitInOrder(ctx.Order, previous, summoned);
+    }
+    else
+    {
+        // Slot vacío: insertarlo alrededor del actor (mismo criterio que Sabbatma)
+        ctx.Order.Remove(summoned); // por si acaso
+        var order = ctx.Order;
+        var summoner = ctx.Actor;
+
+        int summonerIdx = order.FindIndex(u => ReferenceEquals(u, summoner));
+        if (summonerIdx < 0) order.Add(summoned);
+        else order.Insert(summonerIdx, summoned);
+    }
+
+    view.WriteLine(TextSeparator);
+    view.WriteLine($"{summoned.Name} ha sido invocado");
+
+    // Importante: que esto no compacte nulls ni cambie el tamaño del roster
+    ReorderBenchToOriginal(team);
+
+    effect = new ActionHandler.ActionEffect(0,1,1,ActionHandler.ActionKind.Summon);
+    return true;
+}
+
 
     public static bool HandleSummonAsMonster(in ActionHandler.ActionContext ctx, out ActionHandler.ActionEffect effect)
     {
@@ -115,7 +139,7 @@ internal static class TeamBoard
 
         ReorderBenchToOriginal(team);
 
-        effect = new ActionHandler.ActionEffect(0, 0, 1, ActionHandler.ActionKind.Summon);
+        effect = new ActionHandler.ActionEffect(0, 1, 1, ActionHandler.ActionKind.Summon);
         return true;
     }
 
@@ -167,4 +191,215 @@ internal static class TeamBoard
         team.TeamUnits.AddRange(board);
         team.TeamUnits.AddRange(bench);
     }
+
+public static bool HandleSabbatma(
+    in ActionHandler.ActionContext ctx,
+    int manaCost,
+    out ActionHandler.ActionEffect effect)
+{
+    var view = ctx.View;
+    var team = ctx.AttackingTeam;
+
+    // Solo vivos; Sabbatma no revive
+    var bench = GetAliveBenchOrdered(team);
+    view.WriteLine("Seleccione un monstruo para invocar");
+    if (bench.Count == 0)
+    {
+        view.WriteLine("1-Cancelar");
+        Menus.ReadIndexAllowCancel(view, 1);
+        effect = default;
+        return false;
+    }
+
+    Menus.PrintBenchOptions(view, bench);
+    int pick = Menus.ReadIndexAllowCancel(view, bench.Count + 1);
+    if (pick == bench.Count + 1)
+    {
+        effect = default;
+        return false;
+    }
+
+    var summoned = bench[pick - 1];
+
+    view.WriteLine(TextSeparator);
+    view.WriteLine("Seleccione una posición para invocar");
+
+    var slots = TeamUtils.GetTeamSlots(team);
+    for (int i = 0; i < 3; i++)
+    {
+        int boardPos = i + 2; // 2..4
+        var occ = slots[boardPos - 1];
+        if (occ != null)
+            view.WriteLine($"{i + 1}-{occ.Name} HP:{occ.Stats.HealthPoints}/{occ.Stats.MaximumHealthPoints} MP:{occ.Stats.ManaPoints}/{occ.Stats.MaximumManaPoints} (Puesto {boardPos})");
+        else
+            view.WriteLine($"{i + 1}-Vacío (Puesto {boardPos})");
+    }
+    view.WriteLine("4-Cancelar");
+
+    int posChoice = Menus.ReadIndexAllowCancel(view, 4);
+    if (posChoice == 4)
+    {
+        effect = default;
+        return false;
+    }
+
+    int boardSlot = posChoice + 1; // 2..4
+
+    // Descuento de MP (después de elegir posición)
+    var stats = ctx.Actor.Stats;
+    if (stats.ManaPoints < manaCost)
+    {
+        effect = default;
+        return false;
+    }
+    stats.ManaPoints = Math.Max(0, stats.ManaPoints - manaCost);
+
+    // Mover piezas en el equipo
+    var previous     = team.TeamUnits[boardSlot - 1];
+    int idxSummoned  = team.TeamUnits.IndexOf(summoned);
+
+    team.TeamUnits[boardSlot - 1] = summoned;
+    if (previous != null) team.TeamUnits[idxSummoned] = previous;
+    else team.TeamUnits.RemoveAt(idxSummoned);
+
+    // --- ORDEN ---
+    var order  = ctx.Order;
+    var actor  = ctx.Actor; // <- copiar fuera del parámetro `in` para evitar capturarlo
+
+    if (previous != null)
+    {
+        // Reemplaza a alguien: hereda su lugar
+        TeamUtils.ReplaceUnitInOrder(order, previous, summoned);
+    }
+    else
+    {
+        // Puesto vacío: el input define la posición relativa
+        // Insertamos PRE-rotación en: (índiceActor + 1) + posChoice
+        int actorIdx = order.FindIndex(u => ReferenceEquals(u, actor)); // ok, no captura `ctx`
+        if (actorIdx < 0) actorIdx = order.Count;
+
+        int preRotationInsertIndex = Math.Min(order.Count, actorIdx + 1 + posChoice);
+
+        order.Remove(summoned);            // por si estaba
+        order.Insert(actorIdx, summoned);
+    }
+
+    view.WriteLine(TextSeparator);
+    view.WriteLine($"{summoned.Name} ha sido invocado");
+
+    effect = new ActionHandler.ActionEffect(
+        0, // consume 1 acción (el motor decide FT/BT)
+        0,
+        1,
+        ActionHandler.ActionKind.Skill
+    );
+
+    return true;
+}
+
+
+public static bool PlaceSummonedChoosingAnySlot(
+    in ActionHandler.ActionContext ctx,
+    Unit summoned,
+    int manaCost,
+    out ActionHandler.ActionEffect effect)
+{
+    var view = ctx.View;
+    var team = ctx.AttackingTeam;
+
+    view.WriteLine(CombatLogic.TextSeparator);
+    view.WriteLine("Seleccione una posición para invocar");
+
+    var slots = TeamUtils.GetTeamSlots(team);
+    for (int i = 0; i < 3; i++)
+    {
+        int boardPos = i + 2; // 2..4
+        var occ = slots[boardPos - 1];
+        if (occ != null)
+            view.WriteLine($"{i + 1}-{occ.Name} HP:{occ.Stats.HealthPoints}/{occ.Stats.MaximumHealthPoints} MP:{occ.Stats.ManaPoints}/{occ.Stats.MaximumManaPoints} (Puesto {boardPos})");
+        else
+            view.WriteLine($"{i + 1}-Vacío (Puesto {boardPos})");
+    }
+
+    view.WriteLine("4-Cancelar");
+
+    int posChoice = Menus.ReadIndexAllowCancel(view, 4);
+    if (posChoice == 4)
+    {
+        effect = default;
+        return false;
+    }
+
+    int boardSlot = posChoice + 1; // 2..4
+
+    // MP check + descuento
+    var stats = ctx.Actor.Stats;
+    if (stats.ManaPoints < manaCost)
+    {
+        effect = default;
+        return false;
+    }
+    stats.ManaPoints = Math.Max(0, stats.ManaPoints - manaCost);
+
+    // Mover piezas en el equipo
+    var previous    = team.TeamUnits[boardSlot - 1];
+    int idxSummoned = team.TeamUnits.IndexOf(summoned);
+
+    team.TeamUnits[boardSlot - 1] = summoned;
+    if (previous != null)
+    {
+        if (idxSummoned >= 0) team.TeamUnits[idxSummoned] = previous; // swap
+    }
+    else
+    {
+        if (idxSummoned >= 0) team.TeamUnits.RemoveAt(idxSummoned);   // quitar de banca
+    }
+
+    // --- ORDEN ---
+    var order = ctx.Order;
+    var actor = ctx.Actor;
+
+    if (previous != null)
+    {
+        // Reemplazo: hereda lugar del reemplazado
+        TeamUtils.ReplaceUnitInOrder(order, previous, summoned);
+    }
+    else
+    {
+        // Slot vacío: insertarlo cerca del actor (mismo criterio que Sabbatma)
+        order.Remove(summoned);
+        int actorIdx = order.FindIndex(u => ReferenceEquals(u, actor));
+        if (actorIdx < 0) actorIdx = order.Count;
+        order.Insert(actorIdx, summoned);
+    }
+
+    bool wasDead = summoned.Stats.HealthPoints <= 0;
+
+    view.WriteLine(CombatLogic.TextSeparator);
+    view.WriteLine($"{summoned.Name} ha sido invocado");
+    if (wasDead)
+    {
+        view.WriteLine($"{actor.Name} revive a {summoned.Name}");
+        view.WriteLine($"{summoned.Name} recibe {summoned.Stats.MaximumHealthPoints} de HP");
+        summoned.Stats.HealthPoints = summoned.Stats.MaximumHealthPoints; // set antes de imprimir “termina con”
+        view.WriteLine($"{summoned.Name} termina con HP:{summoned.Stats.HealthPoints}/{summoned.Stats.MaximumHealthPoints}");
+    }
+
+    bool isMenuSummon = manaCost == 0;
+    int  blinkGain    = isMenuSummon ? 1 : 0;
+    var  kind         = isMenuSummon ? ActionHandler.ActionKind.Summon
+                                     : ActionHandler.ActionKind.Skill;
+
+    effect = new ActionHandler.ActionEffect(
+        0,          // fullCost
+        blinkGain,  // blinkGain (RoundCounters lo aplica solo si se pagó con Full)
+        1,          // blinkCost (neutral)
+        kind
+    );
+    return true;
+}
+
+
+
+
 }

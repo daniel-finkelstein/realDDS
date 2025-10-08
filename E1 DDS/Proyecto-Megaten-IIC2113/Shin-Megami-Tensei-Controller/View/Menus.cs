@@ -11,7 +11,7 @@ internal static class Menus
     public static void ShowActionMenu(View view, Unit actor)
     {
         view.WriteLine($"Seleccione una acción para {actor.Name}");
-        if (Shin_Megami_Tensei.Utils.TeamUtils.IsSamurai(actor))
+        if (TeamUtils.IsSamurai(actor))
         {
             view.WriteLine("1: Atacar");
             view.WriteLine("2: Disparar");
@@ -114,6 +114,43 @@ internal static class Menus
         if (idx == k) return null;
         return opciones[idx - 1];
     }
+    
+    public static Unit? SelectDeadAllyTarget(View view, string actorName, Team team)
+    {
+        view.WriteLine("Seleccione un objetivo para " + actorName);
+
+        var original = TeamUtils.GetOriginalOrderSnapshot(team);
+
+        var opciones = new List<Unit>();
+        for (int i = 0; i < original.Count; i++)
+        {
+            var u = original[i];
+            if (u != null && u.Stats.HealthPoints <= 0)
+                opciones.Add(u);
+        }
+
+        if (opciones.Count == 0)
+        {
+            view.WriteLine("1-Cancelar");
+            ReadIndexAllowCancel(view, 1);
+            return null;
+        }
+
+        for (int i = 0; i < opciones.Count; i++)
+        {
+            var u = opciones[i];
+            view.WriteLine($"{i + 1}-{u.Name} HP:{u.Stats.HealthPoints}/{u.Stats.MaximumHealthPoints} MP:{u.Stats.ManaPoints}/{u.Stats.MaximumManaPoints}");
+        }
+        view.WriteLine($"{opciones.Count + 1}-Cancelar");
+
+        int pick = ReadIndexAllowCancel(view, opciones.Count + 1);
+        if (pick == opciones.Count + 1) return null;
+        return opciones[pick - 1];
+    }
+
+    
+    
+    
 
 
 }

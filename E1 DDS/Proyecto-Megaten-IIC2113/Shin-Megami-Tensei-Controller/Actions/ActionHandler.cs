@@ -17,7 +17,8 @@ internal static class ActionHandler
         Team AttackingTeam,
         Team DefendingTeam,
         List<Unit> Order,
-        List<Unit> InitialOrder);
+        List<Unit> InitialOrder,
+        List <Unit> OriginalRoster);
 
     internal enum ActionKind { Pass, Attack, Skill, Summon, Surrender }
 
@@ -95,7 +96,18 @@ internal static class ActionHandler
         var chosen = Menus.SelectSkill(ctx.View, ctx.Actor, usable);
         if (chosen is null) { effect = default; return false; }
 
-        // Según tipo: ofensiva (enemigo) o de soporte (aliado)
+        // ---- skills especiales de invocación (sin descontar MP aquí) ----
+        if (string.Equals(chosen.Name, "Sabbatma", StringComparison.OrdinalIgnoreCase))
+        {
+            ctx.View.WriteLine(CombatLogic.TextSeparator);
+            return TeamBoard.HandleSabbatma(in ctx, chosen.Cost, out effect);
+        }
+        if (string.Equals(chosen.Name, "Invitation", StringComparison.OrdinalIgnoreCase))
+        {
+            ctx.View.WriteLine(CombatLogic.TextSeparator);
+            return HandleInvitation(in ctx, chosen.Cost, out effect);
+        }
+        
         if (IsHeal(chosen))
             return ExecuteSkillHealSingle(in ctx, chosen, out effect);
 
@@ -103,7 +115,8 @@ internal static class ActionHandler
     }
 
 
-// === Agrega estos campos/helpers EN LA MISMA CLASE (p.ej. ActionHandler) ===
+
+    
 private static readonly Dictionary<object, int> _skillKByTeam = new();
 
 private static int GetTeamSkillK(object teamKey)
@@ -119,18 +132,15 @@ private static void BumpTeamSkillK(object teamKey)
 private static (int A, int B)? GetHitsRangeForSkill(Skill skill)
 {
     string name = (skill?.Name ?? "").Trim().ToLowerInvariant();
-
-    // Cubre todas las habilidades tipo "Claw"
+    
     if (name.EndsWith(" claw"))
         return (1, 3);
 
-    // Si tienes otras excepciones, márcalas acá:
-    // e.g. "double fangs" => (2, 2), etc.
     return null;
 }
 
 
-// Calcula los hits para ESTE uso, usando K actual del equipo
+
 private static int GetSkillHitCount(in ActionContext ctx, Skill skill)
 {
     var range = GetHitsRangeForSkill(skill);
@@ -146,21 +156,19 @@ private static int GetSkillHitCount(in ActionContext ctx, Skill skill)
 }
 
 
-// === Reemplaza tu ExecuteSkillAttackSingle por ESTE ===
 private static bool ExecuteSkillAttackSingle(in ActionContext ctx, Skill skill, out ActionEffect effect)
 {
-    // Separador ANTES de pedir objetivo (lo esperan los tests)
+
     ctx.View.WriteLine(CombatLogic.TextSeparator);
 
     var target = Menus.SelectTarget(ctx.View, ctx.Actor.Name, ctx.DefendingTeam);
     if (target is null) { effect = default; return false; }
 
-    // ¿Cuántos hits tocan ahora?
     int hits = GetSkillHitCount(ctx, skill);
     if (hits > 1)
         return ExecuteSkillAttackMulti(ctx, skill, target, hits, out effect);
 
-    // ===== SINGLE HIT =====
+
     ctx.View.WriteLine(CombatLogic.TextSeparator);
 
     var element = MapSkillTypeToElement(skill.Type);
@@ -224,7 +232,6 @@ private static bool ExecuteSkillAttackSingle(in ActionContext ctx, Skill skill, 
 }
 
 
-// === Multi-hit dedicado. Imprime acción+afinidad por hit y HP final una vez. ===
 private static bool ExecuteSkillAttackMulti(in ActionContext ctx, Skill skill, Unit target, int hits, out ActionEffect effect)
 {
     // Separador DESPUÉS de elegir objetivo
@@ -315,25 +322,9 @@ private static int GetSkillOffensiveStat(Unit attacker, string skillType)
     var s = attacker.Stats;
     return skillType.Equals("Phys", StringComparison.OrdinalIgnoreCase) ? s.PhysicalAttackPower :
            skillType.Equals("Gun",  StringComparison.OrdinalIgnoreCase) ? s.ShootingPower :
-           /* Fire/Ice/Elec/Force/Almighty */                           s.MagicalAttackPower;
+                          s.MagicalAttackPower;
 }
 
-
-
-
-private static AttackKind MapSkillTypeToAttackKind(string type)
-{
-    if (type.Equals("Gun", StringComparison.OrdinalIgnoreCase)) return AttackKind.Ranged;
-
-    if (type.Equals("Fire", StringComparison.OrdinalIgnoreCase) ||
-        type.Equals("Ice",  StringComparison.OrdinalIgnoreCase) ||
-        type.Equals("Elec", StringComparison.OrdinalIgnoreCase) ||
-        type.Equals("Force",StringComparison.OrdinalIgnoreCase) ||
-        type.Equals("Almighty", StringComparison.OrdinalIgnoreCase))
-        return AttackKind.Magic;
-
-    return AttackKind.Melee;
-}
 
 
     
@@ -341,20 +332,129 @@ private static bool ExecuteSkillHealSingle(in ActionContext ctx, Skill skill, ou
 {
     ctx.View.WriteLine(CombatLogic.TextSeparator);
 
-    var ally = Menus.SelectAllyTarget(ctx.View, ctx.Actor.Name, ctx.AttackingTeam);
-    if (ally is null) { effect = default; return false; }
+    static bool IsReviveSkill(string name) =>
+        name.Equals("Recarm", StringComparison.OrdinalIgnoreCase) ||
+        name.Equals("Samarecarm", StringComparison.OrdinalIgnoreCase) ||
+        name.Equals("Invitation", StringComparison.OrdinalIgnoreCase);
 
+    bool revive = IsReviveSkill(skill.Name);
+
+    var target = revive
+        ? Menus.SelectDeadAllyTarget(ctx.View, ctx.Actor.Name, ctx.AttackingTeam)
+        : Menus.SelectAllyTarget(ctx.View, ctx.Actor.Name, ctx.AttackingTeam);
+
+    if (target is null)
+    {
+        effect = default;
+        return false;
+    }
+
+    // Segundo separador, como en los ataques
     ctx.View.WriteLine(CombatLogic.TextSeparator);
-    ctx.View.WriteLine($"{ctx.Actor.Name} usa {skill.Name} sobre {ally.Name}");
 
-    int healed = HealService.ComputeAmount(skill, ally);
-    DamageSystem.Heal(ally, healed);
+    // Cobro de MP
+    var stats = ctx.Actor.Stats;
+    if (stats.ManaPoints < skill.Cost)
+    {
+        effect = default;
+        return false;
+    }
+    stats.ManaPoints = Math.Max(0, stats.ManaPoints - skill.Cost);
 
-    ctx.View.WriteLine($"{ally.Name} termina con HP:{ally.Stats.HealthPoints}/{ally.Stats.MaximumHealthPoints}");
+    // Mensaje
+    if (revive && target.Stats.HealthPoints <= 0)
+        ctx.View.WriteLine($"{ctx.Actor.Name} revive a {target.Name}");
+    else
+        ctx.View.WriteLine($"{ctx.Actor.Name} cura a {target.Name}");
 
-    effect = new ActionEffect(1, 0, 0, ActionKind.Skill);
+    // Curación: % del HP Máximo según skill.Power (25 → 25%, 50 → 50%, 100 → 100%)
+    int maxHp = target.Stats.MaximumHealthPoints;
+    int amount = (int)((decimal)maxHp * skill.Power / 100m);
+
+    // Aplica la curación / revive
+    DamageSystem.Heal(target, amount);
+
+    // --- FIX: si fue revive, asegurarse de que la unidad revivida vuelve al roster/bench ---
+    if (revive && target.Stats.HealthPoints > 0)
+    {
+        EnsureRevivedGoesToBench(ctx.AttackingTeam, target);
+    }
+
+    ctx.View.WriteLine($"{target.Name} recibe {amount} de HP");
+    ctx.View.WriteLine($"{target.Name} termina con HP:{target.Stats.HealthPoints}/{target.Stats.MaximumHealthPoints}");
+
+    // Coste de turnos para skills de soporte: 0 Full, 1 Blinking (como esperan los tests)
+    effect = new ActionEffect(0, 0, 1, ActionKind.Skill);
     return true;
 }
+
+
+private static void EnsureRevivedGoesToBench(Team team, Unit revived)
+{
+    // 1. Liberar el slot si estaba en el tablero (puestos 2..4 = índices 1..3)
+    for (int i = 1; i <= 3 && i < team.TeamUnits.Count; i++)
+    {
+        if (ReferenceEquals(team.TeamUnits[i], revived))
+        {
+            team.TeamUnits[i] = null;
+            break;
+        }
+    }
+
+    // 2. Asegurar que esté en el roster si no está
+    if (!team.TeamUnits.Contains(revived))
+        team.TeamUnits.Add(revived);
+
+    // 3. Reordenar la banca al orden original (manteniendo los nulls del tablero)
+    ReorderBenchToOriginal(team);
+}
+
+private static void ReorderBenchToOriginal(Team team)
+{
+    const int FirstBenchIndex = 4;
+
+    if (team.TeamUnits.Count <= FirstBenchIndex)
+        return;
+
+    var original = TeamUtils.GetOriginalOrderSnapshot(team);
+
+    var onBoard = new HashSet<Unit>();
+    for (int i = 1; i <= 3 && i < team.TeamUnits.Count; i++)
+    {
+        var u = team.TeamUnits[i];
+        if (u != null) onBoard.Add(u);
+    }
+
+    var bench = new List<Unit>();
+    for (int i = FirstBenchIndex; i < team.TeamUnits.Count; i++)
+    {
+        var u = team.TeamUnits[i];
+        if (u == null) continue;
+        if (onBoard.Contains(u)) continue;
+        if (!bench.Contains(u)) bench.Add(u);
+    }
+
+    bench.Sort((a, b) =>
+    {
+        int ia = original.IndexOf(a);
+        int ib = original.IndexOf(b);
+        if (ia < 0 && ib < 0) return 0;
+        if (ia < 0) return 1;
+        if (ib < 0) return -1;
+        return ia.CompareTo(ib);
+    });
+
+    if (team.TeamUnits.Count > FirstBenchIndex)
+        team.TeamUnits.RemoveRange(FirstBenchIndex, team.TeamUnits.Count - FirstBenchIndex);
+
+    team.TeamUnits.AddRange(bench);
+}
+
+
+
+
+
+
 
 private static bool IsHeal(Skill s) =>
     s.Type.Equals("Heal", StringComparison.OrdinalIgnoreCase);
@@ -367,7 +467,6 @@ private static decimal ComputeBaseAttackRaw(Unit attacker, AttackKind kind)
         : attacker.Stats.PhysicalAttackPower; // Phys → STR
 
     int modifier = kind == AttackKind.Ranged ? 80 : 54; // según pauta
-    // fórmula: Stat * Modificador * 0.0114  (todo en decimal, sin redondear)
     return (decimal)stat * modifier * 114m / 10000m;
 }
 
@@ -380,10 +479,7 @@ private static bool ExecuteAttack(
 {
     var target = Menus.SelectTarget(ctx.View, ctx.Actor.Name, ctx.DefendingTeam);
     if (target is null) { effect = default; return false; }
-
-    var dmgSvc  = damageService ?? new DamageService();
-    var command = new AttackCommand(ctx.Actor, target, kind);
-    int baseDmg = dmgSvc.Compute(command);
+    
 
     ctx.View.WriteLine(CombatLogic.TextSeparator);
     ctx.View.WriteLine(kind == AttackKind.Ranged
@@ -454,4 +550,41 @@ private static ActionEffect BuildEffectForAffinity(Affinity affinity, ActionKind
 
     private static bool HandleSummonMonster(in ActionContext ctx, out ActionEffect effect) =>
         TeamBoard.HandleSummonAsMonster(ctx, out effect);
+    
+    
+    private static bool HandleInvitation(in ActionContext ctx, int mpCost, out ActionEffect effect)
+    {
+        effect = default;
+
+
+        
+        var onFieldAlive = new HashSet<Unit>(ctx.Order);
+
+        // Candidatos = (OriginalRoster del equipo atacante) - (vivos en tablero) - (samurái)
+        var candidates = ctx.OriginalRoster
+            .Where(u => !TeamUtils.IsSamurai(u) && !onFieldAlive.Contains(u))
+            .ToList();
+
+        
+        ctx.View.WriteLine("Seleccione un monstruo para invocar");
+        for (int i = 0; i < candidates.Count; i++)
+        {
+            var u = candidates[i];
+            ctx.View.WriteLine($"{i + 1}-{u.Name} HP:{u.Stats.HealthPoints}/{u.Stats.MaximumHealthPoints} MP:{u.Stats.ManaPoints}/{u.Stats.MaximumManaPoints}");
+        }
+        ctx.View.WriteLine($"{candidates.Count + 1}-Cancelar");
+        
+        var line = ctx.View.ReadLine();
+        if (!int.TryParse(line, out int pick) || pick < 1 || pick > candidates.Count + 1)
+            return false;
+        if (pick == candidates.Count + 1) return false;
+
+        var chosen = candidates[pick - 1];
+        
+        return TeamBoard.PlaceSummonedChoosingAnySlot(in ctx, chosen, mpCost, out effect);
+
+
+    }
+
+
 }

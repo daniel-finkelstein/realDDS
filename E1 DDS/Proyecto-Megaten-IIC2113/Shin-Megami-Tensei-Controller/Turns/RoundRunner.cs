@@ -18,7 +18,8 @@ namespace Shin_Megami_Tensei.Turns
             string AttackerTag,
             Team AttackingTeam,
             Team DefendingTeam,
-            List<Unit> InitialOrder);
+            List<Unit> InitialOrder,
+            List<Unit> OriginalRoster);
 
         public static void PlayRound(View view, BoardSetup board, int player, Team p1, Team p2)
         {
@@ -27,8 +28,18 @@ namespace Shin_Megami_Tensei.Turns
 
             var order        = TeamUtils.GetOrderForPlayer(board, player);
             var initialOrder = new List<Unit>(order);
+            
+            TeamUtils.EnsureOriginalOrderSnapshot(p1);
+            TeamUtils.EnsureOriginalOrderSnapshot(p2);
+            
+            var originalRoster = TeamUtils.GetOriginalOrderSnapshot(attacking);
 
-            var rc = new RoundContext(view, board, p1, p2, order, attackingSamurai, attackerTag, attacking, defending, initialOrder);
+            var rc = new RoundContext(
+                view, board, p1, p2, order,
+                attackingSamurai, attackerTag,
+                attacking, defending, initialOrder,
+                originalRoster
+            );
 
             ViewRenderer.PrintRoundStart(rc.View, rc.AttackingSamuraiName, rc.AttackerTag, rc.Player1Team, rc.Player2Team);
 
@@ -38,11 +49,9 @@ namespace Shin_Megami_Tensei.Turns
                 return;
             }
 
-            TeamUtils.EnsureOriginalOrderSnapshot(p1);
-            TeamUtils.EnsureOriginalOrderSnapshot(p2);
-
             RunRound(in rc);
         }
+
 
         private static void RunRound(in RoundContext rc)
         {
@@ -80,12 +89,11 @@ namespace Shin_Megami_Tensei.Turns
             if (!CanProceed(rc.Board, full, blink)) return false;
 
             int aliveAfter = TeamUtils.CountAliveUnitsOnBoard(rc.AttackingTeam);
-            bool summonedIntoEmptySlot = effect.Kind == ActionHandler.ActionKind.Summon && aliveAfter > aliveBefore;
+            bool summonedIntoEmptySlot = aliveAfter > aliveBefore;
 
             if (summonedIntoEmptySlot && rc.Order.Count > 0)
                 cursor = (cursor + 1) % rc.Order.Count;
-
-            // 4) avance normal al siguiente vivo
+            
             cursor = TeamUtils.AdvanceCursor(rc.Order, cursor);
 
             ViewRenderer.ShowInterTurn(rc.View, rc.Player1Team, rc.Player2Team, rc.Order, cursor, full, blink);
@@ -107,7 +115,8 @@ namespace Shin_Megami_Tensei.Turns
                 rc.AttackingTeam,
                 rc.DefendingTeam,
                 rc.Order,
-                rc.InitialOrder
+                rc.InitialOrder,
+                rc.OriginalRoster
             );
 
             effect = ActionHandler.RunActionSelectionLoop(in actx);

@@ -27,4 +27,15 @@ internal static class SkillRuntime
         Element.Phys  => "ataca",
         _             => "usa una habilidad sobre"
     };
+    
+    // SkillRuntime.cs
+    public static bool IsReviveSkill(string skillName)
+    {
+        if (skillName is null) return false;
+        var n = skillName.Trim();
+        return n.Equals("Recarm", StringComparison.OrdinalIgnoreCase)
+               || n.Equals("Samarecarm", StringComparison.OrdinalIgnoreCase)
+               || n.Equals("Invitation", StringComparison.OrdinalIgnoreCase);
+    }
+
 }

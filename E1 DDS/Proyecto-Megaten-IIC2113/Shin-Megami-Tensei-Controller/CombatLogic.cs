@@ -4,7 +4,7 @@ using Shin_Megami_Tensei.Battle;
 
 namespace Shin_Megami_Tensei;
 
-public static partial class CombatLogic
+public static class CombatLogic
 {
     internal const string TextSeparator = "----------------------------------------";
 
