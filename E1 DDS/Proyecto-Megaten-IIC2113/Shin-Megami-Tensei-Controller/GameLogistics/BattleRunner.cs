@@ -2,6 +2,7 @@
 using Shin_Megami_Tensei_View;
 using Shin_Megami_Tensei.Turns;
 using Shin_Megami_Tensei.Utils;
+using Shin_Megami_Tensei.Board;
 
 namespace Shin_Megami_Tensei.Battle;
 
@@ -16,7 +17,7 @@ internal static class BattleRunner
 
     private static void PlayBattle(View view, BoardSetup board, Team p1, Team p2)
     {
-        while (!board.BattleOver())
+        while (!board.IsBattleOver())
         {
             if (HasBattleEndedAfterRound(view, board, 1, p1, p2)) break;
             if (HasBattleEndedAfterRound(view, board, 2, p1, p2)) break;
@@ -31,7 +32,7 @@ internal static class BattleRunner
 
     private static bool HasWinnerAndPrinted(View view, BoardSetup board, Team p1, Team p2, int actingPlayer)
     {
-        if (!board.BattleOver()) return false;
+        if (!board.IsBattleOver()) return false;
         ViewRenderer.PrintWinner(view, p1, p2, actingPlayer);
         return true;
     }

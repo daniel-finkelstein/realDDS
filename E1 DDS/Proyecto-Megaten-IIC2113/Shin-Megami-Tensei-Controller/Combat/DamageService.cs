@@ -25,7 +25,6 @@ namespace Shin_Megami_Tensei.Combat
 
     public interface IDamageService
     {
-        int Compute(AttackCommand cmd);
     }
 
     public sealed class DamageService : IDamageService

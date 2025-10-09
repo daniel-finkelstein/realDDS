@@ -4,7 +4,7 @@ namespace Shin_Megami_Tensei.Actions;
 
 internal sealed class SurrenderAction : ICombatAction
 {
-    public bool TryExecute(in ActionHandler.ActionContext ctx, out ActionHandler.ActionEffect effect)
+    public bool IsExecuteActionSuccess(in ActionHandler.ActionContext ctx, out ActionHandler.ActionEffect effect)
     {
         ctx.View.WriteLine($"{ctx.AttackingSamuraiName} ({ctx.AttackerTag}) se rinde");
         TeamUtils.DefeatTeam(ctx.AttackingTeam);

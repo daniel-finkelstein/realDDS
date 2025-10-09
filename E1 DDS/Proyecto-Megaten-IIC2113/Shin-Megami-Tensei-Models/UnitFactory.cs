@@ -2,34 +2,38 @@
 using System.Collections.Generic;
 using Shin_Megami_Tensei_Models;
 
+namespace Shin_Megami_Tensei;
+
 public static class UnitFactory
 {
-    public static Unit Clone(Unit u)
+
+    public static Unit Clone(Unit source)
     {
-        var stats  = CloneStats(u.Stats);
-        IEnumerable<Skill>? skills = u.Skills;
-        var affinities = u.Affinities;
-        return u switch
+        var clonedStats   = CopyStats(source.Stats);
+        IEnumerable<Skill>? skills = source.Skills;
+        var affinities    = source.Affinities;
+
+        return source switch
         {
-            Samurai => new Samurai(u.Name, stats, skills, affinities),
-            Monster => new Monster(u.Name, stats, skills, affinities),
-            _ => throw new NotSupportedException($"No sé clonar {u.GetType().Name}")
+            Samurai => new Samurai(source.Name, clonedStats, skills, affinities),
+            Monster => new Monster(source.Name, clonedStats, skills, affinities),
+            _       => throw new NotSupportedException($"No sé clonar {source.GetType().Name}")
         };
     }
 
-    private static Stats CloneStats(Stats s)
+    private static Stats CopyStats(Stats original)
     {
         var copy = new Stats(
-            s.HealthPoints,
-            s.ManaPoints,
-            s.PhysicalAttackPower,
-            s.ShootingPower,
-            s.MagicalAttackPower,
-            s.AttackOrder,
-            s.AbilityEffectiveness
+            original.HealthPoints,
+            original.ManaPoints,
+            original.PhysicalAttackPower,
+            original.ShootingPower,
+            original.MagicalAttackPower,
+            original.AttackOrder,
+            original.AbilityEffectiveness
         );
-        copy.MaximumHealthPoints = s.MaximumHealthPoints;
-        copy.MaximumManaPoints   = s.MaximumManaPoints;
+        copy.MaximumHealthPoints = original.MaximumHealthPoints;
+        copy.MaximumManaPoints   = original.MaximumManaPoints;
         return copy;
     }
 }

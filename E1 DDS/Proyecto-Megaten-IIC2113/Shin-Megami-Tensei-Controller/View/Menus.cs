@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Shin_Megami_Tensei_Models;
 using Shin_Megami_Tensei_View;
 using Shin_Megami_Tensei.Utils;
+using Shin_Megami_Tensei.Combat;
 
 namespace Shin_Megami_Tensei;
 
@@ -11,6 +12,7 @@ internal static class Menus
     public static void ShowActionMenu(View view, Unit actor)
     {
         view.WriteLine($"Seleccione una acción para {actor.Name}");
+
         if (TeamUtils.IsSamurai(actor))
         {
             view.WriteLine("1: Atacar");
@@ -29,52 +31,36 @@ internal static class Menus
         }
     }
 
-    public static void AfterSelectionSeparator(View view) => view.WriteLine(CombatLogic.TextSeparator);
+    public static void AfterSelectionSeparator(View view) =>
+        view.WriteLine(CombatLogic.TextSeparator);
 
-    public static int ReadMenuInput(View view) => ReadBoundedOrDefault(view, 1, 6, 1);
-    public static int ReadIndexAllowCancel(View view, int maxInclusive) => ReadBoundedOrDefault(view, 1, maxInclusive, 1);
+    public static int ReadMenuInput(View view) =>
+        ReadIntInRangeOrDefault(view, min: 1, max: 6, @default: 1);
 
-    private static int ReadBoundedOrDefault(View view, int min, int max, int @default)
-    {
-        var line = view.ReadLine();
-        if (!int.TryParse(line, out var val)) return @default;
-        return (val < min || val > max) ? @default : val;
-    }
-
+    public static int ReadIndexAllowCancel(View view, int maxInclusive) =>
+        ReadIntInRangeOrDefault(view, min: 1, max: maxInclusive, @default: 1);
+    
     public static Unit? SelectTarget(View view, string attackerName, Team defendingTeam)
     {
-        var opts = Shin_Megami_Tensei.Utils.TeamUtils.BuildTargetOptions(defendingTeam);
-        if (opts.Count == 0) return null;
+        var options = TeamUtils.BuildTargetOptions(defendingTeam);
+        if (options.Count == 0) return null;
 
         view.WriteLine($"Seleccione un objetivo para {attackerName}");
-        for (int i = 0; i < opts.Count; i++)
-        {
-            var u = opts[i];
-            view.WriteLine($"{i + 1}-{u.Name} HP:{u.Stats.HealthPoints}/{u.Stats.MaximumHealthPoints} MP:{u.Stats.ManaPoints}/{u.Stats.MaximumManaPoints}");
-        }
-        view.WriteLine($"{opts.Count + 1}-Cancelar");
+        PrintUnitOptionsWithCancel(view, options);
 
-        int cancel = opts.Count + 1;
-        int choice = ReadIndexAllowCancel(view, cancel);
-        if (choice == cancel) return null;
-
-        return opts[choice - 1];
+        int cancelIndex = options.Count + 1;
+        int choice = ReadIndexAllowCancel(view, cancelIndex);
+        return (choice == cancelIndex) ? null : options[choice - 1];
     }
 
-    public static void PrintBenchOptions(View view, List<Unit> bench)
-    {
-        for (int i = 0; i < bench.Count; i++)
-        {
-            var u = bench[i];
-            view.WriteLine($"{i + 1}-{u.Name} HP:{u.Stats.HealthPoints}/{u.Stats.MaximumHealthPoints} MP:{u.Stats.ManaPoints}/{u.Stats.MaximumManaPoints}");
-        }
-        view.WriteLine($"{bench.Count + 1}-Cancelar");
-    }
+    public static void PrintBenchOptions(View view, List<Unit> bench) =>
+        PrintUnitOptionsWithCancel(view, bench);
 
     public static Skill? SelectSkill(View view, Unit actor, IList<Skill> usable)
     {
         view.WriteLine("Seleccione una habilidad para que " + actor.Name + " use");
-        if (usable == null || usable.Count == 0)
+
+        if (usable is null || usable.Count == 0)
         {
             view.WriteLine("1-Cancelar");
             ReadIndexAllowCancel(view, 1);
@@ -85,72 +71,82 @@ internal static class Menus
             view.WriteLine($"{i + 1}-{usable[i].Name} MP:{usable[i].Cost}");
         view.WriteLine($"{usable.Count + 1}-Cancelar");
 
-        int pick = ReadIndexAllowCancel(view, usable.Count + 1);
-        if (pick == usable.Count + 1) return null;
-        return usable[pick - 1];
+        int picked = ReadIndexAllowCancel(view, usable.Count + 1);
+        return (picked == usable.Count + 1) ? null : usable[picked - 1];
     }
-    
+
     public static Unit? SelectAllyTarget(View view, string actorName, Team team)
     {
         view.WriteLine("Seleccione un objetivo para " + actorName);
-        var slots = TeamUtils.GetTeamSlots(team);
 
-        var opciones = new List<Unit>();
-        int k = 1;
-        for (int i = 0; i < slots.Length; i++)   // <- Length, y son 4
+        var boardSlots = TeamUtils.GetTeamSlots(team);
+        var options = new List<Unit>();
+
+        for (int i = 0; i < boardSlots.Length; i++)
         {
-            var u = slots[i];
-            if (u != null && u.Stats.HealthPoints > 0) // solo vivos en tablero
-            {
-                view.WriteLine($"{k}-{u.Name} HP:{u.Stats.HealthPoints}/{u.Stats.MaximumHealthPoints} MP:{u.Stats.ManaPoints}/{u.Stats.MaximumManaPoints}");
-                opciones.Add(u);
-                k++;
-            }
-        }
-        view.WriteLine($"{k}-Cancelar");
-
-        int idx = Menus.ReadIndexAllowCancel(view, k);
-        if (idx == k) return null;
-        return opciones[idx - 1];
-    }
-
-    
-    public static Unit? SelectDeadAllyTarget(View view, string actorName, Team team)
-    {
-        view.WriteLine("Seleccione un objetivo para " + actorName);
-
-        var original = TeamUtils.GetOriginalOrderSnapshot(team);
-
-        var opciones = new List<Unit>();
-        for (int i = 0; i < original.Count; i++)
-        {
-            var u = original[i];
-            if (u != null && u.Stats.HealthPoints <= 0)
-                opciones.Add(u);
+            var u = boardSlots[i];
+            if (u != null && u.Stats.HealthPoints > 0)
+                options.Add(u);
         }
 
-        if (opciones.Count == 0)
+        if (options.Count == 0)
         {
             view.WriteLine("1-Cancelar");
             ReadIndexAllowCancel(view, 1);
             return null;
         }
 
-        for (int i = 0; i < opciones.Count; i++)
-        {
-            var u = opciones[i];
-            view.WriteLine($"{i + 1}-{u.Name} HP:{u.Stats.HealthPoints}/{u.Stats.MaximumHealthPoints} MP:{u.Stats.ManaPoints}/{u.Stats.MaximumManaPoints}");
-        }
-        view.WriteLine($"{opciones.Count + 1}-Cancelar");
+        PrintUnitOptionsWithCancel(view, options);
 
-        int pick = ReadIndexAllowCancel(view, opciones.Count + 1);
-        if (pick == opciones.Count + 1) return null;
-        return opciones[pick - 1];
+        int cancelIndex = options.Count + 1;
+        int choice = ReadIndexAllowCancel(view, cancelIndex);
+        return (choice == cancelIndex) ? null : options[choice - 1];
     }
 
-    
-    
-    
+    public static Unit? SelectDeadAllyTarget(View view, string actorName, Team team)
+    {
+        view.WriteLine("Seleccione un objetivo para " + actorName);
 
+        var original = TeamUtils.GetOriginalOrderSnapshot(team);
+        var options  = new List<Unit>();
 
+        for (int i = 0; i < original.Count; i++)
+        {
+            var u = original[i];
+            if (u != null && u.Stats.HealthPoints <= 0)
+                options.Add(u);
+        }
+
+        if (options.Count == 0)
+        {
+            view.WriteLine("1-Cancelar");
+            ReadIndexAllowCancel(view, 1);
+            return null;
+        }
+
+        PrintUnitOptionsWithCancel(view, options);
+
+        int cancelIndex = options.Count + 1;
+        int choice = ReadIndexAllowCancel(view, cancelIndex);
+        return (choice == cancelIndex) ? null : options[choice - 1];
+    }
+
+    private static int ReadIntInRangeOrDefault(View view, int min, int max, int @default)
+    {
+        var line = view.ReadLine();
+        if (!int.TryParse(line, out var value)) return @default;
+        return (value < min || value > max) ? @default : value;
+    }
+
+    private static void PrintUnitOptionsWithCancel(View view, IList<Unit> units)
+    {
+        for (int i = 0; i < units.Count; i++)
+        {
+            var u = units[i];
+            view.WriteLine($"{i + 1}-{u.Name} " +
+                           $"HP:{u.Stats.HealthPoints}/{u.Stats.MaximumHealthPoints} " +
+                           $"MP:{u.Stats.ManaPoints}/{u.Stats.MaximumManaPoints}");
+        }
+        view.WriteLine($"{units.Count + 1}-Cancelar");
+    }
 }

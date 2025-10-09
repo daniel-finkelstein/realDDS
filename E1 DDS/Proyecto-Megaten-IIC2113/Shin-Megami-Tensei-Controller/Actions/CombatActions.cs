@@ -4,5 +4,6 @@ namespace Shin_Megami_Tensei.Actions;
 
 internal interface ICombatAction
 {
-    bool TryExecute(in ActionHandler.ActionContext ctx, out ActionHandler.ActionEffect effect);
+    bool IsExecuteActionSuccess(in ActionHandler.ActionContext ctx, out ActionHandler.ActionEffect effect);
+    
 }

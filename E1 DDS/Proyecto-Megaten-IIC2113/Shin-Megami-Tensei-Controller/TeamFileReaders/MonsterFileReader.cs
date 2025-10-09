@@ -8,9 +8,14 @@ namespace Shin_Megami_Tensei
 {
     internal static class MonsterFileReader
     {
-        private static Dictionary<string, Stats>? _statsByName;
+        private static Dictionary<string, Stats>?           _statsByName;
         private static Dictionary<string, AffinityProfile>? _affinityByName;
-        private static Dictionary<string, List<string>>? _skillsByName;
+        private static Dictionary<string, List<string>>?    _skillsByName;
+
+        private static readonly JsonSerializerOptions JsonOptions = new()
+        {
+            PropertyNameCaseInsensitive = true
+        };
         
 
         public static void LoadMonsterDataFromFile(string referenceFilePath)
@@ -27,6 +32,7 @@ namespace Shin_Megami_Tensei
         {
             if (_statsByName != null && _statsByName.TryGetValue(NormalizeName(name), out stats))
                 return true;
+
             stats = default!;
             return false;
         }
@@ -35,6 +41,7 @@ namespace Shin_Megami_Tensei
         {
             if (_affinityByName != null && _affinityByName.TryGetValue(NormalizeName(name), out affinities))
                 return true;
+
             affinities = AffinityProfile.NeutralAll;
             return false;
         }
@@ -52,8 +59,7 @@ namespace Shin_Megami_Tensei
             _statsByName != null && _affinityByName != null && _skillsByName != null;
 
         private static string? ResolveMonstersJsonPath(string referenceFilePath) =>
-            FindMonstersJsonNear(referenceFilePath) ??
-            FindMonstersJsonNear(AppContext.BaseDirectory);
+            FindMonstersJsonNear(referenceFilePath) ?? FindMonstersJsonNear(AppContext.BaseDirectory);
 
         private static string? FindMonstersJsonNear(string? anyPathInTree)
         {
@@ -65,7 +71,7 @@ namespace Shin_Megami_Tensei
                 var rootCandidate  = Path.Combine(current, "monsters.json");
                 if (File.Exists(rootCandidate)) return rootCandidate;
 
-                var dataCandidate = Path.Combine(Path.Combine(current, "data"), "monsters.json");
+                var dataCandidate = Path.Combine(current, "data", "monsters.json");
                 if (File.Exists(dataCandidate)) return dataCandidate;
             }
             return null;
@@ -86,49 +92,42 @@ namespace Shin_Megami_Tensei
 
         private static string NormalizeName(string name)
         {
-            var trimmed = name.Trim();
+            var trimmed = (name ?? string.Empty).Trim();
             return trimmed.EndsWith(".", StringComparison.Ordinal) ? trimmed[..^1].Trim() : trimmed;
         }
-
-        // =============== Carga desde JSON ===============
-
-        private static readonly JsonSerializerOptions JsonOptions = new()
-        {
-            PropertyNameCaseInsensitive = true
-        };
+        
 
         private static List<MonsterJson> DeserializeMonsterList(string json) =>
             JsonSerializer.Deserialize<List<MonsterJson>>(json, JsonOptions) ?? new List<MonsterJson>();
 
         private static Dictionary<string, Stats> LoadStatsMapOrEmpty(string? jsonPath)
         {
-            if (jsonPath is null) return NewStatsMap();
-            var json  = File.ReadAllText(jsonPath);
-            var items = DeserializeMonsterList(json);
+            if (jsonPath is null) return new(StringComparer.OrdinalIgnoreCase);
+            var items = DeserializeMonsterList(File.ReadAllText(jsonPath));
             return BuildStatsMap(items);
         }
 
         private static Dictionary<string, AffinityProfile> LoadAffinityMapOrEmpty(string? jsonPath)
         {
-            if (jsonPath is null) return NewAffinityMap();
-            var json  = File.ReadAllText(jsonPath);
-            var items = DeserializeMonsterList(json);
+            if (jsonPath is null) return new(StringComparer.OrdinalIgnoreCase);
+            var items = DeserializeMonsterList(File.ReadAllText(jsonPath));
             return BuildAffinitiesMap(items);
         }
 
-        private static Dictionary<string, List<string>> LoadSkillsMapOrEmpty(string? jsonPath)
+        private static Dictionary<String, List<string>> LoadSkillsMapOrEmpty(string? jsonPath)
         {
             var map = new Dictionary<string, List<string>>(StringComparer.OrdinalIgnoreCase);
             if (jsonPath is null) return map;
 
-            var json  = File.ReadAllText(jsonPath);
-            var items = DeserializeMonsterList(json);
+            var items = DeserializeMonsterList(File.ReadAllText(jsonPath));
             foreach (var it in items)
             {
                 if (!HasValidName(it)) continue;
+
                 var key   = NormalizeName(it!.name!);
                 var names = it.skills ?? new List<string>();
-                var list  = new List<string>();
+                var list  = new List<string>(capacity: names.Count);
+
                 foreach (var s in names)
                 {
                     var t = (s ?? string.Empty).Trim();
@@ -139,15 +138,9 @@ namespace Shin_Megami_Tensei
             return map;
         }
 
-        private static Dictionary<string, Stats> NewStatsMap() =>
-            new(StringComparer.OrdinalIgnoreCase);
-
-        private static Dictionary<string, AffinityProfile> NewAffinityMap() =>
-            new(StringComparer.OrdinalIgnoreCase);
-
         private static Dictionary<string, Stats> BuildStatsMap(List<MonsterJson> items)
         {
-            var map = NewStatsMap();
+            var map = new Dictionary<string, Stats>(StringComparer.OrdinalIgnoreCase);
             foreach (var item in items)
                 AddStatsEntry(map, item);
             return map;
@@ -174,20 +167,16 @@ namespace Shin_Megami_Tensei
         private static bool HasValidName(MonsterJson? item) =>
             !string.IsNullOrWhiteSpace(item?.name);
 
-        private static Stats CreateStats(MonsterStatsJson stats) =>
-            new(hp: stats.HP, mp: stats.MP, str: stats.Str, skl: stats.Skl, mag: stats.Mag, spd: stats.Spd, lck: stats.Lck);
-
-        // =============== Afinidades ===============
+        private static Stats CreateStats(MonsterStatsJson s) =>
+            new(hp: s.HP, mp: s.MP, str: s.Str, skl: s.Skl, mag: s.Mag, spd: s.Spd, lck: s.Lck);
 
         private static Dictionary<string, AffinityProfile> BuildAffinitiesMap(List<MonsterJson> items)
         {
-            var map = NewAffinityMap();
+            var map = new Dictionary<string, AffinityProfile>(StringComparer.OrdinalIgnoreCase);
             foreach (var item in items)
             {
                 if (!HasValidName(item)) continue;
-                var key  = NormalizeName(item!.name!);
-                var prof = CreateAffinityProfile(item.affinity);
-                map[key] = prof;
+                map[NormalizeName(item!.name!)] = CreateAffinityProfile(item.affinity);
             }
             return map;
         }
@@ -232,14 +221,14 @@ namespace Shin_Megami_Tensei
                 _    => Affinity.Neutral
             };
 
-        // =============== Tipos JSON ===============
+        // ----- Tipos JSON -----
 
         private sealed class MonsterJson
         {
             public string? name { get; set; }
             public Dictionary<string, string>? affinity { get; set; }
             public MonsterStatsJson? stats { get; set; }
-            public List<string>? skills { get; set; } // <-- NUEVO
+            public List<string>? skills { get; set; }
         }
 
         private sealed class MonsterStatsJson

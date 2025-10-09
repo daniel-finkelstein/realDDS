@@ -3,11 +3,15 @@ using System.Collections.Generic;
 using Shin_Megami_Tensei_Models;
 using Shin_Megami_Tensei_View;
 using Shin_Megami_Tensei.Turns;
+using Shin_Megami_Tensei.Board;
 
 namespace Shin_Megami_Tensei.Utils;
 
 internal static class TeamUtils
 {
+    private static readonly Dictionary<Team, List<Unit>> OriginalOrderByTeam = new();
+    
+
     public static (Team clonedPlayer1, Team clonedPlayer2) PrepareTeamsForGame(Team t1, Team t2)
     {
         var p1 = CloneTeam(t1);
@@ -17,35 +21,14 @@ internal static class TeamUtils
         return (p1, p2);
     }
 
-    private static void ResetTeamToMax(Team team)
-    {
-        for (int i = 0; i < team.TeamUnits.Count; i++)
-        {
-            var u = team.TeamUnits[i];
-            if (u == null) continue;
-            u.Stats.HealthPoints = u.Stats.MaximumHealthPoints;
-            u.Stats.ManaPoints   = u.Stats.MaximumManaPoints;
-        }
-    }
-
-    private static Team CloneTeam(Team team)
-    {
-        var list = new List<Unit>(team.TeamUnits.Count);
-        for (int i = 0; i < team.TeamUnits.Count; i++)
-        {
-            var u = team.TeamUnits[i];
-            list.Add(u is null ? null : UnitFactory.Clone(u));
-        }
-        return new Team { TeamUnits = list };
-    }
-    
     public static (Team attacking, Team defending, string attackerTag, string defenderTag, string attackingSamurai, string defendingSamurai)
         ResolveSidesAndTags(int player, Team t1, Team t2)
     {
-        var attacking  = (player == 1) ? t1 : t2;
-        var defending  = (player == 1) ? t2 : t1;
+        var attacking   = (player == 1) ? t1 : t2;
+        var defending   = (player == 1) ? t2 : t1;
         var attackerTag = (player == 1) ? "J1" : "J2";
         var defenderTag = (player == 1) ? "J2" : "J1";
+
         return (attacking, defending, attackerTag, defenderTag, GetSamuraiName(attacking), GetSamuraiName(defending));
     }
 
@@ -64,24 +47,9 @@ internal static class TeamUtils
         }
         return null;
     }
-    
 
-    // ==== Identidad y slots:contentReference[oaicite:75]{index=75}
-    public static string GetSamuraiName(Team team) => TryGetSamuraiName(team) ?? TryGetFirstUnitName(team) ?? "Jugador";
-
-    private static string? TryGetSamuraiName(Team team)
-    {
-        for (int i = 0; i < team.TeamUnits.Count; i++)
-            if (IsSamurai(team.TeamUnits[i])) return team.TeamUnits[i]!.Name;
-        return null;
-    }
-
-    private static string? TryGetFirstUnitName(Team team)
-    {
-        for (int i = 0; i < team.TeamUnits.Count; i++)
-            if (team.TeamUnits[i] != null) return team.TeamUnits[i]!.Name;
-        return null;
-    }
+    public static string GetSamuraiName(Team team) =>
+        TryGetSamuraiName(team) ?? TryGetFirstUnitName(team) ?? "Jugador";
 
     public static bool IsSamurai(Unit? unit) =>
         unit != null && string.Equals(unit.Type, "Samurai", StringComparison.OrdinalIgnoreCase);
@@ -131,14 +99,13 @@ internal static class TeamUtils
             if (slots[i]?.Stats.HealthPoints > 0) opponentUnits.Add(slots[i]!);
         return opponentUnits;
     }
-    
-    private static readonly Dictionary<Team, List<Unit>> OriginalOrderByTeam = new();
+
     public static void EnsureOriginalOrderSnapshot(Team team)
     {
         if (!OriginalOrderByTeam.ContainsKey(team))
             OriginalOrderByTeam[team] = new List<Unit>(team.TeamUnits);
     }
-    
+
     public static (Team team, string tag) ResolveWinnerByBoard(Team p1, Team p2, int actingPlayer)
     {
         bool p1Alive = CountAliveUnitsOnBoard(p1) > 0;
@@ -158,22 +125,23 @@ internal static class TeamUtils
         }
         return alive;
     }
-    
+
     public static List<Skill> GetUsableSkills(Unit unit)
     {
-        var list = new List<Skill>();
-        if (unit?.Skills == null) return list;
-        int mp = unit.Stats.ManaPoints;
+        var usable = new List<Skill>();
+        if (unit?.Skills == null) return usable;
+
+        int currentMp = unit.Stats.ManaPoints;
         foreach (var s in unit.Skills)
-            if (s != null && s.Cost <= mp) list.Add(s);
-        return list;
+            if (s != null && s.Cost <= currentMp) usable.Add(s);
+
+        return usable;
     }
-    
+
     public static List<Unit> GetOriginalOrderSnapshot(Team team)
     {
         if (OriginalOrderByTeam.TryGetValue(team, out var cached) && cached is not null)
             return cached;
-
 
         var seen = new HashSet<Unit>(ReferenceEqualityComparer.Instance);
         var snapshot = new List<Unit>();
@@ -187,7 +155,42 @@ internal static class TeamUtils
         OriginalOrderByTeam[team] = snapshot;
         return snapshot;
     }
-
-
     
+
+    private static void ResetTeamToMax(Team team)
+    {
+        for (int i = 0; i < team.TeamUnits.Count; i++)
+        {
+            var unit = team.TeamUnits[i];
+            if (unit == null) continue;
+
+            unit.Stats.HealthPoints = unit.Stats.MaximumHealthPoints;
+            unit.Stats.ManaPoints   = unit.Stats.MaximumManaPoints;
+        }
+    }
+
+    private static Team CloneTeam(Team team)
+    {
+        var clones = new List<Unit>(team.TeamUnits.Count);
+        for (int i = 0; i < team.TeamUnits.Count; i++)
+        {
+            var src = team.TeamUnits[i];
+            clones.Add(src is null ? null : UnitFactory.Clone(src));
+        }
+        return new Team { TeamUnits = clones };
+    }
+
+    private static string? TryGetSamuraiName(Team team)
+    {
+        for (int i = 0; i < team.TeamUnits.Count; i++)
+            if (IsSamurai(team.TeamUnits[i])) return team.TeamUnits[i]!.Name;
+        return null;
+    }
+
+    private static string? TryGetFirstUnitName(Team team)
+    {
+        for (int i = 0; i < team.TeamUnits.Count; i++)
+            if (team.TeamUnits[i] != null) return team.TeamUnits[i]!.Name;
+        return null;
+    }
 }
