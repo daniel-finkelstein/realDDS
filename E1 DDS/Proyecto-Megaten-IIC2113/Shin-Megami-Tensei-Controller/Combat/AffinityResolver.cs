@@ -5,7 +5,7 @@ namespace Shin_Megami_Tensei.Combat
     public interface IAffinityResolver
     {
         Affinity Resolve(Unit attacker, Unit defender, AttackKind kind);
-        Affinity Resolve(Unit attacker, Unit defender, Element element); // NEW
+        Affinity Resolve(Unit attacker, Unit defender, Element element);
     }
 
     public sealed class DefaultAffinityResolver : IAffinityResolver

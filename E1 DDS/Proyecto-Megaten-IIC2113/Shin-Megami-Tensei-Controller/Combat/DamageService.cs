@@ -15,9 +15,9 @@ namespace Shin_Megami_Tensei.Combat
             var s = attacker.Stats;
             return kind switch
             {
-                AttackKind.Ranged => s.ShootingPower,       // SKL
-                AttackKind.Magic  => s.MagicalAttackPower,  // MAG  ✅
-                AttackKind.Melee  => s.PhysicalAttackPower, // STR
+                AttackKind.Ranged => s.ShootingPower,
+                AttackKind.Magic  => s.MagicalAttackPower,
+                AttackKind.Melee  => s.PhysicalAttackPower,
                 _                 => s.PhysicalAttackPower
             };
         }

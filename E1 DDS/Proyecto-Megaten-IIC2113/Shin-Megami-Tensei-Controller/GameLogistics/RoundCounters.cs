@@ -1,5 +1,10 @@
-﻿namespace Shin_Megami_Tensei.Turns
+﻿using System;
+
+namespace Shin_Megami_Tensei.Turns
 {
+    /// <summary>
+    /// Contiene y actualiza los contadores de turno: Full y Blink.
+    /// </summary>
     internal struct RoundCounters
     {
         public int Full  { get; private set; }
@@ -7,77 +12,100 @@
 
         public RoundCounters(int full, int blink)
         {
-            Full = full;
+            Full  = full;
             Blink = blink;
         }
-
+        
         public (int fullUsed, int blinkUsed, int blinkGained)
             ApplyCost(int fullCost, int blinkGain, int blinkCost)
         {
-            int usedFull = 0, usedBlink = 0, gainedBlink = 0;
+            if (ShouldConsumeAll(fullCost, blinkCost))
+                return ConsumeAll();
 
-            // Repel/Drain: consume TODOS los turnos
-            // Convención: señálalo pasando fullCost = -1 y blinkCost = -1
-            if (fullCost < 0 && blinkCost < 0)
-            {
-                usedFull  = Full;
-                usedBlink = Blink;
-                Full  = 0;
-                Blink = 0;
-                return (usedFull, usedBlink, gainedBlink);
-            }
+            int fullUsedTotal   = 0;
+            int blinkUsedTotal  = 0;
+            int blinkGainedTotal = 0;
+            
+            var (fu1, bu1, bg1) = PayBlinkCost(blinkCost, blinkGain);
+            fullUsedTotal   += fu1;
+            blinkUsedTotal  += bu1;
+            blinkGainedTotal += bg1;
+            
+            var (fu2, bu2, bg2) = PayFullCost(fullCost, blinkGain);
+            fullUsedTotal   += fu2;
+            blinkUsedTotal  += bu2;
+            blinkGainedTotal += bg2;
 
-            // Casos que prefieren BLINK (Null/Miss/Neutral/Resist y Pass/Summon)
-            if (blinkCost > 0)
-            {
-                int fromBlink = Math.Min(Blink, blinkCost);
-                Blink    -= fromBlink;
-                usedBlink += fromBlink;
+            return (fullUsedTotal, blinkUsedTotal, blinkGainedTotal);
+        }
+        
 
-                int remainder = blinkCost - fromBlink;
-                if (remainder > 0)
-                {
-                    int fromFull = Math.Min(Full, remainder);
-                    Full    -= fromFull;
-                    usedFull += fromFull;
+        private static bool ShouldConsumeAll(int fullCost, int blinkCost) =>
+            fullCost < 0 && blinkCost < 0;
 
-                    // Sólo si caímos a Full otorgamos blinkGain (para Pass/Summon)
-                    if (fromFull > 0 && blinkGain > 0)
-                    {
-                        Blink       += blinkGain;
-                        gainedBlink += blinkGain;
-                    }
-                }
-            }
+        private (int fullUsed, int blinkUsed, int blinkGained) ConsumeAll()
+        {
+            int fullUsed  = Full;
+            int blinkUsed = Blink;
+            Full  = 0;
+            Blink = 0;
+            return (fullUsed, blinkUsed, 0);
+        }
+        private (int fullUsed, int blinkUsed, int blinkGained)
+            PayBlinkCost(int blinkCost, int blinkGain)
+        {
+            if (blinkCost <= 0) return (0, 0, 0);
 
-            // Casos que prefieren FULL (Weak)
-            if (fullCost > 0)
-            {
-                int payWithFull = Math.Min(Full, fullCost);
-                Full    -= payWithFull;
-                usedFull += payWithFull;
+            int blinkUsed = SpendBlink(blinkCost);
+            int remainder = blinkCost - blinkUsed;
+            if (remainder <= 0) return (0, blinkUsed, 0);
 
-                if (payWithFull == fullCost)
-                {
-                    // Se pagó todo con Full -> gana Blink (Weak)
-                    if (blinkGain > 0)
-                    {
-                        Blink       += blinkGain;
-                        gainedBlink += blinkGain;
-                    }
-                }
-                else
-                {
-                    // No alcanzó Full -> paga el resto con Blink (sin premio)
-                    int remainder = fullCost - payWithFull;
-                    int fromBlink = Math.Min(Blink, remainder);
-                    Blink    -= fromBlink;
-                    usedBlink += fromBlink;
-                }
-            }
+            int fullUsed = SpendFull(remainder);
+            int blinkGained = (fullUsed > 0 && blinkGain > 0) ? GainBlink(blinkGain) : 0;
 
-            return (usedFull, usedBlink, gainedBlink);
+            return (fullUsed, blinkUsed, blinkGained);
         }
 
+        private (int fullUsed, int blinkUsed, int blinkGained)
+            PayFullCost(int fullCost, int blinkGain)
+        {
+            if (fullCost <= 0) return (0, 0, 0);
+
+            int fullUsed = SpendFull(fullCost);
+            int blinkGained = 0;
+
+            if (fullUsed == fullCost)
+            {
+                blinkGained = (blinkGain > 0) ? GainBlink(blinkGain) : 0;
+                return (fullUsed, 0, blinkGained);
+            }
+
+            int remainder = fullCost - fullUsed;
+            int blinkUsed = SpendBlink(remainder);
+            return (fullUsed, blinkUsed, blinkGained);
+        }
+        
+        private int SpendBlink(int amount)
+        {
+            if (amount <= 0 || Blink <= 0) return 0;
+            int used = Math.Min(Blink, amount);
+            Blink -= used;
+            return used;
+        }
+        
+        private int SpendFull(int amount)
+        {
+            if (amount <= 0 || Full <= 0) return 0;
+            int used = Math.Min(Full, amount);
+            Full -= used;
+            return used;
+        }
+        
+        private int GainBlink(int amount)
+        {
+            if (amount <= 0) return 0;
+            Blink += amount;
+            return amount;
+        }
     }
 }
