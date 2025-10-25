@@ -2,9 +2,6 @@
 
 namespace Shin_Megami_Tensei.Turns
 {
-    /// <summary>
-    /// Contiene y actualiza los contadores de turno: Full y Blink.
-    /// </summary>
     internal struct RoundCounters
     {
         public int Full  { get; private set; }

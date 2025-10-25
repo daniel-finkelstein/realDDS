@@ -7,7 +7,7 @@ using Shin_Megami_Tensei.Combat;
 
 namespace Shin_Megami_Tensei;
 
-internal static class Menus
+public static class Menus
 {
     public static void ShowActionMenu(View view, Unit actor)
     {
@@ -56,11 +56,16 @@ internal static class Menus
     public static void PrintBenchOptions(View view, List<Unit> bench) =>
         PrintUnitOptionsWithCancel(view, bench);
 
-    public static Skill? SelectSkill(View view, Unit actor, IList<Skill> usable)
+// En Menus.cs (misma clase/namespace), reemplaza TODO el método por este:
+
+    public static global::Shin_Megami_Tensei_Models.Skill? SelectSkill(
+        View view,
+        global::Shin_Megami_Tensei_Models.Unit actor,
+        System.Collections.Generic.IList<global::Shin_Megami_Tensei_Models.Skill> usable)
     {
         view.WriteLine("Seleccione una habilidad para que " + actor.Name + " use");
 
-        if (usable is null || usable.Count == 0)
+        if (usable == null || usable.Count == 0)
         {
             view.WriteLine("1-Cancelar");
             ReadIndexAllowCancel(view, 1);
@@ -74,6 +79,7 @@ internal static class Menus
         int picked = ReadIndexAllowCancel(view, usable.Count + 1);
         return (picked == usable.Count + 1) ? null : usable[picked - 1];
     }
+
 
     public static Unit? SelectAllyTarget(View view, string actorName, Team team)
     {

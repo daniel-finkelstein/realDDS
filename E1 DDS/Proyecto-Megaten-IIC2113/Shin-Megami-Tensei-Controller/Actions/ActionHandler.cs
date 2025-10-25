@@ -74,7 +74,7 @@ internal static class ActionHandler
         {
             ActionSelection.Surrender => new SurrenderAction(),
             ActionSelection.Pass      => new PassAction(),
-            ActionSelection.UseSkill  => new Skillhandler(),
+            ActionSelection.UseSkill  => new SkillRouter(),
             ActionSelection.Summon    => new SummonAction(actorIsSamurai: true),
             ActionSelection.Shoot     => new AttackAction(AttackAction.AttackMode.Ranged),
             ActionSelection.Attack    => new AttackAction(AttackAction.AttackMode.Melee),
@@ -88,7 +88,7 @@ internal static class ActionHandler
         return selection switch
         {
             ActionSelection.Pass      => new PassAction(),
-            ActionSelection.UseSkill  => new Skillhandler(),
+            ActionSelection.UseSkill  => new SkillRouter(),
             ActionSelection.Summon    => new SummonAction(actorIsSamurai: false),
             ActionSelection.Shoot     => new AttackAction(AttackAction.AttackMode.Ranged),
             ActionSelection.Attack    => new AttackAction(AttackAction.AttackMode.Melee),
